@@ -1,0 +1,3286 @@
+country,region,date,new_cases,total_cases,new_deaths,total_deaths
+Bangladesh,South-East Asia,2021-01-01,990.0,514500,17.0,7576
+Bangladesh,South-East Asia,2021-01-02,684.0,515184,23.0,7599
+Bangladesh,South-East Asia,2021-01-03,835.0,516019,27.0,7626
+Bangladesh,South-East Asia,2021-01-04,910.0,516929,24.0,7650
+Bangladesh,South-East Asia,2021-01-05,991.0,517920,20.0,7670
+Bangladesh,South-East Asia,2021-01-06,978.0,518898,17.0,7687
+Bangladesh,South-East Asia,2021-01-07,1007.0,519905,31.0,7718
+Bangladesh,South-East Asia,2021-01-08,785.0,520690,16.0,7734
+Bangladesh,South-East Asia,2021-01-09,692.0,521382,22.0,7756
+Bangladesh,South-East Asia,2021-01-10,1071.0,522453,25.0,7781
+Bangladesh,South-East Asia,2021-01-11,849.0,523302,22.0,7803
+Bangladesh,South-East Asia,2021-01-12,718.0,524020,16.0,7819
+Bangladesh,South-East Asia,2021-01-13,890.0,524910,14.0,7833
+Bangladesh,South-East Asia,2021-01-14,813.0,525723,16.0,7849
+Bangladesh,South-East Asia,2021-01-15,762.0,526485,13.0,7862
+Bangladesh,South-East Asia,2021-01-16,578.0,527063,21.0,7883
+Bangladesh,South-East Asia,2021-01-17,569.0,527632,23.0,7906
+Bangladesh,South-East Asia,2021-01-18,697.0,528329,16.0,7922
+Bangladesh,South-East Asia,2021-01-19,702.0,529031,20.0,7942
+Bangladesh,South-East Asia,2021-01-20,656.0,529687,8.0,7950
+Bangladesh,South-East Asia,2021-01-21,584.0,530271,16.0,7966
+Bangladesh,South-East Asia,2021-01-22,619.0,530890,15.0,7981
+Bangladesh,South-East Asia,2021-01-23,436.0,531326,22.0,8003
+Bangladesh,South-East Asia,2021-01-24,473.0,531799,20.0,8023
+Bangladesh,South-East Asia,2021-01-25,602.0,532401,18.0,8041
+Bangladesh,South-East Asia,2021-01-26,515.0,532916,14.0,8055
+Bangladesh,South-East Asia,2021-01-27,528.0,533444,17.0,8072
+Bangladesh,South-East Asia,2021-01-28,509.0,533953,15.0,8087
+Bangladesh,South-East Asia,2021-01-29,454.0,534407,7.0,8094
+Bangladesh,South-East Asia,2021-01-30,363.0,534770,17.0,8111
+Bangladesh,South-East Asia,2021-01-31,369.0,535139,16.0,8127
+Bangladesh,South-East Asia,2021-02-01,443.0,535582,10.0,8137
+Bangladesh,South-East Asia,2021-02-02,525.0,536107,12.0,8149
+Bangladesh,South-East Asia,2021-02-03,438.0,536545,13.0,8162
+Bangladesh,South-East Asia,2021-02-04,485.0,537030,13.0,8175
+Bangladesh,South-East Asia,2021-02-05,435.0,537465,7.0,8182
+Bangladesh,South-East Asia,2021-02-06,305.0,537770,8.0,8190
+Bangladesh,South-East Asia,2021-02-07,292.0,538062,15.0,8205
+Bangladesh,South-East Asia,2021-02-08,316.0,538378,16.0,8221
+Bangladesh,South-East Asia,2021-02-09,387.0,538765,8.0,8229
+Bangladesh,South-East Asia,2021-02-10,388.0,539153,10.0,8239
+Bangladesh,South-East Asia,2021-02-11,418.0,539571,9.0,8248
+Bangladesh,South-East Asia,2021-02-12,404.0,539975,5.0,8253
+Bangladesh,South-East Asia,2021-02-13,291.0,540266,13.0,8266
+Bangladesh,South-East Asia,2021-02-14,326.0,540592,8.0,8274
+Bangladesh,South-East Asia,2021-02-15,446.0,541038,11.0,8285
+Bangladesh,South-East Asia,2021-02-16,396.0,541434,13.0,8298
+Bangladesh,South-East Asia,2021-02-17,443.0,541877,16.0,8314
+Bangladesh,South-East Asia,2021-02-18,391.0,542268,15.0,8329
+Bangladesh,South-East Asia,2021-02-19,406.0,542674,8.0,8337
+Bangladesh,South-East Asia,2021-02-20,350.0,543024,5.0,8342
+Bangladesh,South-East Asia,2021-02-21,327.0,543351,7.0,8349
+Bangladesh,South-East Asia,2021-02-22,366.0,543717,7.0,8356
+Bangladesh,South-East Asia,2021-02-23,399.0,544116,18.0,8374
+Bangladesh,South-East Asia,2021-02-24,428.0,544544,5.0,8379
+Bangladesh,South-East Asia,2021-02-25,410.0,544954,5.0,8384
+Bangladesh,South-East Asia,2021-02-26,470.0,545424,11.0,8395
+Bangladesh,South-East Asia,2021-02-27,407.0,545831,5.0,8400
+Bangladesh,South-East Asia,2021-02-28,385.0,546216,8.0,8408
+Bangladesh,South-East Asia,2021-03-01,585.0,546801,8.0,8416
+Bangladesh,South-East Asia,2021-03-02,515.0,547316,7.0,8423
+Bangladesh,South-East Asia,2021-03-03,614.0,547930,5.0,8428
+Bangladesh,South-East Asia,2021-03-04,619.0,548549,7.0,8435
+Bangladesh,South-East Asia,2021-03-05,635.0,549184,6.0,8441
+Bangladesh,South-East Asia,2021-03-06,540.0,549724,10.0,8451
+Bangladesh,South-East Asia,2021-03-07,606.0,550330,11.0,8462
+Bangladesh,South-East Asia,2021-03-08,845.0,551175,14.0,8476
+Bangladesh,South-East Asia,2021-03-09,912.0,552087,13.0,8489
+Bangladesh,South-East Asia,2021-03-10,1018.0,553105,7.0,8496
+Bangladesh,South-East Asia,2021-03-11,1051.0,554156,6.0,8502
+Bangladesh,South-East Asia,2021-03-12,1066.0,555222,13.0,8515
+Bangladesh,South-East Asia,2021-03-13,1014.0,556236,12.0,8527
+Bangladesh,South-East Asia,2021-03-14,1159.0,557395,18.0,8545
+Bangladesh,South-East Asia,2021-03-15,1773.0,559168,26.0,8571
+Bangladesh,South-East Asia,2021-03-16,1719.0,560887,26.0,8597
+Bangladesh,South-East Asia,2021-03-17,1865.0,562752,11.0,8608
+Bangladesh,South-East Asia,2021-03-18,2187.0,564939,16.0,8624
+Bangladesh,South-East Asia,2021-03-19,1899.0,566838,18.0,8642
+Bangladesh,South-East Asia,2021-03-20,1868.0,568706,26.0,8668
+Bangladesh,South-East Asia,2021-03-21,2172.0,570878,22.0,8690
+Bangladesh,South-East Asia,2021-03-22,2809.0,573687,30.0,8720
+Bangladesh,South-East Asia,2021-03-23,3554.0,577241,18.0,8738
+Bangladesh,South-East Asia,2021-03-24,3567.0,580808,25.0,8763
+Bangladesh,South-East Asia,2021-03-25,3587.0,584395,34.0,8797
+Bangladesh,South-East Asia,2021-03-26,3737.0,588132,33.0,8830
+Bangladesh,South-East Asia,2021-03-27,3674.0,591806,39.0,8869
+Bangladesh,South-East Asia,2021-03-28,3908.0,595714,35.0,8904
+Bangladesh,South-East Asia,2021-03-29,5181.0,600895,45.0,8949
+Bangladesh,South-East Asia,2021-03-30,5042.0,605937,45.0,8994
+Bangladesh,South-East Asia,2021-03-31,5358.0,611295,52.0,9046
+Bangladesh,South-East Asia,2021-04-01,6469.0,617764,59.0,9105
+Bangladesh,South-East Asia,2021-04-02,6830.0,624594,50.0,9155
+Bangladesh,South-East Asia,2021-04-03,5683.0,630277,58.0,9213
+Bangladesh,South-East Asia,2021-04-04,7087.0,637364,53.0,9266
+Bangladesh,South-East Asia,2021-04-05,7075.0,644439,52.0,9318
+Bangladesh,South-East Asia,2021-04-06,7213.0,651652,66.0,9384
+Bangladesh,South-East Asia,2021-04-07,7626.0,659278,63.0,9447
+Bangladesh,South-East Asia,2021-04-08,6854.0,666132,74.0,9521
+Bangladesh,South-East Asia,2021-04-09,7462.0,673594,63.0,9584
+Bangladesh,South-East Asia,2021-04-10,5343.0,678937,77.0,9661
+Bangladesh,South-East Asia,2021-04-11,5819.0,684756,78.0,9739
+Bangladesh,South-East Asia,2021-04-12,7201.0,691957,83.0,9822
+Bangladesh,South-East Asia,2021-04-13,6028.0,697985,69.0,9891
+Bangladesh,South-East Asia,2021-04-14,5185.0,703170,96.0,9987
+Bangladesh,South-East Asia,2021-04-15,4192.0,707362,94.0,10081
+Bangladesh,South-East Asia,2021-04-16,4417.0,711779,101.0,10182
+Bangladesh,South-East Asia,2021-04-17,3473.0,715252,101.0,10283
+Bangladesh,South-East Asia,2021-04-18,3698.0,718950,102.0,10385
+Bangladesh,South-East Asia,2021-04-19,4271.0,723221,112.0,10497
+Bangladesh,South-East Asia,2021-04-20,4559.0,727780,91.0,10588
+Bangladesh,South-East Asia,2021-04-21,4280.0,732060,95.0,10683
+Bangladesh,South-East Asia,2021-04-22,4014.0,736074,98.0,10781
+Bangladesh,South-East Asia,2021-04-23,3629.0,739703,88.0,10869
+Bangladesh,South-East Asia,2021-04-24,2697.0,742400,83.0,10952
+Bangladesh,South-East Asia,2021-04-25,2922.0,745322,101.0,11053
+Bangladesh,South-East Asia,2021-04-26,3306.0,748628,97.0,11150
+Bangladesh,South-East Asia,2021-04-27,3031.0,751659,78.0,11228
+Bangladesh,South-East Asia,2021-04-28,2955.0,754614,77.0,11305
+Bangladesh,South-East Asia,2021-04-29,2341.0,756955,88.0,11393
+Bangladesh,South-East Asia,2021-04-30,2177.0,759132,57.0,11450
+Bangladesh,South-East Asia,2021-05-01,1452.0,760584,60.0,11510
+Bangladesh,South-East Asia,2021-05-02,1359.0,761943,69.0,11579
+Bangladesh,South-East Asia,2021-05-03,1739.0,763682,65.0,11644
+Bangladesh,South-East Asia,2021-05-04,1914.0,765596,61.0,11705
+Bangladesh,South-East Asia,2021-05-05,1742.0,767338,50.0,11755
+Bangladesh,South-East Asia,2021-05-06,1822.0,769160,41.0,11796
+Bangladesh,South-East Asia,2021-05-07,1682.0,770842,37.0,11833
+Bangladesh,South-East Asia,2021-05-08,1285.0,772127,45.0,11878
+Bangladesh,South-East Asia,2021-05-09,1386.0,773513,56.0,11934
+Bangladesh,South-East Asia,2021-05-10,1514.0,775027,38.0,11972
+Bangladesh,South-East Asia,2021-05-11,1230.0,776257,33.0,12005
+Bangladesh,South-East Asia,2021-05-12,1140.0,777397,40.0,12045
+Bangladesh,South-East Asia,2021-05-13,1290.0,778687,31.0,12076
+Bangladesh,South-East Asia,2021-05-14,848.0,779535,26.0,12102
+Bangladesh,South-East Asia,2021-05-15,261.0,779796,22.0,12124
+Bangladesh,South-East Asia,2021-05-16,363.0,780159,25.0,12149
+Bangladesh,South-East Asia,2021-05-17,698.0,780857,32.0,12181
+Bangladesh,South-East Asia,2021-05-18,1272.0,782129,30.0,12211
+Bangladesh,South-East Asia,2021-05-19,1608.0,783737,37.0,12248
+Bangladesh,South-East Asia,2021-05-20,1457.0,785194,36.0,12284
+Bangladesh,South-East Asia,2021-05-21,1504.0,786698,26.0,12310
+Bangladesh,South-East Asia,2021-05-22,1028.0,787726,38.0,12348
+Bangladesh,South-East Asia,2021-05-23,1354.0,789080,28.0,12376
+Bangladesh,South-East Asia,2021-05-24,1441.0,790521,25.0,12401
+Bangladesh,South-East Asia,2021-05-25,1675.0,792196,40.0,12441
+Bangladesh,South-East Asia,2021-05-26,1497.0,793693,17.0,12458
+Bangladesh,South-East Asia,2021-05-27,1292.0,794985,22.0,12480
+Bangladesh,South-East Asia,2021-05-28,1358.0,796343,31.0,12511
+Bangladesh,South-East Asia,2021-05-29,1043.0,797386,38.0,12549
+Bangladesh,South-East Asia,2021-05-30,1444.0,798830,34.0,12583
+Bangladesh,South-East Asia,2021-05-31,1710.0,800540,36.0,12619
+Bangladesh,South-East Asia,2021-06-01,1765.0,802305,41.0,12660
+Bangladesh,South-East Asia,2021-06-02,1988.0,804293,34.0,12694
+Bangladesh,South-East Asia,2021-06-03,1687.0,805980,30.0,12724
+Bangladesh,South-East Asia,2021-06-04,1887.0,807867,34.0,12758
+Bangladesh,South-East Asia,2021-06-05,1447.0,809314,43.0,12801
+Bangladesh,South-East Asia,2021-06-06,1676.0,810990,38.0,12839
+Bangladesh,South-East Asia,2021-06-07,1970.0,812960,30.0,12869
+Bangladesh,South-East Asia,2021-06-08,2322.0,815282,44.0,12913
+Bangladesh,South-East Asia,2021-06-09,2537.0,817819,36.0,12949
+Bangladesh,South-East Asia,2021-06-10,2576.0,820395,40.0,12989
+Bangladesh,South-East Asia,2021-06-11,2454.0,822849,43.0,13032
+Bangladesh,South-East Asia,2021-06-12,1637.0,824486,39.0,13071
+Bangladesh,South-East Asia,2021-06-13,2436.0,826922,47.0,13118
+Bangladesh,South-East Asia,2021-06-14,3050.0,829972,54.0,13172
+Bangladesh,South-East Asia,2021-06-15,3319.0,833291,50.0,13222
+Bangladesh,South-East Asia,2021-06-16,3956.0,837247,60.0,13282
+Bangladesh,South-East Asia,2021-06-17,3840.0,841087,63.0,13345
+Bangladesh,South-East Asia,2021-06-18,3883.0,844970,54.0,13399
+Bangladesh,South-East Asia,2021-06-19,3057.0,848027,67.0,13466
+Bangladesh,South-East Asia,2021-06-20,3641.0,851668,82.0,13548
+Bangladesh,South-East Asia,2021-06-21,4636.0,856304,78.0,13626
+Bangladesh,South-East Asia,2021-06-22,4846.0,861150,76.0,13702
+Bangladesh,South-East Asia,2021-06-23,5727.0,866877,85.0,13787
+Bangladesh,South-East Asia,2021-06-24,6058.0,872935,81.0,13868
+Bangladesh,South-East Asia,2021-06-25,5869.0,878804,108.0,13976
+Bangladesh,South-East Asia,2021-06-26,4334.0,883138,77.0,14053
+Bangladesh,South-East Asia,2021-06-27,5268.0,888406,119.0,14172
+Bangladesh,South-East Asia,2021-06-28,8364.0,896770,104.0,14276
+Bangladesh,South-East Asia,2021-06-29,7666.0,904436,112.0,14388
+Bangladesh,South-East Asia,2021-06-30,8822.0,913258,115.0,14503
+Bangladesh,South-East Asia,2021-07-01,8301.0,921559,143.0,14646
+Bangladesh,South-East Asia,2021-07-02,8483.0,930042,132.0,14778
+Bangladesh,South-East Asia,2021-07-03,6214.0,936256,134.0,14912
+Bangladesh,South-East Asia,2021-07-04,8661.0,944917,153.0,15065
+Bangladesh,South-East Asia,2021-07-05,9964.0,954881,164.0,15229
+Bangladesh,South-East Asia,2021-07-06,11525.0,966406,163.0,15392
+Bangladesh,South-East Asia,2021-07-07,11162.0,977568,201.0,15593
+Bangladesh,South-East Asia,2021-07-08,11651.0,989219,199.0,15792
+Bangladesh,South-East Asia,2021-07-09,11324.0,1000543,212.0,16004
+Bangladesh,South-East Asia,2021-07-10,8772.0,1009315,185.0,16189
+Bangladesh,South-East Asia,2021-07-11,11874.0,1021189,230.0,16419
+Bangladesh,South-East Asia,2021-07-12,13768.0,1034957,220.0,16639
+Bangladesh,South-East Asia,2021-07-13,12198.0,1047155,203.0,16842
+Bangladesh,South-East Asia,2021-07-14,12383.0,1059538,210.0,17052
+Bangladesh,South-East Asia,2021-07-15,12236.0,1071774,226.0,17278
+Bangladesh,South-East Asia,2021-07-16,12148.0,1083922,187.0,17465
+Bangladesh,South-East Asia,2021-07-17,8489.0,1092411,204.0,17669
+Bangladesh,South-East Asia,2021-07-18,11578.0,1103989,225.0,17894
+Bangladesh,South-East Asia,2021-07-19,13321.0,1117310,231.0,18125
+Bangladesh,South-East Asia,2021-07-20,11579.0,1128889,200.0,18325
+Bangladesh,South-East Asia,2021-07-21,7614.0,1136503,173.0,18498
+Bangladesh,South-East Asia,2021-07-22,3697.0,1140200,187.0,18685
+Bangladesh,South-East Asia,2021-07-23,6364.0,1146564,166.0,18851
+Bangladesh,South-East Asia,2021-07-24,6780.0,1153344,195.0,19046
+Bangladesh,South-East Asia,2021-07-25,11291.0,1164635,228.0,19274
+Bangladesh,South-East Asia,2021-07-26,15192.0,1179827,247.0,19521
+Bangladesh,South-East Asia,2021-07-27,14925.0,1194752,258.0,19779
+Bangladesh,South-East Asia,2021-07-28,16230.0,1210982,237.0,20016
+Bangladesh,South-East Asia,2021-07-29,15271.0,1226253,239.0,20255
+Bangladesh,South-East Asia,2021-07-30,13862.0,1240115,212.0,20467
+Bangladesh,South-East Asia,2021-07-31,9369.0,1249484,218.0,20685
+Bangladesh,South-East Asia,2021-08-01,14844.0,1264328,231.0,20916
+Bangladesh,South-East Asia,2021-08-02,15989.0,1280317,246.0,21162
+Bangladesh,South-East Asia,2021-08-03,15776.0,1296093,235.0,21397
+Bangladesh,South-East Asia,2021-08-04,13817.0,1309910,241.0,21638
+Bangladesh,South-East Asia,2021-08-05,12744.0,1322654,264.0,21902
+Bangladesh,South-East Asia,2021-08-06,12606.0,1335260,248.0,22150
+Bangladesh,South-East Asia,2021-08-07,8136.0,1343396,261.0,22411
+Bangladesh,South-East Asia,2021-08-08,10299.0,1353695,241.0,22652
+Bangladesh,South-East Asia,2021-08-09,11463.0,1365158,245.0,22897
+Bangladesh,South-East Asia,2021-08-10,11164.0,1376322,264.0,23161
+Bangladesh,South-East Asia,2021-08-11,10420.0,1386742,237.0,23398
+Bangladesh,South-East Asia,2021-08-12,10126.0,1396868,215.0,23613
+Bangladesh,South-East Asia,2021-08-13,8465.0,1405333,197.0,23810
+Bangladesh,South-East Asia,2021-08-14,6885.0,1412218,178.0,23988
+Bangladesh,South-East Asia,2021-08-15,6684.0,1418902,187.0,24175
+Bangladesh,South-East Asia,2021-08-16,6959.0,1425861,174.0,24349
+Bangladesh,South-East Asia,2021-08-17,7535.0,1433396,198.0,24547
+Bangladesh,South-East Asia,2021-08-18,7248.0,1440644,172.0,24719
+Bangladesh,South-East Asia,2021-08-19,6566.0,1447210,159.0,24878
+Bangladesh,South-East Asia,2021-08-20,5993.0,1453203,145.0,25023
+Bangladesh,South-East Asia,2021-08-21,3991.0,1457194,120.0,25143
+Bangladesh,South-East Asia,2021-08-22,4804.0,1461998,139.0,25282
+Bangladesh,South-East Asia,2021-08-23,5717.0,1467715,117.0,25399
+Bangladesh,South-East Asia,2021-08-24,5249.0,1472964,114.0,25513
+Bangladesh,South-East Asia,2021-08-25,4966.0,1477930,114.0,25627
+Bangladesh,South-East Asia,2021-08-26,4698.0,1482628,102.0,25729
+Bangladesh,South-East Asia,2021-08-27,3525.0,1486153,117.0,25846
+Bangladesh,South-East Asia,2021-08-28,3436.0,1489589,80.0,25926
+Bangladesh,South-East Asia,2021-08-29,3948.0,1493537,89.0,26015
+Bangladesh,South-East Asia,2021-08-30,3724.0,1497261,94.0,26109
+Bangladesh,South-East Asia,2021-08-31,3357.0,1500618,86.0,26195
+Bangladesh,South-East Asia,2021-09-01,3062.0,1503680,79.0,26274
+Bangladesh,South-East Asia,2021-09-02,3436.0,1507116,88.0,26362
+Bangladesh,South-East Asia,2021-09-03,3167.0,1510283,70.0,26432
+Bangladesh,South-East Asia,2021-09-04,1743.0,1512026,61.0,26493
+Bangladesh,South-East Asia,2021-09-05,2430.0,1514456,70.0,26563
+Bangladesh,South-East Asia,2021-09-06,2710.0,1517166,65.0,26628
+Bangladesh,South-East Asia,2021-09-07,2639.0,1519805,56.0,26684
+Bangladesh,South-East Asia,2021-09-08,2497.0,1522302,52.0,26736
+Bangladesh,South-East Asia,2021-09-09,2588.0,1524890,58.0,26794
+Bangladesh,South-East Asia,2021-09-10,2325.0,1527215,38.0,26832
+Bangladesh,South-East Asia,2021-09-11,1327.0,1528542,48.0,26880
+Bangladesh,South-East Asia,2021-09-12,1871.0,1530413,51.0,26931
+Bangladesh,South-East Asia,2021-09-13,1953.0,1532366,41.0,26972
+Bangladesh,South-East Asia,2021-09-14,2074.0,1534440,35.0,27007
+Bangladesh,South-East Asia,2021-09-15,1901.0,1536341,51.0,27058
+Bangladesh,South-East Asia,2021-09-16,1862.0,1538203,51.0,27109
+Bangladesh,South-East Asia,2021-09-17,1907.0,1540110,38.0,27147
+Bangladesh,South-East Asia,2021-09-18,1190.0,1541300,35.0,27182
+Bangladesh,South-East Asia,2021-09-19,1383.0,1542683,43.0,27225
+Bangladesh,South-East Asia,2021-09-20,1555.0,1544238,26.0,27251
+Bangladesh,South-East Asia,2021-09-21,1562.0,1545800,26.0,27277
+Bangladesh,South-East Asia,2021-09-22,1376.0,1547176,36.0,27313
+Bangladesh,South-East Asia,2021-09-23,1144.0,1548320,24.0,27337
+Bangladesh,South-East Asia,2021-09-24,1233.0,1549553,31.0,27368
+Bangladesh,South-East Asia,2021-09-25,818.0,1550371,25.0,27393
+Bangladesh,South-East Asia,2021-09-26,980.0,1551351,21.0,27414
+Bangladesh,South-East Asia,2021-09-27,1212.0,1552563,25.0,27439
+Bangladesh,South-East Asia,2021-09-28,1310.0,1553873,31.0,27470
+Bangladesh,South-East Asia,2021-09-29,1178.0,1555051,17.0,27487
+Bangladesh,South-East Asia,2021-09-30,860.0,1555911,23.0,27510
+Bangladesh,South-East Asia,2021-10-01,847.0,1556758,21.0,27531
+Bangladesh,South-East Asia,2021-10-02,589.0,1557347,24.0,27555
+Bangladesh,South-East Asia,2021-10-03,617.0,1557964,18.0,27573
+Bangladesh,South-East Asia,2021-10-04,794.0,1558758,18.0,27591
+Bangladesh,South-East Asia,2021-10-05,694.0,1559452,23.0,27614
+Bangladesh,South-East Asia,2021-10-06,703.0,1560155,21.0,27635
+Bangladesh,South-East Asia,2021-10-07,663.0,1560818,12.0,27647
+Bangladesh,South-East Asia,2021-10-08,645.0,1561463,7.0,27654
+Bangladesh,South-East Asia,2021-10-09,415.0,1561878,40.0,27694
+Bangladesh,South-East Asia,2021-10-10,481.0,1562359,,27688
+Bangladesh,South-East Asia,2021-10-11,599.0,1562958,11.0,27699
+Bangladesh,South-East Asia,2021-10-12,543.0,1563501,14.0,27713
+Bangladesh,South-East Asia,2021-10-13,518.0,1564019,17.0,27730
+Bangladesh,South-East Asia,2021-10-14,466.0,1564485,7.0,27737
+Bangladesh,South-East Asia,2021-10-15,396.0,1564881,9.0,27746
+Bangladesh,South-East Asia,2021-10-16,293.0,1565174,6.0,27752
+Bangladesh,South-East Asia,2021-10-17,314.0,1565488,16.0,27768
+Bangladesh,South-East Asia,2021-10-18,339.0,1565827,10.0,27778
+Bangladesh,South-East Asia,2021-10-19,469.0,1566296,7.0,27785
+Bangladesh,South-East Asia,2021-10-20,368.0,1566664,6.0,27791
+Bangladesh,South-East Asia,2021-10-21,243.0,1566907,10.0,27801
+Bangladesh,South-East Asia,2021-10-22,232.0,1567139,4.0,27805
+Bangladesh,South-East Asia,2021-10-23,278.0,1567417,9.0,27814
+Bangladesh,South-East Asia,2021-10-24,275.0,1567692,9.0,27823
+Bangladesh,South-East Asia,2021-10-25,289.0,1567981,5.0,27828
+Bangladesh,South-East Asia,2021-10-26,276.0,1568257,6.0,27834
+Bangladesh,South-East Asia,2021-10-27,306.0,1568563,7.0,27841
+Bangladesh,South-East Asia,2021-10-28,294.0,1568857,6.0,27847
+Bangladesh,South-East Asia,2021-10-29,305.0,1569162,7.0,27854
+Bangladesh,South-East Asia,2021-10-30,166.0,1569328,8.0,27862
+Bangladesh,South-East Asia,2021-10-31,211.0,1569539,6.0,27868
+Bangladesh,South-East Asia,2021-11-01,214.0,1569753,2.0,27870
+Bangladesh,South-East Asia,2021-11-02,229.0,1569982,3.0,27873
+Bangladesh,South-East Asia,2021-11-03,256.0,1570238,7.0,27880
+Bangladesh,South-East Asia,2021-11-04,247.0,1570485,7.0,27887
+Bangladesh,South-East Asia,2021-11-05,0.0,1570485,0.0,27887
+Bangladesh,South-East Asia,2021-11-06,350.0,1570835,4.0,27891
+Bangladesh,South-East Asia,2021-11-07,178.0,1571013,4.0,27895
+Bangladesh,South-East Asia,2021-11-08,215.0,1571228,6.0,27901
+Bangladesh,South-East Asia,2021-11-09,206.0,1571434,3.0,27904
+Bangladesh,South-East Asia,2021-11-10,235.0,1571669,2.0,27906
+Bangladesh,South-East Asia,2021-11-11,237.0,1571906,1.0,27907
+Bangladesh,South-East Asia,2021-11-12,221.0,1572127,5.0,27912
+Bangladesh,South-East Asia,2021-11-13,151.0,1572278,6.0,27918
+Bangladesh,South-East Asia,2021-11-14,223.0,1572501,4.0,27922
+Bangladesh,South-East Asia,2021-11-15,234.0,1572735,4.0,27926
+Bangladesh,South-East Asia,2021-11-16,213.0,1572948,2.0,27928
+Bangladesh,South-East Asia,2021-11-17,266.0,1573214,6.0,27934
+Bangladesh,South-East Asia,2021-11-18,253.0,1573467,7.0,27941
+Bangladesh,South-East Asia,2021-11-19,244.0,1573711,5.0,27946
+Bangladesh,South-East Asia,2021-11-20,178.0,1573889,0.0,27946
+Bangladesh,South-East Asia,2021-11-21,199.0,1574088,7.0,27953
+Bangladesh,South-East Asia,2021-11-22,264.0,1574352,2.0,27955
+Bangladesh,South-East Asia,2021-11-23,284.0,1574636,3.0,27958
+Bangladesh,South-East Asia,2021-11-24,312.0,1574948,3.0,27961
+Bangladesh,South-East Asia,2021-11-25,237.0,1575185,9.0,27970
+Bangladesh,South-East Asia,2021-11-26,239.0,1575424,3.0,27973
+Bangladesh,South-East Asia,2021-11-27,155.0,1575579,2.0,27975
+Bangladesh,South-East Asia,2021-11-28,205.0,1575784,3.0,27978
+Bangladesh,South-East Asia,2021-11-29,227.0,1576011,2.0,27980
+Bangladesh,South-East Asia,2021-11-30,273.0,1576284,1.0,27981
+Bangladesh,South-East Asia,2021-12-01,282.0,1576566,2.0,27983
+Bangladesh,South-East Asia,2021-12-02,261.0,1576827,3.0,27986
+Bangladesh,South-East Asia,2021-12-03,243.0,1577070,3.0,27989
+Bangladesh,South-East Asia,2021-12-04,176.0,1577246,6.0,27995
+Bangladesh,South-East Asia,2021-12-05,197.0,1577443,6.0,28001
+Bangladesh,South-East Asia,2021-12-06,277.0,1577720,4.0,28005
+Bangladesh,South-East Asia,2021-12-07,291.0,1578011,5.0,28010
+Bangladesh,South-East Asia,2021-12-08,277.0,1578288,6.0,28016
+Bangladesh,South-East Asia,2021-12-09,262.0,1578550,0.0,28016
+Bangladesh,South-East Asia,2021-12-10,269.0,1578819,1.0,28017
+Bangladesh,South-East Asia,2021-12-11,177.0,1578996,5.0,28022
+Bangladesh,South-East Asia,2021-12-12,329.0,1579325,6.0,28028
+Bangladesh,South-East Asia,2021-12-13,385.0,1579710,3.0,28031
+Bangladesh,South-East Asia,2021-12-14,295.0,1580005,3.0,28034
+Bangladesh,South-East Asia,2021-12-15,297.0,1580302,4.0,28038
+Bangladesh,South-East Asia,2021-12-16,257.0,1580559,3.0,28041
+Bangladesh,South-East Asia,2021-12-17,191.0,1580750,2.0,28043
+Bangladesh,South-East Asia,2021-12-18,122.0,1580872,4.0,28047
+Bangladesh,South-East Asia,2021-12-19,211.0,1581083,1.0,28048
+Bangladesh,South-East Asia,2021-12-20,260.0,1581343,2.0,28050
+Bangladesh,South-East Asia,2021-12-21,291.0,1581634,1.0,28051
+Bangladesh,South-East Asia,2021-12-22,352.0,1581986,1.0,28052
+Bangladesh,South-East Asia,2021-12-23,382.0,1582368,2.0,28054
+Bangladesh,South-East Asia,2021-12-24,342.0,1582710,1.0,28055
+Bangladesh,South-East Asia,2021-12-25,275.0,1582985,1.0,28056
+Bangladesh,South-East Asia,2021-12-26,268.0,1583253,4.0,28060
+Bangladesh,South-East Asia,2021-12-27,373.0,1583626,1.0,28061
+Bangladesh,South-East Asia,2021-12-28,397.0,1584023,1.0,28062
+Bangladesh,South-East Asia,2021-12-29,495.0,1584518,1.0,28063
+Bangladesh,South-East Asia,2021-12-30,509.0,1585027,7.0,28070
+Bangladesh,South-East Asia,2021-12-31,512.0,1585539,2.0,28072
+Bhutan,South-East Asia,2021-01-01,19.0,689,0.0,0
+Bhutan,South-East Asia,2021-01-02,21.0,710,0.0,0
+Bhutan,South-East Asia,2021-01-03,6.0,716,0.0,0
+Bhutan,South-East Asia,2021-01-04,18.0,734,0.0,0
+Bhutan,South-East Asia,2021-01-05,0.0,734,0.0,0
+Bhutan,South-East Asia,2021-01-06,21.0,755,0.0,0
+Bhutan,South-East Asia,2021-01-07,12.0,767,0.0,0
+Bhutan,South-East Asia,2021-01-08,4.0,771,1.0,1
+Bhutan,South-East Asia,2021-01-09,39.0,810,0.0,1
+Bhutan,South-East Asia,2021-01-10,3.0,813,0.0,1
+Bhutan,South-East Asia,2021-01-11,12.0,825,0.0,1
+Bhutan,South-East Asia,2021-01-12,6.0,831,0.0,1
+Bhutan,South-East Asia,2021-01-13,2.0,833,0.0,1
+Bhutan,South-East Asia,2021-01-14,1.0,834,0.0,1
+Bhutan,South-East Asia,2021-01-15,3.0,837,0.0,1
+Bhutan,South-East Asia,2021-01-16,5.0,842,0.0,1
+Bhutan,South-East Asia,2021-01-17,0.0,842,0.0,1
+Bhutan,South-East Asia,2021-01-18,1.0,843,0.0,1
+Bhutan,South-East Asia,2021-01-19,5.0,848,0.0,1
+Bhutan,South-East Asia,2021-01-20,2.0,850,0.0,1
+Bhutan,South-East Asia,2021-01-21,1.0,851,0.0,1
+Bhutan,South-East Asia,2021-01-22,0.0,851,0.0,1
+Bhutan,South-East Asia,2021-01-23,3.0,854,0.0,1
+Bhutan,South-East Asia,2021-01-24,1.0,855,0.0,1
+Bhutan,South-East Asia,2021-01-25,1.0,856,0.0,1
+Bhutan,South-East Asia,2021-01-26,0.0,856,0.0,1
+Bhutan,South-East Asia,2021-01-27,0.0,856,0.0,1
+Bhutan,South-East Asia,2021-01-28,1.0,857,0.0,1
+Bhutan,South-East Asia,2021-01-29,1.0,858,0.0,1
+Bhutan,South-East Asia,2021-01-30,0.0,858,0.0,1
+Bhutan,South-East Asia,2021-01-31,1.0,859,0.0,1
+Bhutan,South-East Asia,2021-02-01,0.0,859,0.0,1
+Bhutan,South-East Asia,2021-02-02,0.0,859,0.0,1
+Bhutan,South-East Asia,2021-02-03,0.0,859,0.0,1
+Bhutan,South-East Asia,2021-02-04,0.0,859,0.0,1
+Bhutan,South-East Asia,2021-02-05,2.0,861,0.0,1
+Bhutan,South-East Asia,2021-02-06,0.0,861,0.0,1
+Bhutan,South-East Asia,2021-02-07,0.0,861,0.0,1
+Bhutan,South-East Asia,2021-02-08,0.0,861,0.0,1
+Bhutan,South-East Asia,2021-02-09,0.0,861,0.0,1
+Bhutan,South-East Asia,2021-02-10,0.0,861,0.0,1
+Bhutan,South-East Asia,2021-02-11,0.0,861,0.0,1
+Bhutan,South-East Asia,2021-02-12,2.0,863,0.0,1
+Bhutan,South-East Asia,2021-02-13,0.0,863,0.0,1
+Bhutan,South-East Asia,2021-02-14,1.0,864,0.0,1
+Bhutan,South-East Asia,2021-02-15,2.0,866,0.0,1
+Bhutan,South-East Asia,2021-02-16,0.0,866,0.0,1
+Bhutan,South-East Asia,2021-02-17,0.0,866,0.0,1
+Bhutan,South-East Asia,2021-02-18,0.0,866,0.0,1
+Bhutan,South-East Asia,2021-02-19,0.0,866,0.0,1
+Bhutan,South-East Asia,2021-02-20,0.0,866,0.0,1
+Bhutan,South-East Asia,2021-02-21,0.0,866,0.0,1
+Bhutan,South-East Asia,2021-02-22,0.0,866,0.0,1
+Bhutan,South-East Asia,2021-02-23,1.0,867,0.0,1
+Bhutan,South-East Asia,2021-02-24,0.0,867,0.0,1
+Bhutan,South-East Asia,2021-02-25,0.0,867,0.0,1
+Bhutan,South-East Asia,2021-02-26,0.0,867,0.0,1
+Bhutan,South-East Asia,2021-02-27,0.0,867,0.0,1
+Bhutan,South-East Asia,2021-02-28,0.0,867,0.0,1
+Bhutan,South-East Asia,2021-03-01,0.0,867,0.0,1
+Bhutan,South-East Asia,2021-03-02,0.0,867,0.0,1
+Bhutan,South-East Asia,2021-03-03,0.0,867,0.0,1
+Bhutan,South-East Asia,2021-03-04,0.0,867,0.0,1
+Bhutan,South-East Asia,2021-03-05,0.0,867,0.0,1
+Bhutan,South-East Asia,2021-03-06,1.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-07,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-08,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-09,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-10,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-11,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-12,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-13,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-14,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-15,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-16,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-17,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-18,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-19,0.0,868,0.0,1
+Bhutan,South-East Asia,2021-03-20,1.0,869,0.0,1
+Bhutan,South-East Asia,2021-03-21,0.0,869,0.0,1
+Bhutan,South-East Asia,2021-03-22,0.0,869,0.0,1
+Bhutan,South-East Asia,2021-03-23,0.0,869,0.0,1
+Bhutan,South-East Asia,2021-03-24,1.0,870,0.0,1
+Bhutan,South-East Asia,2021-03-25,0.0,870,0.0,1
+Bhutan,South-East Asia,2021-03-26,0.0,870,0.0,1
+Bhutan,South-East Asia,2021-03-27,1.0,871,0.0,1
+Bhutan,South-East Asia,2021-03-28,1.0,872,0.0,1
+Bhutan,South-East Asia,2021-03-29,0.0,872,0.0,1
+Bhutan,South-East Asia,2021-03-30,0.0,872,0.0,1
+Bhutan,South-East Asia,2021-03-31,1.0,873,0.0,1
+Bhutan,South-East Asia,2021-04-01,13.0,886,0.0,1
+Bhutan,South-East Asia,2021-04-02,3.0,889,0.0,1
+Bhutan,South-East Asia,2021-04-03,2.0,891,0.0,1
+Bhutan,South-East Asia,2021-04-04,0.0,891,0.0,1
+Bhutan,South-East Asia,2021-04-05,0.0,891,0.0,1
+Bhutan,South-East Asia,2021-04-06,5.0,896,0.0,1
+Bhutan,South-East Asia,2021-04-07,4.0,900,0.0,1
+Bhutan,South-East Asia,2021-04-08,0.0,900,0.0,1
+Bhutan,South-East Asia,2021-04-09,6.0,906,0.0,1
+Bhutan,South-East Asia,2021-04-10,4.0,910,0.0,1
+Bhutan,South-East Asia,2021-04-11,8.0,918,0.0,1
+Bhutan,South-East Asia,2021-04-12,3.0,921,0.0,1
+Bhutan,South-East Asia,2021-04-13,6.0,927,0.0,1
+Bhutan,South-East Asia,2021-04-14,2.0,929,0.0,1
+Bhutan,South-East Asia,2021-04-15,5.0,934,0.0,1
+Bhutan,South-East Asia,2021-04-16,7.0,941,0.0,1
+Bhutan,South-East Asia,2021-04-17,11.0,952,0.0,1
+Bhutan,South-East Asia,2021-04-18,5.0,957,0.0,1
+Bhutan,South-East Asia,2021-04-19,4.0,961,0.0,1
+Bhutan,South-East Asia,2021-04-20,5.0,966,0.0,1
+Bhutan,South-East Asia,2021-04-21,20.0,986,0.0,1
+Bhutan,South-East Asia,2021-04-22,6.0,992,0.0,1
+Bhutan,South-East Asia,2021-04-23,16.0,1008,0.0,1
+Bhutan,South-East Asia,2021-04-24,10.0,1018,0.0,1
+Bhutan,South-East Asia,2021-04-25,4.0,1022,0.0,1
+Bhutan,South-East Asia,2021-04-26,4.0,1026,0.0,1
+Bhutan,South-East Asia,2021-04-27,27.0,1053,0.0,1
+Bhutan,South-East Asia,2021-04-28,6.0,1059,0.0,1
+Bhutan,South-East Asia,2021-04-29,7.0,1066,0.0,1
+Bhutan,South-East Asia,2021-04-30,8.0,1074,0.0,1
+Bhutan,South-East Asia,2021-05-01,32.0,1106,0.0,1
+Bhutan,South-East Asia,2021-05-02,5.0,1111,0.0,1
+Bhutan,South-East Asia,2021-05-03,8.0,1119,0.0,1
+Bhutan,South-East Asia,2021-05-04,16.0,1135,0.0,1
+Bhutan,South-East Asia,2021-05-05,9.0,1144,0.0,1
+Bhutan,South-East Asia,2021-05-06,17.0,1161,0.0,1
+Bhutan,South-East Asia,2021-05-07,29.0,1190,0.0,1
+Bhutan,South-East Asia,2021-05-08,12.0,1202,0.0,1
+Bhutan,South-East Asia,2021-05-09,19.0,1221,0.0,1
+Bhutan,South-East Asia,2021-05-10,20.0,1241,0.0,1
+Bhutan,South-East Asia,2021-05-11,6.0,1247,0.0,1
+Bhutan,South-East Asia,2021-05-12,10.0,1257,0.0,1
+Bhutan,South-East Asia,2021-05-13,6.0,1263,0.0,1
+Bhutan,South-East Asia,2021-05-14,13.0,1276,0.0,1
+Bhutan,South-East Asia,2021-05-15,3.0,1279,0.0,1
+Bhutan,South-East Asia,2021-05-16,7.0,1286,0.0,1
+Bhutan,South-East Asia,2021-05-17,10.0,1296,0.0,1
+Bhutan,South-East Asia,2021-05-18,13.0,1309,0.0,1
+Bhutan,South-East Asia,2021-05-19,13.0,1322,0.0,1
+Bhutan,South-East Asia,2021-05-20,16.0,1338,0.0,1
+Bhutan,South-East Asia,2021-05-21,36.0,1374,0.0,1
+Bhutan,South-East Asia,2021-05-22,18.0,1392,0.0,1
+Bhutan,South-East Asia,2021-05-23,2.0,1394,0.0,1
+Bhutan,South-East Asia,2021-05-24,17.0,1411,0.0,1
+Bhutan,South-East Asia,2021-05-25,12.0,1423,0.0,1
+Bhutan,South-East Asia,2021-05-26,41.0,1464,0.0,1
+Bhutan,South-East Asia,2021-05-27,27.0,1491,0.0,1
+Bhutan,South-East Asia,2021-05-28,12.0,1503,0.0,1
+Bhutan,South-East Asia,2021-05-29,100.0,1603,0.0,1
+Bhutan,South-East Asia,2021-05-30,9.0,1612,0.0,1
+Bhutan,South-East Asia,2021-05-31,8.0,1620,0.0,1
+Bhutan,South-East Asia,2021-06-01,12.0,1632,0.0,1
+Bhutan,South-East Asia,2021-06-02,7.0,1639,0.0,1
+Bhutan,South-East Asia,2021-06-03,15.0,1654,0.0,1
+Bhutan,South-East Asia,2021-06-04,15.0,1669,0.0,1
+Bhutan,South-East Asia,2021-06-05,13.0,1682,0.0,1
+Bhutan,South-East Asia,2021-06-06,5.0,1687,0.0,1
+Bhutan,South-East Asia,2021-06-07,16.0,1703,0.0,1
+Bhutan,South-East Asia,2021-06-08,21.0,1724,0.0,1
+Bhutan,South-East Asia,2021-06-09,15.0,1739,0.0,1
+Bhutan,South-East Asia,2021-06-10,30.0,1769,0.0,1
+Bhutan,South-East Asia,2021-06-11,20.0,1789,0.0,1
+Bhutan,South-East Asia,2021-06-12,19.0,1808,0.0,1
+Bhutan,South-East Asia,2021-06-13,5.0,1813,0.0,1
+Bhutan,South-East Asia,2021-06-14,13.0,1826,0.0,1
+Bhutan,South-East Asia,2021-06-15,16.0,1842,0.0,1
+Bhutan,South-East Asia,2021-06-16,12.0,1854,0.0,1
+Bhutan,South-East Asia,2021-06-17,28.0,1882,0.0,1
+Bhutan,South-East Asia,2021-06-18,7.0,1889,0.0,1
+Bhutan,South-East Asia,2021-06-19,14.0,1903,0.0,1
+Bhutan,South-East Asia,2021-06-20,21.0,1924,0.0,1
+Bhutan,South-East Asia,2021-06-21,15.0,1939,0.0,1
+Bhutan,South-East Asia,2021-06-22,24.0,1963,0.0,1
+Bhutan,South-East Asia,2021-06-23,7.0,1970,0.0,1
+Bhutan,South-East Asia,2021-06-24,36.0,2006,0.0,1
+Bhutan,South-East Asia,2021-06-25,7.0,2013,0.0,1
+Bhutan,South-East Asia,2021-06-26,14.0,2027,0.0,1
+Bhutan,South-East Asia,2021-06-27,25.0,2052,0.0,1
+Bhutan,South-East Asia,2021-06-28,10.0,2062,0.0,1
+Bhutan,South-East Asia,2021-06-29,14.0,2076,0.0,1
+Bhutan,South-East Asia,2021-06-30,24.0,2100,0.0,1
+Bhutan,South-East Asia,2021-07-01,4.0,2104,0.0,1
+Bhutan,South-East Asia,2021-07-02,18.0,2122,0.0,1
+Bhutan,South-East Asia,2021-07-03,11.0,2133,0.0,1
+Bhutan,South-East Asia,2021-07-04,26.0,2159,0.0,1
+Bhutan,South-East Asia,2021-07-05,10.0,2169,0.0,1
+Bhutan,South-East Asia,2021-07-06,41.0,2210,0.0,1
+Bhutan,South-East Asia,2021-07-07,39.0,2249,0.0,1
+Bhutan,South-East Asia,2021-07-08,3.0,2252,0.0,1
+Bhutan,South-East Asia,2021-07-09,6.0,2258,0.0,1
+Bhutan,South-East Asia,2021-07-10,8.0,2266,0.0,1
+Bhutan,South-East Asia,2021-07-11,9.0,2275,0.0,1
+Bhutan,South-East Asia,2021-07-12,15.0,2290,0.0,1
+Bhutan,South-East Asia,2021-07-13,34.0,2324,0.0,1
+Bhutan,South-East Asia,2021-07-14,46.0,2370,0.0,1
+Bhutan,South-East Asia,2021-07-15,10.0,2380,1.0,2
+Bhutan,South-East Asia,2021-07-16,18.0,2398,0.0,2
+Bhutan,South-East Asia,2021-07-17,13.0,2411,0.0,2
+Bhutan,South-East Asia,2021-07-18,10.0,2421,0.0,2
+Bhutan,South-East Asia,2021-07-19,6.0,2427,0.0,2
+Bhutan,South-East Asia,2021-07-20,28.0,2455,0.0,2
+Bhutan,South-East Asia,2021-07-21,1.0,2456,0.0,2
+Bhutan,South-East Asia,2021-07-22,2.0,2458,0.0,2
+Bhutan,South-East Asia,2021-07-23,12.0,2470,0.0,2
+Bhutan,South-East Asia,2021-07-24,12.0,2482,0.0,2
+Bhutan,South-East Asia,2021-07-25,4.0,2486,0.0,2
+Bhutan,South-East Asia,2021-07-26,3.0,2489,0.0,2
+Bhutan,South-East Asia,2021-07-27,11.0,2500,0.0,2
+Bhutan,South-East Asia,2021-07-28,1.0,2501,0.0,2
+Bhutan,South-East Asia,2021-07-29,5.0,2506,0.0,2
+Bhutan,South-East Asia,2021-07-30,2.0,2508,0.0,2
+Bhutan,South-East Asia,2021-07-31,7.0,2515,0.0,2
+Bhutan,South-East Asia,2021-08-01,3.0,2518,0.0,2
+Bhutan,South-East Asia,2021-08-02,6.0,2524,0.0,2
+Bhutan,South-East Asia,2021-08-03,8.0,2532,0.0,2
+Bhutan,South-East Asia,2021-08-04,8.0,2540,0.0,2
+Bhutan,South-East Asia,2021-08-05,3.0,2543,0.0,2
+Bhutan,South-East Asia,2021-08-06,1.0,2544,0.0,2
+Bhutan,South-East Asia,2021-08-07,0.0,2544,0.0,2
+Bhutan,South-East Asia,2021-08-08,0.0,2544,0.0,2
+Bhutan,South-East Asia,2021-08-09,2.0,2546,0.0,2
+Bhutan,South-East Asia,2021-08-10,4.0,2550,0.0,2
+Bhutan,South-East Asia,2021-08-11,1.0,2551,0.0,2
+Bhutan,South-East Asia,2021-08-12,2.0,2553,0.0,2
+Bhutan,South-East Asia,2021-08-13,13.0,2566,1.0,3
+Bhutan,South-East Asia,2021-08-14,4.0,2570,0.0,3
+Bhutan,South-East Asia,2021-08-15,1.0,2571,0.0,3
+Bhutan,South-East Asia,2021-08-16,6.0,2577,0.0,3
+Bhutan,South-East Asia,2021-08-17,0.0,2577,0.0,3
+Bhutan,South-East Asia,2021-08-18,0.0,2577,0.0,3
+Bhutan,South-East Asia,2021-08-19,3.0,2580,0.0,3
+Bhutan,South-East Asia,2021-08-20,0.0,2580,0.0,3
+Bhutan,South-East Asia,2021-08-21,5.0,2585,0.0,3
+Bhutan,South-East Asia,2021-08-22,0.0,2585,0.0,3
+Bhutan,South-East Asia,2021-08-23,0.0,2585,0.0,3
+Bhutan,South-East Asia,2021-08-24,6.0,2591,0.0,3
+Bhutan,South-East Asia,2021-08-25,0.0,2591,0.0,3
+Bhutan,South-East Asia,2021-08-26,0.0,2591,0.0,3
+Bhutan,South-East Asia,2021-08-27,1.0,2592,0.0,3
+Bhutan,South-East Asia,2021-08-28,2.0,2594,0.0,3
+Bhutan,South-East Asia,2021-08-29,0.0,2594,0.0,3
+Bhutan,South-East Asia,2021-08-30,1.0,2595,0.0,3
+Bhutan,South-East Asia,2021-08-31,1.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-01,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-02,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-03,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-04,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-05,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-06,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-07,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-08,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-09,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-10,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-11,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-12,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-13,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-14,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-15,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-16,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-17,0.0,2596,0.0,3
+Bhutan,South-East Asia,2021-09-18,1.0,2597,0.0,3
+Bhutan,South-East Asia,2021-09-19,0.0,2597,0.0,3
+Bhutan,South-East Asia,2021-09-20,0.0,2597,0.0,3
+Bhutan,South-East Asia,2021-09-21,2.0,2599,0.0,3
+Bhutan,South-East Asia,2021-09-22,0.0,2599,0.0,3
+Bhutan,South-East Asia,2021-09-23,0.0,2599,0.0,3
+Bhutan,South-East Asia,2021-09-24,0.0,2599,0.0,3
+Bhutan,South-East Asia,2021-09-25,0.0,2599,0.0,3
+Bhutan,South-East Asia,2021-09-26,0.0,2599,0.0,3
+Bhutan,South-East Asia,2021-09-27,0.0,2599,0.0,3
+Bhutan,South-East Asia,2021-09-28,1.0,2600,0.0,3
+Bhutan,South-East Asia,2021-09-29,1.0,2601,0.0,3
+Bhutan,South-East Asia,2021-09-30,0.0,2601,0.0,3
+Bhutan,South-East Asia,2021-10-01,0.0,2601,0.0,3
+Bhutan,South-East Asia,2021-10-02,0.0,2601,0.0,3
+Bhutan,South-East Asia,2021-10-03,7.0,2608,0.0,3
+Bhutan,South-East Asia,2021-10-04,0.0,2608,0.0,3
+Bhutan,South-East Asia,2021-10-05,5.0,2613,0.0,3
+Bhutan,South-East Asia,2021-10-06,0.0,2613,0.0,3
+Bhutan,South-East Asia,2021-10-07,0.0,2613,0.0,3
+Bhutan,South-East Asia,2021-10-08,0.0,2613,0.0,3
+Bhutan,South-East Asia,2021-10-09,0.0,2613,0.0,3
+Bhutan,South-East Asia,2021-10-10,0.0,2613,0.0,3
+Bhutan,South-East Asia,2021-10-11,0.0,2613,0.0,3
+Bhutan,South-East Asia,2021-10-12,0.0,2613,0.0,3
+Bhutan,South-East Asia,2021-10-13,2.0,2615,0.0,3
+Bhutan,South-East Asia,2021-10-14,1.0,2616,0.0,3
+Bhutan,South-East Asia,2021-10-15,1.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-16,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-17,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-18,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-19,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-20,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-21,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-22,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-23,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-24,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-25,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-26,0.0,2617,0.0,3
+Bhutan,South-East Asia,2021-10-27,3.0,2620,0.0,3
+Bhutan,South-East Asia,2021-10-28,1.0,2621,0.0,3
+Bhutan,South-East Asia,2021-10-29,0.0,2621,0.0,3
+Bhutan,South-East Asia,2021-10-30,0.0,2621,0.0,3
+Bhutan,South-East Asia,2021-10-31,0.0,2621,0.0,3
+Bhutan,South-East Asia,2021-11-01,0.0,2621,0.0,3
+Bhutan,South-East Asia,2021-11-02,0.0,2621,0.0,3
+Bhutan,South-East Asia,2021-11-03,1.0,2622,0.0,3
+Bhutan,South-East Asia,2021-11-04,0.0,2622,0.0,3
+Bhutan,South-East Asia,2021-11-05,1.0,2623,0.0,3
+Bhutan,South-East Asia,2021-11-06,0.0,2623,0.0,3
+Bhutan,South-East Asia,2021-11-07,0.0,2623,0.0,3
+Bhutan,South-East Asia,2021-11-08,0.0,2623,0.0,3
+Bhutan,South-East Asia,2021-11-09,0.0,2623,0.0,3
+Bhutan,South-East Asia,2021-11-10,0.0,2623,0.0,3
+Bhutan,South-East Asia,2021-11-11,0.0,2623,0.0,3
+Bhutan,South-East Asia,2021-11-12,0.0,2623,0.0,3
+Bhutan,South-East Asia,2021-11-13,2.0,2625,0.0,3
+Bhutan,South-East Asia,2021-11-14,0.0,2625,0.0,3
+Bhutan,South-East Asia,2021-11-15,0.0,2625,0.0,3
+Bhutan,South-East Asia,2021-11-16,0.0,2625,0.0,3
+Bhutan,South-East Asia,2021-11-17,4.0,2629,0.0,3
+Bhutan,South-East Asia,2021-11-18,0.0,2629,0.0,3
+Bhutan,South-East Asia,2021-11-19,3.0,2632,0.0,3
+Bhutan,South-East Asia,2021-11-20,0.0,2632,0.0,3
+Bhutan,South-East Asia,2021-11-21,0.0,2632,0.0,3
+Bhutan,South-East Asia,2021-11-22,0.0,2632,0.0,3
+Bhutan,South-East Asia,2021-11-23,1.0,2633,0.0,3
+Bhutan,South-East Asia,2021-11-24,0.0,2633,0.0,3
+Bhutan,South-East Asia,2021-11-25,0.0,2633,0.0,3
+Bhutan,South-East Asia,2021-11-26,1.0,2634,0.0,3
+Bhutan,South-East Asia,2021-11-27,2.0,2636,0.0,3
+Bhutan,South-East Asia,2021-11-28,4.0,2640,0.0,3
+Bhutan,South-East Asia,2021-11-29,0.0,2640,0.0,3
+Bhutan,South-East Asia,2021-11-30,0.0,2640,0.0,3
+Bhutan,South-East Asia,2021-12-01,0.0,2640,0.0,3
+Bhutan,South-East Asia,2021-12-02,0.0,2640,0.0,3
+Bhutan,South-East Asia,2021-12-03,0.0,2640,0.0,3
+Bhutan,South-East Asia,2021-12-04,1.0,2641,0.0,3
+Bhutan,South-East Asia,2021-12-05,0.0,2641,0.0,3
+Bhutan,South-East Asia,2021-12-06,0.0,2641,0.0,3
+Bhutan,South-East Asia,2021-12-07,0.0,2641,0.0,3
+Bhutan,South-East Asia,2021-12-08,1.0,2642,0.0,3
+Bhutan,South-East Asia,2021-12-09,6.0,2648,0.0,3
+Bhutan,South-East Asia,2021-12-10,1.0,2649,0.0,3
+Bhutan,South-East Asia,2021-12-11,0.0,2649,0.0,3
+Bhutan,South-East Asia,2021-12-12,0.0,2649,0.0,3
+Bhutan,South-East Asia,2021-12-13,0.0,2649,0.0,3
+Bhutan,South-East Asia,2021-12-14,3.0,2652,0.0,3
+Bhutan,South-East Asia,2021-12-15,0.0,2652,0.0,3
+Bhutan,South-East Asia,2021-12-16,0.0,2652,0.0,3
+Bhutan,South-East Asia,2021-12-17,4.0,2656,0.0,3
+Bhutan,South-East Asia,2021-12-18,0.0,2656,0.0,3
+Bhutan,South-East Asia,2021-12-19,1.0,2657,0.0,3
+Bhutan,South-East Asia,2021-12-20,0.0,2657,0.0,3
+Bhutan,South-East Asia,2021-12-21,1.0,2658,0.0,3
+Bhutan,South-East Asia,2021-12-22,1.0,2659,0.0,3
+Bhutan,South-East Asia,2021-12-23,0.0,2659,0.0,3
+Bhutan,South-East Asia,2021-12-24,0.0,2659,0.0,3
+Bhutan,South-East Asia,2021-12-25,0.0,2659,0.0,3
+Bhutan,South-East Asia,2021-12-26,1.0,2660,0.0,3
+Bhutan,South-East Asia,2021-12-27,0.0,2660,0.0,3
+Bhutan,South-East Asia,2021-12-28,0.0,2660,0.0,3
+Bhutan,South-East Asia,2021-12-29,0.0,2660,0.0,3
+Bhutan,South-East Asia,2021-12-30,0.0,2660,0.0,3
+Bhutan,South-East Asia,2021-12-31,0.0,2660,0.0,3
+India,South-East Asia,2021-01-01,20035.0,10286709,256.0,148994
+India,South-East Asia,2021-01-02,19079.0,10305788,224.0,149218
+India,South-East Asia,2021-01-03,18177.0,10323965,217.0,149435
+India,South-East Asia,2021-01-04,16504.0,10340469,214.0,149649
+India,South-East Asia,2021-01-05,16375.0,10356844,201.0,149850
+India,South-East Asia,2021-01-06,18088.0,10374932,264.0,150114
+India,South-East Asia,2021-01-07,20346.0,10395278,222.0,150336
+India,South-East Asia,2021-01-08,18139.0,10413417,234.0,150570
+India,South-East Asia,2021-01-09,18222.0,10431639,228.0,150798
+India,South-East Asia,2021-01-10,18645.0,10450284,201.0,150999
+India,South-East Asia,2021-01-11,16311.0,10466595,161.0,151160
+India,South-East Asia,2021-01-12,12584.0,10479179,167.0,151327
+India,South-East Asia,2021-01-13,15968.0,10495147,202.0,151529
+India,South-East Asia,2021-01-14,16946.0,10512093,198.0,151727
+India,South-East Asia,2021-01-15,15590.0,10527683,191.0,151918
+India,South-East Asia,2021-01-16,15158.0,10542841,175.0,152093
+India,South-East Asia,2021-01-17,15144.0,10557985,181.0,152274
+India,South-East Asia,2021-01-18,13788.0,10571773,145.0,152419
+India,South-East Asia,2021-01-19,10064.0,10581837,137.0,152556
+India,South-East Asia,2021-01-20,13823.0,10595660,162.0,152718
+India,South-East Asia,2021-01-21,15223.0,10610883,151.0,152869
+India,South-East Asia,2021-01-22,14545.0,10625428,163.0,153032
+India,South-East Asia,2021-01-23,14256.0,10639684,152.0,153184
+India,South-East Asia,2021-01-24,14849.0,10654533,155.0,153339
+India,South-East Asia,2021-01-25,13203.0,10667736,131.0,153470
+India,South-East Asia,2021-01-26,9102.0,10676838,117.0,153587
+India,South-East Asia,2021-01-27,12689.0,10689527,137.0,153724
+India,South-East Asia,2021-01-28,11666.0,10701193,123.0,153847
+India,South-East Asia,2021-01-29,18855.0,10720048,163.0,154010
+India,South-East Asia,2021-01-30,13083.0,10733131,137.0,154147
+India,South-East Asia,2021-01-31,13052.0,10746183,127.0,154274
+India,South-East Asia,2021-02-01,11427.0,10757610,118.0,154392
+India,South-East Asia,2021-02-02,8635.0,10766245,94.0,154486
+India,South-East Asia,2021-02-03,11039.0,10777284,110.0,154596
+India,South-East Asia,2021-02-04,12899.0,10790183,107.0,154703
+India,South-East Asia,2021-02-05,12408.0,10802591,120.0,154823
+India,South-East Asia,2021-02-06,11713.0,10814304,95.0,154918
+India,South-East Asia,2021-02-07,12059.0,10826363,78.0,154996
+India,South-East Asia,2021-02-08,11831.0,10838194,84.0,155080
+India,South-East Asia,2021-02-09,9110.0,10847304,78.0,155158
+India,South-East Asia,2021-02-10,11067.0,10858371,94.0,155252
+India,South-East Asia,2021-02-11,12923.0,10871294,108.0,155360
+India,South-East Asia,2021-02-12,9309.0,10880603,87.0,155447
+India,South-East Asia,2021-02-13,12143.0,10892746,103.0,155550
+India,South-East Asia,2021-02-14,12194.0,10904940,92.0,155642
+India,South-East Asia,2021-02-15,11649.0,10916589,90.0,155732
+India,South-East Asia,2021-02-16,9121.0,10925710,81.0,155813
+India,South-East Asia,2021-02-17,11610.0,10937320,100.0,155913
+India,South-East Asia,2021-02-18,12881.0,10950201,101.0,156014
+India,South-East Asia,2021-02-19,13193.0,10963394,97.0,156111
+India,South-East Asia,2021-02-20,13993.0,10977387,101.0,156212
+India,South-East Asia,2021-02-21,14264.0,10991651,90.0,156302
+India,South-East Asia,2021-02-22,14199.0,11005850,83.0,156385
+India,South-East Asia,2021-02-23,10584.0,11016434,78.0,156463
+India,South-East Asia,2021-02-24,13742.0,11030176,104.0,156567
+India,South-East Asia,2021-02-25,16738.0,11046914,138.0,156705
+India,South-East Asia,2021-02-26,16577.0,11063491,120.0,156825
+India,South-East Asia,2021-02-27,16488.0,11079979,113.0,156938
+India,South-East Asia,2021-02-28,16752.0,11096731,113.0,157051
+India,South-East Asia,2021-03-01,15510.0,11112241,106.0,157157
+India,South-East Asia,2021-03-02,12286.0,11124527,91.0,157248
+India,South-East Asia,2021-03-03,14989.0,11139516,98.0,157346
+India,South-East Asia,2021-03-04,17407.0,11156923,89.0,157435
+India,South-East Asia,2021-03-05,16838.0,11173761,113.0,157548
+India,South-East Asia,2021-03-06,18327.0,11192088,108.0,157656
+India,South-East Asia,2021-03-07,18711.0,11210799,100.0,157756
+India,South-East Asia,2021-03-08,18599.0,11229398,97.0,157853
+India,South-East Asia,2021-03-09,15388.0,11244786,77.0,157930
+India,South-East Asia,2021-03-10,17921.0,11262707,133.0,158063
+India,South-East Asia,2021-03-11,22854.0,11285561,126.0,158189
+India,South-East Asia,2021-03-12,23285.0,11308846,117.0,158306
+India,South-East Asia,2021-03-13,24882.0,11333728,140.0,158446
+India,South-East Asia,2021-03-14,25320.0,11359048,161.0,158607
+India,South-East Asia,2021-03-15,26291.0,11385339,118.0,158725
+India,South-East Asia,2021-03-16,24492.0,11409831,131.0,158856
+India,South-East Asia,2021-03-17,28903.0,11438734,188.0,159044
+India,South-East Asia,2021-03-18,35871.0,11474605,172.0,159216
+India,South-East Asia,2021-03-19,39726.0,11514331,154.0,159370
+India,South-East Asia,2021-03-20,40953.0,11555284,188.0,159558
+India,South-East Asia,2021-03-21,43846.0,11599130,197.0,159755
+India,South-East Asia,2021-03-22,46951.0,11646081,212.0,159967
+India,South-East Asia,2021-03-23,40715.0,11686796,199.0,160166
+India,South-East Asia,2021-03-24,47262.0,11734058,275.0,160441
+India,South-East Asia,2021-03-25,53476.0,11787534,251.0,160692
+India,South-East Asia,2021-03-26,59118.0,11846652,257.0,160949
+India,South-East Asia,2021-03-27,62258.0,11908910,291.0,161240
+India,South-East Asia,2021-03-28,62714.0,11971624,312.0,161552
+India,South-East Asia,2021-03-29,68020.0,12039644,291.0,161843
+India,South-East Asia,2021-03-30,56211.0,12095855,271.0,162114
+India,South-East Asia,2021-03-31,53480.0,12149335,354.0,162468
+India,South-East Asia,2021-04-01,72330.0,12221665,459.0,162927
+India,South-East Asia,2021-04-02,81466.0,12303131,469.0,163396
+India,South-East Asia,2021-04-03,89129.0,12392260,714.0,164110
+India,South-East Asia,2021-04-04,93249.0,12485509,513.0,164623
+India,South-East Asia,2021-04-05,103558.0,12589067,478.0,165101
+India,South-East Asia,2021-04-06,96982.0,12686049,446.0,165547
+India,South-East Asia,2021-04-07,115736.0,12801785,630.0,166177
+India,South-East Asia,2021-04-08,126789.0,12928574,685.0,166862
+India,South-East Asia,2021-04-09,131968.0,13060542,780.0,167642
+India,South-East Asia,2021-04-10,145384.0,13205926,794.0,168436
+India,South-East Asia,2021-04-11,152879.0,13358805,839.0,169275
+India,South-East Asia,2021-04-12,168912.0,13527717,904.0,170179
+India,South-East Asia,2021-04-13,161736.0,13689453,879.0,171058
+India,South-East Asia,2021-04-14,184372.0,13873825,1027.0,172085
+India,South-East Asia,2021-04-15,200739.0,14074564,1038.0,173123
+India,South-East Asia,2021-04-16,217353.0,14291917,1185.0,174308
+India,South-East Asia,2021-04-17,234692.0,14526609,1341.0,175649
+India,South-East Asia,2021-04-18,261500.0,14788109,1501.0,177150
+India,South-East Asia,2021-04-19,273810.0,15061919,1619.0,178769
+India,South-East Asia,2021-04-20,259170.0,15321089,1761.0,180530
+India,South-East Asia,2021-04-21,295041.0,15616130,2023.0,182553
+India,South-East Asia,2021-04-22,314835.0,15930965,2104.0,184657
+India,South-East Asia,2021-04-23,332730.0,16263695,2263.0,186920
+India,South-East Asia,2021-04-24,346786.0,16610481,2624.0,189544
+India,South-East Asia,2021-04-25,349691.0,16960172,2767.0,192311
+India,South-East Asia,2021-04-26,352991.0,17313163,2812.0,195123
+India,South-East Asia,2021-04-27,323144.0,17636307,2771.0,197894
+India,South-East Asia,2021-04-28,360960.0,17997267,3293.0,201187
+India,South-East Asia,2021-04-29,379257.0,18376524,3645.0,204832
+India,South-East Asia,2021-04-30,386452.0,18762976,3498.0,208330
+India,South-East Asia,2021-05-01,401993.0,19164969,3523.0,211853
+India,South-East Asia,2021-05-02,392488.0,19557457,3689.0,215542
+India,South-East Asia,2021-05-03,368147.0,19925604,3417.0,218959
+India,South-East Asia,2021-05-04,357229.0,20282833,3449.0,222408
+India,South-East Asia,2021-05-05,382315.0,20665148,3780.0,226188
+India,South-East Asia,2021-05-06,412262.0,21077410,3980.0,230168
+India,South-East Asia,2021-05-07,414188.0,21491598,3915.0,234083
+India,South-East Asia,2021-05-08,401078.0,21892676,4187.0,238270
+India,South-East Asia,2021-05-09,403738.0,22296414,4092.0,242362
+India,South-East Asia,2021-05-10,366161.0,22662575,3754.0,246116
+India,South-East Asia,2021-05-11,329942.0,22992517,3876.0,249992
+India,South-East Asia,2021-05-12,348421.0,23340938,4205.0,254197
+India,South-East Asia,2021-05-13,362727.0,23703665,4120.0,258317
+India,South-East Asia,2021-05-14,343144.0,24046809,4000.0,262317
+India,South-East Asia,2021-05-15,326098.0,24372907,3890.0,266207
+India,South-East Asia,2021-05-16,311170.0,24684077,4077.0,270284
+India,South-East Asia,2021-05-17,281386.0,24965463,4106.0,274390
+India,South-East Asia,2021-05-18,263533.0,25228996,4329.0,278719
+India,South-East Asia,2021-05-19,267334.0,25496330,4529.0,283248
+India,South-East Asia,2021-05-20,276110.0,25772440,3874.0,287122
+India,South-East Asia,2021-05-21,259551.0,26031991,4209.0,291331
+India,South-East Asia,2021-05-22,257299.0,26289290,4194.0,295525
+India,South-East Asia,2021-05-23,240842.0,26530132,3741.0,299266
+India,South-East Asia,2021-05-24,222315.0,26752447,4454.0,303720
+India,South-East Asia,2021-05-25,196427.0,26948874,3511.0,307231
+India,South-East Asia,2021-05-26,208921.0,27157795,4157.0,311388
+India,South-East Asia,2021-05-27,211298.0,27369093,3847.0,315235
+India,South-East Asia,2021-05-28,186364.0,27555457,3660.0,318895
+India,South-East Asia,2021-05-29,173790.0,27729247,3617.0,322512
+India,South-East Asia,2021-05-30,165553.0,27894800,3460.0,325972
+India,South-East Asia,2021-05-31,152734.0,28047534,3128.0,329100
+India,South-East Asia,2021-06-01,127510.0,28175044,2795.0,331895
+India,South-East Asia,2021-06-02,132788.0,28307832,3207.0,335102
+India,South-East Asia,2021-06-03,134154.0,28441986,2887.0,337989
+India,South-East Asia,2021-06-04,132364.0,28574350,2713.0,340702
+India,South-East Asia,2021-06-05,120529.0,28694879,3380.0,344082
+India,South-East Asia,2021-06-06,114460.0,28809339,2677.0,346759
+India,South-East Asia,2021-06-07,100636.0,28909975,2427.0,349186
+India,South-East Asia,2021-06-08,86498.0,28996473,2123.0,351309
+India,South-East Asia,2021-06-09,92596.0,29089069,2219.0,353528
+India,South-East Asia,2021-06-10,94052.0,29183121,6148.0,359676
+India,South-East Asia,2021-06-11,91702.0,29274823,3403.0,363079
+India,South-East Asia,2021-06-12,84332.0,29359155,4002.0,367081
+India,South-East Asia,2021-06-13,80834.0,29439989,3303.0,370384
+India,South-East Asia,2021-06-14,70421.0,29510410,3921.0,374305
+India,South-East Asia,2021-06-15,60471.0,29570881,2726.0,377031
+India,South-East Asia,2021-06-16,62224.0,29633105,2542.0,379573
+India,South-East Asia,2021-06-17,67208.0,29700313,2330.0,381903
+India,South-East Asia,2021-06-18,62480.0,29762793,1587.0,383490
+India,South-East Asia,2021-06-19,60753.0,29823546,1647.0,385137
+India,South-East Asia,2021-06-20,58419.0,29881965,1576.0,386713
+India,South-East Asia,2021-06-21,53256.0,29935221,1422.0,388135
+India,South-East Asia,2021-06-22,42640.0,29977861,1167.0,389302
+India,South-East Asia,2021-06-23,50848.0,30028709,1358.0,390660
+India,South-East Asia,2021-06-24,54069.0,30082778,1321.0,391981
+India,South-East Asia,2021-06-25,51667.0,30134445,1329.0,393310
+India,South-East Asia,2021-06-26,48698.0,30183143,1183.0,394493
+India,South-East Asia,2021-06-27,50040.0,30233183,1258.0,395751
+India,South-East Asia,2021-06-28,46148.0,30279331,979.0,396730
+India,South-East Asia,2021-06-29,37566.0,30316897,907.0,397637
+India,South-East Asia,2021-06-30,45951.0,30362848,817.0,398454
+India,South-East Asia,2021-07-01,48786.0,30411634,1005.0,399459
+India,South-East Asia,2021-07-02,46617.0,30458251,853.0,400312
+India,South-East Asia,2021-07-03,44111.0,30502362,738.0,401050
+India,South-East Asia,2021-07-04,43071.0,30545433,955.0,402005
+India,South-East Asia,2021-07-05,39796.0,30585229,723.0,402728
+India,South-East Asia,2021-07-06,34703.0,30619932,553.0,403281
+India,South-East Asia,2021-07-07,43733.0,30663665,930.0,404211
+India,South-East Asia,2021-07-08,45892.0,30709557,817.0,405028
+India,South-East Asia,2021-07-09,43393.0,30752950,911.0,405939
+India,South-East Asia,2021-07-10,42766.0,30795716,1206.0,407145
+India,South-East Asia,2021-07-11,41506.0,30837222,895.0,408040
+India,South-East Asia,2021-07-12,37154.0,30874376,724.0,408764
+India,South-East Asia,2021-07-13,32906.0,30907282,2020.0,410784
+India,South-East Asia,2021-07-14,38792.0,30946074,624.0,411408
+India,South-East Asia,2021-07-15,41806.0,30987880,581.0,411989
+India,South-East Asia,2021-07-16,38949.0,31026829,542.0,412531
+India,South-East Asia,2021-07-17,38079.0,31064908,560.0,413091
+India,South-East Asia,2021-07-18,41157.0,31106065,518.0,413609
+India,South-East Asia,2021-07-19,38164.0,31144229,499.0,414108
+India,South-East Asia,2021-07-20,30093.0,31174322,374.0,414482
+India,South-East Asia,2021-07-21,42015.0,31216337,3998.0,418480
+India,South-East Asia,2021-07-22,41383.0,31257720,507.0,418987
+India,South-East Asia,2021-07-23,35342.0,31293062,483.0,419470
+India,South-East Asia,2021-07-24,39097.0,31332159,546.0,420016
+India,South-East Asia,2021-07-25,39742.0,31371901,535.0,420551
+India,South-East Asia,2021-07-26,39361.0,31411262,416.0,420967
+India,South-East Asia,2021-07-27,29689.0,31440951,415.0,421382
+India,South-East Asia,2021-07-28,43654.0,31484605,640.0,422022
+India,South-East Asia,2021-07-29,43509.0,31528114,640.0,422662
+India,South-East Asia,2021-07-30,44230.0,31572344,555.0,423217
+India,South-East Asia,2021-07-31,41649.0,31613993,593.0,423810
+India,South-East Asia,2021-08-01,41831.0,31655824,541.0,424351
+India,South-East Asia,2021-08-02,40134.0,31695958,422.0,424773
+India,South-East Asia,2021-08-03,30549.0,31726507,422.0,425195
+India,South-East Asia,2021-08-04,42625.0,31769132,562.0,425757
+India,South-East Asia,2021-08-05,42982.0,31812114,533.0,426290
+India,South-East Asia,2021-08-06,44643.0,31856757,464.0,426754
+India,South-East Asia,2021-08-07,38628.0,31895385,617.0,427371
+India,South-East Asia,2021-08-08,39070.0,31934455,491.0,427862
+India,South-East Asia,2021-08-09,35499.0,31969954,447.0,428309
+India,South-East Asia,2021-08-10,28204.0,31998158,373.0,428682
+India,South-East Asia,2021-08-11,38353.0,32036511,497.0,429179
+India,South-East Asia,2021-08-12,41195.0,32077706,490.0,429669
+India,South-East Asia,2021-08-13,40120.0,32117826,585.0,430254
+India,South-East Asia,2021-08-14,38667.0,32156493,478.0,430732
+India,South-East Asia,2021-08-15,36083.0,32192576,493.0,431225
+India,South-East Asia,2021-08-16,32937.0,32225513,417.0,431642
+India,South-East Asia,2021-08-17,25166.0,32250679,437.0,432079
+India,South-East Asia,2021-08-18,35178.0,32285857,440.0,432519
+India,South-East Asia,2021-08-19,36401.0,32322258,530.0,433049
+India,South-East Asia,2021-08-20,36571.0,32358829,540.0,433589
+India,South-East Asia,2021-08-21,34457.0,32393286,375.0,433964
+India,South-East Asia,2021-08-22,30948.0,32424234,403.0,434367
+India,South-East Asia,2021-08-23,25072.0,32449306,389.0,434756
+India,South-East Asia,2021-08-24,25467.0,32474773,354.0,435110
+India,South-East Asia,2021-08-25,37593.0,32512366,648.0,435758
+India,South-East Asia,2021-08-26,46164.0,32558530,607.0,436365
+India,South-East Asia,2021-08-27,44658.0,32603188,496.0,436861
+India,South-East Asia,2021-08-28,46759.0,32649947,509.0,437370
+India,South-East Asia,2021-08-29,45083.0,32695030,460.0,437830
+India,South-East Asia,2021-08-30,42909.0,32737939,380.0,438210
+India,South-East Asia,2021-08-31,30941.0,32768880,350.0,438560
+India,South-East Asia,2021-09-01,41965.0,32810845,460.0,439020
+India,South-East Asia,2021-09-02,47092.0,32857937,509.0,439529
+India,South-East Asia,2021-09-03,45352.0,32903289,366.0,439895
+India,South-East Asia,2021-09-04,42618.0,32945907,330.0,440225
+India,South-East Asia,2021-09-05,42766.0,32988673,308.0,440533
+India,South-East Asia,2021-09-06,38948.0,33027621,219.0,440752
+India,South-East Asia,2021-09-07,31222.0,33058843,290.0,441042
+India,South-East Asia,2021-09-08,37875.0,33096718,369.0,441411
+India,South-East Asia,2021-09-09,43263.0,33139981,338.0,441749
+India,South-East Asia,2021-09-10,34973.0,33174954,260.0,442009
+India,South-East Asia,2021-09-11,33376.0,33208330,308.0,442317
+India,South-East Asia,2021-09-12,28591.0,33236921,338.0,442655
+India,South-East Asia,2021-09-13,27254.0,33264175,219.0,442874
+India,South-East Asia,2021-09-14,25404.0,33289579,339.0,443213
+India,South-East Asia,2021-09-15,27176.0,33316755,284.0,443497
+India,South-East Asia,2021-09-16,30570.0,33347325,431.0,443928
+India,South-East Asia,2021-09-17,34403.0,33381728,320.0,444248
+India,South-East Asia,2021-09-18,35662.0,33417390,281.0,444529
+India,South-East Asia,2021-09-19,30773.0,33448163,309.0,444838
+India,South-East Asia,2021-09-20,30256.0,33478419,295.0,445133
+India,South-East Asia,2021-09-21,26115.0,33504534,252.0,445385
+India,South-East Asia,2021-09-22,26964.0,33531498,383.0,445768
+India,South-East Asia,2021-09-23,31923.0,33563421,282.0,446050
+India,South-East Asia,2021-09-24,31382.0,33594803,318.0,446368
+India,South-East Asia,2021-09-25,29616.0,33624419,290.0,446658
+India,South-East Asia,2021-09-26,28326.0,33652745,260.0,446918
+India,South-East Asia,2021-09-27,26041.0,33678786,276.0,447194
+India,South-East Asia,2021-09-28,18795.0,33697581,179.0,447373
+India,South-East Asia,2021-09-29,18870.0,33716451,378.0,447751
+India,South-East Asia,2021-09-30,23529.0,33739980,311.0,448062
+India,South-East Asia,2021-10-01,26727.0,33766707,277.0,448339
+India,South-East Asia,2021-10-02,24354.0,33791061,234.0,448573
+India,South-East Asia,2021-10-03,22842.0,33813903,244.0,448817
+India,South-East Asia,2021-10-04,20799.0,33834702,180.0,448997
+India,South-East Asia,2021-10-05,18346.0,33853048,263.0,449260
+India,South-East Asia,2021-10-06,18833.0,33871881,278.0,449538
+India,South-East Asia,2021-10-07,22431.0,33894312,318.0,449856
+India,South-East Asia,2021-10-08,21257.0,33915569,271.0,450127
+India,South-East Asia,2021-10-09,19740.0,33935309,248.0,450375
+India,South-East Asia,2021-10-10,18166.0,33953475,214.0,450589
+India,South-East Asia,2021-10-11,18132.0,33971607,193.0,450782
+India,South-East Asia,2021-10-12,14313.0,33985920,181.0,450963
+India,South-East Asia,2021-10-13,15823.0,34001743,226.0,451189
+India,South-East Asia,2021-10-14,18987.0,34020730,246.0,451435
+India,South-East Asia,2021-10-15,16862.0,34037592,379.0,451814
+India,South-East Asia,2021-10-16,15981.0,34053573,166.0,451980
+India,South-East Asia,2021-10-17,14146.0,34067719,144.0,452124
+India,South-East Asia,2021-10-18,13596.0,34081315,166.0,452290
+India,South-East Asia,2021-10-19,13058.0,34094373,164.0,452454
+India,South-East Asia,2021-10-20,14623.0,34108996,197.0,452651
+India,South-East Asia,2021-10-21,18454.0,34127450,160.0,452811
+India,South-East Asia,2021-10-22,15786.0,34143236,231.0,453042
+India,South-East Asia,2021-10-23,16326.0,34159562,666.0,453708
+India,South-East Asia,2021-10-24,15906.0,34175468,561.0,454269
+India,South-East Asia,2021-10-25,14306.0,34189774,443.0,454712
+India,South-East Asia,2021-10-26,12428.0,34202202,356.0,455068
+India,South-East Asia,2021-10-27,13451.0,34215653,585.0,455653
+India,South-East Asia,2021-10-28,16156.0,34231809,733.0,456386
+India,South-East Asia,2021-10-29,14348.0,34246157,805.0,457191
+India,South-East Asia,2021-10-30,14313.0,34260470,549.0,457740
+India,South-East Asia,2021-10-31,12830.0,34273300,446.0,458186
+India,South-East Asia,2021-11-01,12514.0,34285814,251.0,458437
+India,South-East Asia,2021-11-02,10423.0,34296237,443.0,458880
+India,South-East Asia,2021-11-03,11903.0,34308140,311.0,459191
+India,South-East Asia,2021-11-04,12885.0,34321025,461.0,459652
+India,South-East Asia,2021-11-05,12729.0,34333754,221.0,459873
+India,South-East Asia,2021-11-06,10929.0,34344683,392.0,460265
+India,South-East Asia,2021-11-07,10853.0,34355536,526.0,460791
+India,South-East Asia,2021-11-08,11451.0,34366987,266.0,461057
+India,South-East Asia,2021-11-09,10126.0,34377113,332.0,461389
+India,South-East Asia,2021-11-10,11466.0,34388579,460.0,461849
+India,South-East Asia,2021-11-11,13091.0,34401670,340.0,462189
+India,South-East Asia,2021-11-12,12516.0,34414186,501.0,462690
+India,South-East Asia,2021-11-13,11850.0,34426036,555.0,463245
+India,South-East Asia,2021-11-14,11271.0,34437307,285.0,463530
+India,South-East Asia,2021-11-15,10229.0,34447536,125.0,463655
+India,South-East Asia,2021-11-16,8865.0,34456401,197.0,463852
+India,South-East Asia,2021-11-17,10197.0,34466598,301.0,464153
+India,South-East Asia,2021-11-18,11919.0,34478517,470.0,464623
+India,South-East Asia,2021-11-19,11106.0,34489623,459.0,465082
+India,South-East Asia,2021-11-20,10302.0,34499925,267.0,465349
+India,South-East Asia,2021-11-21,10488.0,34510413,313.0,465662
+India,South-East Asia,2021-11-22,8488.0,34518901,249.0,465911
+India,South-East Asia,2021-11-23,7579.0,34526480,236.0,466147
+India,South-East Asia,2021-11-24,9283.0,34535763,437.0,466584
+India,South-East Asia,2021-11-25,9119.0,34544882,396.0,466980
+India,South-East Asia,2021-11-26,10549.0,34555431,488.0,467468
+India,South-East Asia,2021-11-27,8318.0,34563749,465.0,467933
+India,South-East Asia,2021-11-28,8774.0,34572523,621.0,468554
+India,South-East Asia,2021-11-29,8309.0,34580832,236.0,468790
+India,South-East Asia,2021-11-30,6990.0,34587822,190.0,468980
+India,South-East Asia,2021-12-01,8954.0,34596776,267.0,469247
+India,South-East Asia,2021-12-02,9765.0,34606541,477.0,469724
+India,South-East Asia,2021-12-03,9216.0,34615757,391.0,470115
+India,South-East Asia,2021-12-04,8603.0,34624360,415.0,470530
+India,South-East Asia,2021-12-05,8895.0,34633255,2796.0,473326
+India,South-East Asia,2021-12-06,8306.0,34641561,211.0,473537
+India,South-East Asia,2021-12-07,6822.0,34648383,220.0,473757
+India,South-East Asia,2021-12-08,8439.0,34656822,195.0,473952
+India,South-East Asia,2021-12-09,9419.0,34666241,159.0,474111
+India,South-East Asia,2021-12-10,8503.0,34674744,624.0,474735
+India,South-East Asia,2021-12-11,7992.0,34682736,393.0,475128
+India,South-East Asia,2021-12-12,7774.0,34690510,306.0,475434
+India,South-East Asia,2021-12-13,7350.0,34697860,202.0,475636
+India,South-East Asia,2021-12-14,5784.0,34703644,252.0,475888
+India,South-East Asia,2021-12-15,6984.0,34710628,247.0,476135
+India,South-East Asia,2021-12-16,7974.0,34718602,343.0,476478
+India,South-East Asia,2021-12-17,7447.0,34726049,391.0,476869
+India,South-East Asia,2021-12-18,7145.0,34733194,289.0,477158
+India,South-East Asia,2021-12-19,7081.0,34740275,264.0,477422
+India,South-East Asia,2021-12-20,6563.0,34746838,132.0,477554
+India,South-East Asia,2021-12-21,5326.0,34752164,453.0,478007
+India,South-East Asia,2021-12-22,6317.0,34758481,318.0,478325
+India,South-East Asia,2021-12-23,7495.0,34765976,434.0,478759
+India,South-East Asia,2021-12-24,6650.0,34772626,374.0,479133
+India,South-East Asia,2021-12-25,7189.0,34779815,387.0,479520
+India,South-East Asia,2021-12-26,6987.0,34786802,162.0,479682
+India,South-East Asia,2021-12-27,6531.0,34793333,315.0,479997
+India,South-East Asia,2021-12-28,6358.0,34799691,293.0,480290
+India,South-East Asia,2021-12-29,9195.0,34808886,302.0,480592
+India,South-East Asia,2021-12-30,13154.0,34822040,268.0,480860
+India,South-East Asia,2021-12-31,16764.0,34838804,220.0,481080
+Indonesia,South-East Asia,2021-01-01,8072.0,751270,191.0,22329
+Indonesia,South-East Asia,2021-01-02,7203.0,758473,226.0,22555
+Indonesia,South-East Asia,2021-01-03,6877.0,765350,179.0,22734
+Indonesia,South-East Asia,2021-01-04,6753.0,772103,177.0,22911
+Indonesia,South-East Asia,2021-01-05,7445.0,779548,198.0,23109
+Indonesia,South-East Asia,2021-01-06,8854.0,788402,187.0,23296
+Indonesia,South-East Asia,2021-01-07,9321.0,797723,224.0,23520
+Indonesia,South-East Asia,2021-01-08,10617.0,808340,233.0,23753
+Indonesia,South-East Asia,2021-01-09,10046.0,818386,194.0,23947
+Indonesia,South-East Asia,2021-01-10,9640.0,828026,182.0,24129
+Indonesia,South-East Asia,2021-01-11,8692.0,836718,214.0,24343
+Indonesia,South-East Asia,2021-01-12,10047.0,846765,302.0,24645
+Indonesia,South-East Asia,2021-01-13,11278.0,858043,306.0,24951
+Indonesia,South-East Asia,2021-01-14,11557.0,869600,295.0,25246
+Indonesia,South-East Asia,2021-01-15,12818.0,882418,238.0,25484
+Indonesia,South-East Asia,2021-01-16,14224.0,896642,283.0,25767
+Indonesia,South-East Asia,2021-01-17,11287.0,907929,220.0,25987
+Indonesia,South-East Asia,2021-01-18,9086.0,917015,295.0,26282
+Indonesia,South-East Asia,2021-01-19,10365.0,927380,308.0,26590
+Indonesia,South-East Asia,2021-01-20,12568.0,939948,267.0,26857
+Indonesia,South-East Asia,2021-01-21,11703.0,951651,346.0,27203
+Indonesia,South-East Asia,2021-01-22,13632.0,965283,250.0,27453
+Indonesia,South-East Asia,2021-01-23,12191.0,977474,211.0,27664
+Indonesia,South-East Asia,2021-01-24,11788.0,989262,171.0,27835
+Indonesia,South-East Asia,2021-01-25,9994.0,999256,297.0,28132
+Indonesia,South-East Asia,2021-01-26,13094.0,1012350,336.0,28468
+Indonesia,South-East Asia,2021-01-27,11948.0,1024298,387.0,28855
+Indonesia,South-East Asia,2021-01-28,13695.0,1037993,476.0,29331
+Indonesia,South-East Asia,2021-01-29,13802.0,1051795,187.0,29518
+Indonesia,South-East Asia,2021-01-30,14518.0,1066313,210.0,29728
+Indonesia,South-East Asia,2021-01-31,12001.0,1078314,270.0,29998
+Indonesia,South-East Asia,2021-02-01,10994.0,1089308,279.0,30277
+Indonesia,South-East Asia,2021-02-02,10379.0,1099687,304.0,30581
+Indonesia,South-East Asia,2021-02-03,11984.0,1111671,189.0,30770
+Indonesia,South-East Asia,2021-02-04,11434.0,1123105,231.0,31001
+Indonesia,South-East Asia,2021-02-05,11749.0,1134854,201.0,31202
+Indonesia,South-East Asia,2021-02-06,12156.0,1147010,191.0,31393
+Indonesia,South-East Asia,2021-02-07,10827.0,1157837,163.0,31556
+Indonesia,South-East Asia,2021-02-08,8242.0,1166079,207.0,31763
+Indonesia,South-East Asia,2021-02-09,8700.0,1174779,213.0,31976
+Indonesia,South-East Asia,2021-02-10,8776.0,1183555,191.0,32167
+Indonesia,South-East Asia,2021-02-11,8435.0,1191990,214.0,32381
+Indonesia,South-East Asia,2021-02-12,9869.0,1201859,275.0,32656
+Indonesia,South-East Asia,2021-02-13,8844.0,1210703,280.0,32936
+Indonesia,South-East Asia,2021-02-14,6765.0,1217468,247.0,33183
+Indonesia,South-East Asia,2021-02-15,6462.0,1223930,184.0,33367
+Indonesia,South-East Asia,2021-02-16,10029.0,1233959,229.0,33596
+Indonesia,South-East Asia,2021-02-17,9687.0,1243646,192.0,33788
+Indonesia,South-East Asia,2021-02-18,9039.0,1252685,181.0,33969
+Indonesia,South-East Asia,2021-02-19,10614.0,1263299,183.0,34152
+Indonesia,South-East Asia,2021-02-20,8054.0,1271353,164.0,34316
+Indonesia,South-East Asia,2021-02-21,7300.0,1278653,173.0,34489
+Indonesia,South-East Asia,2021-02-22,10180.0,1288833,202.0,34691
+Indonesia,South-East Asia,2021-02-23,9775.0,1298608,323.0,35014
+Indonesia,South-East Asia,2021-02-24,7533.0,1306141,240.0,35254
+Indonesia,South-East Asia,2021-02-25,8493.0,1314634,264.0,35518
+Indonesia,South-East Asia,2021-02-26,8232.0,1322866,268.0,35786
+Indonesia,South-East Asia,2021-02-27,6208.0,1329074,195.0,35981
+Indonesia,South-East Asia,2021-02-28,5560.0,1334634,185.0,36166
+Indonesia,South-East Asia,2021-03-01,6680.0,1341314,159.0,36325
+Indonesia,South-East Asia,2021-03-02,5712.0,1347026,193.0,36518
+Indonesia,South-East Asia,2021-03-03,6808.0,1353834,203.0,36721
+Indonesia,South-East Asia,2021-03-04,7264.0,1361098,176.0,36897
+Indonesia,South-East Asia,2021-03-05,6971.0,1368069,129.0,37026
+Indonesia,South-East Asia,2021-03-06,5767.0,1373836,128.0,37154
+Indonesia,South-East Asia,2021-03-07,5826.0,1379662,112.0,37266
+Indonesia,South-East Asia,2021-03-08,6894.0,1386556,281.0,37547
+Indonesia,South-East Asia,2021-03-09,6389.0,1392945,210.0,37757
+Indonesia,South-East Asia,2021-03-10,5633.0,1398578,175.0,37932
+Indonesia,South-East Asia,2021-03-11,5144.0,1403722,117.0,38049
+Indonesia,South-East Asia,2021-03-12,6412.0,1410134,180.0,38229
+Indonesia,South-East Asia,2021-03-13,4607.0,1414741,100.0,38329
+Indonesia,South-East Asia,2021-03-14,4714.0,1419455,97.0,38426
+Indonesia,South-East Asia,2021-03-15,5589.0,1425044,147.0,38573
+Indonesia,South-East Asia,2021-03-16,5414.0,1430458,180.0,38753
+Indonesia,South-East Asia,2021-03-17,6825.0,1437283,162.0,38915
+Indonesia,South-East Asia,2021-03-18,6570.0,1443853,227.0,39142
+Indonesia,South-East Asia,2021-03-19,6279.0,1450132,197.0,39339
+Indonesia,South-East Asia,2021-03-20,5656.0,1455788,108.0,39447
+Indonesia,South-East Asia,2021-03-21,4396.0,1460184,103.0,39550
+Indonesia,South-East Asia,2021-03-22,5744.0,1465928,161.0,39711
+Indonesia,South-East Asia,2021-03-23,5297.0,1471225,154.0,39865
+Indonesia,South-East Asia,2021-03-24,5227.0,1476452,118.0,39983
+Indonesia,South-East Asia,2021-03-25,6107.0,1482559,98.0,40081
+Indonesia,South-East Asia,2021-03-26,4982.0,1487541,85.0,40166
+Indonesia,South-East Asia,2021-03-27,4461.0,1492002,198.0,40364
+Indonesia,South-East Asia,2021-03-28,4083.0,1496085,85.0,40449
+Indonesia,South-East Asia,2021-03-29,5008.0,1501093,132.0,40581
+Indonesia,South-East Asia,2021-03-30,4682.0,1505775,173.0,40754
+Indonesia,South-East Asia,2021-03-31,5937.0,1511712,104.0,40858
+Indonesia,South-East Asia,2021-04-01,6142.0,1517854,196.0,41054
+Indonesia,South-East Asia,2021-04-02,5325.0,1523179,97.0,41151
+Indonesia,South-East Asia,2021-04-03,4345.0,1527524,91.0,41242
+Indonesia,South-East Asia,2021-04-04,6731.0,1534255,427.0,41669
+Indonesia,South-East Asia,2021-04-05,3712.0,1537967,146.0,41815
+Indonesia,South-East Asia,2021-04-06,4549.0,1542516,162.0,41977
+Indonesia,South-East Asia,2021-04-07,4860.0,1547376,87.0,42064
+Indonesia,South-East Asia,2021-04-08,5504.0,1552880,163.0,42227
+Indonesia,South-East Asia,2021-04-09,5265.0,1558145,121.0,42348
+Indonesia,South-East Asia,2021-04-10,4723.0,1562868,95.0,42443
+Indonesia,South-East Asia,2021-04-11,4127.0,1566995,87.0,42530
+Indonesia,South-East Asia,2021-04-12,4829.0,1571824,126.0,42656
+Indonesia,South-East Asia,2021-04-13,5702.0,1577526,126.0,42782
+Indonesia,South-East Asia,2021-04-14,5656.0,1583182,124.0,42906
+Indonesia,South-East Asia,2021-04-15,6177.0,1589359,167.0,43073
+Indonesia,South-East Asia,2021-04-16,5363.0,1594722,123.0,43196
+Indonesia,South-East Asia,2021-04-17,5041.0,1599763,132.0,43328
+Indonesia,South-East Asia,2021-04-18,4585.0,1604348,96.0,43424
+Indonesia,South-East Asia,2021-04-19,4952.0,1609300,143.0,43567
+Indonesia,South-East Asia,2021-04-20,5549.0,1614849,210.0,43777
+Indonesia,South-East Asia,2021-04-21,5720.0,1620569,230.0,44007
+Indonesia,South-East Asia,2021-04-22,6243.0,1626812,165.0,44172
+Indonesia,South-East Asia,2021-04-23,5436.0,1632248,174.0,44346
+Indonesia,South-East Asia,2021-04-24,4544.0,1636792,154.0,44500
+Indonesia,South-East Asia,2021-04-25,4402.0,1641194,94.0,44594
+Indonesia,South-East Asia,2021-04-26,5944.0,1647138,177.0,44771
+Indonesia,South-East Asia,2021-04-27,4656.0,1651794,168.0,44939
+Indonesia,South-East Asia,2021-04-28,5241.0,1657035,177.0,45116
+Indonesia,South-East Asia,2021-04-29,5833.0,1662868,218.0,45334
+Indonesia,South-East Asia,2021-04-30,5500.0,1668368,187.0,45521
+Indonesia,South-East Asia,2021-05-01,4512.0,1672880,131.0,45652
+Indonesia,South-East Asia,2021-05-02,4394.0,1677274,144.0,45796
+Indonesia,South-East Asia,2021-05-03,4730.0,1682004,153.0,45949
+Indonesia,South-East Asia,2021-05-04,4369.0,1686373,188.0,46137
+Indonesia,South-East Asia,2021-05-05,5285.0,1691658,212.0,46349
+Indonesia,South-East Asia,2021-05-06,5647.0,1697305,147.0,46496
+Indonesia,South-East Asia,2021-05-07,6327.0,1703632,167.0,46663
+Indonesia,South-East Asia,2021-05-08,6130.0,1709762,179.0,46842
+Indonesia,South-East Asia,2021-05-09,3922.0,1713684,170.0,47012
+Indonesia,South-East Asia,2021-05-10,4891.0,1718575,206.0,47218
+Indonesia,South-East Asia,2021-05-11,5021.0,1723596,247.0,47465
+Indonesia,South-East Asia,2021-05-12,4608.0,1728204,152.0,47617
+Indonesia,South-East Asia,2021-05-13,3448.0,1731652,99.0,47716
+Indonesia,South-East Asia,2021-05-14,2633.0,1734285,107.0,47823
+Indonesia,South-East Asia,2021-05-15,2385.0,1736670,144.0,47967
+Indonesia,South-East Asia,2021-05-16,3080.0,1739750,126.0,48093
+Indonesia,South-East Asia,2021-05-17,4295.0,1744045,212.0,48305
+Indonesia,South-East Asia,2021-05-18,4185.0,1748230,172.0,48477
+Indonesia,South-East Asia,2021-05-19,4871.0,1753101,192.0,48669
+Indonesia,South-East Asia,2021-05-20,5797.0,1758898,218.0,48887
+Indonesia,South-East Asia,2021-05-21,5746.0,1764644,186.0,49073
+Indonesia,South-East Asia,2021-05-22,5296.0,1769940,132.0,49205
+Indonesia,South-East Asia,2021-05-23,5280.0,1775220,123.0,49328
+Indonesia,South-East Asia,2021-05-24,5907.0,1781127,127.0,49455
+Indonesia,South-East Asia,2021-05-25,5060.0,1786187,172.0,49627
+Indonesia,South-East Asia,2021-05-26,5034.0,1791221,144.0,49771
+Indonesia,South-East Asia,2021-05-27,6278.0,1797499,136.0,49907
+Indonesia,South-East Asia,2021-05-28,5862.0,1803361,193.0,50100
+Indonesia,South-East Asia,2021-05-29,6565.0,1809926,162.0,50262
+Indonesia,South-East Asia,2021-05-30,6115.0,1816041,142.0,50404
+Indonesia,South-East Asia,2021-05-31,5662.0,1821703,174.0,50578
+Indonesia,South-East Asia,2021-06-01,4824.0,1826527,145.0,50723
+Indonesia,South-East Asia,2021-06-02,5246.0,1831773,185.0,50908
+Indonesia,South-East Asia,2021-06-03,5353.0,1837126,187.0,51095
+Indonesia,South-East Asia,2021-06-04,6486.0,1843612,201.0,51296
+Indonesia,South-East Asia,2021-06-05,6594.0,1850206,153.0,51449
+Indonesia,South-East Asia,2021-06-06,5832.0,1856038,163.0,51612
+Indonesia,South-East Asia,2021-06-07,6993.0,1863031,191.0,51803
+Indonesia,South-East Asia,2021-06-08,6294.0,1869325,189.0,51992
+Indonesia,South-East Asia,2021-06-09,7725.0,1877050,170.0,52162
+Indonesia,South-East Asia,2021-06-10,8892.0,1885942,211.0,52373
+Indonesia,South-East Asia,2021-06-11,8083.0,1894025,193.0,52566
+Indonesia,South-East Asia,2021-06-12,7465.0,1901490,164.0,52730
+Indonesia,South-East Asia,2021-06-13,9868.0,1911358,149.0,52879
+Indonesia,South-East Asia,2021-06-14,8189.0,1919547,237.0,53116
+Indonesia,South-East Asia,2021-06-15,8161.0,1927708,164.0,53280
+Indonesia,South-East Asia,2021-06-16,9944.0,1937652,196.0,53476
+Indonesia,South-East Asia,2021-06-17,12624.0,1950276,277.0,53753
+Indonesia,South-East Asia,2021-06-18,12990.0,1963266,290.0,54043
+Indonesia,South-East Asia,2021-06-19,12906.0,1976172,248.0,54291
+Indonesia,South-East Asia,2021-06-20,13737.0,1989909,371.0,54662
+Indonesia,South-East Asia,2021-06-21,14536.0,2004445,294.0,54956
+Indonesia,South-East Asia,2021-06-22,13668.0,2018113,335.0,55291
+Indonesia,South-East Asia,2021-06-23,15308.0,2033421,303.0,55594
+Indonesia,South-East Asia,2021-06-24,20574.0,2053995,355.0,55949
+Indonesia,South-East Asia,2021-06-25,18872.0,2072867,422.0,56371
+Indonesia,South-East Asia,2021-06-26,21095.0,2093962,358.0,56729
+Indonesia,South-East Asia,2021-06-27,21342.0,2115304,409.0,57138
+Indonesia,South-East Asia,2021-06-28,20694.0,2135998,423.0,57561
+Indonesia,South-East Asia,2021-06-29,20467.0,2156465,463.0,58024
+Indonesia,South-East Asia,2021-06-30,21807.0,2178272,467.0,58491
+Indonesia,South-East Asia,2021-07-01,24836.0,2203108,504.0,58995
+Indonesia,South-East Asia,2021-07-02,25830.0,2228938,539.0,59534
+Indonesia,South-East Asia,2021-07-03,27913.0,2256851,493.0,60027
+Indonesia,South-East Asia,2021-07-04,27233.0,2284084,555.0,60582
+Indonesia,South-East Asia,2021-07-05,29745.0,2313829,558.0,61140
+Indonesia,South-East Asia,2021-07-06,31189.0,2345018,728.0,61868
+Indonesia,South-East Asia,2021-07-07,34379.0,2379397,1040.0,62908
+Indonesia,South-East Asia,2021-07-08,38391.0,2417788,852.0,63760
+Indonesia,South-East Asia,2021-07-09,38124.0,2455912,871.0,64631
+Indonesia,South-East Asia,2021-07-10,35094.0,2491006,826.0,65457
+Indonesia,South-East Asia,2021-07-11,36197.0,2527203,1007.0,66464
+Indonesia,South-East Asia,2021-07-12,40427.0,2567630,891.0,67355
+Indonesia,South-East Asia,2021-07-13,47899.0,2615529,864.0,68219
+Indonesia,South-East Asia,2021-07-14,54517.0,2670046,991.0,69210
+Indonesia,South-East Asia,2021-07-15,56757.0,2726803,982.0,70192
+Indonesia,South-East Asia,2021-07-16,54000.0,2780803,1205.0,71397
+Indonesia,South-East Asia,2021-07-17,51952.0,2832755,1092.0,72489
+Indonesia,South-East Asia,2021-07-18,44721.0,2877476,1093.0,73582
+Indonesia,South-East Asia,2021-07-19,34257.0,2911733,1338.0,74920
+Indonesia,South-East Asia,2021-07-20,38325.0,2950058,1280.0,76200
+Indonesia,South-East Asia,2021-07-21,33772.0,2983830,1383.0,77583
+Indonesia,South-East Asia,2021-07-22,49509.0,3033339,1449.0,79032
+Indonesia,South-East Asia,2021-07-23,49071.0,3082410,1566.0,80598
+Indonesia,South-East Asia,2021-07-24,45416.0,3127826,1415.0,82013
+Indonesia,South-East Asia,2021-07-25,38679.0,3166505,1266.0,83279
+Indonesia,South-East Asia,2021-07-26,28228.0,3194733,1487.0,84766
+Indonesia,South-East Asia,2021-07-27,45203.0,3239936,2069.0,86835
+Indonesia,South-East Asia,2021-07-28,47791.0,3287727,1824.0,88659
+Indonesia,South-East Asia,2021-07-29,43479.0,3331206,1893.0,90552
+Indonesia,South-East Asia,2021-07-30,41168.0,3372374,1759.0,92311
+Indonesia,South-East Asia,2021-07-31,37284.0,3409658,1808.0,94119
+Indonesia,South-East Asia,2021-08-01,30738.0,3440396,1604.0,95723
+Indonesia,South-East Asia,2021-08-02,22404.0,3462800,1568.0,97291
+Indonesia,South-East Asia,2021-08-03,33900.0,3496700,1598.0,98889
+Indonesia,South-East Asia,2021-08-04,35867.0,3532567,1747.0,100636
+Indonesia,South-East Asia,2021-08-05,35764.0,3568331,1739.0,102375
+Indonesia,South-East Asia,2021-08-06,39532.0,3607863,1635.0,104010
+Indonesia,South-East Asia,2021-08-07,31753.0,3639616,1588.0,105598
+Indonesia,South-East Asia,2021-08-08,26415.0,3666031,1498.0,107096
+Indonesia,South-East Asia,2021-08-09,20709.0,3686740,1475.0,108571
+Indonesia,South-East Asia,2021-08-10,32081.0,3718821,2048.0,110619
+Indonesia,South-East Asia,2021-08-11,30625.0,3749446,1579.0,112198
+Indonesia,South-East Asia,2021-08-12,24709.0,3774155,1466.0,113664
+Indonesia,South-East Asia,2021-08-13,30788.0,3804943,1432.0,115096
+Indonesia,South-East Asia,2021-08-14,28598.0,3833541,1270.0,116366
+Indonesia,South-East Asia,2021-08-15,20813.0,3854354,1222.0,117588
+Indonesia,South-East Asia,2021-08-16,17384.0,3871738,1245.0,118833
+Indonesia,South-East Asia,2021-08-17,20741.0,3892479,1180.0,120013
+Indonesia,South-East Asia,2021-08-18,15768.0,3908247,1128.0,121141
+Indonesia,South-East Asia,2021-08-19,22053.0,3930300,1492.0,122633
+Indonesia,South-East Asia,2021-08-20,20004.0,3950304,1348.0,123981
+Indonesia,South-East Asia,2021-08-21,16744.0,3967048,1361.0,125342
+Indonesia,South-East Asia,2021-08-22,12408.0,3979456,1030.0,126372
+Indonesia,South-East Asia,2021-08-23,9604.0,3989060,842.0,127214
+Indonesia,South-East Asia,2021-08-24,19106.0,4008166,1038.0,128252
+Indonesia,South-East Asia,2021-08-25,18671.0,4026837,1041.0,129293
+Indonesia,South-East Asia,2021-08-26,16899.0,4043736,889.0,130182
+Indonesia,South-East Asia,2021-08-27,12618.0,4056354,599.0,130781
+Indonesia,South-East Asia,2021-08-28,10050.0,4066404,591.0,131372
+Indonesia,South-East Asia,2021-08-29,7427.0,4073831,551.0,131923
+Indonesia,South-East Asia,2021-08-30,5436.0,4079267,568.0,132491
+Indonesia,South-East Asia,2021-08-31,10534.0,4089801,532.0,133023
+Indonesia,South-East Asia,2021-09-01,10337.0,4100138,653.0,133676
+Indonesia,South-East Asia,2021-09-02,8955.0,4109093,680.0,134356
+Indonesia,South-East Asia,2021-09-03,7797.0,4116890,574.0,134930
+Indonesia,South-East Asia,2021-09-04,6727.0,4123617,539.0,135469
+Indonesia,South-East Asia,2021-09-05,5403.0,4129020,392.0,135861
+Indonesia,South-East Asia,2021-09-06,4413.0,4133433,612.0,136473
+Indonesia,South-East Asia,2021-09-07,7201.0,4140634,683.0,137156
+Indonesia,South-East Asia,2021-09-08,6731.0,4147365,626.0,137782
+Indonesia,South-East Asia,2021-09-09,5990.0,4153355,334.0,138116
+Indonesia,South-East Asia,2021-09-10,5376.0,4158731,315.0,138431
+Indonesia,South-East Asia,2021-09-11,5001.0,4163732,270.0,138701
+Indonesia,South-East Asia,2021-09-12,3779.0,4167511,188.0,138889
+Indonesia,South-East Asia,2021-09-13,2577.0,4170088,276.0,139165
+Indonesia,South-East Asia,2021-09-14,4128.0,4174216,250.0,139415
+Indonesia,South-East Asia,2021-09-15,3948.0,4178164,267.0,139682
+Indonesia,South-East Asia,2021-09-16,3145.0,4181309,237.0,139919
+Indonesia,South-East Asia,2021-09-17,3835.0,4185144,219.0,140138
+Indonesia,South-East Asia,2021-09-18,3385.0,4188529,185.0,140323
+Indonesia,South-East Asia,2021-09-19,2234.0,4190763,145.0,140468
+Indonesia,South-East Asia,2021-09-20,1932.0,4192695,166.0,140634
+Indonesia,South-East Asia,2021-09-21,3263.0,4195958,171.0,140805
+Indonesia,South-East Asia,2021-09-22,2720.0,4198678,149.0,140954
+Indonesia,South-East Asia,2021-09-23,2881.0,4201559,160.0,141114
+Indonesia,South-East Asia,2021-09-24,2557.0,4204116,144.0,141258
+Indonesia,South-East Asia,2021-09-25,2137.0,4206253,123.0,141381
+Indonesia,South-East Asia,2021-09-26,1760.0,4208013,86.0,141467
+Indonesia,South-East Asia,2021-09-27,1390.0,4209403,118.0,141585
+Indonesia,South-East Asia,2021-09-28,2057.0,4211460,124.0,141709
+Indonesia,South-East Asia,2021-09-29,1954.0,4213414,117.0,141826
+Indonesia,South-East Asia,2021-09-30,1690.0,4215104,113.0,141939
+Indonesia,South-East Asia,2021-10-01,1624.0,4216728,87.0,142026
+Indonesia,South-East Asia,2021-10-02,1414.0,4218142,89.0,142115
+Indonesia,South-East Asia,2021-10-03,1142.0,4219284,58.0,142173
+Indonesia,South-East Asia,2021-10-04,922.0,4220206,88.0,142261
+Indonesia,South-East Asia,2021-10-05,1404.0,4221610,77.0,142338
+Indonesia,South-East Asia,2021-10-06,1484.0,4223094,75.0,142413
+Indonesia,South-East Asia,2021-10-07,1393.0,4224487,81.0,142494
+Indonesia,South-East Asia,2021-10-08,1384.0,4225871,66.0,142560
+Indonesia,South-East Asia,2021-10-09,1167.0,4227038,52.0,142612
+Indonesia,South-East Asia,2021-10-10,894.0,4227932,39.0,142651
+Indonesia,South-East Asia,2021-10-11,620.0,4228552,65.0,142716
+Indonesia,South-East Asia,2021-10-12,1261.0,4229813,47.0,142763
+Indonesia,South-East Asia,2021-10-13,1233.0,4231046,48.0,142811
+Indonesia,South-East Asia,2021-10-14,1053.0,4232099,37.0,142848
+Indonesia,South-East Asia,2021-10-15,915.0,4233014,41.0,142889
+Indonesia,South-East Asia,2021-10-16,997.0,4234011,44.0,142933
+Indonesia,South-East Asia,2021-10-17,747.0,4234758,19.0,142952
+Indonesia,South-East Asia,2021-10-18,626.0,4235384,47.0,142999
+Indonesia,South-East Asia,2021-10-19,903.0,4236287,50.0,143049
+Indonesia,South-East Asia,2021-10-20,914.0,4237201,28.0,143077
+Indonesia,South-East Asia,2021-10-21,633.0,4237834,43.0,143120
+Indonesia,South-East Asia,2021-10-22,760.0,4238594,33.0,143153
+Indonesia,South-East Asia,2021-10-23,802.0,4239396,23.0,143176
+Indonesia,South-East Asia,2021-10-24,623.0,4240019,29.0,143205
+Indonesia,South-East Asia,2021-10-25,460.0,4240479,30.0,143235
+Indonesia,South-East Asia,2021-10-26,611.0,4241090,35.0,143270
+Indonesia,South-East Asia,2021-10-27,719.0,4241809,29.0,143299
+Indonesia,South-East Asia,2021-10-28,723.0,4242532,34.0,143333
+Indonesia,South-East Asia,2021-10-29,683.0,4243215,28.0,143361
+Indonesia,South-East Asia,2021-10-30,620.0,4243835,27.0,143388
+Indonesia,South-East Asia,2021-10-31,523.0,4244358,17.0,143405
+Indonesia,South-East Asia,2021-11-01,403.0,4244761,18.0,143423
+Indonesia,South-East Asia,2021-11-02,612.0,4245373,34.0,143457
+Indonesia,South-East Asia,2021-11-03,801.0,4246174,24.0,143481
+Indonesia,South-East Asia,2021-11-04,628.0,4246802,19.0,143500
+Indonesia,South-East Asia,2021-11-05,518.0,4247320,19.0,143519
+Indonesia,South-East Asia,2021-11-06,401.0,4247721,15.0,143534
+Indonesia,South-East Asia,2021-11-07,444.0,4248165,11.0,143545
+Indonesia,South-East Asia,2021-11-08,244.0,4248409,12.0,143557
+Indonesia,South-East Asia,2021-11-09,434.0,4248843,21.0,143578
+Indonesia,South-East Asia,2021-11-10,480.0,4249323,14.0,143592
+Indonesia,South-East Asia,2021-11-11,435.0,4249758,16.0,143608
+Indonesia,South-East Asia,2021-11-12,399.0,4250157,20.0,143628
+Indonesia,South-East Asia,2021-11-13,359.0,4250516,16.0,143644
+Indonesia,South-East Asia,2021-11-14,339.0,4250855,15.0,143659
+Indonesia,South-East Asia,2021-11-15,221.0,4251076,11.0,143670
+Indonesia,South-East Asia,2021-11-16,347.0,4251423,15.0,143685
+Indonesia,South-East Asia,2021-11-17,522.0,4251945,13.0,143698
+Indonesia,South-East Asia,2021-11-18,400.0,4252345,11.0,143709
+Indonesia,South-East Asia,2021-11-19,360.0,4252705,5.0,143714
+Indonesia,South-East Asia,2021-11-20,393.0,4253098,14.0,143728
+Indonesia,South-East Asia,2021-11-21,314.0,4253412,11.0,143739
+Indonesia,South-East Asia,2021-11-22,186.0,4253598,5.0,143744
+Indonesia,South-East Asia,2021-11-23,394.0,4253992,9.0,143753
+Indonesia,South-East Asia,2021-11-24,451.0,4254443,13.0,143766
+Indonesia,South-East Asia,2021-11-25,372.0,4254815,16.0,143782
+Indonesia,South-East Asia,2021-11-26,453.0,4255268,14.0,143796
+Indonesia,South-East Asia,2021-11-27,404.0,4255672,11.0,143807
+Indonesia,South-East Asia,2021-11-28,264.0,4255936,1.0,143808
+Indonesia,South-East Asia,2021-11-29,176.0,4256112,11.0,143819
+Indonesia,South-East Asia,2021-11-30,297.0,4256409,11.0,143830
+Indonesia,South-East Asia,2021-12-01,278.0,4256687,10.0,143840
+Indonesia,South-East Asia,2021-12-02,311.0,4256998,10.0,143850
+Indonesia,South-East Asia,2021-12-03,245.0,4257243,8.0,143858
+Indonesia,South-East Asia,2021-12-04,246.0,4257489,5.0,143863
+Indonesia,South-East Asia,2021-12-05,196.0,4257685,4.0,143867
+Indonesia,South-East Asia,2021-12-06,130.0,4257815,9.0,143876
+Indonesia,South-East Asia,2021-12-07,261.0,4258076,17.0,143893
+Indonesia,South-East Asia,2021-12-08,264.0,4258340,16.0,143909
+Indonesia,South-East Asia,2021-12-09,220.0,4258560,9.0,143918
+Indonesia,South-East Asia,2021-12-10,192.0,4258752,5.0,143923
+Indonesia,South-East Asia,2021-12-11,228.0,4258980,6.0,143929
+Indonesia,South-East Asia,2021-12-12,163.0,4259143,7.0,143936
+Indonesia,South-East Asia,2021-12-13,106.0,4259249,12.0,143948
+Indonesia,South-East Asia,2021-12-14,190.0,4259439,12.0,143960
+Indonesia,South-East Asia,2021-12-15,205.0,4259644,9.0,143969
+Indonesia,South-East Asia,2021-12-16,213.0,4259857,10.0,143979
+Indonesia,South-East Asia,2021-12-17,291.0,4260148,7.0,143986
+Indonesia,South-East Asia,2021-12-18,232.0,4260380,12.0,143998
+Indonesia,South-East Asia,2021-12-19,164.0,4260544,4.0,144002
+Indonesia,South-East Asia,2021-12-20,133.0,4260677,11.0,144013
+Indonesia,South-East Asia,2021-12-21,216.0,4260893,11.0,144024
+Indonesia,South-East Asia,2021-12-22,179.0,4261072,10.0,144034
+Indonesia,South-East Asia,2021-12-23,136.0,4261208,8.0,144042
+Indonesia,South-East Asia,2021-12-24,204.0,4261412,5.0,144047
+Indonesia,South-East Asia,2021-12-25,255.0,4261667,6.0,144053
+Indonesia,South-East Asia,2021-12-26,92.0,4261759,2.0,144055
+Indonesia,South-East Asia,2021-12-27,120.0,4261879,8.0,144063
+Indonesia,South-East Asia,2021-12-28,278.0,4262157,8.0,144071
+Indonesia,South-East Asia,2021-12-29,194.0,4262351,10.0,144081
+Indonesia,South-East Asia,2021-12-30,189.0,4262540,7.0,144088
+Indonesia,South-East Asia,2021-12-31,180.0,4262720,6.0,144094
+Maldives,South-East Asia,2021-01-01,47.0,13804,0.0,48
+Maldives,South-East Asia,2021-01-02,30.0,13834,0.0,48
+Maldives,South-East Asia,2021-01-03,33.0,13867,0.0,48
+Maldives,South-East Asia,2021-01-04,26.0,13893,0.0,48
+Maldives,South-East Asia,2021-01-05,37.0,13930,0.0,48
+Maldives,South-East Asia,2021-01-06,37.0,13967,0.0,48
+Maldives,South-East Asia,2021-01-07,21.0,13988,1.0,49
+Maldives,South-East Asia,2021-01-08,52.0,14040,0.0,49
+Maldives,South-East Asia,2021-01-09,25.0,14065,0.0,49
+Maldives,South-East Asia,2021-01-10,44.0,14109,0.0,49
+Maldives,South-East Asia,2021-01-11,50.0,14159,0.0,49
+Maldives,South-East Asia,2021-01-12,59.0,14218,0.0,49
+Maldives,South-East Asia,2021-01-13,59.0,14277,0.0,49
+Maldives,South-East Asia,2021-01-14,48.0,14325,0.0,49
+Maldives,South-East Asia,2021-01-15,50.0,14375,0.0,49
+Maldives,South-East Asia,2021-01-16,87.0,14462,0.0,49
+Maldives,South-East Asia,2021-01-17,51.0,14513,0.0,49
+Maldives,South-East Asia,2021-01-18,69.0,14582,0.0,49
+Maldives,South-East Asia,2021-01-19,51.0,14633,0.0,49
+Maldives,South-East Asia,2021-01-20,79.0,14712,0.0,49
+Maldives,South-East Asia,2021-01-21,53.0,14765,1.0,50
+Maldives,South-East Asia,2021-01-22,65.0,14830,0.0,50
+Maldives,South-East Asia,2021-01-23,55.0,14885,0.0,50
+Maldives,South-East Asia,2021-01-24,108.0,14993,1.0,51
+Maldives,South-East Asia,2021-01-25,109.0,15102,0.0,51
+Maldives,South-East Asia,2021-01-26,145.0,15247,0.0,51
+Maldives,South-East Asia,2021-01-27,143.0,15390,0.0,51
+Maldives,South-East Asia,2021-01-28,106.0,15496,0.0,51
+Maldives,South-East Asia,2021-01-29,118.0,15614,0.0,51
+Maldives,South-East Asia,2021-01-30,122.0,15736,0.0,51
+Maldives,South-East Asia,2021-01-31,105.0,15841,1.0,52
+Maldives,South-East Asia,2021-02-01,215.0,16056,0.0,52
+Maldives,South-East Asia,2021-02-02,99.0,16155,0.0,52
+Maldives,South-East Asia,2021-02-03,121.0,16276,1.0,53
+Maldives,South-East Asia,2021-02-04,134.0,16410,1.0,54
+Maldives,South-East Asia,2021-02-05,137.0,16547,0.0,54
+Maldives,South-East Asia,2021-02-06,109.0,16656,0.0,54
+Maldives,South-East Asia,2021-02-07,127.0,16783,1.0,55
+Maldives,South-East Asia,2021-02-08,126.0,16909,0.0,55
+Maldives,South-East Asia,2021-02-09,192.0,17101,1.0,56
+Maldives,South-East Asia,2021-02-10,100.0,17201,0.0,56
+Maldives,South-East Asia,2021-02-11,186.0,17387,0.0,56
+Maldives,South-East Asia,2021-02-12,120.0,17507,0.0,56
+Maldives,South-East Asia,2021-02-13,209.0,17716,0.0,56
+Maldives,South-East Asia,2021-02-14,112.0,17828,2.0,58
+Maldives,South-East Asia,2021-02-15,125.0,17953,0.0,58
+Maldives,South-East Asia,2021-02-16,129.0,18082,0.0,58
+Maldives,South-East Asia,2021-02-17,142.0,18224,0.0,58
+Maldives,South-East Asia,2021-02-18,116.0,18340,0.0,58
+Maldives,South-East Asia,2021-02-19,127.0,18467,0.0,58
+Maldives,South-East Asia,2021-02-20,145.0,18612,2.0,60
+Maldives,South-East Asia,2021-02-21,157.0,18769,0.0,60
+Maldives,South-East Asia,2021-02-22,161.0,18930,0.0,60
+Maldives,South-East Asia,2021-02-23,108.0,19038,0.0,60
+Maldives,South-East Asia,2021-02-24,124.0,19162,0.0,60
+Maldives,South-East Asia,2021-02-25,184.0,19346,0.0,60
+Maldives,South-East Asia,2021-02-26,133.0,19479,0.0,60
+Maldives,South-East Asia,2021-02-27,118.0,19597,1.0,61
+Maldives,South-East Asia,2021-02-28,196.0,19793,1.0,62
+Maldives,South-East Asia,2021-03-01,186.0,19979,0.0,62
+Maldives,South-East Asia,2021-03-02,165.0,20144,0.0,62
+Maldives,South-East Asia,2021-03-03,136.0,20280,1.0,63
+Maldives,South-East Asia,2021-03-04,167.0,20447,1.0,64
+Maldives,South-East Asia,2021-03-05,118.0,20565,0.0,64
+Maldives,South-East Asia,2021-03-06,98.0,20663,0.0,64
+Maldives,South-East Asia,2021-03-07,131.0,20794,0.0,64
+Maldives,South-East Asia,2021-03-08,125.0,20919,0.0,64
+Maldives,South-East Asia,2021-03-09,115.0,21034,0.0,64
+Maldives,South-East Asia,2021-03-10,110.0,21144,0.0,64
+Maldives,South-East Asia,2021-03-11,124.0,21268,0.0,64
+Maldives,South-East Asia,2021-03-12,114.0,21382,0.0,64
+Maldives,South-East Asia,2021-03-13,94.0,21476,0.0,64
+Maldives,South-East Asia,2021-03-14,96.0,21572,0.0,64
+Maldives,South-East Asia,2021-03-15,94.0,21666,0.0,64
+Maldives,South-East Asia,2021-03-16,153.0,21819,0.0,64
+Maldives,South-East Asia,2021-03-17,142.0,21961,0.0,64
+Maldives,South-East Asia,2021-03-18,186.0,22147,1.0,65
+Maldives,South-East Asia,2021-03-19,145.0,22292,0.0,65
+Maldives,South-East Asia,2021-03-20,81.0,22373,0.0,65
+Maldives,South-East Asia,2021-03-21,140.0,22513,1.0,66
+Maldives,South-East Asia,2021-03-22,149.0,22662,0.0,66
+Maldives,South-East Asia,2021-03-23,128.0,22790,0.0,66
+Maldives,South-East Asia,2021-03-24,139.0,22929,0.0,66
+Maldives,South-East Asia,2021-03-25,162.0,23091,0.0,66
+Maldives,South-East Asia,2021-03-26,146.0,23237,0.0,66
+Maldives,South-East Asia,2021-03-27,166.0,23403,0.0,66
+Maldives,South-East Asia,2021-03-28,121.0,23524,0.0,66
+Maldives,South-East Asia,2021-03-29,147.0,23671,0.0,66
+Maldives,South-East Asia,2021-03-30,167.0,23838,0.0,66
+Maldives,South-East Asia,2021-03-31,241.0,24079,1.0,67
+Maldives,South-East Asia,2021-04-01,300.0,24379,0.0,67
+Maldives,South-East Asia,2021-04-02,169.0,24548,0.0,67
+Maldives,South-East Asia,2021-04-03,103.0,24651,0.0,67
+Maldives,South-East Asia,2021-04-04,132.0,24783,0.0,67
+Maldives,South-East Asia,2021-04-05,125.0,24908,0.0,67
+Maldives,South-East Asia,2021-04-06,145.0,25053,0.0,67
+Maldives,South-East Asia,2021-04-07,138.0,25191,0.0,67
+Maldives,South-East Asia,2021-04-08,113.0,25304,0.0,67
+Maldives,South-East Asia,2021-04-09,132.0,25436,0.0,67
+Maldives,South-East Asia,2021-04-10,88.0,25524,0.0,67
+Maldives,South-East Asia,2021-04-11,93.0,25617,0.0,67
+Maldives,South-East Asia,2021-04-12,84.0,25701,0.0,67
+Maldives,South-East Asia,2021-04-13,58.0,25759,0.0,67
+Maldives,South-East Asia,2021-04-14,85.0,25844,0.0,67
+Maldives,South-East Asia,2021-04-15,95.0,25939,0.0,67
+Maldives,South-East Asia,2021-04-16,82.0,26021,1.0,68
+Maldives,South-East Asia,2021-04-17,124.0,26145,1.0,69
+Maldives,South-East Asia,2021-04-18,203.0,26348,1.0,70
+Maldives,South-East Asia,2021-04-19,157.0,26505,0.0,70
+Maldives,South-East Asia,2021-04-20,162.0,26667,1.0,71
+Maldives,South-East Asia,2021-04-21,253.0,26920,0.0,71
+Maldives,South-East Asia,2021-04-22,164.0,27084,0.0,71
+Maldives,South-East Asia,2021-04-23,319.0,27403,0.0,71
+Maldives,South-East Asia,2021-04-24,218.0,27621,0.0,71
+Maldives,South-East Asia,2021-04-25,253.0,27874,0.0,71
+Maldives,South-East Asia,2021-04-26,328.0,28202,0.0,71
+Maldives,South-East Asia,2021-04-27,386.0,28588,0.0,71
+Maldives,South-East Asia,2021-04-28,464.0,29052,1.0,72
+Maldives,South-East Asia,2021-04-29,318.0,29370,1.0,73
+Maldives,South-East Asia,2021-04-30,465.0,29835,0.0,73
+Maldives,South-East Asia,2021-05-01,402.0,30237,0.0,73
+Maldives,South-East Asia,2021-05-02,508.0,30745,1.0,74
+Maldives,South-East Asia,2021-05-03,585.0,31330,0.0,74
+Maldives,South-East Asia,2021-05-04,601.0,31931,0.0,74
+Maldives,South-East Asia,2021-05-05,734.0,32665,0.0,74
+Maldives,South-East Asia,2021-05-06,703.0,33368,3.0,77
+Maldives,South-East Asia,2021-05-07,766.0,34134,5.0,82
+Maldives,South-East Asia,2021-05-08,590.0,34724,1.0,83
+Maldives,South-East Asia,2021-05-09,1091.0,35815,1.0,84
+Maldives,South-East Asia,2021-05-10,1204.0,37019,3.0,87
+Maldives,South-East Asia,2021-05-11,1501.0,38520,0.0,87
+Maldives,South-East Asia,2021-05-12,1572.0,40092,0.0,87
+Maldives,South-East Asia,2021-05-13,1216.0,41308,0.0,87
+Maldives,South-East Asia,2021-05-14,1467.0,42775,4.0,91
+Maldives,South-East Asia,2021-05-15,1007.0,43782,3.0,94
+Maldives,South-East Asia,2021-05-16,741.0,44523,3.0,97
+Maldives,South-East Asia,2021-05-17,1433.0,45956,4.0,101
+Maldives,South-East Asia,2021-05-18,1465.0,47421,4.0,105
+Maldives,South-East Asia,2021-05-19,1187.0,48608,7.0,112
+Maldives,South-East Asia,2021-05-20,2194.0,50802,2.0,114
+Maldives,South-East Asia,2021-05-21,1603.0,52405,6.0,120
+Maldives,South-East Asia,2021-05-22,1960.0,54365,3.0,123
+Maldives,South-East Asia,2021-05-23,1559.0,55924,6.0,129
+Maldives,South-East Asia,2021-05-24,1417.0,57341,10.0,139
+Maldives,South-East Asia,2021-05-25,1004.0,58345,5.0,144
+Maldives,South-East Asia,2021-05-26,1299.0,59644,3.0,147
+Maldives,South-East Asia,2021-05-27,1299.0,60943,3.0,150
+Maldives,South-East Asia,2021-05-28,901.0,61844,5.0,155
+Maldives,South-East Asia,2021-05-29,1062.0,62906,2.0,157
+Maldives,South-East Asia,2021-05-30,780.0,63686,1.0,158
+Maldives,South-East Asia,2021-05-31,710.0,64396,3.0,161
+Maldives,South-East Asia,2021-06-01,768.0,65164,8.0,169
+Maldives,South-East Asia,2021-06-02,704.0,65868,2.0,171
+Maldives,South-East Asia,2021-06-03,648.0,66516,2.0,173
+Maldives,South-East Asia,2021-06-04,432.0,66948,4.0,177
+Maldives,South-East Asia,2021-06-05,590.0,67538,5.0,182
+Maldives,South-East Asia,2021-06-06,412.0,67950,3.0,185
+Maldives,South-East Asia,2021-06-07,552.0,68502,2.0,187
+Maldives,South-East Asia,2021-06-08,370.0,68872,2.0,189
+Maldives,South-East Asia,2021-06-09,341.0,69213,2.0,191
+Maldives,South-East Asia,2021-06-10,323.0,69536,0.0,191
+Maldives,South-East Asia,2021-06-11,295.0,69831,1.0,192
+Maldives,South-East Asia,2021-06-12,246.0,70077,3.0,195
+Maldives,South-East Asia,2021-06-13,224.0,70301,2.0,197
+Maldives,South-East Asia,2021-06-14,372.0,70673,1.0,198
+Maldives,South-East Asia,2021-06-15,224.0,70897,0.0,198
+Maldives,South-East Asia,2021-06-16,241.0,71138,2.0,200
+Maldives,South-East Asia,2021-06-17,218.0,71356,1.0,201
+Maldives,South-East Asia,2021-06-18,142.0,71498,2.0,203
+Maldives,South-East Asia,2021-06-19,211.0,71709,2.0,205
+Maldives,South-East Asia,2021-06-20,187.0,71896,1.0,206
+Maldives,South-East Asia,2021-06-21,253.0,72149,0.0,206
+Maldives,South-East Asia,2021-06-22,145.0,72294,1.0,207
+Maldives,South-East Asia,2021-06-23,172.0,72466,0.0,207
+Maldives,South-East Asia,2021-06-24,212.0,72678,0.0,207
+Maldives,South-East Asia,2021-06-25,266.0,72944,1.0,208
+Maldives,South-East Asia,2021-06-26,150.0,73094,1.0,209
+Maldives,South-East Asia,2021-06-27,233.0,73327,0.0,209
+Maldives,South-East Asia,2021-06-28,155.0,73482,0.0,209
+Maldives,South-East Asia,2021-06-29,178.0,73660,1.0,210
+Maldives,South-East Asia,2021-06-30,138.0,73798,0.0,210
+Maldives,South-East Asia,2021-07-01,133.0,73931,3.0,213
+Maldives,South-East Asia,2021-07-02,143.0,74074,0.0,213
+Maldives,South-East Asia,2021-07-03,150.0,74224,0.0,213
+Maldives,South-East Asia,2021-07-04,127.0,74351,0.0,213
+Maldives,South-East Asia,2021-07-05,129.0,74480,0.0,213
+Maldives,South-East Asia,2021-07-06,105.0,74585,0.0,213
+Maldives,South-East Asia,2021-07-07,139.0,74724,0.0,213
+Maldives,South-East Asia,2021-07-08,124.0,74848,0.0,213
+Maldives,South-East Asia,2021-07-09,55.0,74903,0.0,213
+Maldives,South-East Asia,2021-07-10,90.0,74993,0.0,213
+Maldives,South-East Asia,2021-07-11,78.0,75071,1.0,214
+Maldives,South-East Asia,2021-07-12,91.0,75162,0.0,214
+Maldives,South-East Asia,2021-07-13,170.0,75332,0.0,214
+Maldives,South-East Asia,2021-07-14,73.0,75405,0.0,214
+Maldives,South-East Asia,2021-07-15,217.0,75622,1.0,215
+Maldives,South-East Asia,2021-07-16,114.0,75736,1.0,216
+Maldives,South-East Asia,2021-07-17,80.0,75816,0.0,216
+Maldives,South-East Asia,2021-07-18,63.0,75879,0.0,216
+Maldives,South-East Asia,2021-07-19,140.0,76019,0.0,216
+Maldives,South-East Asia,2021-07-20,169.0,76188,1.0,217
+Maldives,South-East Asia,2021-07-21,144.0,76332,1.0,218
+Maldives,South-East Asia,2021-07-22,122.0,76454,0.0,218
+Maldives,South-East Asia,2021-07-23,92.0,76546,0.0,218
+Maldives,South-East Asia,2021-07-24,81.0,76627,1.0,219
+Maldives,South-East Asia,2021-07-25,123.0,76750,0.0,219
+Maldives,South-East Asia,2021-07-26,98.0,76848,0.0,219
+Maldives,South-East Asia,2021-07-27,105.0,76953,1.0,220
+Maldives,South-East Asia,2021-07-28,141.0,77094,0.0,220
+Maldives,South-East Asia,2021-07-29,108.0,77202,0.0,220
+Maldives,South-East Asia,2021-07-30,107.0,77309,1.0,221
+Maldives,South-East Asia,2021-07-31,123.0,77432,0.0,221
+Maldives,South-East Asia,2021-08-01,115.0,77547,0.0,221
+Maldives,South-East Asia,2021-08-02,86.0,77633,0.0,221
+Maldives,South-East Asia,2021-08-03,125.0,77758,1.0,222
+Maldives,South-East Asia,2021-08-04,137.0,77895,0.0,222
+Maldives,South-East Asia,2021-08-05,104.0,77999,0.0,222
+Maldives,South-East Asia,2021-08-06,131.0,78130,0.0,222
+Maldives,South-East Asia,2021-08-07,113.0,78243,0.0,222
+Maldives,South-East Asia,2021-08-08,113.0,78356,0.0,222
+Maldives,South-East Asia,2021-08-09,108.0,78464,0.0,222
+Maldives,South-East Asia,2021-08-10,114.0,78578,0.0,222
+Maldives,South-East Asia,2021-08-11,112.0,78690,0.0,222
+Maldives,South-East Asia,2021-08-12,125.0,78815,0.0,222
+Maldives,South-East Asia,2021-08-13,111.0,78926,0.0,222
+Maldives,South-East Asia,2021-08-14,74.0,79000,0.0,222
+Maldives,South-East Asia,2021-08-15,137.0,79137,0.0,222
+Maldives,South-East Asia,2021-08-16,152.0,79289,0.0,222
+Maldives,South-East Asia,2021-08-17,130.0,79419,0.0,222
+Maldives,South-East Asia,2021-08-18,106.0,79525,0.0,222
+Maldives,South-East Asia,2021-08-19,134.0,79659,0.0,222
+Maldives,South-East Asia,2021-08-20,95.0,79754,0.0,222
+Maldives,South-East Asia,2021-08-21,110.0,79864,0.0,222
+Maldives,South-East Asia,2021-08-22,95.0,79959,1.0,223
+Maldives,South-East Asia,2021-08-23,108.0,80067,2.0,225
+Maldives,South-East Asia,2021-08-24,151.0,80218,0.0,225
+Maldives,South-East Asia,2021-08-25,110.0,80328,0.0,225
+Maldives,South-East Asia,2021-08-26,108.0,80436,0.0,225
+Maldives,South-East Asia,2021-08-27,103.0,80539,0.0,225
+Maldives,South-East Asia,2021-08-28,139.0,80678,0.0,225
+Maldives,South-East Asia,2021-08-29,113.0,80791,1.0,226
+Maldives,South-East Asia,2021-08-30,169.0,80960,0.0,226
+Maldives,South-East Asia,2021-08-31,152.0,81112,0.0,226
+Maldives,South-East Asia,2021-09-01,189.0,81301,0.0,226
+Maldives,South-East Asia,2021-09-02,173.0,81474,0.0,226
+Maldives,South-East Asia,2021-09-03,179.0,81653,0.0,226
+Maldives,South-East Asia,2021-09-04,157.0,81810,0.0,226
+Maldives,South-East Asia,2021-09-05,169.0,81979,0.0,226
+Maldives,South-East Asia,2021-09-06,120.0,82099,1.0,227
+Maldives,South-East Asia,2021-09-07,165.0,82264,0.0,227
+Maldives,South-East Asia,2021-09-08,100.0,82364,0.0,227
+Maldives,South-East Asia,2021-09-09,111.0,82475,0.0,227
+Maldives,South-East Asia,2021-09-10,103.0,82578,0.0,227
+Maldives,South-East Asia,2021-09-11,106.0,82684,0.0,227
+Maldives,South-East Asia,2021-09-12,138.0,82822,0.0,227
+Maldives,South-East Asia,2021-09-13,128.0,82950,0.0,227
+Maldives,South-East Asia,2021-09-14,120.0,83070,0.0,227
+Maldives,South-East Asia,2021-09-15,92.0,83162,0.0,227
+Maldives,South-East Asia,2021-09-16,86.0,83248,0.0,227
+Maldives,South-East Asia,2021-09-17,84.0,83332,2.0,229
+Maldives,South-East Asia,2021-09-18,162.0,83494,0.0,229
+Maldives,South-East Asia,2021-09-19,82.0,83576,0.0,229
+Maldives,South-East Asia,2021-09-20,79.0,83655,0.0,229
+Maldives,South-East Asia,2021-09-21,220.0,83875,0.0,229
+Maldives,South-East Asia,2021-09-22,142.0,84017,0.0,229
+Maldives,South-East Asia,2021-09-23,86.0,84103,0.0,229
+Maldives,South-East Asia,2021-09-24,61.0,84164,1.0,230
+Maldives,South-East Asia,2021-09-25,126.0,84290,1.0,231
+Maldives,South-East Asia,2021-09-26,72.0,84362,0.0,231
+Maldives,South-East Asia,2021-09-27,122.0,84484,0.0,231
+Maldives,South-East Asia,2021-09-28,95.0,84579,0.0,231
+Maldives,South-East Asia,2021-09-29,141.0,84720,0.0,231
+Maldives,South-East Asia,2021-09-30,89.0,84809,0.0,231
+Maldives,South-East Asia,2021-10-01,57.0,84866,0.0,231
+Maldives,South-East Asia,2021-10-02,105.0,84971,0.0,231
+Maldives,South-East Asia,2021-10-03,71.0,85042,0.0,231
+Maldives,South-East Asia,2021-10-04,65.0,85107,1.0,232
+Maldives,South-East Asia,2021-10-05,91.0,85198,0.0,232
+Maldives,South-East Asia,2021-10-06,80.0,85278,0.0,232
+Maldives,South-East Asia,2021-10-07,70.0,85348,0.0,232
+Maldives,South-East Asia,2021-10-08,46.0,85394,1.0,233
+Maldives,South-East Asia,2021-10-09,71.0,85465,1.0,234
+Maldives,South-East Asia,2021-10-10,83.0,85548,0.0,234
+Maldives,South-East Asia,2021-10-11,74.0,85622,0.0,234
+Maldives,South-East Asia,2021-10-12,110.0,85732,1.0,235
+Maldives,South-East Asia,2021-10-13,106.0,85838,2.0,237
+Maldives,South-East Asia,2021-10-14,94.0,85932,0.0,237
+Maldives,South-East Asia,2021-10-15,45.0,85977,0.0,237
+Maldives,South-East Asia,2021-10-16,111.0,86088,0.0,237
+Maldives,South-East Asia,2021-10-17,77.0,86165,1.0,238
+Maldives,South-East Asia,2021-10-18,46.0,86211,0.0,238
+Maldives,South-East Asia,2021-10-19,113.0,86324,1.0,239
+Maldives,South-East Asia,2021-10-20,95.0,86419,0.0,239
+Maldives,South-East Asia,2021-10-21,131.0,86550,1.0,240
+Maldives,South-East Asia,2021-10-22,55.0,86605,0.0,240
+Maldives,South-East Asia,2021-10-23,225.0,86830,0.0,240
+Maldives,South-East Asia,2021-10-24,92.0,86922,0.0,240
+Maldives,South-East Asia,2021-10-25,149.0,87071,0.0,240
+Maldives,South-East Asia,2021-10-26,115.0,87186,2.0,242
+Maldives,South-East Asia,2021-10-27,173.0,87359,0.0,242
+Maldives,South-East Asia,2021-10-28,128.0,87487,1.0,243
+Maldives,South-East Asia,2021-10-29,98.0,87585,0.0,243
+Maldives,South-East Asia,2021-10-30,53.0,87638,0.0,243
+Maldives,South-East Asia,2021-10-31,146.0,87784,0.0,243
+Maldives,South-East Asia,2021-11-01,131.0,87915,0.0,243
+Maldives,South-East Asia,2021-11-02,143.0,88058,0.0,243
+Maldives,South-East Asia,2021-11-03,219.0,88277,0.0,243
+Maldives,South-East Asia,2021-11-04,109.0,88386,1.0,244
+Maldives,South-East Asia,2021-11-05,130.0,88516,1.0,245
+Maldives,South-East Asia,2021-11-06,119.0,88635,0.0,245
+Maldives,South-East Asia,2021-11-07,182.0,88817,0.0,245
+Maldives,South-East Asia,2021-11-08,149.0,88966,0.0,245
+Maldives,South-East Asia,2021-11-09,160.0,89126,1.0,246
+Maldives,South-East Asia,2021-11-10,129.0,89255,0.0,246
+Maldives,South-East Asia,2021-11-11,109.0,89364,1.0,247
+Maldives,South-East Asia,2021-11-12,165.0,89529,0.0,247
+Maldives,South-East Asia,2021-11-13,184.0,89713,0.0,247
+Maldives,South-East Asia,2021-11-14,127.0,89840,0.0,247
+Maldives,South-East Asia,2021-11-15,159.0,89999,0.0,247
+Maldives,South-East Asia,2021-11-16,118.0,90117,0.0,247
+Maldives,South-East Asia,2021-11-17,149.0,90266,1.0,248
+Maldives,South-East Asia,2021-11-18,74.0,90340,0.0,248
+Maldives,South-East Asia,2021-11-19,124.0,90464,0.0,248
+Maldives,South-East Asia,2021-11-20,137.0,90601,0.0,248
+Maldives,South-East Asia,2021-11-21,124.0,90725,0.0,248
+Maldives,South-East Asia,2021-11-22,96.0,90821,0.0,248
+Maldives,South-East Asia,2021-11-23,123.0,90944,0.0,248
+Maldives,South-East Asia,2021-11-24,102.0,91046,0.0,248
+Maldives,South-East Asia,2021-11-25,76.0,91122,0.0,248
+Maldives,South-East Asia,2021-11-26,152.0,91274,0.0,248
+Maldives,South-East Asia,2021-11-27,76.0,91350,0.0,248
+Maldives,South-East Asia,2021-11-28,114.0,91464,0.0,248
+Maldives,South-East Asia,2021-11-29,79.0,91543,2.0,250
+Maldives,South-East Asia,2021-11-30,107.0,91650,0.0,250
+Maldives,South-East Asia,2021-12-01,100.0,91750,1.0,251
+Maldives,South-East Asia,2021-12-02,143.0,91893,0.0,251
+Maldives,South-East Asia,2021-12-03,100.0,91993,0.0,251
+Maldives,South-East Asia,2021-12-04,102.0,92095,2.0,253
+Maldives,South-East Asia,2021-12-05,116.0,92211,1.0,254
+Maldives,South-East Asia,2021-12-06,157.0,92368,1.0,255
+Maldives,South-East Asia,2021-12-07,133.0,92501,0.0,255
+Maldives,South-East Asia,2021-12-08,128.0,92629,0.0,255
+Maldives,South-East Asia,2021-12-09,125.0,92754,0.0,255
+Maldives,South-East Asia,2021-12-10,92.0,92846,1.0,256
+Maldives,South-East Asia,2021-12-11,218.0,93064,0.0,256
+Maldives,South-East Asia,2021-12-12,55.0,93119,2.0,258
+Maldives,South-East Asia,2021-12-13,127.0,93246,0.0,258
+Maldives,South-East Asia,2021-12-14,124.0,93370,0.0,258
+Maldives,South-East Asia,2021-12-15,162.0,93532,1.0,259
+Maldives,South-East Asia,2021-12-16,97.0,93629,0.0,259
+Maldives,South-East Asia,2021-12-17,104.0,93733,0.0,259
+Maldives,South-East Asia,2021-12-18,131.0,93864,0.0,259
+Maldives,South-East Asia,2021-12-19,93.0,93957,0.0,259
+Maldives,South-East Asia,2021-12-20,100.0,94057,1.0,260
+Maldives,South-East Asia,2021-12-21,121.0,94178,0.0,260
+Maldives,South-East Asia,2021-12-22,121.0,94299,0.0,260
+Maldives,South-East Asia,2021-12-23,145.0,94444,1.0,261
+Maldives,South-East Asia,2021-12-24,120.0,94564,0.0,261
+Maldives,South-East Asia,2021-12-25,168.0,94732,0.0,261
+Maldives,South-East Asia,2021-12-26,132.0,94864,0.0,261
+Maldives,South-East Asia,2021-12-27,168.0,95032,0.0,261
+Maldives,South-East Asia,2021-12-28,190.0,95222,1.0,262
+Maldives,South-East Asia,2021-12-29,198.0,95420,0.0,262
+Maldives,South-East Asia,2021-12-30,120.0,95540,0.0,262
+Maldives,South-East Asia,2021-12-31,160.0,95700,0.0,262
+Nepal,South-East Asia,2021-01-01,426.0,261019,9.0,2767
+Nepal,South-East Asia,2021-01-02,419.0,261438,9.0,2776
+Nepal,South-East Asia,2021-01-03,421.0,261859,9.0,2785
+Nepal,South-East Asia,2021-01-04,403.0,262262,10.0,2795
+Nepal,South-East Asia,2021-01-05,522.0,262784,12.0,2807
+Nepal,South-East Asia,2021-01-06,409.0,263193,7.0,2814
+Nepal,South-East Asia,2021-01-07,412.0,263605,8.0,2822
+Nepal,South-East Asia,2021-01-08,554.0,264159,7.0,2829
+Nepal,South-East Asia,2021-01-09,362.0,264521,4.0,2833
+Nepal,South-East Asia,2021-01-10,259.0,264780,8.0,2841
+Nepal,South-East Asia,2021-01-11,488.0,265268,13.0,2854
+Nepal,South-East Asia,2021-01-12,430.0,265698,6.0,2860
+Nepal,South-East Asia,2021-01-13,445.0,266143,6.0,2866
+Nepal,South-East Asia,2021-01-14,403.0,266546,7.0,2873
+Nepal,South-East Asia,2021-01-15,270.0,266816,8.0,2881
+Nepal,South-East Asia,2021-01-16,240.0,267056,6.0,2887
+Nepal,South-East Asia,2021-01-17,266.0,267322,5.0,2892
+Nepal,South-East Asia,2021-01-18,322.0,267644,6.0,2898
+Nepal,South-East Asia,2021-01-19,348.0,267992,4.0,2902
+Nepal,South-East Asia,2021-01-20,318.0,268310,6.0,2908
+Nepal,South-East Asia,2021-01-21,336.0,268646,4.0,2912
+Nepal,South-East Asia,2021-01-22,302.0,268948,7.0,2919
+Nepal,South-East Asia,2021-01-23,232.0,269180,8.0,2927
+Nepal,South-East Asia,2021-01-24,270.0,269450,7.0,2934
+Nepal,South-East Asia,2021-01-25,339.0,269789,10.0,2944
+Nepal,South-East Asia,2021-01-26,303.0,270092,6.0,2950
+Nepal,South-East Asia,2021-01-27,283.0,270375,3.0,2953
+Nepal,South-East Asia,2021-01-28,213.0,270588,0.0,2953
+Nepal,South-East Asia,2021-01-29,157.0,270745,5.0,2958
+Nepal,South-East Asia,2021-01-30,109.0,270854,2.0,2960
+Nepal,South-East Asia,2021-01-31,105.0,270959,2.0,2962
+Nepal,South-East Asia,2021-02-01,159.0,271118,0.0,2962
+Nepal,South-East Asia,2021-02-02,171.0,271289,1.0,2963
+Nepal,South-East Asia,2021-02-03,142.0,271431,1.0,2964
+Nepal,South-East Asia,2021-02-04,171.0,271602,2.0,2966
+Nepal,South-East Asia,2021-02-05,105.0,271707,2.0,2968
+Nepal,South-East Asia,2021-02-06,99.0,271806,0.0,2968
+Nepal,South-East Asia,2021-02-07,119.0,271925,3.0,2971
+Nepal,South-East Asia,2021-02-08,130.0,272055,7.0,2978
+Nepal,South-East Asia,2021-02-09,160.0,272215,2.0,2980
+Nepal,South-East Asia,2021-02-10,134.0,272349,0.0,2980
+Nepal,South-East Asia,2021-02-11,81.0,272430,5.0,2985
+Nepal,South-East Asia,2021-02-12,127.0,272557,2.0,2987
+Nepal,South-East Asia,2021-02-13,57.0,272614,0.0,2987
+Nepal,South-East Asia,2021-02-14,104.0,272718,0.0,2987
+Nepal,South-East Asia,2021-02-15,122.0,272840,1.0,2988
+Nepal,South-East Asia,2021-02-16,105.0,272945,0.0,2988
+Nepal,South-East Asia,2021-02-17,125.0,273070,0.0,2988
+Nepal,South-East Asia,2021-02-18,96.0,273166,3.0,2991
+Nepal,South-East Asia,2021-02-19,97.0,273263,3.0,2994
+Nepal,South-East Asia,2021-02-20,88.0,273351,0.0,2994
+Nepal,South-East Asia,2021-02-21,80.0,273431,0.0,2994
+Nepal,South-East Asia,2021-02-22,125.0,273556,0.0,2994
+Nepal,South-East Asia,2021-02-23,110.0,273666,4.0,2998
+Nepal,South-East Asia,2021-02-24,94.0,273760,1.0,2999
+Nepal,South-East Asia,2021-02-25,112.0,273872,1.0,3000
+Nepal,South-East Asia,2021-02-26,112.0,273984,4.0,3004
+Nepal,South-East Asia,2021-02-27,81.0,274065,2.0,3006
+Nepal,South-East Asia,2021-02-28,78.0,274143,1.0,3007
+Nepal,South-East Asia,2021-03-01,73.0,274216,3.0,3010
+Nepal,South-East Asia,2021-03-02,78.0,274294,0.0,3010
+Nepal,South-East Asia,2021-03-03,87.0,274381,0.0,3010
+Nepal,South-East Asia,2021-03-04,107.0,274488,0.0,3010
+Nepal,South-East Asia,2021-03-05,120.0,274608,0.0,3010
+Nepal,South-East Asia,2021-03-06,47.0,274655,0.0,3010
+Nepal,South-East Asia,2021-03-07,66.0,274721,0.0,3010
+Nepal,South-East Asia,2021-03-08,89.0,274810,1.0,3011
+Nepal,South-East Asia,2021-03-09,59.0,274869,1.0,3012
+Nepal,South-East Asia,2021-03-10,104.0,274973,0.0,3012
+Nepal,South-East Asia,2021-03-11,97.0,275070,0.0,3012
+Nepal,South-East Asia,2021-03-12,48.0,275118,0.0,3012
+Nepal,South-East Asia,2021-03-13,60.0,275178,2.0,3014
+Nepal,South-East Asia,2021-03-14,53.0,275231,0.0,3014
+Nepal,South-East Asia,2021-03-15,79.0,275310,0.0,3014
+Nepal,South-East Asia,2021-03-16,114.0,275424,0.0,3014
+Nepal,South-East Asia,2021-03-17,94.0,275518,0.0,3014
+Nepal,South-East Asia,2021-03-18,107.0,275625,1.0,3015
+Nepal,South-East Asia,2021-03-19,125.0,275750,1.0,3016
+Nepal,South-East Asia,2021-03-20,79.0,275829,0.0,3016
+Nepal,South-East Asia,2021-03-21,77.0,275906,0.0,3016
+Nepal,South-East Asia,2021-03-22,150.0,276056,3.0,3019
+Nepal,South-East Asia,2021-03-23,188.0,276244,0.0,3019
+Nepal,South-East Asia,2021-03-24,145.0,276389,1.0,3020
+Nepal,South-East Asia,2021-03-25,120.0,276509,0.0,3020
+Nepal,South-East Asia,2021-03-26,156.0,276665,4.0,3024
+Nepal,South-East Asia,2021-03-27,85.0,276750,3.0,3027
+Nepal,South-East Asia,2021-03-28,89.0,276839,0.0,3027
+Nepal,South-East Asia,2021-03-29,141.0,276980,0.0,3027
+Nepal,South-East Asia,2021-03-30,167.0,277147,3.0,3030
+Nepal,South-East Asia,2021-03-31,162.0,277309,0.0,3030
+Nepal,South-East Asia,2021-04-01,152.0,277461,1.0,3031
+Nepal,South-East Asia,2021-04-02,179.0,277640,0.0,3031
+Nepal,South-East Asia,2021-04-03,128.0,277768,1.0,3032
+Nepal,South-East Asia,2021-04-04,176.0,277944,0.0,3032
+Nepal,South-East Asia,2021-04-05,266.0,278210,4.0,3036
+Nepal,South-East Asia,2021-04-06,260.0,278470,0.0,3036
+Nepal,South-East Asia,2021-04-07,298.0,278768,2.0,3038
+Nepal,South-East Asia,2021-04-08,332.0,279100,0.0,3038
+Nepal,South-East Asia,2021-04-09,288.0,279388,0.0,3038
+Nepal,South-East Asia,2021-04-10,337.0,279725,1.0,3039
+Nepal,South-East Asia,2021-04-11,303.0,280028,1.0,3040
+Nepal,South-East Asia,2021-04-12,496.0,280524,13.0,3053
+Nepal,South-East Asia,2021-04-13,460.0,280984,5.0,3058
+Nepal,South-East Asia,2021-04-14,580.0,281564,3.0,3061
+Nepal,South-East Asia,2021-04-15,490.0,282054,5.0,3066
+Nepal,South-East Asia,2021-04-16,836.0,282890,4.0,3070
+Nepal,South-East Asia,2021-04-17,768.0,283658,5.0,3075
+Nepal,South-East Asia,2021-04-18,1015.0,284673,8.0,3083
+Nepal,South-East Asia,2021-04-19,1227.0,285900,8.0,3091
+Nepal,South-East Asia,2021-04-20,1667.0,287567,11.0,3102
+Nepal,South-East Asia,2021-04-21,2220.0,289787,10.0,3112
+Nepal,South-East Asia,2021-04-22,2365.0,292152,5.0,3117
+Nepal,South-East Asia,2021-04-23,2449.0,294601,5.0,3122
+Nepal,South-East Asia,2021-04-24,2486.0,297087,14.0,3136
+Nepal,South-East Asia,2021-04-25,3032.0,300119,28.0,3164
+Nepal,South-East Asia,2021-04-26,3442.0,303561,12.0,3176
+Nepal,South-East Asia,2021-04-27,4364.0,307925,18.0,3194
+Nepal,South-East Asia,2021-04-28,4774.0,312699,17.0,3211
+Nepal,South-East Asia,2021-04-29,4831.0,317530,35.0,3246
+Nepal,South-East Asia,2021-04-30,5657.0,323187,33.0,3279
+Nepal,South-East Asia,2021-05-01,5706.0,328893,19.0,3298
+Nepal,South-East Asia,2021-05-02,7137.0,336030,27.0,3325
+Nepal,South-East Asia,2021-05-03,7388.0,343418,37.0,3362
+Nepal,South-East Asia,2021-05-04,7587.0,351005,55.0,3417
+Nepal,South-East Asia,2021-05-05,8605.0,359610,58.0,3475
+Nepal,South-East Asia,2021-05-06,8970.0,368580,54.0,3529
+Nepal,South-East Asia,2021-05-07,9023.0,377603,50.0,3579
+Nepal,South-East Asia,2021-05-08,8287.0,385890,53.0,3632
+Nepal,South-East Asia,2021-05-09,8777.0,394667,88.0,3720
+Nepal,South-East Asia,2021-05-10,9127.0,403794,139.0,3859
+Nepal,South-East Asia,2021-05-11,9317.0,413111,225.0,4084
+Nepal,South-East Asia,2021-05-12,9238.0,422349,168.0,4252
+Nepal,South-East Asia,2021-05-13,8842.0,431191,214.0,4466
+Nepal,South-East Asia,2021-05-14,8467.0,439658,203.0,4669
+Nepal,South-East Asia,2021-05-15,8046.0,447704,187.0,4856
+Nepal,South-East Asia,2021-05-16,7316.0,455020,145.0,5001
+Nepal,South-East Asia,2021-05-17,9198.0,464218,214.0,5215
+Nepal,South-East Asia,2021-05-18,8136.0,472354,196.0,5411
+Nepal,South-East Asia,2021-05-19,8064.0,480418,246.0,5657
+Nepal,South-East Asia,2021-05-20,8227.0,488645,190.0,5847
+Nepal,South-East Asia,2021-05-21,8407.0,497052,177.0,6024
+Nepal,South-East Asia,2021-05-22,8591.0,505643,129.0,6153
+Nepal,South-East Asia,2021-05-23,7598.0,513241,193.0,6346
+Nepal,South-East Asia,2021-05-24,7220.0,520461,185.0,6531
+Nepal,South-East Asia,2021-05-25,8387.0,528848,169.0,6700
+Nepal,South-East Asia,2021-05-26,6677.0,535525,145.0,6845
+Nepal,South-East Asia,2021-05-27,6731.0,542256,106.0,6951
+Nepal,South-East Asia,2021-05-28,6855.0,549111,96.0,7047
+Nepal,South-East Asia,2021-05-29,4311.0,553422,116.0,7163
+Nepal,South-East Asia,2021-05-30,3702.0,557124,109.0,7272
+Nepal,South-East Asia,2021-05-31,4178.0,561302,114.0,7386
+Nepal,South-East Asia,2021-06-01,5285.0,566587,68.0,7454
+Nepal,South-East Asia,2021-06-02,4524.0,571111,101.0,7555
+Nepal,South-East Asia,2021-06-03,5825.0,576936,75.0,7630
+Nepal,South-East Asia,2021-06-04,4624.0,581560,101.0,7731
+Nepal,South-East Asia,2021-06-05,3540.0,585100,68.0,7799
+Nepal,South-East Asia,2021-06-06,3024.0,588124,99.0,7898
+Nepal,South-East Asia,2021-06-07,3370.0,591494,92.0,7990
+Nepal,South-East Asia,2021-06-08,3870.0,595364,108.0,8098
+Nepal,South-East Asia,2021-06-09,3449.0,598813,81.0,8179
+Nepal,South-East Asia,2021-06-10,2874.0,601687,59.0,8238
+Nepal,South-East Asia,2021-06-11,2709.0,604396,67.0,8305
+Nepal,South-East Asia,2021-06-12,2382.0,606778,61.0,8366
+Nepal,South-East Asia,2021-06-13,1694.0,608472,46.0,8412
+Nepal,South-East Asia,2021-06-14,2049.0,610521,53.0,8465
+Nepal,South-East Asia,2021-06-15,1681.0,612202,41.0,8506
+Nepal,South-East Asia,2021-06-16,2014.0,614216,52.0,8558
+Nepal,South-East Asia,2021-06-17,1768.0,615984,39.0,8597
+Nepal,South-East Asia,2021-06-18,1963.0,617947,44.0,8641
+Nepal,South-East Asia,2021-06-19,1688.0,619635,34.0,8675
+Nepal,South-East Asia,2021-06-20,1421.0,621056,51.0,8726
+Nepal,South-East Asia,2021-06-21,1584.0,622640,46.0,8772
+Nepal,South-East Asia,2021-06-22,3703.0,626343,41.0,8813
+Nepal,South-East Asia,2021-06-23,1511.0,627854,81.0,8894
+Nepal,South-East Asia,2021-06-24,1577.0,629431,24.0,8918
+Nepal,South-East Asia,2021-06-25,1721.0,631152,27.0,8945
+Nepal,South-East Asia,2021-06-26,1174.0,632326,30.0,8975
+Nepal,South-East Asia,2021-06-27,1353.0,633679,34.0,9009
+Nepal,South-East Asia,2021-06-28,1509.0,635188,42.0,9051
+Nepal,South-East Asia,2021-06-29,1728.0,636916,20.0,9071
+Nepal,South-East Asia,2021-06-30,1889.0,638805,41.0,9112
+Nepal,South-East Asia,2021-07-01,1857.0,640662,33.0,9145
+Nepal,South-East Asia,2021-07-02,1391.0,642053,34.0,9179
+Nepal,South-East Asia,2021-07-03,1527.0,643580,19.0,9198
+Nepal,South-East Asia,2021-07-04,1042.0,644622,27.0,9225
+Nepal,South-East Asia,2021-07-05,1745.0,646367,23.0,9248
+Nepal,South-East Asia,2021-07-06,1718.0,648085,15.0,9263
+Nepal,South-East Asia,2021-07-07,2077.0,650162,28.0,9291
+Nepal,South-East Asia,2021-07-08,1218.0,651380,29.0,9320
+Nepal,South-East Asia,2021-07-09,1479.0,652859,20.0,9340
+Nepal,South-East Asia,2021-07-10,1353.0,654212,22.0,9362
+Nepal,South-East Asia,2021-07-11,1237.0,655449,20.0,9382
+Nepal,South-East Asia,2021-07-12,1690.0,657139,18.0,9400
+Nepal,South-East Asia,2021-07-13,1639.0,658778,12.0,9412
+Nepal,South-East Asia,2021-07-14,2010.0,660788,18.0,9430
+Nepal,South-East Asia,2021-07-15,1782.0,662570,33.0,9463
+Nepal,South-East Asia,2021-07-16,2006.0,664576,43.0,9506
+Nepal,South-East Asia,2021-07-17,1310.0,665886,21.0,9527
+Nepal,South-East Asia,2021-07-18,1223.0,667109,23.0,9550
+Nepal,South-East Asia,2021-07-19,1642.0,668751,32.0,9582
+Nepal,South-East Asia,2021-07-20,2202.0,670953,25.0,9607
+Nepal,South-East Asia,2021-07-21,1918.0,672871,30.0,9637
+Nepal,South-East Asia,2021-07-22,1855.0,674726,24.0,9661
+Nepal,South-East Asia,2021-07-23,1982.0,676708,18.0,9679
+Nepal,South-East Asia,2021-07-24,2309.0,679017,16.0,9695
+Nepal,South-East Asia,2021-07-25,1539.0,680556,18.0,9713
+Nepal,South-East Asia,2021-07-26,2391.0,682947,25.0,9738
+Nepal,South-East Asia,2021-07-27,2726.0,685673,20.0,9758
+Nepal,South-East Asia,2021-07-28,2634.0,688307,33.0,9791
+Nepal,South-East Asia,2021-07-29,2335.0,690642,16.0,9807
+Nepal,South-East Asia,2021-07-30,2467.0,693109,27.0,9834
+Nepal,South-East Asia,2021-07-31,2280.0,695389,23.0,9857
+Nepal,South-East Asia,2021-08-01,1981.0,697370,18.0,9875
+Nepal,South-East Asia,2021-08-02,2279.0,699649,23.0,9898
+Nepal,South-East Asia,2021-08-03,2448.0,702097,24.0,9922
+Nepal,South-East Asia,2021-08-04,2975.0,705072,35.0,9957
+Nepal,South-East Asia,2021-08-05,3007.0,708079,37.0,9994
+Nepal,South-East Asia,2021-08-06,2430.0,710509,25.0,10019
+Nepal,South-East Asia,2021-08-07,2231.0,712740,19.0,10038
+Nepal,South-East Asia,2021-08-08,2137.0,714877,55.0,10093
+Nepal,South-East Asia,2021-08-09,2609.0,717486,22.0,10115
+Nepal,South-East Asia,2021-08-10,3194.0,720680,35.0,10150
+Nepal,South-East Asia,2021-08-11,2616.0,723296,30.0,10180
+Nepal,South-East Asia,2021-08-12,2473.0,725769,32.0,10212
+Nepal,South-East Asia,2021-08-13,2763.0,728532,27.0,10239
+Nepal,South-East Asia,2021-08-14,1947.0,730479,20.0,10259
+Nepal,South-East Asia,2021-08-15,1793.0,732272,33.0,10292
+Nepal,South-East Asia,2021-08-16,2566.0,734838,35.0,10327
+Nepal,South-East Asia,2021-08-17,2456.0,737294,27.0,10354
+Nepal,South-East Asia,2021-08-18,2613.0,739907,42.0,10396
+Nepal,South-East Asia,2021-08-19,2321.0,742228,33.0,10429
+Nepal,South-East Asia,2021-08-20,2079.0,744307,26.0,10455
+Nepal,South-East Asia,2021-08-21,1424.0,745731,30.0,10485
+Nepal,South-East Asia,2021-08-22,1702.0,747433,24.0,10509
+Nepal,South-East Asia,2021-08-23,1548.0,748981,24.0,10533
+Nepal,South-East Asia,2021-08-24,2020.0,751001,35.0,10568
+Nepal,South-East Asia,2021-08-25,1862.0,752863,44.0,10612
+Nepal,South-East Asia,2021-08-26,2052.0,754915,26.0,10638
+Nepal,South-East Asia,2021-08-27,1577.0,756492,25.0,10663
+Nepal,South-East Asia,2021-08-28,1516.0,758008,27.0,10690
+Nepal,South-East Asia,2021-08-29,1214.0,759222,24.0,10714
+Nepal,South-East Asia,2021-08-30,1902.0,761124,16.0,10730
+Nepal,South-East Asia,2021-08-31,1523.0,762647,20.0,10750
+Nepal,South-East Asia,2021-09-01,1648.0,764295,20.0,10770
+Nepal,South-East Asia,2021-09-02,1619.0,765914,16.0,10786
+Nepal,South-East Asia,2021-09-03,1357.0,767271,23.0,10809
+Nepal,South-East Asia,2021-09-04,1024.0,768295,9.0,10818
+Nepal,South-East Asia,2021-09-05,976.0,769271,20.0,10838
+Nepal,South-East Asia,2021-09-06,1488.0,770759,20.0,10858
+Nepal,South-East Asia,2021-09-07,1423.0,772182,21.0,10879
+Nepal,South-East Asia,2021-09-08,1347.0,773529,10.0,10889
+Nepal,South-East Asia,2021-09-09,1058.0,774587,14.0,10903
+Nepal,South-East Asia,2021-09-10,961.0,775548,21.0,10924
+Nepal,South-East Asia,2021-09-11,777.0,776325,12.0,10936
+Nepal,South-East Asia,2021-09-12,838.0,777163,13.0,10949
+Nepal,South-East Asia,2021-09-13,1149.0,778312,16.0,10965
+Nepal,South-East Asia,2021-09-14,1180.0,779492,19.0,10984
+Nepal,South-East Asia,2021-09-15,1332.0,780824,7.0,10991
+Nepal,South-East Asia,2021-09-16,1165.0,781989,11.0,11002
+Nepal,South-East Asia,2021-09-17,1086.0,783075,10.0,11012
+Nepal,South-East Asia,2021-09-18,835.0,783910,16.0,11028
+Nepal,South-East Asia,2021-09-19,656.0,784566,12.0,11040
+Nepal,South-East Asia,2021-09-20,975.0,785541,8.0,11048
+Nepal,South-East Asia,2021-09-21,1036.0,786577,5.0,11053
+Nepal,South-East Asia,2021-09-22,1251.0,787828,6.0,11059
+Nepal,South-East Asia,2021-09-23,941.0,788769,13.0,11072
+Nepal,South-East Asia,2021-09-24,1103.0,789872,9.0,11081
+Nepal,South-East Asia,2021-09-25,790.0,790662,6.0,11087
+Nepal,South-East Asia,2021-09-26,730.0,791392,9.0,11096
+Nepal,South-East Asia,2021-09-27,975.0,792367,7.0,11103
+Nepal,South-East Asia,2021-09-28,904.0,793271,12.0,11115
+Nepal,South-East Asia,2021-09-29,892.0,794163,8.0,11123
+Nepal,South-East Asia,2021-09-30,898.0,795061,12.0,11135
+Nepal,South-East Asia,2021-10-01,898.0,795959,13.0,11148
+Nepal,South-East Asia,2021-10-02,659.0,796618,9.0,11157
+Nepal,South-East Asia,2021-10-03,574.0,797192,7.0,11164
+Nepal,South-East Asia,2021-10-04,812.0,798004,10.0,11174
+Nepal,South-East Asia,2021-10-05,762.0,798766,6.0,11180
+Nepal,South-East Asia,2021-10-06,849.0,799615,12.0,11192
+Nepal,South-East Asia,2021-10-07,667.0,800282,8.0,11200
+Nepal,South-East Asia,2021-10-08,715.0,800997,10.0,11210
+Nepal,South-East Asia,2021-10-09,636.0,801633,11.0,11221
+Nepal,South-East Asia,2021-10-10,565.0,802198,10.0,11231
+Nepal,South-East Asia,2021-10-11,663.0,802861,12.0,11243
+Nepal,South-East Asia,2021-10-12,691.0,803552,14.0,11257
+Nepal,South-East Asia,2021-10-13,326.0,803878,4.0,11261
+Nepal,South-East Asia,2021-10-14,398.0,804276,8.0,11269
+Nepal,South-East Asia,2021-10-15,240.0,804516,8.0,11277
+Nepal,South-East Asia,2021-10-16,136.0,804652,1.0,11278
+Nepal,South-East Asia,2021-10-17,385.0,805037,6.0,11284
+Nepal,South-East Asia,2021-10-18,523.0,805560,9.0,11293
+Nepal,South-East Asia,2021-10-19,957.0,806517,12.0,11305
+Nepal,South-East Asia,2021-10-20,535.0,807052,13.0,11318
+Nepal,South-East Asia,2021-10-21,470.0,807522,8.0,11326
+Nepal,South-East Asia,2021-10-22,574.0,808096,11.0,11337
+Nepal,South-East Asia,2021-10-23,438.0,808534,8.0,11345
+Nepal,South-East Asia,2021-10-24,522.0,809056,3.0,11348
+Nepal,South-East Asia,2021-10-25,673.0,809729,13.0,11361
+Nepal,South-East Asia,2021-10-26,569.0,810298,11.0,11372
+Nepal,South-East Asia,2021-10-27,582.0,810880,8.0,11380
+Nepal,South-East Asia,2021-10-28,527.0,811407,2.0,11382
+Nepal,South-East Asia,2021-10-29,490.0,811897,6.0,11388
+Nepal,South-East Asia,2021-10-30,297.0,812194,11.0,11399
+Nepal,South-East Asia,2021-10-31,376.0,812570,8.0,11407
+Nepal,South-East Asia,2021-11-01,441.0,813011,9.0,11416
+Nepal,South-East Asia,2021-11-02,422.0,813433,11.0,11427
+Nepal,South-East Asia,2021-11-03,395.0,813828,7.0,11434
+Nepal,South-East Asia,2021-11-04,287.0,814115,2.0,11436
+Nepal,South-East Asia,2021-11-05,174.0,814289,2.0,11438
+Nepal,South-East Asia,2021-11-06,128.0,814417,1.0,11439
+Nepal,South-East Asia,2021-11-07,141.0,814558,9.0,11448
+Nepal,South-East Asia,2021-11-08,371.0,814929,5.0,11453
+Nepal,South-East Asia,2021-11-09,443.0,815372,1.0,11454
+Nepal,South-East Asia,2021-11-10,387.0,815759,6.0,11460
+Nepal,South-East Asia,2021-11-11,301.0,816060,6.0,11466
+Nepal,South-East Asia,2021-11-12,355.0,816415,3.0,11469
+Nepal,South-East Asia,2021-11-13,260.0,816675,2.0,11471
+Nepal,South-East Asia,2021-11-14,291.0,816966,6.0,11477
+Nepal,South-East Asia,2021-11-15,367.0,817333,1.0,11478
+Nepal,South-East Asia,2021-11-16,339.0,817672,4.0,11482
+Nepal,South-East Asia,2021-11-17,363.0,818035,1.0,11483
+Nepal,South-East Asia,2021-11-18,272.0,818307,6.0,11489
+Nepal,South-East Asia,2021-11-19,271.0,818578,5.0,11494
+Nepal,South-East Asia,2021-11-20,209.0,818787,1.0,11495
+Nepal,South-East Asia,2021-11-21,232.0,819019,1.0,11496
+Nepal,South-East Asia,2021-11-22,367.0,819386,4.0,11500
+Nepal,South-East Asia,2021-11-23,313.0,819699,9.0,11509
+Nepal,South-East Asia,2021-11-24,305.0,820004,4.0,11513
+Nepal,South-East Asia,2021-11-25,281.0,820285,3.0,11516
+Nepal,South-East Asia,2021-11-26,242.0,820527,2.0,11518
+Nepal,South-East Asia,2021-11-27,197.0,820724,3.0,11521
+Nepal,South-East Asia,2021-11-28,154.0,820878,2.0,11523
+Nepal,South-East Asia,2021-11-29,243.0,821121,1.0,11524
+Nepal,South-East Asia,2021-11-30,245.0,821366,2.0,11526
+Nepal,South-East Asia,2021-12-01,285.0,821651,3.0,11529
+Nepal,South-East Asia,2021-12-02,298.0,821949,6.0,11535
+Nepal,South-East Asia,2021-12-03,223.0,822172,0.0,11535
+Nepal,South-East Asia,2021-12-04,220.0,822392,5.0,11540
+Nepal,South-East Asia,2021-12-05,200.0,822592,1.0,11541
+Nepal,South-East Asia,2021-12-06,238.0,822830,2.0,11543
+Nepal,South-East Asia,2021-12-07,272.0,823102,2.0,11545
+Nepal,South-East Asia,2021-12-08,255.0,823357,2.0,11547
+Nepal,South-East Asia,2021-12-09,197.0,823554,2.0,11549
+Nepal,South-East Asia,2021-12-10,232.0,823786,3.0,11552
+Nepal,South-East Asia,2021-12-11,194.0,823980,1.0,11553
+Nepal,South-East Asia,2021-12-12,242.0,824222,1.0,11554
+Nepal,South-East Asia,2021-12-13,313.0,824535,3.0,11557
+Nepal,South-East Asia,2021-12-14,229.0,824764,2.0,11559
+Nepal,South-East Asia,2021-12-15,252.0,825016,6.0,11565
+Nepal,South-East Asia,2021-12-16,160.0,825176,2.0,11567
+Nepal,South-East Asia,2021-12-17,269.0,825445,3.0,11570
+Nepal,South-East Asia,2021-12-18,158.0,825603,2.0,11572
+Nepal,South-East Asia,2021-12-19,133.0,825736,1.0,11573
+Nepal,South-East Asia,2021-12-20,218.0,825954,1.0,11574
+Nepal,South-East Asia,2021-12-21,252.0,826206,3.0,11577
+Nepal,South-East Asia,2021-12-22,217.0,826423,2.0,11579
+Nepal,South-East Asia,2021-12-23,241.0,826664,2.0,11581
+Nepal,South-East Asia,2021-12-24,237.0,826901,1.0,11582
+Nepal,South-East Asia,2021-12-25,157.0,827058,1.0,11583
+Nepal,South-East Asia,2021-12-26,213.0,827271,2.0,11585
+Nepal,South-East Asia,2021-12-27,251.0,827522,1.0,11586
+Nepal,South-East Asia,2021-12-28,241.0,827763,2.0,11588
+Nepal,South-East Asia,2021-12-29,209.0,827972,2.0,11590
+Nepal,South-East Asia,2021-12-30,235.0,828207,0.0,11590
+Nepal,South-East Asia,2021-12-31,224.0,828431,4.0,11594
+North Korea,South-East Asia,2021-01-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-01-31,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-02-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-03-31,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-04-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-05-31,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-06-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-07-31,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-08-31,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-09-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-10-31,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-11-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-01,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-02,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-03,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-04,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-05,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-06,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-07,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-08,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-09,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-10,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-11,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-12,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-13,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-14,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-15,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-16,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-17,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-18,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-19,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-20,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-21,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-22,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-23,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-24,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-25,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-26,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-27,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-28,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-29,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-30,0.0,0,0.0,0
+North Korea,South-East Asia,2021-12-31,0.0,0,0.0,0
+Sri Lanka,South-East Asia,2021-01-01,557.0,43856,0.0,204
+Sri Lanka,South-East Asia,2021-01-02,515.0,44371,7.0,211
+Sri Lanka,South-East Asia,2021-01-03,403.0,44774,2.0,213
+Sri Lanka,South-East Asia,2021-01-04,468.0,45242,2.0,215
+Sri Lanka,South-East Asia,2021-01-05,484.0,45726,2.0,217
+Sri Lanka,South-East Asia,2021-01-06,522.0,46248,2.0,219
+Sri Lanka,South-East Asia,2021-01-07,532.0,46780,0.0,219
+Sri Lanka,South-East Asia,2021-01-08,525.0,47305,3.0,222
+Sri Lanka,South-East Asia,2021-01-09,535.0,47840,7.0,229
+Sri Lanka,South-East Asia,2021-01-10,540.0,48380,3.0,232
+Sri Lanka,South-East Asia,2021-01-11,569.0,48949,0.0,232
+Sri Lanka,South-East Asia,2021-01-12,588.0,49537,12.0,244
+Sri Lanka,South-East Asia,2021-01-13,692.0,50229,3.0,247
+Sri Lanka,South-East Asia,2021-01-14,670.0,50899,4.0,251
+Sri Lanka,South-East Asia,2021-01-15,695.0,51594,4.0,255
+Sri Lanka,South-East Asia,2021-01-16,719.0,52313,1.0,256
+Sri Lanka,South-East Asia,2021-01-17,749.0,53062,8.0,264
+Sri Lanka,South-East Asia,2021-01-18,688.0,53750,6.0,270
+Sri Lanka,South-East Asia,2021-01-19,669.0,54419,3.0,273
+Sri Lanka,South-East Asia,2021-01-20,770.0,55189,1.0,274
+Sri Lanka,South-East Asia,2021-01-21,887.0,56076,2.0,276
+Sri Lanka,South-East Asia,2021-01-22,787.0,56863,2.0,278
+Sri Lanka,South-East Asia,2021-01-23,724.0,57587,2.0,280
+Sri Lanka,South-East Asia,2021-01-24,843.0,58430,3.0,283
+Sri Lanka,South-East Asia,2021-01-25,737.0,59167,0.0,283
+Sri Lanka,South-East Asia,2021-01-26,755.0,59922,5.0,288
+Sri Lanka,South-East Asia,2021-01-27,772.0,60694,2.0,290
+Sri Lanka,South-East Asia,2021-01-28,892.0,61586,7.0,297
+Sri Lanka,South-East Asia,2021-01-29,859.0,62445,8.0,305
+Sri Lanka,South-East Asia,2021-01-30,848.0,63293,8.0,313
+Sri Lanka,South-East Asia,2021-01-31,864.0,64157,3.0,316
+Sri Lanka,South-East Asia,2021-02-01,826.0,64983,7.0,323
+Sri Lanka,South-East Asia,2021-02-02,715.0,65698,7.0,330
+Sri Lanka,South-East Asia,2021-02-03,711.0,66409,2.0,332
+Sri Lanka,South-East Asia,2021-02-04,706.0,67115,7.0,339
+Sri Lanka,South-East Asia,2021-02-05,735.0,67850,4.0,343
+Sri Lanka,South-East Asia,2021-02-06,726.0,68576,8.0,351
+Sri Lanka,South-East Asia,2021-02-07,772.0,69348,5.0,356
+Sri Lanka,South-East Asia,2021-02-08,887.0,70235,9.0,365
+Sri Lanka,South-East Asia,2021-02-09,976.0,71211,5.0,370
+Sri Lanka,South-East Asia,2021-02-10,963.0,72174,5.0,375
+Sri Lanka,South-East Asia,2021-02-11,942.0,73116,4.0,379
+Sri Lanka,South-East Asia,2021-02-12,940.0,74056,5.0,384
+Sri Lanka,South-East Asia,2021-02-13,796.0,74852,0.0,384
+Sri Lanka,South-East Asia,2021-02-14,802.0,75654,13.0,397
+Sri Lanka,South-East Asia,2021-02-15,774.0,76428,6.0,403
+Sri Lanka,South-East Asia,2021-02-16,756.0,77184,6.0,409
+Sri Lanka,South-East Asia,2021-02-17,722.0,77906,13.0,422
+Sri Lanka,South-East Asia,2021-02-18,514.0,78420,8.0,430
+Sri Lanka,South-East Asia,2021-02-19,517.0,78937,3.0,433
+Sri Lanka,South-East Asia,2021-02-20,543.0,79480,2.0,435
+Sri Lanka,South-East Asia,2021-02-21,519.0,79999,10.0,445
+Sri Lanka,South-East Asia,2021-02-22,518.0,80517,5.0,450
+Sri Lanka,South-East Asia,2021-02-23,492.0,81009,3.0,453
+Sri Lanka,South-East Asia,2021-02-24,458.0,81467,4.0,457
+Sri Lanka,South-East Asia,2021-02-25,466.0,81933,2.0,459
+Sri Lanka,South-East Asia,2021-02-26,497.0,82430,5.0,464
+Sri Lanka,South-East Asia,2021-02-27,460.0,82890,0.0,464
+Sri Lanka,South-East Asia,2021-02-28,352.0,83242,7.0,471
+Sri Lanka,South-East Asia,2021-03-01,310.0,83552,5.0,476
+Sri Lanka,South-East Asia,2021-03-02,318.0,83870,7.0,483
+Sri Lanka,South-East Asia,2021-03-03,356.0,84226,1.0,484
+Sri Lanka,South-East Asia,2021-03-04,384.0,84610,5.0,489
+Sri Lanka,South-East Asia,2021-03-05,350.0,84960,4.0,493
+Sri Lanka,South-East Asia,2021-03-06,376.0,85336,0.0,493
+Sri Lanka,South-East Asia,2021-03-07,359.0,85695,9.0,502
+Sri Lanka,South-East Asia,2021-03-08,344.0,86039,5.0,507
+Sri Lanka,South-East Asia,2021-03-09,304.0,86343,4.0,511
+Sri Lanka,South-East Asia,2021-03-10,342.0,86685,0.0,511
+Sri Lanka,South-East Asia,2021-03-11,304.0,86989,9.0,520
+Sri Lanka,South-East Asia,2021-03-12,297.0,87286,5.0,525
+Sri Lanka,South-East Asia,2021-03-13,314.0,87600,1.0,526
+Sri Lanka,South-East Asia,2021-03-14,307.0,87907,1.0,527
+Sri Lanka,South-East Asia,2021-03-15,331.0,88238,5.0,532
+Sri Lanka,South-East Asia,2021-03-16,286.0,88524,2.0,534
+Sri Lanka,South-East Asia,2021-03-17,338.0,88862,3.0,537
+Sri Lanka,South-East Asia,2021-03-18,313.0,89175,1.0,538
+Sri Lanka,South-East Asia,2021-03-19,322.0,89497,6.0,544
+Sri Lanka,South-East Asia,2021-03-20,349.0,89846,0.0,544
+Sri Lanka,South-East Asia,2021-03-21,354.0,90200,2.0,546
+Sri Lanka,South-East Asia,2021-03-22,314.0,90514,5.0,551
+Sri Lanka,South-East Asia,2021-03-23,251.0,90765,1.0,552
+Sri Lanka,South-East Asia,2021-03-24,253.0,91018,0.0,552
+Sri Lanka,South-East Asia,2021-03-25,271.0,91289,2.0,554
+Sri Lanka,South-East Asia,2021-03-26,272.0,91561,3.0,557
+Sri Lanka,South-East Asia,2021-03-27,278.0,91839,1.0,558
+Sri Lanka,South-East Asia,2021-03-28,249.0,92088,3.0,561
+Sri Lanka,South-East Asia,2021-03-29,215.0,92303,5.0,566
+Sri Lanka,South-East Asia,2021-03-30,139.0,92442,0.0,566
+Sri Lanka,South-East Asia,2021-03-31,264.0,92706,2.0,568
+Sri Lanka,South-East Asia,2021-04-01,211.0,92917,3.0,571
+Sri Lanka,South-East Asia,2021-04-02,211.0,93128,0.0,571
+Sri Lanka,South-East Asia,2021-04-03,167.0,93295,4.0,575
+Sri Lanka,South-East Asia,2021-04-04,141.0,93436,6.0,581
+Sri Lanka,South-East Asia,2021-04-05,159.0,93595,0.0,581
+Sri Lanka,South-East Asia,2021-04-06,177.0,93772,7.0,588
+Sri Lanka,South-East Asia,2021-04-07,221.0,93993,3.0,591
+Sri Lanka,South-East Asia,2021-04-08,343.0,94336,2.0,593
+Sri Lanka,South-East Asia,2021-04-09,228.0,94564,0.0,593
+Sri Lanka,South-East Asia,2021-04-10,284.0,94848,2.0,595
+Sri Lanka,South-East Asia,2021-04-11,283.0,95131,3.0,598
+Sri Lanka,South-East Asia,2021-04-12,263.0,95394,0.0,598
+Sri Lanka,South-East Asia,2021-04-13,226.0,95620,4.0,602
+Sri Lanka,South-East Asia,2021-04-14,117.0,95737,2.0,604
+Sri Lanka,South-East Asia,2021-04-15,212.0,95949,4.0,608
+Sri Lanka,South-East Asia,2021-04-16,237.0,96186,7.0,615
+Sri Lanka,South-East Asia,2021-04-17,253.0,96439,2.0,617
+Sri Lanka,South-East Asia,2021-04-18,357.0,96796,1.0,618
+Sri Lanka,South-East Asia,2021-04-19,309.0,97105,2.0,620
+Sri Lanka,South-East Asia,2021-04-20,367.0,97472,5.0,625
+Sri Lanka,South-East Asia,2021-04-21,578.0,98050,5.0,630
+Sri Lanka,South-East Asia,2021-04-22,672.0,98722,4.0,634
+Sri Lanka,South-East Asia,2021-04-23,969.0,99691,0.0,634
+Sri Lanka,South-East Asia,2021-04-24,895.0,100586,4.0,638
+Sri Lanka,South-East Asia,2021-04-25,793.0,101379,4.0,642
+Sri Lanka,South-East Asia,2021-04-26,997.0,102376,5.0,647
+Sri Lanka,South-East Asia,2021-04-27,1111.0,103487,0.0,647
+Sri Lanka,South-East Asia,2021-04-28,1466.0,104953,14.0,661
+Sri Lanka,South-East Asia,2021-04-29,1531.0,106484,0.0,661
+Sri Lanka,South-East Asia,2021-04-30,1662.0,108146,6.0,667
+Sri Lanka,South-East Asia,2021-05-01,1716.0,109862,20.0,687
+Sri Lanka,South-East Asia,2021-05-02,1891.0,111753,0.0,687
+Sri Lanka,South-East Asia,2021-05-03,1923.0,113676,9.0,696
+Sri Lanka,South-East Asia,2021-05-04,1914.0,115590,13.0,709
+Sri Lanka,South-East Asia,2021-05-05,1939.0,117529,11.0,720
+Sri Lanka,South-East Asia,2021-05-06,1895.0,119424,25.0,745
+Sri Lanka,South-East Asia,2021-05-07,1914.0,121338,19.0,764
+Sri Lanka,South-East Asia,2021-05-08,1896.0,123234,22.0,786
+Sri Lanka,South-East Asia,2021-05-09,2672.0,125906,15.0,801
+Sri Lanka,South-East Asia,2021-05-10,2624.0,128530,26.0,827
+Sri Lanka,South-East Asia,2021-05-11,2568.0,131098,23.0,850
+Sri Lanka,South-East Asia,2021-05-12,2429.0,133527,18.0,868
+Sri Lanka,South-East Asia,2021-05-13,2269.0,135796,24.0,892
+Sri Lanka,South-East Asia,2021-05-14,2289.0,138085,31.0,923
+Sri Lanka,South-East Asia,2021-05-15,2386.0,140471,18.0,941
+Sri Lanka,South-East Asia,2021-05-16,2275.0,142746,21.0,962
+Sri Lanka,South-East Asia,2021-05-17,2456.0,145202,19.0,981
+Sri Lanka,South-East Asia,2021-05-18,2518.0,147720,34.0,1015
+Sri Lanka,South-East Asia,2021-05-19,3623.0,151343,36.0,1051
+Sri Lanka,South-East Asia,2021-05-20,3443.0,154786,38.0,1089
+Sri Lanka,South-East Asia,2021-05-21,3547.0,158333,0.0,1089
+Sri Lanka,South-East Asia,2021-05-22,2909.0,161242,89.0,1178
+Sri Lanka,South-East Asia,2021-05-23,2959.0,164201,32.0,1210
+Sri Lanka,South-East Asia,2021-05-24,2971.0,167172,33.0,1243
+Sri Lanka,South-East Asia,2021-05-25,2728.0,169900,26.0,1269
+Sri Lanka,South-East Asia,2021-05-26,2377.0,172277,29.0,1298
+Sri Lanka,South-East Asia,2021-05-27,2584.0,174861,27.0,1325
+Sri Lanka,South-East Asia,2021-05-28,2850.0,177711,38.0,1363
+Sri Lanka,South-East Asia,2021-05-29,2882.0,180593,42.0,1405
+Sri Lanka,South-East Asia,2021-05-30,2859.0,183452,36.0,1441
+Sri Lanka,South-East Asia,2021-05-31,2912.0,186364,43.0,1484
+Sri Lanka,South-East Asia,2021-06-01,2877.0,189241,43.0,1527
+Sri Lanka,South-East Asia,2021-06-02,3306.0,192547,39.0,1566
+Sri Lanka,South-East Asia,2021-06-03,3297.0,195844,42.0,1608
+Sri Lanka,South-East Asia,2021-06-04,3410.0,199254,48.0,1656
+Sri Lanka,South-East Asia,2021-06-05,3103.0,202357,40.0,1696
+Sri Lanka,South-East Asia,2021-06-06,2976.0,205333,46.0,1742
+Sri Lanka,South-East Asia,2021-06-07,2646.0,207979,47.0,1789
+Sri Lanka,South-East Asia,2021-06-08,2682.0,210661,55.0,1844
+Sri Lanka,South-East Asia,2021-06-09,2735.0,213396,66.0,1910
+Sri Lanka,South-East Asia,2021-06-10,2738.0,216134,101.0,2011
+Sri Lanka,South-East Asia,2021-06-11,2789.0,218923,62.0,2073
+Sri Lanka,South-East Asia,2021-06-12,2354.0,221277,63.0,2136
+Sri Lanka,South-East Asia,2021-06-13,2361.0,223638,0.0,2136
+Sri Lanka,South-East Asia,2021-06-14,2284.0,225922,67.0,2203
+Sri Lanka,South-East Asia,2021-06-15,2334.0,228256,55.0,2258
+Sri Lanka,South-East Asia,2021-06-16,2436.0,230692,59.0,2317
+Sri Lanka,South-East Asia,2021-06-17,2372.0,233064,51.0,2368
+Sri Lanka,South-East Asia,2021-06-18,2349.0,235413,55.0,2423
+Sri Lanka,South-East Asia,2021-06-19,2248.0,237661,54.0,2477
+Sri Lanka,South-East Asia,2021-06-20,2028.0,239689,47.0,2524
+Sri Lanka,South-East Asia,2021-06-21,2131.0,241820,52.0,2576
+Sri Lanka,South-East Asia,2021-06-22,2093.0,243913,71.0,2647
+Sri Lanka,South-East Asia,2021-06-23,2196.0,246109,65.0,2712
+Sri Lanka,South-East Asia,2021-06-24,1941.0,248050,45.0,2757
+Sri Lanka,South-East Asia,2021-06-25,1876.0,249926,48.0,2805
+Sri Lanka,South-East Asia,2021-06-26,1825.0,251751,43.0,2848
+Sri Lanka,South-East Asia,2021-06-27,1867.0,253618,39.0,2887
+Sri Lanka,South-East Asia,2021-06-28,1890.0,255508,41.0,2928
+Sri Lanka,South-East Asia,2021-06-29,1717.0,257225,45.0,2973
+Sri Lanka,South-East Asia,2021-06-30,1864.0,259089,47.0,3020
+Sri Lanka,South-East Asia,2021-07-01,1883.0,260972,43.0,3063
+Sri Lanka,South-East Asia,2021-07-02,1823.0,262795,37.0,3100
+Sri Lanka,South-East Asia,2021-07-03,1262.0,264057,34.0,3134
+Sri Lanka,South-East Asia,2021-07-04,1573.0,265630,45.0,3179
+Sri Lanka,South-East Asia,2021-07-05,869.0,266499,32.0,3211
+Sri Lanka,South-East Asia,2021-07-06,934.0,267433,45.0,3256
+Sri Lanka,South-East Asia,2021-07-07,1243.0,268676,38.0,3294
+Sri Lanka,South-East Asia,2021-07-08,1270.0,269946,40.0,3334
+Sri Lanka,South-East Asia,2021-07-09,1537.0,271483,43.0,3377
+Sri Lanka,South-East Asia,2021-07-10,1548.0,273031,33.0,3410
+Sri Lanka,South-East Asia,2021-07-11,1507.0,274538,35.0,3445
+Sri Lanka,South-East Asia,2021-07-12,1568.0,276106,31.0,3476
+Sri Lanka,South-East Asia,2021-07-13,1413.0,277519,41.0,3517
+Sri Lanka,South-East Asia,2021-07-14,1540.0,279059,37.0,3554
+Sri Lanka,South-East Asia,2021-07-15,1484.0,280543,50.0,3604
+Sri Lanka,South-East Asia,2021-07-16,1517.0,282060,41.0,3645
+Sri Lanka,South-East Asia,2021-07-17,1452.0,283512,31.0,3676
+Sri Lanka,South-East Asia,2021-07-18,1420.0,284932,46.0,3722
+Sri Lanka,South-East Asia,2021-07-19,1487.0,286419,48.0,3770
+Sri Lanka,South-East Asia,2021-07-20,1554.0,287973,43.0,3813
+Sri Lanka,South-East Asia,2021-07-21,1604.0,289577,47.0,3860
+Sri Lanka,South-East Asia,2021-07-22,1721.0,291298,42.0,3902
+Sri Lanka,South-East Asia,2021-07-23,1815.0,293113,43.0,3945
+Sri Lanka,South-East Asia,2021-07-24,1737.0,294850,52.0,3997
+Sri Lanka,South-East Asia,2021-07-25,1666.0,296516,45.0,4042
+Sri Lanka,South-East Asia,2021-07-26,1665.0,298181,48.0,4090
+Sri Lanka,South-East Asia,2021-07-27,1711.0,299892,48.0,4138
+Sri Lanka,South-East Asia,2021-07-28,1940.0,301832,63.0,4201
+Sri Lanka,South-East Asia,2021-07-29,2370.0,304202,66.0,4267
+Sri Lanka,South-East Asia,2021-07-30,2460.0,306662,56.0,4323
+Sri Lanka,South-East Asia,2021-07-31,2150.0,308812,61.0,4384
+Sri Lanka,South-East Asia,2021-08-01,2537.0,311349,67.0,4451
+Sri Lanka,South-East Asia,2021-08-02,2420.0,313769,63.0,4514
+Sri Lanka,South-East Asia,2021-08-03,2425.0,316194,74.0,4588
+Sri Lanka,South-East Asia,2021-08-04,2561.0,318755,82.0,4670
+Sri Lanka,South-East Asia,2021-08-05,2674.0,321429,94.0,4764
+Sri Lanka,South-East Asia,2021-08-06,2794.0,324223,98.0,4862
+Sri Lanka,South-East Asia,2021-08-07,2815.0,327038,98.0,4960
+Sri Lanka,South-East Asia,2021-08-08,2956.0,329994,94.0,5054
+Sri Lanka,South-East Asia,2021-08-09,2953.0,332947,111.0,5165
+Sri Lanka,South-East Asia,2021-08-10,6145.0,339092,118.0,5283
+Sri Lanka,South-East Asia,2021-08-11,2987.0,342079,124.0,5407
+Sri Lanka,South-East Asia,2021-08-12,3039.0,345118,156.0,5563
+Sri Lanka,South-East Asia,2021-08-13,3152.0,348270,155.0,5718
+Sri Lanka,South-East Asia,2021-08-14,3263.0,351533,160.0,5878
+Sri Lanka,South-East Asia,2021-08-15,3435.0,354968,161.0,6039
+Sri Lanka,South-East Asia,2021-08-16,7106.0,362074,167.0,6206
+Sri Lanka,South-East Asia,2021-08-17,3609.0,365683,171.0,6377
+Sri Lanka,South-East Asia,2021-08-18,3676.0,369359,170.0,6547
+Sri Lanka,South-East Asia,2021-08-19,3806.0,373165,243.0,6790
+Sri Lanka,South-East Asia,2021-08-20,8647.0,381812,195.0,6985
+Sri Lanka,South-East Asia,2021-08-21,3884.0,385696,198.0,7183
+Sri Lanka,South-East Asia,2021-08-22,4304.0,390000,183.0,7366
+Sri Lanka,South-East Asia,2021-08-23,4355.0,394355,194.0,7560
+Sri Lanka,South-East Asia,2021-08-24,4446.0,398801,190.0,7750
+Sri Lanka,South-East Asia,2021-08-25,8967.0,407768,198.0,7948
+Sri Lanka,South-East Asia,2021-08-26,4602.0,412370,209.0,8157
+Sri Lanka,South-East Asia,2021-08-27,4591.0,416961,214.0,8371
+Sri Lanka,South-East Asia,2021-08-28,4596.0,421557,212.0,8583
+Sri Lanka,South-East Asia,2021-08-29,9962.0,431519,192.0,8775
+Sri Lanka,South-East Asia,2021-08-30,4562.0,436081,216.0,8991
+Sri Lanka,South-East Asia,2021-08-31,4221.0,440302,194.0,9185
+Sri Lanka,South-East Asia,2021-09-01,3828.0,444130,215.0,9400
+Sri Lanka,South-East Asia,2021-09-02,3627.0,447757,204.0,9604
+Sri Lanka,South-East Asia,2021-09-03,3644.0,451401,202.0,9806
+Sri Lanka,South-East Asia,2021-09-04,8058.0,459459,145.0,9951
+Sri Lanka,South-East Asia,2021-09-05,3308.0,462767,189.0,10140
+Sri Lanka,South-East Asia,2021-09-06,3182.0,465949,180.0,10320
+Sri Lanka,South-East Asia,2021-09-07,5914.0,471863,184.0,10504
+Sri Lanka,South-East Asia,2021-09-08,2917.0,474780,185.0,10689
+Sri Lanka,South-East Asia,2021-09-09,2856.0,477636,175.0,10864
+Sri Lanka,South-East Asia,2021-09-10,2842.0,480478,131.0,10995
+Sri Lanka,South-East Asia,2021-09-11,2802.0,483280,157.0,11152
+Sri Lanka,South-East Asia,2021-09-12,2642.0,485922,144.0,11296
+Sri Lanka,South-East Asia,2021-09-13,2560.0,488482,135.0,11431
+Sri Lanka,South-East Asia,2021-09-14,2475.0,490957,136.0,11567
+Sri Lanka,South-East Asia,2021-09-15,5466.0,496423,132.0,11699
+Sri Lanka,South-East Asia,2021-09-16,2271.0,498694,118.0,11817
+Sri Lanka,South-East Asia,2021-09-17,2078.0,500772,121.0,11938
+Sri Lanka,South-East Asia,2021-09-18,1986.0,502758,84.0,12022
+Sri Lanka,South-East Asia,2021-09-19,1733.0,504491,103.0,12125
+Sri Lanka,South-East Asia,2021-09-20,1518.0,506009,93.0,12218
+Sri Lanka,South-East Asia,2021-09-21,1321.0,507330,66.0,12284
+Sri Lanka,South-East Asia,2021-09-22,1342.0,508672,92.0,12376
+Sri Lanka,South-East Asia,2021-09-23,1368.0,510040,72.0,12448
+Sri Lanka,South-East Asia,2021-09-24,1332.0,511372,82.0,12530
+Sri Lanka,South-East Asia,2021-09-25,1159.0,512531,79.0,12609
+Sri Lanka,South-East Asia,2021-09-26,1078.0,513609,71.0,12680
+Sri Lanka,South-East Asia,2021-09-27,983.0,514592,51.0,12731
+Sri Lanka,South-East Asia,2021-09-28,932.0,515524,55.0,12786
+Sri Lanka,South-East Asia,2021-09-29,941.0,516465,61.0,12847
+Sri Lanka,South-East Asia,2021-09-30,912.0,517377,59.0,12906
+Sri Lanka,South-East Asia,2021-10-01,1398.0,518775,58.0,12964
+Sri Lanka,South-East Asia,2021-10-02,855.0,519630,55.0,13019
+Sri Lanka,South-East Asia,2021-10-03,802.0,520432,40.0,13059
+Sri Lanka,South-East Asia,2021-10-04,786.0,521218,43.0,13102
+Sri Lanka,South-East Asia,2021-10-05,784.0,522002,40.0,13142
+Sri Lanka,South-East Asia,2021-10-06,776.0,522778,43.0,13185
+Sri Lanka,South-East Asia,2021-10-07,772.0,523550,44.0,13229
+Sri Lanka,South-East Asia,2021-10-08,1387.0,524937,38.0,13267
+Sri Lanka,South-East Asia,2021-10-09,726.0,525663,29.0,13296
+Sri Lanka,South-East Asia,2021-10-10,720.0,526383,35.0,13331
+Sri Lanka,South-East Asia,2021-10-11,681.0,527064,23.0,13354
+Sri Lanka,South-East Asia,2021-10-12,671.0,527735,23.0,13377
+Sri Lanka,South-East Asia,2021-10-13,1346.0,529081,31.0,13408
+Sri Lanka,South-East Asia,2021-10-14,674.0,529755,21.0,13429
+Sri Lanka,South-East Asia,2021-10-15,666.0,530421,20.0,13449
+Sri Lanka,South-East Asia,2021-10-16,649.0,531070,23.0,13472
+Sri Lanka,South-East Asia,2021-10-17,578.0,531648,12.0,13484
+Sri Lanka,South-East Asia,2021-10-18,570.0,532218,23.0,13507
+Sri Lanka,South-East Asia,2021-10-19,548.0,532766,18.0,13525
+Sri Lanka,South-East Asia,2021-10-20,539.0,533305,18.0,13543
+Sri Lanka,South-East Asia,2021-10-21,555.0,533860,19.0,13562
+Sri Lanka,South-East Asia,2021-10-22,1115.0,534975,12.0,13574
+Sri Lanka,South-East Asia,2021-10-23,554.0,535529,19.0,13593
+Sri Lanka,South-East Asia,2021-10-24,555.0,536084,18.0,13611
+Sri Lanka,South-East Asia,2021-10-25,561.0,536645,29.0,13640
+Sri Lanka,South-East Asia,2021-10-26,556.0,537201,14.0,13654
+Sri Lanka,South-East Asia,2021-10-27,1119.0,538320,20.0,13674
+Sri Lanka,South-East Asia,2021-10-28,540.0,538860,22.0,13696
+Sri Lanka,South-East Asia,2021-10-29,556.0,539416,10.0,13706
+Sri Lanka,South-East Asia,2021-10-30,565.0,539981,19.0,13725
+Sri Lanka,South-East Asia,2021-10-31,1092.0,541073,18.0,13743
+Sri Lanka,South-East Asia,2021-11-01,566.0,541639,17.0,13760
+Sri Lanka,South-East Asia,2021-11-02,573.0,542212,10.0,13770
+Sri Lanka,South-East Asia,2021-11-03,581.0,542793,21.0,13791
+Sri Lanka,South-East Asia,2021-11-04,592.0,543385,15.0,13806
+Sri Lanka,South-East Asia,2021-11-05,628.0,544013,15.0,13821
+Sri Lanka,South-East Asia,2021-11-06,617.0,544630,20.0,13841
+Sri Lanka,South-East Asia,2021-11-07,626.0,545256,15.0,13856
+Sri Lanka,South-East Asia,2021-11-08,679.0,545935,19.0,13875
+Sri Lanka,South-East Asia,2021-11-09,718.0,546653,17.0,13892
+Sri Lanka,South-East Asia,2021-11-10,693.0,547346,16.0,13908
+Sri Lanka,South-East Asia,2021-11-11,715.0,548061,19.0,13927
+Sri Lanka,South-East Asia,2021-11-12,723.0,548784,23.0,13950
+Sri Lanka,South-East Asia,2021-11-13,716.0,549500,22.0,13972
+Sri Lanka,South-East Asia,2021-11-14,2042.0,551542,23.0,13995
+Sri Lanka,South-East Asia,2021-11-15,732.0,552274,21.0,14016
+Sri Lanka,South-East Asia,2021-11-16,720.0,552994,18.0,14034
+Sri Lanka,South-East Asia,2021-11-17,728.0,553722,23.0,14057
+Sri Lanka,South-East Asia,2021-11-18,737.0,554459,15.0,14072
+Sri Lanka,South-East Asia,2021-11-19,745.0,555204,14.0,14086
+Sri Lanka,South-East Asia,2021-11-20,725.0,555929,22.0,14108
+Sri Lanka,South-East Asia,2021-11-21,697.0,556626,19.0,14127
+Sri Lanka,South-East Asia,2021-11-22,735.0,557361,31.0,14158
+Sri Lanka,South-East Asia,2021-11-23,1499.0,558860,24.0,14182
+Sri Lanka,South-East Asia,2021-11-24,745.0,559605,23.0,14205
+Sri Lanka,South-East Asia,2021-11-25,740.0,560345,27.0,14232
+Sri Lanka,South-East Asia,2021-11-26,714.0,561059,26.0,14258
+Sri Lanka,South-East Asia,2021-11-27,719.0,561778,20.0,14278
+Sri Lanka,South-East Asia,2021-11-28,742.0,562520,27.0,14305
+Sri Lanka,South-East Asia,2021-11-29,747.0,563267,23.0,14328
+Sri Lanka,South-East Asia,2021-11-30,722.0,563989,18.0,14346
+Sri Lanka,South-East Asia,2021-12-01,744.0,564733,26.0,14372
+Sri Lanka,South-East Asia,2021-12-02,738.0,565471,27.0,14399
+Sri Lanka,South-East Asia,2021-12-03,725.0,566196,20.0,14419
+Sri Lanka,South-East Asia,2021-12-04,740.0,566936,21.0,14440
+Sri Lanka,South-East Asia,2021-12-05,746.0,567682,21.0,14461
+Sri Lanka,South-East Asia,2021-12-06,741.0,568423,23.0,14484
+Sri Lanka,South-East Asia,2021-12-07,748.0,569171,21.0,14505
+Sri Lanka,South-East Asia,2021-12-08,757.0,569928,28.0,14533
+Sri Lanka,South-East Asia,2021-12-09,744.0,570672,22.0,14555
+Sri Lanka,South-East Asia,2021-12-10,754.0,571426,18.0,14573
+Sri Lanka,South-East Asia,2021-12-11,762.0,572188,22.0,14595
+Sri Lanka,South-East Asia,2021-12-12,714.0,572902,19.0,14614
+Sri Lanka,South-East Asia,2021-12-13,747.0,573649,27.0,14641
+Sri Lanka,South-East Asia,2021-12-14,2545.0,576194,20.0,14661
+Sri Lanka,South-East Asia,2021-12-15,772.0,576966,16.0,14677
+Sri Lanka,South-East Asia,2021-12-16,758.0,577724,21.0,14698
+Sri Lanka,South-East Asia,2021-12-17,715.0,578439,22.0,14720
+Sri Lanka,South-East Asia,2021-12-18,695.0,579134,14.0,14734
+Sri Lanka,South-East Asia,2021-12-19,551.0,579685,18.0,14752
+Sri Lanka,South-East Asia,2021-12-20,524.0,580209,19.0,14771
+Sri Lanka,South-East Asia,2021-12-21,783.0,580992,24.0,14795
+Sri Lanka,South-East Asia,2021-12-22,603.0,581595,16.0,14811
+Sri Lanka,South-East Asia,2021-12-23,554.0,582149,21.0,14832
+Sri Lanka,South-East Asia,2021-12-24,573.0,582722,20.0,14852
+Sri Lanka,South-East Asia,2021-12-25,529.0,583251,19.0,14871
+Sri Lanka,South-East Asia,2021-12-26,398.0,583649,13.0,14884
+Sri Lanka,South-East Asia,2021-12-27,458.0,584107,17.0,14901
+Sri Lanka,South-East Asia,2021-12-28,479.0,584586,22.0,14923
+Sri Lanka,South-East Asia,2021-12-29,1597.0,586183,21.0,14944
+Sri Lanka,South-East Asia,2021-12-30,563.0,586746,18.0,14962
+Sri Lanka,South-East Asia,2021-12-31,499.0,587245,17.0,14979
+Thailand,South-East Asia,2021-01-01,279.0,7163,2.0,63
+Thailand,South-East Asia,2021-01-02,216.0,7379,1.0,64
+Thailand,South-East Asia,2021-01-03,315.0,7694,0.0,64
+Thailand,South-East Asia,2021-01-04,745.0,8439,1.0,65
+Thailand,South-East Asia,2021-01-05,527.0,8966,0.0,65
+Thailand,South-East Asia,2021-01-06,365.0,9331,1.0,66
+Thailand,South-East Asia,2021-01-07,305.0,9636,1.0,67
+Thailand,South-East Asia,2021-01-08,205.0,9841,0.0,67
+Thailand,South-East Asia,2021-01-09,212.0,10053,0.0,67
+Thailand,South-East Asia,2021-01-10,245.0,10298,0.0,67
+Thailand,South-East Asia,2021-01-11,249.0,10547,0.0,67
+Thailand,South-East Asia,2021-01-12,287.0,10834,0.0,67
+Thailand,South-East Asia,2021-01-13,157.0,10991,0.0,67
+Thailand,South-East Asia,2021-01-14,271.0,11262,2.0,69
+Thailand,South-East Asia,2021-01-15,188.0,11450,0.0,69
+Thailand,South-East Asia,2021-01-16,230.0,11680,1.0,70
+Thailand,South-East Asia,2021-01-17,374.0,12054,0.0,70
+Thailand,South-East Asia,2021-01-18,369.0,12423,0.0,70
+Thailand,South-East Asia,2021-01-19,171.0,12594,0.0,70
+Thailand,South-East Asia,2021-01-20,59.0,12653,1.0,71
+Thailand,South-East Asia,2021-01-21,142.0,12795,0.0,71
+Thailand,South-East Asia,2021-01-22,309.0,13104,0.0,71
+Thailand,South-East Asia,2021-01-23,198.0,13302,1.0,72
+Thailand,South-East Asia,2021-01-24,198.0,13500,1.0,73
+Thailand,South-East Asia,2021-01-25,187.0,13687,2.0,75
+Thailand,South-East Asia,2021-01-26,959.0,14646,0.0,75
+Thailand,South-East Asia,2021-01-27,819.0,15465,1.0,76
+Thailand,South-East Asia,2021-01-28,756.0,16221,0.0,76
+Thailand,South-East Asia,2021-01-29,802.0,17023,0.0,76
+Thailand,South-East Asia,2021-01-30,930.0,17953,1.0,77
+Thailand,South-East Asia,2021-01-31,829.0,18782,0.0,77
+Thailand,South-East Asia,2021-02-01,836.0,19618,0.0,77
+Thailand,South-East Asia,2021-02-02,836.0,20454,2.0,79
+Thailand,South-East Asia,2021-02-03,795.0,21249,0.0,79
+Thailand,South-East Asia,2021-02-04,809.0,22058,0.0,79
+Thailand,South-East Asia,2021-02-05,586.0,22644,0.0,79
+Thailand,South-East Asia,2021-02-06,490.0,23134,0.0,79
+Thailand,South-East Asia,2021-02-07,237.0,23371,0.0,79
+Thailand,South-East Asia,2021-02-08,186.0,23557,0.0,79
+Thailand,South-East Asia,2021-02-09,189.0,23746,0.0,79
+Thailand,South-East Asia,2021-02-10,157.0,23903,1.0,80
+Thailand,South-East Asia,2021-02-11,201.0,24104,0.0,80
+Thailand,South-East Asia,2021-02-12,175.0,24279,0.0,80
+Thailand,South-East Asia,2021-02-13,126.0,24405,0.0,80
+Thailand,South-East Asia,2021-02-14,166.0,24571,0.0,80
+Thailand,South-East Asia,2021-02-15,143.0,24714,2.0,82
+Thailand,South-East Asia,2021-02-16,72.0,24786,0.0,82
+Thailand,South-East Asia,2021-02-17,175.0,24961,0.0,82
+Thailand,South-East Asia,2021-02-18,150.0,25111,0.0,82
+Thailand,South-East Asia,2021-02-19,130.0,25241,1.0,83
+Thailand,South-East Asia,2021-02-20,82.0,25323,0.0,83
+Thailand,South-East Asia,2021-02-21,92.0,25415,0.0,83
+Thailand,South-East Asia,2021-02-22,89.0,25504,0.0,83
+Thailand,South-East Asia,2021-02-23,95.0,25599,0.0,83
+Thailand,South-East Asia,2021-02-24,93.0,25692,0.0,83
+Thailand,South-East Asia,2021-02-25,72.0,25764,0.0,83
+Thailand,South-East Asia,2021-02-26,45.0,25809,0.0,83
+Thailand,South-East Asia,2021-02-27,72.0,25881,0.0,83
+Thailand,South-East Asia,2021-02-28,70.0,25951,0.0,83
+Thailand,South-East Asia,2021-03-01,80.0,26031,0.0,83
+Thailand,South-East Asia,2021-03-02,42.0,26073,1.0,84
+Thailand,South-East Asia,2021-03-03,35.0,26108,0.0,84
+Thailand,South-East Asia,2021-03-04,54.0,26162,1.0,85
+Thailand,South-East Asia,2021-03-05,79.0,26241,0.0,85
+Thailand,South-East Asia,2021-03-06,64.0,26305,0.0,85
+Thailand,South-East Asia,2021-03-07,65.0,26370,0.0,85
+Thailand,South-East Asia,2021-03-08,71.0,26441,0.0,85
+Thailand,South-East Asia,2021-03-09,60.0,26501,0.0,85
+Thailand,South-East Asia,2021-03-10,39.0,26540,0.0,85
+Thailand,South-East Asia,2021-03-11,58.0,26598,0.0,85
+Thailand,South-East Asia,2021-03-12,81.0,26679,0.0,85
+Thailand,South-East Asia,2021-03-13,78.0,26757,1.0,86
+Thailand,South-East Asia,2021-03-14,170.0,26927,0.0,86
+Thailand,South-East Asia,2021-03-15,78.0,27005,1.0,87
+Thailand,South-East Asia,2021-03-16,149.0,27154,0.0,87
+Thailand,South-East Asia,2021-03-17,248.0,27402,1.0,88
+Thailand,South-East Asia,2021-03-18,92.0,27494,1.0,89
+Thailand,South-East Asia,2021-03-19,100.0,27594,1.0,90
+Thailand,South-East Asia,2021-03-20,119.0,27713,0.0,90
+Thailand,South-East Asia,2021-03-21,90.0,27803,0.0,90
+Thailand,South-East Asia,2021-03-22,73.0,27876,1.0,91
+Thailand,South-East Asia,2021-03-23,401.0,28277,1.0,92
+Thailand,South-East Asia,2021-03-24,69.0,28346,0.0,92
+Thailand,South-East Asia,2021-03-25,97.0,28443,0.0,92
+Thailand,South-East Asia,2021-03-26,134.0,28577,0.0,92
+Thailand,South-East Asia,2021-03-27,80.0,28657,1.0,93
+Thailand,South-East Asia,2021-03-28,77.0,28734,1.0,94
+Thailand,South-East Asia,2021-03-29,39.0,28773,0.0,94
+Thailand,South-East Asia,2021-03-30,48.0,28821,0.0,94
+Thailand,South-East Asia,2021-03-31,42.0,28863,0.0,94
+Thailand,South-East Asia,2021-04-01,26.0,28889,0.0,94
+Thailand,South-East Asia,2021-04-02,58.0,28947,0.0,94
+Thailand,South-East Asia,2021-04-03,84.0,29031,1.0,95
+Thailand,South-East Asia,2021-04-04,96.0,29127,0.0,95
+Thailand,South-East Asia,2021-04-05,194.0,29321,0.0,95
+Thailand,South-East Asia,2021-04-06,250.0,29571,0.0,95
+Thailand,South-East Asia,2021-04-07,334.0,29905,0.0,95
+Thailand,South-East Asia,2021-04-08,405.0,30310,0.0,95
+Thailand,South-East Asia,2021-04-09,559.0,30869,1.0,96
+Thailand,South-East Asia,2021-04-10,789.0,31658,1.0,97
+Thailand,South-East Asia,2021-04-11,967.0,32625,0.0,97
+Thailand,South-East Asia,2021-04-12,985.0,33610,0.0,97
+Thailand,South-East Asia,2021-04-13,965.0,34575,0.0,97
+Thailand,South-East Asia,2021-04-14,1335.0,35910,0.0,97
+Thailand,South-East Asia,2021-04-15,1543.0,37453,0.0,97
+Thailand,South-East Asia,2021-04-16,1585.0,39038,0.0,97
+Thailand,South-East Asia,2021-04-17,1547.0,40585,2.0,99
+Thailand,South-East Asia,2021-04-18,1767.0,42352,2.0,101
+Thailand,South-East Asia,2021-04-19,1390.0,43742,3.0,104
+Thailand,South-East Asia,2021-04-20,1443.0,45185,4.0,108
+Thailand,South-East Asia,2021-04-21,1458.0,46643,2.0,110
+Thailand,South-East Asia,2021-04-22,1470.0,48113,7.0,117
+Thailand,South-East Asia,2021-04-23,2070.0,50183,4.0,121
+Thailand,South-East Asia,2021-04-24,2839.0,53022,8.0,129
+Thailand,South-East Asia,2021-04-25,2438.0,55460,11.0,140
+Thailand,South-East Asia,2021-04-26,2048.0,57508,8.0,148
+Thailand,South-East Asia,2021-04-27,2179.0,59687,15.0,163
+Thailand,South-East Asia,2021-04-28,2012.0,61699,15.0,178
+Thailand,South-East Asia,2021-04-29,1871.0,63570,10.0,188
+Thailand,South-East Asia,2021-04-30,1583.0,65153,15.0,203
+Thailand,South-East Asia,2021-05-01,1891.0,67044,21.0,224
+Thailand,South-East Asia,2021-05-02,1940.0,68984,21.0,245
+Thailand,South-East Asia,2021-05-03,2041.0,71025,31.0,276
+Thailand,South-East Asia,2021-05-04,1763.0,72788,27.0,303
+Thailand,South-East Asia,2021-05-05,2112.0,74900,15.0,318
+Thailand,South-East Asia,2021-05-06,1911.0,76811,18.0,336
+Thailand,South-East Asia,2021-05-07,2044.0,78855,27.0,363
+Thailand,South-East Asia,2021-05-08,2419.0,81274,19.0,382
+Thailand,South-East Asia,2021-05-09,2101.0,83375,17.0,399
+Thailand,South-East Asia,2021-05-10,1630.0,85005,22.0,421
+Thailand,South-East Asia,2021-05-11,1919.0,86924,31.0,452
+Thailand,South-East Asia,2021-05-12,1983.0,88907,34.0,486
+Thailand,South-East Asia,2021-05-13,4887.0,93794,32.0,518
+Thailand,South-East Asia,2021-05-14,2256.0,96050,30.0,548
+Thailand,South-East Asia,2021-05-15,3095.0,99145,17.0,565
+Thailand,South-East Asia,2021-05-16,2302.0,101447,24.0,589
+Thailand,South-East Asia,2021-05-17,9635.0,111082,25.0,614
+Thailand,South-East Asia,2021-05-18,2473.0,113555,35.0,649
+Thailand,South-East Asia,2021-05-19,3394.0,116949,29.0,678
+Thailand,South-East Asia,2021-05-20,2636.0,119585,25.0,703
+Thailand,South-East Asia,2021-05-21,3481.0,123066,32.0,735
+Thailand,South-East Asia,2021-05-22,3052.0,126118,24.0,759
+Thailand,South-East Asia,2021-05-23,3382.0,129500,17.0,776
+Thailand,South-East Asia,2021-05-24,2713.0,132213,30.0,806
+Thailand,South-East Asia,2021-05-25,3226.0,135439,26.0,832
+Thailand,South-East Asia,2021-05-26,2455.0,137894,41.0,873
+Thailand,South-East Asia,2021-05-27,3323.0,141217,47.0,920
+Thailand,South-East Asia,2021-05-28,3759.0,144976,34.0,954
+Thailand,South-East Asia,2021-05-29,4803.0,149779,34.0,988
+Thailand,South-East Asia,2021-05-30,4528.0,154307,24.0,1012
+Thailand,South-East Asia,2021-05-31,5485.0,159792,19.0,1031
+Thailand,South-East Asia,2021-06-01,2230.0,162022,38.0,1069
+Thailand,South-East Asia,2021-06-02,3440.0,165462,38.0,1107
+Thailand,South-East Asia,2021-06-03,3886.0,169348,39.0,1146
+Thailand,South-East Asia,2021-06-04,2631.0,171979,31.0,1177
+Thailand,South-East Asia,2021-06-05,2817.0,174796,36.0,1213
+Thailand,South-East Asia,2021-06-06,2671.0,177467,23.0,1236
+Thailand,South-East Asia,2021-06-07,2419.0,179886,33.0,1269
+Thailand,South-East Asia,2021-06-08,2662.0,182548,28.0,1297
+Thailand,South-East Asia,2021-06-09,2680.0,185228,35.0,1332
+Thailand,South-East Asia,2021-06-10,2310.0,187538,43.0,1375
+Thailand,South-East Asia,2021-06-11,2290.0,189828,27.0,1402
+Thailand,South-East Asia,2021-06-12,3277.0,193105,29.0,1431
+Thailand,South-East Asia,2021-06-13,2804.0,195909,18.0,1449
+Thailand,South-East Asia,2021-06-14,3355.0,199264,17.0,1466
+Thailand,South-East Asia,2021-06-15,3000.0,202264,19.0,1485
+Thailand,South-East Asia,2021-06-16,2331.0,204595,40.0,1525
+Thailand,South-East Asia,2021-06-17,3129.0,207724,30.0,1555
+Thailand,South-East Asia,2021-06-18,3058.0,210782,22.0,1577
+Thailand,South-East Asia,2021-06-19,3667.0,214449,32.0,1609
+Thailand,South-East Asia,2021-06-20,3682.0,218131,20.0,1629
+Thailand,South-East Asia,2021-06-21,3175.0,221306,29.0,1658
+Thailand,South-East Asia,2021-06-22,4059.0,225365,35.0,1693
+Thailand,South-East Asia,2021-06-23,3174.0,228539,51.0,1744
+Thailand,South-East Asia,2021-06-24,4108.0,232647,31.0,1775
+Thailand,South-East Asia,2021-06-25,3644.0,236291,44.0,1819
+Thailand,South-East Asia,2021-06-26,4161.0,240452,51.0,1870
+Thailand,South-East Asia,2021-06-27,3995.0,244447,42.0,1912
+Thailand,South-East Asia,2021-06-28,5406.0,249853,22.0,1934
+Thailand,South-East Asia,2021-06-29,4662.0,254515,36.0,1970
+Thailand,South-East Asia,2021-06-30,4786.0,259301,53.0,2023
+Thailand,South-East Asia,2021-07-01,5533.0,264834,57.0,2080
+Thailand,South-East Asia,2021-07-02,6087.0,270921,61.0,2141
+Thailand,South-East Asia,2021-07-03,6230.0,277151,41.0,2182
+Thailand,South-East Asia,2021-07-04,5916.0,283067,44.0,2226
+Thailand,South-East Asia,2021-07-05,6166.0,289233,50.0,2276
+Thailand,South-East Asia,2021-07-06,5420.0,294653,57.0,2333
+Thailand,South-East Asia,2021-07-07,6519.0,301172,54.0,2387
+Thailand,South-East Asia,2021-07-08,7058.0,308230,75.0,2462
+Thailand,South-East Asia,2021-07-09,9276.0,317506,72.0,2534
+Thailand,South-East Asia,2021-07-10,9326.0,326832,91.0,2625
+Thailand,South-East Asia,2021-07-11,9539.0,336371,86.0,2711
+Thailand,South-East Asia,2021-07-12,8656.0,345027,80.0,2791
+Thailand,South-East Asia,2021-07-13,8685.0,353712,56.0,2847
+Thailand,South-East Asia,2021-07-14,9317.0,363029,87.0,2934
+Thailand,South-East Asia,2021-07-15,9186.0,372215,98.0,3032
+Thailand,South-East Asia,2021-07-16,9692.0,381907,67.0,3099
+Thailand,South-East Asia,2021-07-17,10082.0,391989,141.0,3240
+Thailand,South-East Asia,2021-07-18,11397.0,403386,101.0,3341
+Thailand,South-East Asia,2021-07-19,11784.0,415170,81.0,3422
+Thailand,South-East Asia,2021-07-20,11305.0,426475,80.0,3502
+Thailand,South-East Asia,2021-07-21,13002.0,439477,108.0,3610
+Thailand,South-East Asia,2021-07-22,13655.0,453132,87.0,3697
+Thailand,South-East Asia,2021-07-23,14575.0,467707,114.0,3811
+Thailand,South-East Asia,2021-07-24,14260.0,481967,119.0,3930
+Thailand,South-East Asia,2021-07-25,15335.0,497302,129.0,4059
+Thailand,South-East Asia,2021-07-26,15376.0,512678,87.0,4146
+Thailand,South-East Asia,2021-07-27,14150.0,526828,118.0,4264
+Thailand,South-East Asia,2021-07-28,16533.0,543361,133.0,4397
+Thailand,South-East Asia,2021-07-29,17669.0,561030,165.0,4562
+Thailand,South-East Asia,2021-07-30,17345.0,578375,117.0,4679
+Thailand,South-East Asia,2021-07-31,18912.0,597287,178.0,4857
+Thailand,South-East Asia,2021-08-01,18027.0,615314,133.0,4990
+Thailand,South-East Asia,2021-08-02,17970.0,633284,178.0,5168
+Thailand,South-East Asia,2021-08-03,18901.0,652185,147.0,5315
+Thailand,South-East Asia,2021-08-04,20200.0,672385,188.0,5503
+Thailand,South-East Asia,2021-08-05,20920.0,693305,160.0,5663
+Thailand,South-East Asia,2021-08-06,21379.0,714684,191.0,5854
+Thailand,South-East Asia,2021-08-07,21838.0,736522,212.0,6066
+Thailand,South-East Asia,2021-08-08,19983.0,756505,138.0,6204
+Thailand,South-East Asia,2021-08-09,19603.0,776108,149.0,6353
+Thailand,South-East Asia,2021-08-10,19843.0,795951,235.0,6588
+Thailand,South-East Asia,2021-08-11,21038.0,816989,207.0,6795
+Thailand,South-East Asia,2021-08-12,22782.0,839771,147.0,6942
+Thailand,South-East Asia,2021-08-13,23418.0,863189,184.0,7126
+Thailand,South-East Asia,2021-08-14,22086.0,885275,217.0,7343
+Thailand,South-East Asia,2021-08-15,21882.0,907157,209.0,7552
+Thailand,South-East Asia,2021-08-16,21157.0,928314,182.0,7734
+Thailand,South-East Asia,2021-08-17,20128.0,948442,239.0,7973
+Thailand,South-East Asia,2021-08-18,20515.0,968957,312.0,8285
+Thailand,South-East Asia,2021-08-19,20902.0,989859,301.0,8586
+Thailand,South-East Asia,2021-08-20,19851.0,1009710,240.0,8826
+Thailand,South-East Asia,2021-08-21,20571.0,1030281,261.0,9087
+Thailand,South-East Asia,2021-08-22,19014.0,1049295,233.0,9320
+Thailand,South-East Asia,2021-08-23,17491.0,1066786,242.0,9562
+Thailand,South-East Asia,2021-08-24,17165.0,1083951,226.0,9788
+Thailand,South-East Asia,2021-08-25,18417.0,1102368,297.0,10085
+Thailand,South-East Asia,2021-08-26,18501.0,1120869,229.0,10314
+Thailand,South-East Asia,2021-08-27,18702.0,1139571,273.0,10587
+Thailand,South-East Asia,2021-08-28,17984.0,1157555,292.0,10879
+Thailand,South-East Asia,2021-08-29,16536.0,1174091,264.0,11143
+Thailand,South-East Asia,2021-08-30,15972.0,1190063,256.0,11399
+Thailand,South-East Asia,2021-08-31,14666.0,1204729,190.0,11589
+Thailand,South-East Asia,2021-09-01,14802.0,1219531,252.0,11841
+Thailand,South-East Asia,2021-09-02,14956.0,1234487,262.0,12103
+Thailand,South-East Asia,2021-09-03,14653.0,1249140,271.0,12374
+Thailand,South-East Asia,2021-09-04,15942.0,1265082,257.0,12631
+Thailand,South-East Asia,2021-09-05,15452.0,1280534,224.0,12855
+Thailand,South-East Asia,2021-09-06,13988.0,1294522,187.0,13042
+Thailand,South-East Asia,2021-09-07,13821.0,1308343,241.0,13283
+Thailand,South-East Asia,2021-09-08,14176.0,1322519,228.0,13511
+Thailand,South-East Asia,2021-09-09,16031.0,1338550,220.0,13731
+Thailand,South-East Asia,2021-09-10,14403.0,1352953,189.0,13920
+Thailand,South-East Asia,2021-09-11,15191.0,1368144,253.0,14173
+Thailand,South-East Asia,2021-09-12,14029.0,1382173,180.0,14353
+Thailand,South-East Asia,2021-09-13,12583.0,1394756,132.0,14485
+Thailand,South-East Asia,2021-09-14,11786.0,1406542,136.0,14621
+Thailand,South-East Asia,2021-09-15,13798.0,1420340,144.0,14765
+Thailand,South-East Asia,2021-09-16,13897.0,1434237,188.0,14953
+Thailand,South-East Asia,2021-09-17,14555.0,1448792,171.0,15124
+Thailand,South-East Asia,2021-09-18,14109.0,1462901,122.0,15246
+Thailand,South-East Asia,2021-09-19,13576.0,1476477,117.0,15363
+Thailand,South-East Asia,2021-09-20,12709.0,1489186,106.0,15469
+Thailand,South-East Asia,2021-09-21,10919.0,1500105,143.0,15612
+Thailand,South-East Asia,2021-09-22,11252.0,1511357,141.0,15753
+Thailand,South-East Asia,2021-09-23,13256.0,1524613,131.0,15884
+Thailand,South-East Asia,2021-09-24,12697.0,1537310,132.0,16016
+Thailand,South-East Asia,2021-09-25,11957.0,1549267,127.0,16143
+Thailand,South-East Asia,2021-09-26,12371.0,1561638,125.0,16268
+Thailand,South-East Asia,2021-09-27,10288.0,1571926,101.0,16369
+Thailand,South-East Asia,2021-09-28,9489.0,1581415,129.0,16498
+Thailand,South-East Asia,2021-09-29,10414.0,1591829,122.0,16620
+Thailand,South-East Asia,2021-09-30,11646.0,1603475,107.0,16727
+Thailand,South-East Asia,2021-10-01,11754.0,1615229,123.0,16850
+Thailand,South-East Asia,2021-10-02,11375.0,1626604,87.0,16937
+Thailand,South-East Asia,2021-10-03,10828.0,1637432,77.0,17014
+Thailand,South-East Asia,2021-10-04,9930.0,1647362,97.0,17111
+Thailand,South-East Asia,2021-10-05,9869.0,1657231,92.0,17203
+Thailand,South-East Asia,2021-10-06,9866.0,1667097,102.0,17305
+Thailand,South-East Asia,2021-10-07,11200.0,1678297,113.0,17418
+Thailand,South-East Asia,2021-10-08,11140.0,1689437,116.0,17534
+Thailand,South-East Asia,2021-10-09,10630.0,1700067,73.0,17607
+Thailand,South-East Asia,2021-10-10,10817.0,1710884,84.0,17691
+Thailand,South-East Asia,2021-10-11,10035.0,1720919,60.0,17751
+Thailand,South-East Asia,2021-10-12,9445.0,1730364,84.0,17835
+Thailand,South-East Asia,2021-10-13,10064.0,1740428,82.0,17917
+Thailand,South-East Asia,2021-10-14,11276.0,1751704,112.0,18029
+Thailand,South-East Asia,2021-10-15,10486.0,1762190,94.0,18123
+Thailand,South-East Asia,2021-10-16,10648.0,1772838,82.0,18205
+Thailand,South-East Asia,2021-10-17,10863.0,1783701,68.0,18273
+Thailand,South-East Asia,2021-10-18,10111.0,1793812,63.0,18336
+Thailand,South-East Asia,2021-10-19,9122.0,1802934,71.0,18407
+Thailand,South-East Asia,2021-10-20,8918.0,1811852,79.0,18486
+Thailand,South-East Asia,2021-10-21,9727.0,1821579,73.0,18559
+Thailand,South-East Asia,2021-10-22,9810.0,1831389,66.0,18625
+Thailand,South-East Asia,2021-10-23,9742.0,1841131,74.0,18699
+Thailand,South-East Asia,2021-10-24,9351.0,1850482,56.0,18755
+Thailand,South-East Asia,2021-10-25,8675.0,1859157,44.0,18799
+Thailand,South-East Asia,2021-10-26,7706.0,1866863,66.0,18865
+Thailand,South-East Asia,2021-10-27,8452.0,1875315,57.0,18922
+Thailand,South-East Asia,2021-10-28,9658.0,1884973,84.0,19006
+Thailand,South-East Asia,2021-10-29,8968.0,1893941,64.0,19070
+Thailand,South-East Asia,2021-10-30,9224.0,1903165,88.0,19158
+Thailand,South-East Asia,2021-10-31,8859.0,1912024,47.0,19205
+Thailand,South-East Asia,2021-11-01,8165.0,1920189,55.0,19260
+Thailand,South-East Asia,2021-11-02,7574.0,1927763,78.0,19338
+Thailand,South-East Asia,2021-11-03,7679.0,1935442,56.0,19394
+Thailand,South-East Asia,2021-11-04,7982.0,1943424,68.0,19462
+Thailand,South-East Asia,2021-11-05,8148.0,1951572,80.0,19542
+Thailand,South-East Asia,2021-11-06,8467.0,1960039,69.0,19611
+Thailand,South-East Asia,2021-11-07,7960.0,1967999,53.0,19664
+Thailand,South-East Asia,2021-11-08,7592.0,1975591,39.0,19703
+Thailand,South-East Asia,2021-11-09,6904.0,1982495,61.0,19764
+Thailand,South-East Asia,2021-11-10,6978.0,1989473,62.0,19826
+Thailand,South-East Asia,2021-11-11,7496.0,1996969,57.0,19883
+Thailand,South-East Asia,2021-11-12,7305.0,2004274,51.0,19934
+Thailand,South-East Asia,2021-11-13,7057.0,2011331,55.0,19989
+Thailand,South-East Asia,2021-11-14,7079.0,2018410,47.0,20036
+Thailand,South-East Asia,2021-11-15,6343.0,2024753,45.0,20081
+Thailand,South-East Asia,2021-11-16,5947.0,2030700,62.0,20143
+Thailand,South-East Asia,2021-11-17,6524.0,2037224,56.0,20199
+Thailand,South-East Asia,2021-11-18,6901.0,2044125,55.0,20254
+Thailand,South-East Asia,2021-11-19,6855.0,2050980,51.0,20305
+Thailand,South-East Asia,2021-11-20,6595.0,2057575,53.0,20358
+Thailand,South-East Asia,2021-11-21,7006.0,2064581,29.0,20387
+Thailand,South-East Asia,2021-11-22,6428.0,2071009,49.0,20436
+Thailand,South-East Asia,2021-11-23,5126.0,2076135,53.0,20489
+Thailand,South-East Asia,2021-11-24,5857.0,2081992,55.0,20544
+Thailand,South-East Asia,2021-11-25,6335.0,2088327,37.0,20581
+Thailand,South-East Asia,2021-11-26,6559.0,2094886,64.0,20645
+Thailand,South-East Asia,2021-11-27,6073.0,2100959,32.0,20677
+Thailand,South-East Asia,2021-11-28,5854.0,2106813,30.0,20707
+Thailand,South-East Asia,2021-11-29,4753.0,2111566,27.0,20734
+Thailand,South-East Asia,2021-11-30,4306.0,2115872,37.0,20771
+Thailand,South-East Asia,2021-12-01,4886.0,2120758,43.0,20814
+Thailand,South-East Asia,2021-12-02,4971.0,2125729,33.0,20847
+Thailand,South-East Asia,2021-12-03,4912.0,2130641,33.0,20880
+Thailand,South-East Asia,2021-12-04,5896.0,2136537,37.0,20917
+Thailand,South-East Asia,2021-12-05,4704.0,2141241,27.0,20944
+Thailand,South-East Asia,2021-12-06,4000.0,2145241,22.0,20966
+Thailand,South-East Asia,2021-12-07,3525.0,2148766,31.0,20997
+Thailand,South-East Asia,2021-12-08,3618.0,2152384,38.0,21035
+Thailand,South-East Asia,2021-12-09,4203.0,2156587,49.0,21084
+Thailand,South-East Asia,2021-12-10,4193.0,2160780,28.0,21112
+Thailand,South-East Asia,2021-12-11,4079.0,2164859,39.0,21151
+Thailand,South-East Asia,2021-12-12,3787.0,2168646,20.0,21171
+Thailand,South-East Asia,2021-12-13,3398.0,2172044,23.0,21194
+Thailand,South-East Asia,2021-12-14,2862.0,2174906,37.0,21231
+Thailand,South-East Asia,2021-12-15,3370.0,2178276,29.0,21260
+Thailand,South-East Asia,2021-12-16,3684.0,2181960,26.0,21286
+Thailand,South-East Asia,2021-12-17,3537.0,2185497,41.0,21327
+Thailand,South-East Asia,2021-12-18,3132.0,2188629,28.0,21355
+Thailand,South-East Asia,2021-12-19,2899.0,2191528,22.0,21377
+Thailand,South-East Asia,2021-12-20,2525.0,2194053,31.0,21408
+Thailand,South-East Asia,2021-12-21,2476.0,2196529,32.0,21440
+Thailand,South-East Asia,2021-12-22,2532.0,2199061,31.0,21471
+Thailand,South-East Asia,2021-12-23,2940.0,2202001,30.0,21501
+Thailand,South-East Asia,2021-12-24,2671.0,2204672,27.0,21528
+Thailand,South-East Asia,2021-12-25,2766.0,2207438,30.0,21558
+Thailand,South-East Asia,2021-12-26,2532.0,2209970,22.0,21580
+Thailand,South-East Asia,2021-12-27,2437.0,2212407,18.0,21598
+Thailand,South-East Asia,2021-12-28,2305.0,2214712,32.0,21630
+Thailand,South-East Asia,2021-12-29,2575.0,2217287,17.0,21647
+Thailand,South-East Asia,2021-12-30,3037.0,2220324,25.0,21672
+Thailand,South-East Asia,2021-12-31,3111.0,2223435,26.0,21698

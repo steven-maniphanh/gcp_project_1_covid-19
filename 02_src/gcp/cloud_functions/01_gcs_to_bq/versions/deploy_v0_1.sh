@@ -1,0 +1,12 @@
+gcloud functions deploy gcs-to-bq \
+  --gen2 \
+  --runtime=python310 \
+  --region=europe-west1 \
+  --trigger-event=google.storage.object.finalize \
+  --trigger-resource=cloud-run-test-gcs-to-bq-1 \
+  --entry-point=gcs_to_bq \
+  --source=. \
+  --project=covid19-1-463112 \
+  --memory=512MiB \
+  --timeout=60s \
+  --project=covid19-1-463112 \

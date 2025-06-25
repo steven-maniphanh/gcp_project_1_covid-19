@@ -1,0 +1,3295 @@
+country,region,date,new_cases,total_cases,new_deaths,total_deaths
+Bangladesh,South-East Asia,2024-01-01,20.0,2046312,0.0,29477
+Bangladesh,South-East Asia,2024-01-02,18.0,2046330,0.0,29477
+Bangladesh,South-East Asia,2024-01-03,16.0,2046346,0.0,29477
+Bangladesh,South-East Asia,2024-01-04,21.0,2046367,0.0,29477
+Bangladesh,South-East Asia,2024-01-05,16.0,2046383,0.0,29477
+Bangladesh,South-East Asia,2024-01-06,10.0,2046393,0.0,29477
+Bangladesh,South-East Asia,2024-01-07,16.0,2046409,0.0,29477
+Bangladesh,South-East Asia,2024-01-08,9.0,2046418,0.0,29477
+Bangladesh,South-East Asia,2024-01-09,22.0,2046440,0.0,29477
+Bangladesh,South-East Asia,2024-01-10,19.0,2046459,0.0,29477
+Bangladesh,South-East Asia,2024-01-11,44.0,2046503,1.0,29478
+Bangladesh,South-East Asia,2024-01-12,39.0,2046542,0.0,29478
+Bangladesh,South-East Asia,2024-01-13,36.0,2046578,0.0,29478
+Bangladesh,South-East Asia,2024-01-14,21.0,2046599,1.0,29479
+Bangladesh,South-East Asia,2024-01-15,36.0,2046635,0.0,29479
+Bangladesh,South-East Asia,2024-01-16,16.0,2046651,0.0,29479
+Bangladesh,South-East Asia,2024-01-17,20.0,2046671,0.0,29479
+Bangladesh,South-East Asia,2024-01-18,18.0,2046689,0.0,29479
+Bangladesh,South-East Asia,2024-01-19,22.0,2046711,0.0,29479
+Bangladesh,South-East Asia,2024-01-20,13.0,2046724,0.0,29479
+Bangladesh,South-East Asia,2024-01-21,34.0,2046758,1.0,29480
+Bangladesh,South-East Asia,2024-01-22,30.0,2046788,1.0,29481
+Bangladesh,South-East Asia,2024-01-23,35.0,2046823,0.0,29481
+Bangladesh,South-East Asia,2024-01-24,38.0,2046861,0.0,29481
+Bangladesh,South-East Asia,2024-01-25,40.0,2046901,0.0,29481
+Bangladesh,South-East Asia,2024-01-26,34.0,2046935,0.0,29481
+Bangladesh,South-East Asia,2024-01-27,28.0,2046963,0.0,29481
+Bangladesh,South-East Asia,2024-01-28,35.0,2046998,0.0,29481
+Bangladesh,South-East Asia,2024-01-29,53.0,2047051,0.0,29481
+Bangladesh,South-East Asia,2024-01-30,57.0,2047108,1.0,29482
+Bangladesh,South-East Asia,2024-01-31,42.0,2047150,0.0,29482
+Bangladesh,South-East Asia,2024-02-01,49.0,2047199,0.0,29482
+Bangladesh,South-East Asia,2024-02-02,34.0,2047233,0.0,29482
+Bangladesh,South-East Asia,2024-02-03,25.0,2047258,0.0,29482
+Bangladesh,South-East Asia,2024-02-04,39.0,2047297,0.0,29482
+Bangladesh,South-East Asia,2024-02-05,51.0,2047348,0.0,29482
+Bangladesh,South-East Asia,2024-02-06,25.0,2047373,0.0,29482
+Bangladesh,South-East Asia,2024-02-07,34.0,2047407,1.0,29483
+Bangladesh,South-East Asia,2024-02-08,33.0,2047440,0.0,29483
+Bangladesh,South-East Asia,2024-02-09,47.0,2047487,0.0,29483
+Bangladesh,South-East Asia,2024-02-10,36.0,2047523,0.0,29483
+Bangladesh,South-East Asia,2024-02-11,29.0,2047552,0.0,29483
+Bangladesh,South-East Asia,2024-02-12,68.0,2047620,1.0,29484
+Bangladesh,South-East Asia,2024-02-13,51.0,2047671,0.0,29484
+Bangladesh,South-East Asia,2024-02-14,38.0,2047709,0.0,29484
+Bangladesh,South-East Asia,2024-02-15,44.0,2047753,0.0,29484
+Bangladesh,South-East Asia,2024-02-16,43.0,2047796,1.0,29485
+Bangladesh,South-East Asia,2024-02-17,48.0,2047844,1.0,29486
+Bangladesh,South-East Asia,2024-02-18,43.0,2047887,0.0,29486
+Bangladesh,South-East Asia,2024-02-19,53.0,2047940,0.0,29486
+Bangladesh,South-East Asia,2024-02-20,67.0,2048007,0.0,29486
+Bangladesh,South-East Asia,2024-02-21,36.0,2048043,0.0,29486
+Bangladesh,South-East Asia,2024-02-22,73.0,2048116,1.0,29487
+Bangladesh,South-East Asia,2024-02-23,33.0,2048149,1.0,29488
+Bangladesh,South-East Asia,2024-02-24,37.0,2048186,0.0,29488
+Bangladesh,South-East Asia,2024-02-25,46.0,2048232,1.0,29489
+Bangladesh,South-East Asia,2024-02-26,45.0,2048277,0.0,29489
+Bangladesh,South-East Asia,2024-02-27,83.0,2048360,0.0,29489
+Bangladesh,South-East Asia,2024-02-28,47.0,2048407,0.0,29489
+Bangladesh,South-East Asia,2024-02-29,57.0,2048464,1.0,29490
+Bangladesh,South-East Asia,2024-03-01,53.0,2048517,1.0,29491
+Bangladesh,South-East Asia,2024-03-02,34.0,2048551,0.0,29491
+Bangladesh,South-East Asia,2024-03-03,37.0,2048588,0.0,29491
+Bangladesh,South-East Asia,2024-03-04,46.0,2048634,0.0,29491
+Bangladesh,South-East Asia,2024-03-05,65.0,2048699,0.0,29491
+Bangladesh,South-East Asia,2024-03-06,54.0,2048753,0.0,29491
+Bangladesh,South-East Asia,2024-03-07,45.0,2048798,0.0,29491
+Bangladesh,South-East Asia,2024-03-08,49.0,2048847,1.0,29492
+Bangladesh,South-East Asia,2024-03-09,35.0,2048882,0.0,29492
+Bangladesh,South-East Asia,2024-03-10,32.0,2048914,0.0,29492
+Bangladesh,South-East Asia,2024-03-11,49.0,2048963,0.0,29492
+Bangladesh,South-East Asia,2024-03-12,34.0,2048997,0.0,29492
+Bangladesh,South-East Asia,2024-03-13,35.0,2049032,0.0,29492
+Bangladesh,South-East Asia,2024-03-14,27.0,2049059,0.0,29492
+Bangladesh,South-East Asia,2024-03-15,26.0,2049085,0.0,29492
+Bangladesh,South-East Asia,2024-03-16,36.0,2049121,0.0,29492
+Bangladesh,South-East Asia,2024-03-17,34.0,2049155,0.0,29492
+Bangladesh,South-East Asia,2024-03-18,33.0,2049188,0.0,29492
+Bangladesh,South-East Asia,2024-03-19,31.0,2049219,1.0,29493
+Bangladesh,South-East Asia,2024-03-20,39.0,2049258,0.0,29493
+Bangladesh,South-East Asia,2024-03-21,29.0,2049287,0.0,29493
+Bangladesh,South-East Asia,2024-03-22,42.0,2049329,0.0,29493
+Bangladesh,South-East Asia,2024-03-23,26.0,2049355,0.0,29493
+Bangladesh,South-East Asia,2024-03-24,22.0,2049377,0.0,29493
+Bangladesh,South-East Asia,2024-03-25,34.0,2049411,0.0,29493
+Bangladesh,South-East Asia,2024-03-26,24.0,2049435,0.0,29493
+Bangladesh,South-East Asia,2024-03-27,14.0,2049449,0.0,29493
+Bangladesh,South-East Asia,2024-03-28,16.0,2049465,0.0,29493
+Bangladesh,South-East Asia,2024-03-29,19.0,2049484,0.0,29493
+Bangladesh,South-East Asia,2024-03-30,15.0,2049499,0.0,29493
+Bangladesh,South-East Asia,2024-03-31,20.0,2049519,0.0,29493
+Bangladesh,South-East Asia,2024-04-01,23.0,2049542,0.0,29493
+Bangladesh,South-East Asia,2024-04-02,18.0,2049560,0.0,29493
+Bangladesh,South-East Asia,2024-04-03,20.0,2049580,0.0,29493
+Bangladesh,South-East Asia,2024-04-04,15.0,2049595,0.0,29493
+Bangladesh,South-East Asia,2024-04-05,16.0,2049611,0.0,29493
+Bangladesh,South-East Asia,2024-04-06,15.0,2049626,0.0,29493
+Bangladesh,South-East Asia,2024-04-07,19.0,2049645,0.0,29493
+Bangladesh,South-East Asia,2024-04-08,12.0,2049657,0.0,29493
+Bangladesh,South-East Asia,2024-04-09,15.0,2049672,0.0,29493
+Bangladesh,South-East Asia,2024-04-10,16.0,2049688,0.0,29493
+Bangladesh,South-East Asia,2024-04-11,12.0,2049700,0.0,29493
+Bangladesh,South-East Asia,2024-04-12,10.0,2049710,0.0,29493
+Bangladesh,South-East Asia,2024-04-13,9.0,2049719,0.0,29493
+Bangladesh,South-East Asia,2024-04-14,9.0,2049728,0.0,29493
+Bangladesh,South-East Asia,2024-04-15,11.0,2049739,0.0,29493
+Bangladesh,South-East Asia,2024-04-16,20.0,2049759,0.0,29493
+Bangladesh,South-East Asia,2024-04-17,25.0,2049784,0.0,29493
+Bangladesh,South-East Asia,2024-04-18,16.0,2049800,1.0,29494
+Bangladesh,South-East Asia,2024-04-19,16.0,2049816,0.0,29494
+Bangladesh,South-East Asia,2024-04-20,12.0,2049828,0.0,29494
+Bangladesh,South-East Asia,2024-04-21,22.0,2049850,0.0,29494
+Bangladesh,South-East Asia,2024-04-22,24.0,2049874,0.0,29494
+Bangladesh,South-East Asia,2024-04-23,23.0,2049897,0.0,29494
+Bangladesh,South-East Asia,2024-04-24,18.0,2049915,0.0,29494
+Bangladesh,South-East Asia,2024-04-25,16.0,2049931,0.0,29494
+Bangladesh,South-East Asia,2024-04-26,14.0,2049945,0.0,29494
+Bangladesh,South-East Asia,2024-04-27,25.0,2049970,0.0,29494
+Bangladesh,South-East Asia,2024-04-28,0.0,2049970,0.0,29494
+Bangladesh,South-East Asia,2024-04-29,16.0,2049986,0.0,29494
+Bangladesh,South-East Asia,2024-04-30,11.0,2049997,0.0,29494
+Bangladesh,South-East Asia,2024-05-01,14.0,2050011,0.0,29494
+Bangladesh,South-East Asia,2024-05-02,17.0,2050028,0.0,29494
+Bangladesh,South-East Asia,2024-05-03,10.0,2050038,0.0,29494
+Bangladesh,South-East Asia,2024-05-04,11.0,2050049,0.0,29494
+Bangladesh,South-East Asia,2024-05-05,11.0,2050060,0.0,29494
+Bangladesh,South-East Asia,2024-05-06,17.0,2050077,0.0,29494
+Bangladesh,South-East Asia,2024-05-07,12.0,2050089,0.0,29494
+Bangladesh,South-East Asia,2024-05-08,12.0,2050101,0.0,29494
+Bangladesh,South-East Asia,2024-05-09,11.0,2050112,0.0,29494
+Bangladesh,South-East Asia,2024-05-10,22.0,2050134,0.0,29494
+Bangladesh,South-East Asia,2024-05-11,9.0,2050143,0.0,29494
+Bangladesh,South-East Asia,2024-05-12,13.0,2050156,0.0,29494
+Bangladesh,South-East Asia,2024-05-13,14.0,2050170,0.0,29494
+Bangladesh,South-East Asia,2024-05-14,9.0,2050179,0.0,29494
+Bangladesh,South-East Asia,2024-05-15,12.0,2050191,0.0,29494
+Bangladesh,South-East Asia,2024-05-16,19.0,2050210,0.0,29494
+Bangladesh,South-East Asia,2024-05-17,13.0,2050223,0.0,29494
+Bangladesh,South-East Asia,2024-05-18,11.0,2050234,1.0,29495
+Bangladesh,South-East Asia,2024-05-19,9.0,2050243,0.0,29495
+Bangladesh,South-East Asia,2024-05-20,22.0,2050265,0.0,29495
+Bangladesh,South-East Asia,2024-05-21,12.0,2050277,0.0,29495
+Bangladesh,South-East Asia,2024-05-22,14.0,2050291,0.0,29495
+Bangladesh,South-East Asia,2024-05-23,12.0,2050303,0.0,29495
+Bangladesh,South-East Asia,2024-05-24,29.0,2050332,0.0,29495
+Bangladesh,South-East Asia,2024-05-25,19.0,2050351,0.0,29495
+Bangladesh,South-East Asia,2024-05-26,16.0,2050367,0.0,29495
+Bangladesh,South-East Asia,2024-05-27,13.0,2050380,0.0,29495
+Bangladesh,South-East Asia,2024-05-28,31.0,2050411,0.0,29495
+Bangladesh,South-East Asia,2024-05-29,18.0,2050429,0.0,29495
+Bangladesh,South-East Asia,2024-05-30,26.0,2050455,0.0,29495
+Bangladesh,South-East Asia,2024-05-31,22.0,2050477,0.0,29495
+Bangladesh,South-East Asia,2024-06-01,16.0,2050493,0.0,29495
+Bangladesh,South-East Asia,2024-06-02,18.0,2050511,0.0,29495
+Bangladesh,South-East Asia,2024-06-03,38.0,2050549,0.0,29495
+Bangladesh,South-East Asia,2024-06-04,21.0,2050570,0.0,29495
+Bangladesh,South-East Asia,2024-06-05,52.0,2050622,0.0,29495
+Bangladesh,South-East Asia,2024-06-06,33.0,2050655,0.0,29495
+Bangladesh,South-East Asia,2024-06-07,15.0,2050670,0.0,29495
+Bangladesh,South-East Asia,2024-06-08,16.0,2050686,0.0,29495
+Bangladesh,South-East Asia,2024-06-09,17.0,2050703,0.0,29495
+Bangladesh,South-East Asia,2024-06-10,19.0,2050722,0.0,29495
+Bangladesh,South-East Asia,2024-06-11,24.0,2050746,0.0,29495
+Bangladesh,South-East Asia,2024-06-12,18.0,2050764,0.0,29495
+Bangladesh,South-East Asia,2024-06-13,28.0,2050792,0.0,29495
+Bangladesh,South-East Asia,2024-06-14,15.0,2050807,0.0,29495
+Bangladesh,South-East Asia,2024-06-15,13.0,2050820,1.0,29496
+Bangladesh,South-East Asia,2024-06-16,14.0,2050834,0.0,29496
+Bangladesh,South-East Asia,2024-06-17,9.0,2050843,0.0,29496
+Bangladesh,South-East Asia,2024-06-18,7.0,2050850,0.0,29496
+Bangladesh,South-East Asia,2024-06-19,8.0,2050858,0.0,29496
+Bangladesh,South-East Asia,2024-06-20,9.0,2050867,1.0,29497
+Bangladesh,South-East Asia,2024-06-21,10.0,2050877,0.0,29497
+Bangladesh,South-East Asia,2024-06-22,11.0,2050888,0.0,29497
+Bangladesh,South-East Asia,2024-06-23,12.0,2050900,0.0,29497
+Bangladesh,South-East Asia,2024-06-24,11.0,2050911,0.0,29497
+Bangladesh,South-East Asia,2024-06-25,13.0,2050924,0.0,29497
+Bangladesh,South-East Asia,2024-06-26,16.0,2050940,0.0,29497
+Bangladesh,South-East Asia,2024-06-27,17.0,2050957,0.0,29497
+Bangladesh,South-East Asia,2024-06-28,23.0,2050980,1.0,29498
+Bangladesh,South-East Asia,2024-06-29,14.0,2050994,0.0,29498
+Bangladesh,South-East Asia,2024-06-30,15.0,2051009,0.0,29498
+Bangladesh,South-East Asia,2024-07-01,15.0,2051024,0.0,29498
+Bangladesh,South-East Asia,2024-07-02,17.0,2051041,0.0,29498
+Bangladesh,South-East Asia,2024-07-03,13.0,2051054,0.0,29498
+Bangladesh,South-East Asia,2024-07-04,21.0,2051075,0.0,29498
+Bangladesh,South-East Asia,2024-07-05,19.0,2051094,0.0,29498
+Bangladesh,South-East Asia,2024-07-06,15.0,2051109,0.0,29498
+Bangladesh,South-East Asia,2024-07-07,21.0,2051130,0.0,29498
+Bangladesh,South-East Asia,2024-07-08,15.0,2051145,0.0,29498
+Bangladesh,South-East Asia,2024-07-09,20.0,2051165,0.0,29498
+Bangladesh,South-East Asia,2024-07-10,11.0,2051176,0.0,29498
+Bangladesh,South-East Asia,2024-07-11,16.0,2051192,0.0,29498
+Bangladesh,South-East Asia,2024-07-12,15.0,2051207,0.0,29498
+Bangladesh,South-East Asia,2024-07-13,14.0,2051221,0.0,29498
+Bangladesh,South-East Asia,2024-07-14,11.0,2051232,0.0,29498
+Bangladesh,South-East Asia,2024-07-15,21.0,2051253,0.0,29498
+Bangladesh,South-East Asia,2024-07-16,11.0,2051264,0.0,29498
+Bangladesh,South-East Asia,2024-07-17,8.0,2051272,0.0,29498
+Bangladesh,South-East Asia,2024-07-18,0.0,2051272,0.0,29498
+Bangladesh,South-East Asia,2024-07-19,0.0,2051272,0.0,29498
+Bangladesh,South-East Asia,2024-07-20,0.0,2051272,0.0,29498
+Bangladesh,South-East Asia,2024-07-21,0.0,2051272,0.0,29498
+Bangladesh,South-East Asia,2024-07-22,0.0,2051272,0.0,29498
+Bangladesh,South-East Asia,2024-07-23,10.0,2051282,0.0,29498
+Bangladesh,South-East Asia,2024-07-24,6.0,2051288,0.0,29498
+Bangladesh,South-East Asia,2024-07-25,5.0,2051293,0.0,29498
+Bangladesh,South-East Asia,2024-07-26,9.0,2051302,1.0,29499
+Bangladesh,South-East Asia,2024-07-27,0.0,2051302,0.0,29499
+Bangladesh,South-East Asia,2024-07-28,6.0,2051308,0.0,29499
+Bangladesh,South-East Asia,2024-07-29,7.0,2051315,0.0,29499
+Bangladesh,South-East Asia,2024-07-30,6.0,2051321,0.0,29499
+Bangladesh,South-East Asia,2024-07-31,5.0,2051326,0.0,29499
+Bangladesh,South-East Asia,2024-08-01,5.0,2051331,0.0,29499
+Bangladesh,South-East Asia,2024-08-02,5.0,2051336,0.0,29499
+Bangladesh,South-East Asia,2024-08-03,5.0,2051341,0.0,29499
+Bangladesh,South-East Asia,2024-08-04,7.0,2051348,0.0,29499
+Bangladesh,South-East Asia,2024-08-05,5.0,2051353,0.0,29499
+Bangladesh,South-East Asia,2024-08-06,4.0,2051357,0.0,29499
+Bangladesh,South-East Asia,2024-08-07,1.0,2051358,0.0,29499
+Bangladesh,South-East Asia,2024-08-08,2.0,2051360,0.0,29499
+Bangladesh,South-East Asia,2024-08-09,1.0,2051361,0.0,29499
+Bangladesh,South-East Asia,2024-08-10,1.0,2051362,0.0,29499
+Bangladesh,South-East Asia,2024-08-11,1.0,2051363,0.0,29499
+Bangladesh,South-East Asia,2024-08-12,1.0,2051364,0.0,29499
+Bangladesh,South-East Asia,2024-08-13,2.0,2051366,0.0,29499
+Bangladesh,South-East Asia,2024-08-14,1.0,2051367,0.0,29499
+Bangladesh,South-East Asia,2024-08-15,2.0,2051369,0.0,29499
+Bangladesh,South-East Asia,2024-08-16,1.0,2051370,0.0,29499
+Bangladesh,South-East Asia,2024-08-17,1.0,2051371,0.0,29499
+Bangladesh,South-East Asia,2024-08-18,1.0,2051372,0.0,29499
+Bangladesh,South-East Asia,2024-08-19,1.0,2051373,0.0,29499
+Bangladesh,South-East Asia,2024-08-20,2.0,2051375,0.0,29499
+Bangladesh,South-East Asia,2024-08-21,1.0,2051376,0.0,29499
+Bangladesh,South-East Asia,2024-08-22,1.0,2051377,0.0,29499
+Bangladesh,South-East Asia,2024-08-23,1.0,2051378,0.0,29499
+Bangladesh,South-East Asia,2024-08-24,1.0,2051379,0.0,29499
+Bangladesh,South-East Asia,2024-08-25,1.0,2051380,0.0,29499
+Bangladesh,South-East Asia,2024-08-26,1.0,2051381,0.0,29499
+Bangladesh,South-East Asia,2024-08-27,1.0,2051382,0.0,29499
+Bangladesh,South-East Asia,2024-08-28,1.0,2051383,0.0,29499
+Bangladesh,South-East Asia,2024-08-29,1.0,2051384,0.0,29499
+Bangladesh,South-East Asia,2024-08-30,2.0,2051386,0.0,29499
+Bangladesh,South-East Asia,2024-08-31,1.0,2051387,0.0,29499
+Bangladesh,South-East Asia,2024-09-01,2.0,2051389,0.0,29499
+Bangladesh,South-East Asia,2024-09-02,2.0,2051391,0.0,29499
+Bangladesh,South-East Asia,2024-09-03,1.0,2051392,0.0,29499
+Bangladesh,South-East Asia,2024-09-04,2.0,2051394,0.0,29499
+Bangladesh,South-East Asia,2024-09-05,2.0,2051396,0.0,29499
+Bangladesh,South-East Asia,2024-09-06,1.0,2051397,0.0,29499
+Bangladesh,South-East Asia,2024-09-07,1.0,2051398,0.0,29499
+Bangladesh,South-East Asia,2024-09-08,1.0,2051399,0.0,29499
+Bangladesh,South-East Asia,2024-09-09,2.0,2051401,0.0,29499
+Bangladesh,South-East Asia,2024-09-10,2.0,2051403,0.0,29499
+Bangladesh,South-East Asia,2024-09-11,1.0,2051404,0.0,29499
+Bangladesh,South-East Asia,2024-09-12,1.0,2051405,0.0,29499
+Bangladesh,South-East Asia,2024-09-13,1.0,2051406,0.0,29499
+Bangladesh,South-East Asia,2024-09-14,2.0,2051408,0.0,29499
+Bangladesh,South-East Asia,2024-09-15,1.0,2051409,0.0,29499
+Bangladesh,South-East Asia,2024-09-16,1.0,2051410,0.0,29499
+Bangladesh,South-East Asia,2024-09-17,1.0,2051411,0.0,29499
+Bangladesh,South-East Asia,2024-09-18,2.0,2051413,0.0,29499
+Bangladesh,South-East Asia,2024-09-19,1.0,2051414,0.0,29499
+Bangladesh,South-East Asia,2024-09-20,1.0,2051415,0.0,29499
+Bangladesh,South-East Asia,2024-09-21,1.0,2051416,0.0,29499
+Bangladesh,South-East Asia,2024-09-22,1.0,2051417,0.0,29499
+Bangladesh,South-East Asia,2024-09-23,2.0,2051419,0.0,29499
+Bangladesh,South-East Asia,2024-09-24,1.0,2051420,0.0,29499
+Bangladesh,South-East Asia,2024-09-25,2.0,2051422,0.0,29499
+Bangladesh,South-East Asia,2024-09-26,1.0,2051423,0.0,29499
+Bangladesh,South-East Asia,2024-09-27,1.0,2051424,0.0,29499
+Bangladesh,South-East Asia,2024-09-28,1.0,2051425,0.0,29499
+Bangladesh,South-East Asia,2024-09-29,1.0,2051426,0.0,29499
+Bangladesh,South-East Asia,2024-09-30,4.0,2051430,0.0,29499
+Bangladesh,South-East Asia,2024-10-01,2.0,2051432,0.0,29499
+Bangladesh,South-East Asia,2024-10-02,1.0,2051433,0.0,29499
+Bangladesh,South-East Asia,2024-10-03,1.0,2051434,0.0,29499
+Bangladesh,South-East Asia,2024-10-04,1.0,2051435,0.0,29499
+Bangladesh,South-East Asia,2024-10-05,1.0,2051436,0.0,29499
+Bangladesh,South-East Asia,2024-10-06,1.0,2051437,0.0,29499
+Bangladesh,South-East Asia,2024-10-07,2.0,2051439,0.0,29499
+Bangladesh,South-East Asia,2024-10-08,1.0,2051440,0.0,29499
+Bangladesh,South-East Asia,2024-10-09,1.0,2051441,0.0,29499
+Bangladesh,South-East Asia,2024-10-10,2.0,2051443,0.0,29499
+Bangladesh,South-East Asia,2024-10-11,1.0,2051444,0.0,29499
+Bangladesh,South-East Asia,2024-10-12,1.0,2051445,0.0,29499
+Bangladesh,South-East Asia,2024-10-13,1.0,2051446,0.0,29499
+Bangladesh,South-East Asia,2024-10-14,1.0,2051447,0.0,29499
+Bangladesh,South-East Asia,2024-10-15,1.0,2051448,0.0,29499
+Bangladesh,South-East Asia,2024-10-16,3.0,2051451,0.0,29499
+Bangladesh,South-East Asia,2024-10-17,1.0,2051452,0.0,29499
+Bangladesh,South-East Asia,2024-10-18,1.0,2051453,0.0,29499
+Bangladesh,South-East Asia,2024-10-19,1.0,2051454,0.0,29499
+Bangladesh,South-East Asia,2024-10-20,1.0,2051455,0.0,29499
+Bangladesh,South-East Asia,2024-10-21,2.0,2051457,0.0,29499
+Bangladesh,South-East Asia,2024-10-22,1.0,2051458,0.0,29499
+Bangladesh,South-East Asia,2024-10-23,1.0,2051459,0.0,29499
+Bangladesh,South-East Asia,2024-10-24,1.0,2051460,0.0,29499
+Bangladesh,South-East Asia,2024-10-25,1.0,2051461,0.0,29499
+Bangladesh,South-East Asia,2024-10-26,1.0,2051462,0.0,29499
+Bangladesh,South-East Asia,2024-10-27,1.0,2051463,0.0,29499
+Bangladesh,South-East Asia,2024-10-28,1.0,2051464,0.0,29499
+Bangladesh,South-East Asia,2024-10-29,2.0,2051466,0.0,29499
+Bangladesh,South-East Asia,2024-10-30,3.0,2051469,0.0,29499
+Bangladesh,South-East Asia,2024-10-31,3.0,2051472,0.0,29499
+Bangladesh,South-East Asia,2024-11-01,1.0,2051473,0.0,29499
+Bangladesh,South-East Asia,2024-11-02,2.0,2051475,0.0,29499
+Bangladesh,South-East Asia,2024-11-03,1.0,2051476,0.0,29499
+Bangladesh,South-East Asia,2024-11-04,1.0,2051477,0.0,29499
+Bangladesh,South-East Asia,2024-11-05,2.0,2051479,0.0,29499
+Bangladesh,South-East Asia,2024-11-06,2.0,2051481,0.0,29499
+Bangladesh,South-East Asia,2024-11-07,1.0,2051482,0.0,29499
+Bangladesh,South-East Asia,2024-11-08,2.0,2051484,0.0,29499
+Bangladesh,South-East Asia,2024-11-09,1.0,2051485,0.0,29499
+Bangladesh,South-East Asia,2024-11-10,1.0,2051486,0.0,29499
+Bangladesh,South-East Asia,2024-11-11,2.0,2051488,0.0,29499
+Bangladesh,South-East Asia,2024-11-12,1.0,2051489,0.0,29499
+Bangladesh,South-East Asia,2024-11-13,1.0,2051490,0.0,29499
+Bangladesh,South-East Asia,2024-11-14,1.0,2051491,0.0,29499
+Bangladesh,South-East Asia,2024-11-15,1.0,2051492,0.0,29499
+Bangladesh,South-East Asia,2024-11-16,1.0,2051493,0.0,29499
+Bangladesh,South-East Asia,2024-11-17,1.0,2051494,0.0,29499
+Bangladesh,South-East Asia,2024-11-18,4.0,2051498,0.0,29499
+Bangladesh,South-East Asia,2024-11-19,0.0,2051498,0.0,29499
+Bangladesh,South-East Asia,2024-11-20,2.0,2051500,0.0,29499
+Bangladesh,South-East Asia,2024-11-21,1.0,2051501,0.0,29499
+Bangladesh,South-East Asia,2024-11-22,1.0,2051502,0.0,29499
+Bangladesh,South-East Asia,2024-11-23,1.0,2051503,0.0,29499
+Bangladesh,South-East Asia,2024-11-24,1.0,2051504,0.0,29499
+Bangladesh,South-East Asia,2024-11-25,2.0,2051506,0.0,29499
+Bangladesh,South-East Asia,2024-11-26,1.0,2051507,0.0,29499
+Bangladesh,South-East Asia,2024-11-27,1.0,2051508,0.0,29499
+Bangladesh,South-East Asia,2024-11-28,1.0,2051509,0.0,29499
+Bangladesh,South-East Asia,2024-11-29,1.0,2051510,0.0,29499
+Bangladesh,South-East Asia,2024-11-30,1.0,2051511,0.0,29499
+Bangladesh,South-East Asia,2024-12-01,1.0,2051512,0.0,29499
+Bangladesh,South-East Asia,2024-12-02,1.0,2051513,0.0,29499
+Bangladesh,South-East Asia,2024-12-03,1.0,2051514,0.0,29499
+Bangladesh,South-East Asia,2024-12-04,1.0,2051515,0.0,29499
+Bangladesh,South-East Asia,2024-12-05,1.0,2051516,0.0,29499
+Bangladesh,South-East Asia,2024-12-06,1.0,2051517,0.0,29499
+Bangladesh,South-East Asia,2024-12-07,1.0,2051518,0.0,29499
+Bangladesh,South-East Asia,2024-12-08,1.0,2051519,0.0,29499
+Bangladesh,South-East Asia,2024-12-09,1.0,2051520,0.0,29499
+Bangladesh,South-East Asia,2024-12-10,1.0,2051521,0.0,29499
+Bangladesh,South-East Asia,2024-12-11,1.0,2051522,0.0,29499
+Bangladesh,South-East Asia,2024-12-12,1.0,2051523,0.0,29499
+Bangladesh,South-East Asia,2024-12-13,1.0,2051524,0.0,29499
+Bangladesh,South-East Asia,2024-12-14,1.0,2051525,0.0,29499
+Bangladesh,South-East Asia,2024-12-15,2.0,2051527,0.0,29499
+Bangladesh,South-East Asia,2024-12-16,1.0,2051528,0.0,29499
+Bangladesh,South-East Asia,2024-12-17,1.0,2051529,0.0,29499
+Bangladesh,South-East Asia,2024-12-18,2.0,2051531,0.0,29499
+Bangladesh,South-East Asia,2024-12-19,1.0,2051532,0.0,29499
+Bangladesh,South-East Asia,2024-12-20,1.0,2051533,0.0,29499
+Bangladesh,South-East Asia,2024-12-21,1.0,2051534,0.0,29499
+Bangladesh,South-East Asia,2024-12-22,2.0,2051536,0.0,29499
+Bangladesh,South-East Asia,2024-12-23,1.0,2051537,0.0,29499
+Bangladesh,South-East Asia,2024-12-24,1.0,2051538,0.0,29499
+Bangladesh,South-East Asia,2024-12-25,1.0,2051539,0.0,29499
+Bangladesh,South-East Asia,2024-12-26,1.0,2051540,0.0,29499
+Bangladesh,South-East Asia,2024-12-27,1.0,2051541,0.0,29499
+Bangladesh,South-East Asia,2024-12-28,1.0,2051542,0.0,29499
+Bangladesh,South-East Asia,2024-12-29,1.0,2051543,0.0,29499
+Bangladesh,South-East Asia,2024-12-30,1.0,2051544,0.0,29499
+Bangladesh,South-East Asia,2024-12-31,1.0,2051545,0.0,29499
+Bhutan,South-East Asia,2024-01-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-01-31,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-02-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-03-31,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-04-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-05-31,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-06-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-07-31,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-08-31,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-09-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-10-31,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-11-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2024-12-31,0.0,62697,0.0,21
+India,South-East Asia,2024-01-01,736.0,45013908,3.0,533364
+India,South-East Asia,2024-01-02,573.0,45014481,2.0,533366
+India,South-East Asia,2024-01-03,602.0,45015083,5.0,533371
+India,South-East Asia,2024-01-04,760.0,45015843,2.0,533373
+India,South-East Asia,2024-01-05,761.0,45016604,12.0,533385
+India,South-East Asia,2024-01-06,774.0,45017378,2.0,533387
+India,South-East Asia,2024-01-07,756.0,45018134,5.0,533392
+India,South-East Asia,2024-01-08,605.0,45018739,4.0,533396
+India,South-East Asia,2024-01-09,475.0,45019214,6.0,533402
+India,South-East Asia,2024-01-10,605.0,45019819,4.0,533406
+India,South-East Asia,2024-01-11,514.0,45020333,3.0,533409
+India,South-East Asia,2024-01-12,609.0,45020942,3.0,533412
+India,South-East Asia,2024-01-13,441.0,45021383,0.0,533412
+India,South-East Asia,2024-01-14,375.0,45021758,2.0,533414
+India,South-East Asia,2024-01-15,272.0,45022030,0.0,533414
+India,South-East Asia,2024-01-16,189.0,45022219,3.0,533417
+India,South-East Asia,2024-01-17,269.0,45022488,3.0,533420
+India,South-East Asia,2024-01-18,305.0,45022793,3.0,533423
+India,South-East Asia,2024-01-19,355.0,45023148,2.0,533425
+India,South-East Asia,2024-01-20,313.0,45023461,3.0,533428
+India,South-East Asia,2024-01-21,290.0,45023751,6.0,533434
+India,South-East Asia,2024-01-22,203.0,45023954,2.0,533436
+India,South-East Asia,2024-01-23,236.0,45024190,3.0,533439
+India,South-East Asia,2024-01-24,160.0,45024350,2.0,533441
+India,South-East Asia,2024-01-25,198.0,45024548,1.0,533442
+India,South-East Asia,2024-01-26,187.0,45024735,1.0,533443
+India,South-East Asia,2024-01-27,159.0,45024894,1.0,533444
+India,South-East Asia,2024-01-28,182.0,45025076,1.0,533445
+India,South-East Asia,2024-01-29,112.0,45025188,0.0,533445
+India,South-East Asia,2024-01-30,124.0,45025312,0.0,533445
+India,South-East Asia,2024-01-31,133.0,45025445,2.0,533447
+India,South-East Asia,2024-02-01,160.0,45025605,1.0,533448
+India,South-East Asia,2024-02-02,187.0,45025792,3.0,533451
+India,South-East Asia,2024-02-03,159.0,45025951,3.0,533454
+India,South-East Asia,2024-02-04,188.0,45026139,0.0,533454
+India,South-East Asia,2024-02-05,122.0,45026261,0.0,533454
+India,South-East Asia,2024-02-06,124.0,45026385,1.0,533455
+India,South-East Asia,2024-02-07,157.0,45026542,2.0,533457
+India,South-East Asia,2024-02-08,70.0,45026612,1.0,533458
+India,South-East Asia,2024-02-09,0.0,45026612,1.0,533459
+India,South-East Asia,2024-02-10,163.0,45026775,2.0,533461
+India,South-East Asia,2024-02-11,376.0,45027151,1.0,533462
+India,South-East Asia,2024-02-12,74.0,45027225,0.0,533462
+India,South-East Asia,2024-02-13,123.0,45027348,4.0,533466
+India,South-East Asia,2024-02-14,120.0,45027468,1.0,533467
+India,South-East Asia,2024-02-15,120.0,45027588,1.0,533468
+India,South-East Asia,2024-02-16,166.0,45027754,2.0,533470
+India,South-East Asia,2024-02-17,144.0,45027898,2.0,533472
+India,South-East Asia,2024-02-18,155.0,45028053,0.0,533472
+India,South-East Asia,2024-02-19,110.0,45028163,0.0,533472
+India,South-East Asia,2024-02-20,105.0,45028268,1.0,533473
+India,South-East Asia,2024-02-21,161.0,45028429,2.0,533475
+India,South-East Asia,2024-02-22,136.0,45028565,1.0,533476
+India,South-East Asia,2024-02-23,167.0,45028732,0.0,533476
+India,South-East Asia,2024-02-24,155.0,45028887,1.0,533477
+India,South-East Asia,2024-02-25,148.0,45029035,1.0,533478
+India,South-East Asia,2024-02-26,114.0,45029149,1.0,533479
+India,South-East Asia,2024-02-27,125.0,45029274,5.0,533484
+India,South-East Asia,2024-02-28,181.0,45029455,1.0,533485
+India,South-East Asia,2024-02-29,193.0,45029648,4.0,533489
+India,South-East Asia,2024-03-01,204.0,45029852,2.0,533491
+India,South-East Asia,2024-03-02,182.0,45030034,2.0,533493
+India,South-East Asia,2024-03-03,178.0,45030212,2.0,533495
+India,South-East Asia,2024-03-04,120.0,45030332,1.0,533496
+India,South-East Asia,2024-03-05,135.0,45030467,3.0,533499
+India,South-East Asia,2024-03-06,217.0,45030684,0.0,533499
+India,South-East Asia,2024-03-07,202.0,45030886,5.0,533504
+India,South-East Asia,2024-03-08,237.0,45031123,1.0,533505
+India,South-East Asia,2024-03-09,179.0,45031302,3.0,533508
+India,South-East Asia,2024-03-10,112.0,45031414,2.0,533510
+India,South-East Asia,2024-03-11,148.0,45031562,0.0,533510
+India,South-East Asia,2024-03-12,138.0,45031700,0.0,533510
+India,South-East Asia,2024-03-13,197.0,45031897,2.0,533512
+India,South-East Asia,2024-03-14,199.0,45032096,1.0,533513
+India,South-East Asia,2024-03-15,225.0,45032321,4.0,533517
+India,South-East Asia,2024-03-16,197.0,45032518,0.0,533517
+India,South-East Asia,2024-03-17,137.0,45032655,4.0,533521
+India,South-East Asia,2024-03-18,129.0,45032784,2.0,533523
+India,South-East Asia,2024-03-19,86.0,45032870,2.0,533525
+India,South-East Asia,2024-03-20,159.0,45033029,2.0,533527
+India,South-East Asia,2024-03-21,172.0,45033201,6.0,533533
+India,South-East Asia,2024-03-22,131.0,45033332,2.0,533535
+India,South-East Asia,2024-03-23,180.0,45033512,2.0,533537
+India,South-East Asia,2024-03-24,132.0,45033644,2.0,533539
+India,South-East Asia,2024-03-25,121.0,45033765,1.0,533540
+India,South-East Asia,2024-03-26,57.0,45033822,0.0,533540
+India,South-East Asia,2024-03-27,71.0,45033893,0.0,533540
+India,South-East Asia,2024-03-28,129.0,45034022,3.0,533543
+India,South-East Asia,2024-03-29,114.0,45034136,4.0,533547
+India,South-East Asia,2024-03-30,121.0,45034257,4.0,533551
+India,South-East Asia,2024-03-31,103.0,45034360,1.0,533552
+India,South-East Asia,2024-04-01,62.0,45034422,0.0,533552
+India,South-East Asia,2024-04-02,83.0,45034505,4.0,533556
+India,South-East Asia,2024-04-03,104.0,45034609,2.0,533558
+India,South-East Asia,2024-04-04,114.0,45034723,2.0,533560
+India,South-East Asia,2024-04-05,108.0,45034831,3.0,533563
+India,South-East Asia,2024-04-06,123.0,45034954,1.0,533564
+India,South-East Asia,2024-04-07,101.0,45035055,1.0,533565
+India,South-East Asia,2024-04-08,70.0,45035125,0.0,533565
+India,South-East Asia,2024-04-09,58.0,45035183,1.0,533566
+India,South-East Asia,2024-04-10,71.0,45035254,2.0,533568
+India,South-East Asia,2024-04-11,71.0,45035325,2.0,533570
+India,South-East Asia,2024-04-12,68.0,45035393,0.0,533570
+India,South-East Asia,2024-04-13,102.0,45035495,3.0,533573
+India,South-East Asia,2024-04-14,78.0,45035573,1.0,533574
+India,South-East Asia,2024-04-15,66.0,45035639,0.0,533574
+India,South-East Asia,2024-04-16,62.0,45035701,2.0,533576
+India,South-East Asia,2024-04-17,90.0,45035791,1.0,533577
+India,South-East Asia,2024-04-18,72.0,45035863,1.0,533578
+India,South-East Asia,2024-04-19,104.0,45035967,1.0,533579
+India,South-East Asia,2024-04-20,113.0,45036080,1.0,533580
+India,South-East Asia,2024-04-21,117.0,45036197,1.0,533581
+India,South-East Asia,2024-04-22,75.0,45036272,0.0,533581
+India,South-East Asia,2024-04-23,74.0,45036346,3.0,533584
+India,South-East Asia,2024-04-24,129.0,45036475,0.0,533584
+India,South-East Asia,2024-04-25,112.0,45036587,1.0,533585
+India,South-East Asia,2024-04-26,120.0,45036707,0.0,533585
+India,South-East Asia,2024-04-27,122.0,45036829,0.0,533585
+India,South-East Asia,2024-04-28,124.0,45036953,0.0,533585
+India,South-East Asia,2024-04-29,78.0,45037031,1.0,533586
+India,South-East Asia,2024-04-30,134.0,45037165,0.0,533586
+India,South-East Asia,2024-05-01,133.0,45037298,0.0,533586
+India,South-East Asia,2024-05-02,112.0,45037410,1.0,533587
+India,South-East Asia,2024-05-03,137.0,45037547,1.0,533588
+India,South-East Asia,2024-05-04,93.0,45037640,1.0,533589
+India,South-East Asia,2024-05-05,136.0,45037776,0.0,533589
+India,South-East Asia,2024-05-06,90.0,45037866,0.0,533589
+India,South-East Asia,2024-05-07,82.0,45037948,4.0,533593
+India,South-East Asia,2024-05-08,118.0,45038066,3.0,533596
+India,South-East Asia,2024-05-09,133.0,45038199,0.0,533596
+India,South-East Asia,2024-05-10,123.0,45038322,2.0,533598
+India,South-East Asia,2024-05-11,98.0,45038420,1.0,533599
+India,South-East Asia,2024-05-12,98.0,45038518,0.0,533599
+India,South-East Asia,2024-05-13,59.0,45038577,0.0,533599
+India,South-East Asia,2024-05-14,81.0,45038658,1.0,533600
+India,South-East Asia,2024-05-15,103.0,45038761,2.0,533602
+India,South-East Asia,2024-05-16,88.0,45038849,2.0,533604
+India,South-East Asia,2024-05-17,109.0,45038958,6.0,533610
+India,South-East Asia,2024-05-18,94.0,45039052,0.0,533610
+India,South-East Asia,2024-05-19,88.0,45039140,0.0,533610
+India,South-East Asia,2024-05-20,49.0,45039189,0.0,533610
+India,South-East Asia,2024-05-21,68.0,45039257,1.0,533611
+India,South-East Asia,2024-05-22,55.0,45039312,0.0,533611
+India,South-East Asia,2024-05-23,53.0,45039365,0.0,533611
+India,South-East Asia,2024-05-24,66.0,45039431,1.0,533612
+India,South-East Asia,2024-05-25,46.0,45039477,0.0,533612
+India,South-East Asia,2024-05-26,33.0,45039510,0.0,533612
+India,South-East Asia,2024-05-27,37.0,45039547,0.0,533612
+India,South-East Asia,2024-05-28,48.0,45039595,0.0,533612
+India,South-East Asia,2024-05-29,87.0,45039682,1.0,533613
+India,South-East Asia,2024-05-30,62.0,45039744,1.0,533614
+India,South-East Asia,2024-05-31,39.0,45039783,2.0,533616
+India,South-East Asia,2024-06-01,57.0,45039840,1.0,533617
+India,South-East Asia,2024-06-02,32.0,45039872,0.0,533617
+India,South-East Asia,2024-06-03,15.0,45039887,1.0,533618
+India,South-East Asia,2024-06-04,29.0,45039916,0.0,533618
+India,South-East Asia,2024-06-05,26.0,45039942,0.0,533618
+India,South-East Asia,2024-06-06,36.0,45039978,0.0,533618
+India,South-East Asia,2024-06-07,32.0,45040010,0.0,533618
+India,South-East Asia,2024-06-08,26.0,45040036,1.0,533619
+India,South-East Asia,2024-06-09,0.0,45040036,0.0,533619
+India,South-East Asia,2024-06-10,38.0,45040074,0.0,533619
+India,South-East Asia,2024-06-11,0.0,45040074,0.0,533619
+India,South-East Asia,2024-06-12,0.0,45040074,0.0,533619
+India,South-East Asia,2024-06-13,0.0,45040074,0.0,533619
+India,South-East Asia,2024-06-14,0.0,45040074,0.0,533619
+India,South-East Asia,2024-06-15,0.0,45040074,0.0,533619
+India,South-East Asia,2024-06-16,0.0,45040074,0.0,533619
+India,South-East Asia,2024-06-17,210.0,45040284,2.0,533621
+India,South-East Asia,2024-06-18,0.0,45040284,0.0,533621
+India,South-East Asia,2024-06-19,0.0,45040284,0.0,533621
+India,South-East Asia,2024-06-20,0.0,45040284,0.0,533621
+India,South-East Asia,2024-06-21,0.0,45040284,0.0,533621
+India,South-East Asia,2024-06-22,0.0,45040284,0.0,533621
+India,South-East Asia,2024-06-23,0.0,45040284,0.0,533621
+India,South-East Asia,2024-06-24,334.0,45040618,1.0,533622
+India,South-East Asia,2024-06-25,0.0,45040618,0.0,533622
+India,South-East Asia,2024-06-26,0.0,45040618,0.0,533622
+India,South-East Asia,2024-06-27,0.0,45040618,0.0,533622
+India,South-East Asia,2024-06-28,0.0,45040618,0.0,533622
+India,South-East Asia,2024-06-29,0.0,45040618,0.0,533622
+India,South-East Asia,2024-06-30,0.0,45040618,0.0,533622
+India,South-East Asia,2024-07-01,134.0,45040752,0.0,533622
+India,South-East Asia,2024-07-02,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-03,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-04,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-05,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-06,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-07,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-08,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-09,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-10,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-11,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-12,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-13,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-14,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-15,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-16,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-17,0.0,45040752,0.0,533622
+India,South-East Asia,2024-07-18,440.0,45041192,1.0,533623
+India,South-East Asia,2024-07-19,0.0,45041192,0.0,533623
+India,South-East Asia,2024-07-20,0.0,45041192,0.0,533623
+India,South-East Asia,2024-07-21,0.0,45041192,0.0,533623
+India,South-East Asia,2024-07-22,243.0,45041435,0.0,533623
+India,South-East Asia,2024-07-23,0.0,45041435,0.0,533623
+India,South-East Asia,2024-07-24,0.0,45041435,0.0,533623
+India,South-East Asia,2024-07-25,0.0,45041435,0.0,533623
+India,South-East Asia,2024-07-26,0.0,45041435,0.0,533623
+India,South-East Asia,2024-07-27,0.0,45041435,0.0,533623
+India,South-East Asia,2024-07-28,0.0,45041435,0.0,533623
+India,South-East Asia,2024-07-29,313.0,45041748,0.0,533623
+India,South-East Asia,2024-07-30,0.0,45041748,0.0,533623
+India,South-East Asia,2024-07-31,0.0,45041748,0.0,533623
+India,South-East Asia,2024-08-01,0.0,45041748,0.0,533623
+India,South-East Asia,2024-08-02,0.0,45041748,0.0,533623
+India,South-East Asia,2024-08-03,0.0,45041748,0.0,533623
+India,South-East Asia,2024-08-04,0.0,45041748,0.0,533623
+India,South-East Asia,2024-08-05,306.0,45042054,3.0,533626
+India,South-East Asia,2024-08-06,0.0,45042054,0.0,533626
+India,South-East Asia,2024-08-07,0.0,45042054,0.0,533626
+India,South-East Asia,2024-08-08,0.0,45042054,0.0,533626
+India,South-East Asia,2024-08-09,0.0,45042054,0.0,533626
+India,South-East Asia,2024-08-10,0.0,45042054,0.0,533626
+India,South-East Asia,2024-08-11,0.0,45042054,0.0,533626
+India,South-East Asia,2024-08-12,266.0,45042320,3.0,533629
+India,South-East Asia,2024-08-13,0.0,45042320,0.0,533629
+India,South-East Asia,2024-08-14,0.0,45042320,0.0,533629
+India,South-East Asia,2024-08-15,0.0,45042320,0.0,533629
+India,South-East Asia,2024-08-16,0.0,45042320,0.0,533629
+India,South-East Asia,2024-08-17,0.0,45042320,0.0,533629
+India,South-East Asia,2024-08-18,0.0,45042320,0.0,533629
+India,South-East Asia,2024-08-19,200.0,45042520,3.0,533632
+India,South-East Asia,2024-08-20,0.0,45042520,0.0,533632
+India,South-East Asia,2024-08-21,0.0,45042520,0.0,533632
+India,South-East Asia,2024-08-22,0.0,45042520,0.0,533632
+India,South-East Asia,2024-08-23,0.0,45042520,0.0,533632
+India,South-East Asia,2024-08-24,0.0,45042520,0.0,533632
+India,South-East Asia,2024-08-25,0.0,45042520,0.0,533632
+India,South-East Asia,2024-08-26,282.0,45042802,4.0,533636
+India,South-East Asia,2024-08-27,0.0,45042802,0.0,533636
+India,South-East Asia,2024-08-28,0.0,45042802,0.0,533636
+India,South-East Asia,2024-08-29,0.0,45042802,0.0,533636
+India,South-East Asia,2024-08-30,0.0,45042802,0.0,533636
+India,South-East Asia,2024-08-31,0.0,45042802,0.0,533636
+India,South-East Asia,2024-09-01,0.0,45042802,0.0,533636
+India,South-East Asia,2024-09-02,235.0,45043037,0.0,533636
+India,South-East Asia,2024-09-03,0.0,45043037,0.0,533636
+India,South-East Asia,2024-09-04,0.0,45043037,0.0,533636
+India,South-East Asia,2024-09-05,0.0,45043037,0.0,533636
+India,South-East Asia,2024-09-06,0.0,45043037,0.0,533636
+India,South-East Asia,2024-09-07,0.0,45043037,0.0,533636
+India,South-East Asia,2024-09-08,0.0,45043037,0.0,533636
+India,South-East Asia,2024-09-09,190.0,45043227,2.0,533638
+India,South-East Asia,2024-09-10,0.0,45043227,0.0,533638
+India,South-East Asia,2024-09-11,0.0,45043227,0.0,533638
+India,South-East Asia,2024-09-12,0.0,45043227,0.0,533638
+India,South-East Asia,2024-09-13,0.0,45043227,0.0,533638
+India,South-East Asia,2024-09-14,0.0,45043227,0.0,533638
+India,South-East Asia,2024-09-15,0.0,45043227,0.0,533638
+India,South-East Asia,2024-09-16,188.0,45043415,3.0,533641
+India,South-East Asia,2024-09-17,0.0,45043415,0.0,533641
+India,South-East Asia,2024-09-18,0.0,45043415,0.0,533641
+India,South-East Asia,2024-09-19,0.0,45043415,0.0,533641
+India,South-East Asia,2024-09-20,0.0,45043415,0.0,533641
+India,South-East Asia,2024-09-21,0.0,45043415,0.0,533641
+India,South-East Asia,2024-09-22,0.0,45043415,0.0,533641
+India,South-East Asia,2024-09-23,190.0,45043605,5.0,533646
+India,South-East Asia,2024-09-24,0.0,45043605,0.0,533646
+India,South-East Asia,2024-09-25,0.0,45043605,0.0,533646
+India,South-East Asia,2024-09-26,0.0,45043605,0.0,533646
+India,South-East Asia,2024-09-27,0.0,45043605,0.0,533646
+India,South-East Asia,2024-09-28,0.0,45043605,0.0,533646
+India,South-East Asia,2024-09-29,0.0,45043605,0.0,533646
+India,South-East Asia,2024-09-30,187.0,45043792,2.0,533648
+India,South-East Asia,2024-10-01,0.0,45043792,0.0,533648
+India,South-East Asia,2024-10-02,0.0,45043792,0.0,533648
+India,South-East Asia,2024-10-03,0.0,45043792,0.0,533648
+India,South-East Asia,2024-10-04,0.0,45043792,0.0,533648
+India,South-East Asia,2024-10-05,0.0,45043792,0.0,533648
+India,South-East Asia,2024-10-06,0.0,45043792,0.0,533648
+India,South-East Asia,2024-10-07,156.0,45043948,3.0,533651
+India,South-East Asia,2024-10-08,0.0,45043948,0.0,533651
+India,South-East Asia,2024-10-09,0.0,45043948,0.0,533651
+India,South-East Asia,2024-10-10,0.0,45043948,0.0,533651
+India,South-East Asia,2024-10-11,0.0,45043948,0.0,533651
+India,South-East Asia,2024-10-12,0.0,45043948,0.0,533651
+India,South-East Asia,2024-10-13,0.0,45043948,0.0,533651
+India,South-East Asia,2024-10-14,133.0,45044081,1.0,533652
+India,South-East Asia,2024-10-15,0.0,45044081,0.0,533652
+India,South-East Asia,2024-10-16,0.0,45044081,0.0,533652
+India,South-East Asia,2024-10-17,0.0,45044081,0.0,533652
+India,South-East Asia,2024-10-18,0.0,45044081,0.0,533652
+India,South-East Asia,2024-10-19,0.0,45044081,0.0,533652
+India,South-East Asia,2024-10-20,0.0,45044081,0.0,533652
+India,South-East Asia,2024-10-21,115.0,45044196,1.0,533653
+India,South-East Asia,2024-10-22,0.0,45044196,0.0,533653
+India,South-East Asia,2024-10-23,0.0,45044196,0.0,533653
+India,South-East Asia,2024-10-24,0.0,45044196,0.0,533653
+India,South-East Asia,2024-10-25,0.0,45044196,0.0,533653
+India,South-East Asia,2024-10-26,0.0,45044196,0.0,533653
+India,South-East Asia,2024-10-27,0.0,45044196,0.0,533653
+India,South-East Asia,2024-10-28,85.0,45044281,1.0,533654
+India,South-East Asia,2024-10-29,0.0,45044281,0.0,533654
+India,South-East Asia,2024-10-30,0.0,45044281,0.0,533654
+India,South-East Asia,2024-10-31,0.0,45044281,0.0,533654
+India,South-East Asia,2024-11-01,0.0,45044281,0.0,533654
+India,South-East Asia,2024-11-02,0.0,45044281,0.0,533654
+India,South-East Asia,2024-11-03,0.0,45044281,0.0,533654
+India,South-East Asia,2024-11-04,65.0,45044346,1.0,533655
+India,South-East Asia,2024-11-05,0.0,45044346,0.0,533655
+India,South-East Asia,2024-11-06,0.0,45044346,0.0,533655
+India,South-East Asia,2024-11-07,0.0,45044346,0.0,533655
+India,South-East Asia,2024-11-08,0.0,45044346,0.0,533655
+India,South-East Asia,2024-11-09,0.0,45044346,0.0,533655
+India,South-East Asia,2024-11-10,0.0,45044346,0.0,533655
+India,South-East Asia,2024-11-11,62.0,45044408,1.0,533656
+India,South-East Asia,2024-11-12,0.0,45044408,0.0,533656
+India,South-East Asia,2024-11-13,0.0,45044408,0.0,533656
+India,South-East Asia,2024-11-14,0.0,45044408,0.0,533656
+India,South-East Asia,2024-11-15,0.0,45044408,0.0,533656
+India,South-East Asia,2024-11-16,0.0,45044408,0.0,533656
+India,South-East Asia,2024-11-17,0.0,45044408,0.0,533656
+India,South-East Asia,2024-11-18,48.0,45044456,1.0,533657
+India,South-East Asia,2024-11-19,0.0,45044456,0.0,533657
+India,South-East Asia,2024-11-20,0.0,45044456,0.0,533657
+India,South-East Asia,2024-11-21,0.0,45044456,0.0,533657
+India,South-East Asia,2024-11-22,0.0,45044456,0.0,533657
+India,South-East Asia,2024-11-23,0.0,45044456,0.0,533657
+India,South-East Asia,2024-11-24,0.0,45044456,0.0,533657
+India,South-East Asia,2024-11-25,29.0,45044485,1.0,533658
+India,South-East Asia,2024-11-26,0.0,45044485,0.0,533658
+India,South-East Asia,2024-11-27,0.0,45044485,0.0,533658
+India,South-East Asia,2024-11-28,0.0,45044485,0.0,533658
+India,South-East Asia,2024-11-29,0.0,45044485,0.0,533658
+India,South-East Asia,2024-11-30,0.0,45044485,0.0,533658
+India,South-East Asia,2024-12-01,0.0,45044485,0.0,533658
+India,South-East Asia,2024-12-02,36.0,45044521,0.0,533658
+India,South-East Asia,2024-12-03,0.0,45044521,0.0,533658
+India,South-East Asia,2024-12-04,0.0,45044521,0.0,533658
+India,South-East Asia,2024-12-05,0.0,45044521,0.0,533658
+India,South-East Asia,2024-12-06,0.0,45044521,0.0,533658
+India,South-East Asia,2024-12-07,0.0,45044521,0.0,533658
+India,South-East Asia,2024-12-08,0.0,45044521,0.0,533658
+India,South-East Asia,2024-12-09,11.0,45044532,0.0,533658
+India,South-East Asia,2024-12-10,0.0,45044532,0.0,533658
+India,South-East Asia,2024-12-11,0.0,45044532,0.0,533658
+India,South-East Asia,2024-12-12,0.0,45044532,0.0,533658
+India,South-East Asia,2024-12-13,0.0,45044532,0.0,533658
+India,South-East Asia,2024-12-14,0.0,45044532,0.0,533658
+India,South-East Asia,2024-12-15,0.0,45044532,0.0,533658
+India,South-East Asia,2024-12-16,17.0,45044549,3.0,533661
+India,South-East Asia,2024-12-17,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-18,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-19,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-20,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-21,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-22,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-23,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-24,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-25,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-26,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-27,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-28,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-29,0.0,45044549,0.0,533661
+India,South-East Asia,2024-12-30,24.0,45044573,0.0,533661
+India,South-East Asia,2024-12-31,0.0,45044573,0.0,533661
+Indonesia,South-East Asia,2024-01-01,141.0,6821911,2.0,161974
+Indonesia,South-East Asia,2024-01-02,190.0,6822101,3.0,161977
+Indonesia,South-East Asia,2024-01-03,404.0,6822505,4.0,161981
+Indonesia,South-East Asia,2024-01-04,404.0,6822909,5.0,161986
+Indonesia,South-East Asia,2024-01-05,361.0,6823270,2.0,161988
+Indonesia,South-East Asia,2024-01-06,266.0,6823536,3.0,161991
+Indonesia,South-East Asia,2024-01-07,230.0,6823766,4.0,161995
+Indonesia,South-East Asia,2024-01-08,223.0,6823989,6.0,162001
+Indonesia,South-East Asia,2024-01-09,331.0,6824320,2.0,162003
+Indonesia,South-East Asia,2024-01-10,299.0,6824619,3.0,162006
+Indonesia,South-East Asia,2024-01-11,306.0,6824925,5.0,162011
+Indonesia,South-East Asia,2024-01-12,245.0,6825170,3.0,162014
+Indonesia,South-East Asia,2024-01-13,232.0,6825402,0.0,162014
+Indonesia,South-East Asia,2024-01-14,136.0,6825538,1.0,162015
+Indonesia,South-East Asia,2024-01-15,153.0,6825691,0.0,162015
+Indonesia,South-East Asia,2024-01-16,223.0,6825914,5.0,162020
+Indonesia,South-East Asia,2024-01-17,238.0,6826152,3.0,162023
+Indonesia,South-East Asia,2024-01-18,238.0,6826390,2.0,162025
+Indonesia,South-East Asia,2024-01-19,153.0,6826543,2.0,162027
+Indonesia,South-East Asia,2024-01-20,121.0,6826664,5.0,162032
+Indonesia,South-East Asia,2024-01-21,86.0,6826750,1.0,162033
+Indonesia,South-East Asia,2024-01-22,108.0,6826858,2.0,162035
+Indonesia,South-East Asia,2024-01-23,215.0,6827073,1.0,162036
+Indonesia,South-East Asia,2024-01-24,151.0,6827224,3.0,162039
+Indonesia,South-East Asia,2024-01-25,119.0,6827343,1.0,162040
+Indonesia,South-East Asia,2024-01-26,150.0,6827493,3.0,162043
+Indonesia,South-East Asia,2024-01-27,106.0,6827599,2.0,162045
+Indonesia,South-East Asia,2024-01-28,70.0,6827669,0.0,162045
+Indonesia,South-East Asia,2024-01-29,71.0,6827740,2.0,162047
+Indonesia,South-East Asia,2024-01-30,121.0,6827861,1.0,162048
+Indonesia,South-East Asia,2024-01-31,110.0,6827971,1.0,162049
+Indonesia,South-East Asia,2024-02-01,117.0,6828088,3.0,162052
+Indonesia,South-East Asia,2024-02-02,65.0,6828153,0.0,162052
+Indonesia,South-East Asia,2024-02-03,67.0,6828220,1.0,162053
+Indonesia,South-East Asia,2024-02-04,48.0,6828268,1.0,162054
+Indonesia,South-East Asia,2024-02-05,0.0,6828268,0.0,162054
+Indonesia,South-East Asia,2024-02-06,0.0,6828268,0.0,162054
+Indonesia,South-East Asia,2024-02-07,0.0,6828268,0.0,162054
+Indonesia,South-East Asia,2024-02-08,0.0,6828268,0.0,162054
+Indonesia,South-East Asia,2024-02-09,0.0,6828268,0.0,162054
+Indonesia,South-East Asia,2024-02-10,0.0,6828268,0.0,162054
+Indonesia,South-East Asia,2024-02-11,58.0,6828326,,162050
+Indonesia,South-East Asia,2024-02-12,0.0,6828326,0.0,162050
+Indonesia,South-East Asia,2024-02-13,0.0,6828326,0.0,162050
+Indonesia,South-East Asia,2024-02-14,0.0,6828326,0.0,162050
+Indonesia,South-East Asia,2024-02-15,0.0,6828326,0.0,162050
+Indonesia,South-East Asia,2024-02-16,0.0,6828326,0.0,162050
+Indonesia,South-East Asia,2024-02-17,0.0,6828326,0.0,162050
+Indonesia,South-East Asia,2024-02-18,0.0,6828326,0.0,162050
+Indonesia,South-East Asia,2024-02-19,0.0,6828326,0.0,162050
+Indonesia,South-East Asia,2024-02-20,0.0,6828326,0.0,162050
+Indonesia,South-East Asia,2024-02-21,0.0,6828326,0.0,162050
+Indonesia,South-East Asia,2024-02-22,41.0,6828367,0.0,162050
+Indonesia,South-East Asia,2024-02-23,0.0,6828367,0.0,162050
+Indonesia,South-East Asia,2024-02-24,0.0,6828367,0.0,162050
+Indonesia,South-East Asia,2024-02-25,0.0,6828367,0.0,162050
+Indonesia,South-East Asia,2024-02-26,0.0,6828367,0.0,162050
+Indonesia,South-East Asia,2024-02-27,0.0,6828367,0.0,162050
+Indonesia,South-East Asia,2024-02-28,0.0,6828367,0.0,162050
+Indonesia,South-East Asia,2024-02-29,0.0,6828367,0.0,162050
+Indonesia,South-East Asia,2024-03-01,359.0,6828726,5.0,162055
+Indonesia,South-East Asia,2024-03-02,0.0,6828726,0.0,162055
+Indonesia,South-East Asia,2024-03-03,82.0,6828808,0.0,162055
+Indonesia,South-East Asia,2024-03-04,0.0,6828808,0.0,162055
+Indonesia,South-East Asia,2024-03-05,0.0,6828808,0.0,162055
+Indonesia,South-East Asia,2024-03-06,0.0,6828808,0.0,162055
+Indonesia,South-East Asia,2024-03-07,0.0,6828808,0.0,162055
+Indonesia,South-East Asia,2024-03-08,0.0,6828808,0.0,162055
+Indonesia,South-East Asia,2024-03-09,48.0,6828856,1.0,162056
+Indonesia,South-East Asia,2024-03-10,0.0,6828856,0.0,162056
+Indonesia,South-East Asia,2024-03-11,0.0,6828856,0.0,162056
+Indonesia,South-East Asia,2024-03-12,0.0,6828856,0.0,162056
+Indonesia,South-East Asia,2024-03-13,0.0,6828856,0.0,162056
+Indonesia,South-East Asia,2024-03-14,0.0,6828856,0.0,162056
+Indonesia,South-East Asia,2024-03-15,27.0,6828883,0.0,162056
+Indonesia,South-East Asia,2024-03-16,1.0,6828884,0.0,162056
+Indonesia,South-East Asia,2024-03-17,0.0,6828884,0.0,162056
+Indonesia,South-East Asia,2024-03-18,0.0,6828884,0.0,162056
+Indonesia,South-East Asia,2024-03-19,0.0,6828884,0.0,162056
+Indonesia,South-East Asia,2024-03-20,0.0,6828884,0.0,162056
+Indonesia,South-East Asia,2024-03-21,0.0,6828884,0.0,162056
+Indonesia,South-East Asia,2024-03-22,30.0,6828914,0.0,162056
+Indonesia,South-East Asia,2024-03-23,5.0,6828919,0.0,162056
+Indonesia,South-East Asia,2024-03-24,0.0,6828919,0.0,162056
+Indonesia,South-East Asia,2024-03-25,0.0,6828919,0.0,162056
+Indonesia,South-East Asia,2024-03-26,0.0,6828919,0.0,162056
+Indonesia,South-East Asia,2024-03-27,16.0,6828935,0.0,162056
+Indonesia,South-East Asia,2024-03-28,3.0,6828938,0.0,162056
+Indonesia,South-East Asia,2024-03-29,3.0,6828941,0.0,162056
+Indonesia,South-East Asia,2024-03-30,1.0,6828942,0.0,162056
+Indonesia,South-East Asia,2024-03-31,0.0,6828942,0.0,162056
+Indonesia,South-East Asia,2024-04-01,0.0,6828942,0.0,162056
+Indonesia,South-East Asia,2024-04-02,0.0,6828942,0.0,162056
+Indonesia,South-East Asia,2024-04-03,0.0,6828942,0.0,162056
+Indonesia,South-East Asia,2024-04-04,0.0,6828942,0.0,162056
+Indonesia,South-East Asia,2024-04-05,0.0,6828942,0.0,162056
+Indonesia,South-East Asia,2024-04-06,0.0,6828942,0.0,162056
+Indonesia,South-East Asia,2024-04-07,15.0,6828957,0.0,162056
+Indonesia,South-East Asia,2024-04-08,0.0,6828957,0.0,162056
+Indonesia,South-East Asia,2024-04-09,5.0,6828962,2.0,162058
+Indonesia,South-East Asia,2024-04-10,0.0,6828962,0.0,162058
+Indonesia,South-East Asia,2024-04-11,0.0,6828962,0.0,162058
+Indonesia,South-East Asia,2024-04-12,1.0,6828963,0.0,162058
+Indonesia,South-East Asia,2024-04-13,0.0,6828963,0.0,162058
+Indonesia,South-East Asia,2024-04-14,0.0,6828963,0.0,162058
+Indonesia,South-East Asia,2024-04-15,0.0,6828963,0.0,162058
+Indonesia,South-East Asia,2024-04-16,0.0,6828963,0.0,162058
+Indonesia,South-East Asia,2024-04-17,0.0,6828963,0.0,162058
+Indonesia,South-East Asia,2024-04-18,0.0,6828963,0.0,162058
+Indonesia,South-East Asia,2024-04-19,0.0,6828963,0.0,162058
+Indonesia,South-East Asia,2024-04-20,0.0,6828963,0.0,162058
+Indonesia,South-East Asia,2024-04-21,6.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-04-22,0.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-04-23,0.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-04-24,0.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-04-25,0.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-04-26,0.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-04-27,0.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-04-28,0.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-04-29,0.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-04-30,0.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-05-01,0.0,6828969,0.0,162058
+Indonesia,South-East Asia,2024-05-02,13.0,6828982,0.0,162058
+Indonesia,South-East Asia,2024-05-03,0.0,6828982,0.0,162058
+Indonesia,South-East Asia,2024-05-04,0.0,6828982,0.0,162058
+Indonesia,South-East Asia,2024-05-05,11.0,6828993,0.0,162058
+Indonesia,South-East Asia,2024-05-06,0.0,6828993,0.0,162058
+Indonesia,South-East Asia,2024-05-07,0.0,6828993,0.0,162058
+Indonesia,South-East Asia,2024-05-08,0.0,6828993,0.0,162058
+Indonesia,South-East Asia,2024-05-09,14.0,6829007,0.0,162058
+Indonesia,South-East Asia,2024-05-10,0.0,6829007,0.0,162058
+Indonesia,South-East Asia,2024-05-11,3.0,6829010,0.0,162058
+Indonesia,South-East Asia,2024-05-12,0.0,6829010,0.0,162058
+Indonesia,South-East Asia,2024-05-13,0.0,6829010,0.0,162058
+Indonesia,South-East Asia,2024-05-14,0.0,6829010,0.0,162058
+Indonesia,South-East Asia,2024-05-15,0.0,6829010,0.0,162058
+Indonesia,South-East Asia,2024-05-16,0.0,6829010,0.0,162058
+Indonesia,South-East Asia,2024-05-17,0.0,6829010,0.0,162058
+Indonesia,South-East Asia,2024-05-18,0.0,6829010,0.0,162058
+Indonesia,South-East Asia,2024-05-19,19.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-20,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-21,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-22,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-23,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-24,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-25,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-26,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-27,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-28,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-29,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-30,0.0,6829029,0.0,162058
+Indonesia,South-East Asia,2024-05-31,28.0,6829057,0.0,162058
+Indonesia,South-East Asia,2024-06-01,0.0,6829057,0.0,162058
+Indonesia,South-East Asia,2024-06-02,0.0,6829057,0.0,162058
+Indonesia,South-East Asia,2024-06-03,0.0,6829057,0.0,162058
+Indonesia,South-East Asia,2024-06-04,0.0,6829057,0.0,162058
+Indonesia,South-East Asia,2024-06-05,0.0,6829057,0.0,162058
+Indonesia,South-East Asia,2024-06-06,0.0,6829057,0.0,162058
+Indonesia,South-East Asia,2024-06-07,59.0,6829116,0.0,162058
+Indonesia,South-East Asia,2024-06-08,4.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-09,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-10,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-11,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-12,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-13,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-14,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-15,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-16,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-17,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-18,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-19,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-20,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-21,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-22,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-23,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-24,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-25,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-26,0.0,6829120,0.0,162058
+Indonesia,South-East Asia,2024-06-27,86.0,6829206,0.0,162058
+Indonesia,South-East Asia,2024-06-28,5.0,6829211,0.0,162058
+Indonesia,South-East Asia,2024-06-29,8.0,6829219,0.0,162058
+Indonesia,South-East Asia,2024-06-30,0.0,6829219,0.0,162058
+Indonesia,South-East Asia,2024-07-01,0.0,6829219,0.0,162058
+Indonesia,South-East Asia,2024-07-02,0.0,6829219,0.0,162058
+Indonesia,South-East Asia,2024-07-03,0.0,6829219,0.0,162058
+Indonesia,South-East Asia,2024-07-04,0.0,6829219,0.0,162058
+Indonesia,South-East Asia,2024-07-05,0.0,6829219,0.0,162058
+Indonesia,South-East Asia,2024-07-06,0.0,6829219,0.0,162058
+Indonesia,South-East Asia,2024-07-07,41.0,6829260,0.0,162058
+Indonesia,South-East Asia,2024-07-08,0.0,6829260,0.0,162058
+Indonesia,South-East Asia,2024-07-09,0.0,6829260,0.0,162058
+Indonesia,South-East Asia,2024-07-10,23.0,6829283,0.0,162058
+Indonesia,South-East Asia,2024-07-11,9.0,6829292,0.0,162058
+Indonesia,South-East Asia,2024-07-12,6.0,6829298,0.0,162058
+Indonesia,South-East Asia,2024-07-13,7.0,6829305,1.0,162059
+Indonesia,South-East Asia,2024-07-14,0.0,6829305,0.0,162059
+Indonesia,South-East Asia,2024-07-15,0.0,6829305,0.0,162059
+Indonesia,South-East Asia,2024-07-16,0.0,6829305,0.0,162059
+Indonesia,South-East Asia,2024-07-17,0.0,6829305,0.0,162059
+Indonesia,South-East Asia,2024-07-18,34.0,6829339,0.0,162059
+Indonesia,South-East Asia,2024-07-19,12.0,6829351,0.0,162059
+Indonesia,South-East Asia,2024-07-20,2.0,6829353,0.0,162059
+Indonesia,South-East Asia,2024-07-21,0.0,6829353,0.0,162059
+Indonesia,South-East Asia,2024-07-22,0.0,6829353,0.0,162059
+Indonesia,South-East Asia,2024-07-23,0.0,6829353,0.0,162059
+Indonesia,South-East Asia,2024-07-24,0.0,6829353,0.0,162059
+Indonesia,South-East Asia,2024-07-25,0.0,6829353,0.0,162059
+Indonesia,South-East Asia,2024-07-26,0.0,6829353,0.0,162059
+Indonesia,South-East Asia,2024-07-27,0.0,6829353,0.0,162059
+Indonesia,South-East Asia,2024-07-28,0.0,6829353,0.0,162059
+Indonesia,South-East Asia,2024-07-29,46.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-07-30,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-07-31,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-08-01,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-08-02,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-08-03,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-08-04,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-08-05,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-08-06,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-08-07,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-08-08,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-08-09,0.0,6829399,0.0,162059
+Indonesia,South-East Asia,2024-08-10,90.0,6829489,0.0,162059
+Indonesia,South-East Asia,2024-08-11,2.0,6829491,0.0,162059
+Indonesia,South-East Asia,2024-08-12,0.0,6829491,0.0,162059
+Indonesia,South-East Asia,2024-08-13,15.0,6829506,0.0,162059
+Indonesia,South-East Asia,2024-08-14,1.0,6829507,0.0,162059
+Indonesia,South-East Asia,2024-08-15,3.0,6829510,0.0,162059
+Indonesia,South-East Asia,2024-08-16,3.0,6829513,0.0,162059
+Indonesia,South-East Asia,2024-08-17,2.0,6829515,0.0,162059
+Indonesia,South-East Asia,2024-08-18,0.0,6829515,0.0,162059
+Indonesia,South-East Asia,2024-08-19,0.0,6829515,0.0,162059
+Indonesia,South-East Asia,2024-08-20,0.0,6829515,0.0,162059
+Indonesia,South-East Asia,2024-08-21,0.0,6829515,0.0,162059
+Indonesia,South-East Asia,2024-08-22,11.0,6829526,0.0,162059
+Indonesia,South-East Asia,2024-08-23,1.0,6829527,0.0,162059
+Indonesia,South-East Asia,2024-08-24,1.0,6829528,0.0,162059
+Indonesia,South-East Asia,2024-08-25,0.0,6829528,0.0,162059
+Indonesia,South-East Asia,2024-08-26,0.0,6829528,0.0,162059
+Indonesia,South-East Asia,2024-08-27,0.0,6829528,0.0,162059
+Indonesia,South-East Asia,2024-08-28,0.0,6829528,0.0,162059
+Indonesia,South-East Asia,2024-08-29,18.0,6829546,0.0,162059
+Indonesia,South-East Asia,2024-08-30,0.0,6829546,0.0,162059
+Indonesia,South-East Asia,2024-08-31,3.0,6829549,0.0,162059
+Indonesia,South-East Asia,2024-09-01,0.0,6829549,0.0,162059
+Indonesia,South-East Asia,2024-09-02,0.0,6829549,0.0,162059
+Indonesia,South-East Asia,2024-09-03,0.0,6829549,0.0,162059
+Indonesia,South-East Asia,2024-09-04,0.0,6829549,0.0,162059
+Indonesia,South-East Asia,2024-09-05,0.0,6829549,0.0,162059
+Indonesia,South-East Asia,2024-09-06,0.0,6829549,0.0,162059
+Indonesia,South-East Asia,2024-09-07,0.0,6829549,0.0,162059
+Indonesia,South-East Asia,2024-09-08,0.0,6829549,0.0,162059
+Indonesia,South-East Asia,2024-09-09,0.0,6829549,0.0,162059
+Indonesia,South-East Asia,2024-09-10,17.0,6829566,0.0,162059
+Indonesia,South-East Asia,2024-09-11,0.0,6829566,0.0,162059
+Indonesia,South-East Asia,2024-09-12,0.0,6829566,0.0,162059
+Indonesia,South-East Asia,2024-09-13,0.0,6829566,0.0,162059
+Indonesia,South-East Asia,2024-09-14,10.0,6829576,0.0,162059
+Indonesia,South-East Asia,2024-09-15,0.0,6829576,0.0,162059
+Indonesia,South-East Asia,2024-09-16,0.0,6829576,0.0,162059
+Indonesia,South-East Asia,2024-09-17,0.0,6829576,0.0,162059
+Indonesia,South-East Asia,2024-09-18,0.0,6829576,0.0,162059
+Indonesia,South-East Asia,2024-09-19,0.0,6829576,0.0,162059
+Indonesia,South-East Asia,2024-09-20,0.0,6829576,0.0,162059
+Indonesia,South-East Asia,2024-09-21,0.0,6829576,0.0,162059
+Indonesia,South-East Asia,2024-09-22,0.0,6829576,0.0,162059
+Indonesia,South-East Asia,2024-09-23,0.0,6829576,0.0,162059
+Indonesia,South-East Asia,2024-09-24,25.0,6829601,0.0,162059
+Indonesia,South-East Asia,2024-09-25,2.0,6829603,0.0,162059
+Indonesia,South-East Asia,2024-09-26,2.0,6829605,0.0,162059
+Indonesia,South-East Asia,2024-09-27,4.0,6829609,0.0,162059
+Indonesia,South-East Asia,2024-09-28,1.0,6829610,0.0,162059
+Indonesia,South-East Asia,2024-09-29,0.0,6829610,0.0,162059
+Indonesia,South-East Asia,2024-09-30,2.0,6829612,0.0,162059
+Indonesia,South-East Asia,2024-10-01,2.0,6829614,0.0,162059
+Indonesia,South-East Asia,2024-10-02,5.0,6829619,0.0,162059
+Indonesia,South-East Asia,2024-10-03,0.0,6829619,0.0,162059
+Indonesia,South-East Asia,2024-10-04,2.0,6829621,0.0,162059
+Indonesia,South-East Asia,2024-10-05,3.0,6829624,0.0,162059
+Indonesia,South-East Asia,2024-10-06,0.0,6829624,0.0,162059
+Indonesia,South-East Asia,2024-10-07,0.0,6829624,0.0,162059
+Indonesia,South-East Asia,2024-10-08,0.0,6829624,0.0,162059
+Indonesia,South-East Asia,2024-10-09,0.0,6829624,0.0,162059
+Indonesia,South-East Asia,2024-10-10,0.0,6829624,0.0,162059
+Indonesia,South-East Asia,2024-10-11,0.0,6829624,0.0,162059
+Indonesia,South-East Asia,2024-10-12,0.0,6829624,0.0,162059
+Indonesia,South-East Asia,2024-10-13,0.0,6829624,0.0,162059
+Indonesia,South-East Asia,2024-10-14,22.0,6829646,0.0,162059
+Indonesia,South-East Asia,2024-10-15,2.0,6829648,0.0,162059
+Indonesia,South-East Asia,2024-10-16,7.0,6829655,0.0,162059
+Indonesia,South-East Asia,2024-10-17,1.0,6829656,0.0,162059
+Indonesia,South-East Asia,2024-10-18,4.0,6829660,0.0,162059
+Indonesia,South-East Asia,2024-10-19,4.0,6829664,0.0,162059
+Indonesia,South-East Asia,2024-10-20,4.0,6829668,0.0,162059
+Indonesia,South-East Asia,2024-10-21,5.0,6829673,0.0,162059
+Indonesia,South-East Asia,2024-10-22,7.0,6829680,0.0,162059
+Indonesia,South-East Asia,2024-10-23,5.0,6829685,0.0,162059
+Indonesia,South-East Asia,2024-10-24,10.0,6829695,0.0,162059
+Indonesia,South-East Asia,2024-10-25,7.0,6829702,0.0,162059
+Indonesia,South-East Asia,2024-10-26,2.0,6829704,0.0,162059
+Indonesia,South-East Asia,2024-10-27,0.0,6829704,0.0,162059
+Indonesia,South-East Asia,2024-10-28,0.0,6829704,0.0,162059
+Indonesia,South-East Asia,2024-10-29,0.0,6829704,0.0,162059
+Indonesia,South-East Asia,2024-10-30,0.0,6829704,0.0,162059
+Indonesia,South-East Asia,2024-10-31,44.0,6829748,0.0,162059
+Indonesia,South-East Asia,2024-11-01,4.0,6829752,0.0,162059
+Indonesia,South-East Asia,2024-11-02,7.0,6829759,0.0,162059
+Indonesia,South-East Asia,2024-11-03,0.0,6829759,0.0,162059
+Indonesia,South-East Asia,2024-11-04,0.0,6829759,0.0,162059
+Indonesia,South-East Asia,2024-11-05,9.0,6829768,0.0,162059
+Indonesia,South-East Asia,2024-11-06,6.0,6829774,0.0,162059
+Indonesia,South-East Asia,2024-11-07,4.0,6829778,0.0,162059
+Indonesia,South-East Asia,2024-11-08,6.0,6829784,0.0,162059
+Indonesia,South-East Asia,2024-11-09,5.0,6829789,0.0,162059
+Indonesia,South-East Asia,2024-11-10,0.0,6829789,0.0,162059
+Indonesia,South-East Asia,2024-11-11,11.0,6829800,0.0,162059
+Indonesia,South-East Asia,2024-11-12,8.0,6829808,0.0,162059
+Indonesia,South-East Asia,2024-11-13,9.0,6829817,0.0,162059
+Indonesia,South-East Asia,2024-11-14,6.0,6829823,0.0,162059
+Indonesia,South-East Asia,2024-11-15,5.0,6829828,0.0,162059
+Indonesia,South-East Asia,2024-11-16,8.0,6829836,0.0,162059
+Indonesia,South-East Asia,2024-11-17,0.0,6829836,0.0,162059
+Indonesia,South-East Asia,2024-11-18,0.0,6829836,0.0,162059
+Indonesia,South-East Asia,2024-11-19,13.0,6829849,0.0,162059
+Indonesia,South-East Asia,2024-11-20,10.0,6829859,0.0,162059
+Indonesia,South-East Asia,2024-11-21,8.0,6829867,0.0,162059
+Indonesia,South-East Asia,2024-11-22,5.0,6829872,0.0,162059
+Indonesia,South-East Asia,2024-11-23,12.0,6829884,0.0,162059
+Indonesia,South-East Asia,2024-11-24,1.0,6829885,0.0,162059
+Indonesia,South-East Asia,2024-11-25,3.0,6829888,0.0,162059
+Indonesia,South-East Asia,2024-11-26,8.0,6829896,0.0,162059
+Indonesia,South-East Asia,2024-11-27,8.0,6829904,0.0,162059
+Indonesia,South-East Asia,2024-11-28,2.0,6829906,0.0,162059
+Indonesia,South-East Asia,2024-11-29,6.0,6829912,0.0,162059
+Indonesia,South-East Asia,2024-11-30,4.0,6829916,0.0,162059
+Indonesia,South-East Asia,2024-12-01,4.0,6829920,0.0,162059
+Indonesia,South-East Asia,2024-12-02,6.0,6829926,0.0,162059
+Indonesia,South-East Asia,2024-12-03,11.0,6829937,0.0,162059
+Indonesia,South-East Asia,2024-12-04,9.0,6829946,0.0,162059
+Indonesia,South-East Asia,2024-12-05,3.0,6829949,0.0,162059
+Indonesia,South-East Asia,2024-12-06,9.0,6829958,0.0,162059
+Indonesia,South-East Asia,2024-12-07,9.0,6829967,0.0,162059
+Indonesia,South-East Asia,2024-12-08,5.0,6829972,0.0,162059
+Indonesia,South-East Asia,2024-12-09,1.0,6829973,0.0,162059
+Indonesia,South-East Asia,2024-12-10,11.0,6829984,0.0,162059
+Indonesia,South-East Asia,2024-12-11,27.0,6830011,0.0,162059
+Indonesia,South-East Asia,2024-12-12,8.0,6830019,0.0,162059
+Indonesia,South-East Asia,2024-12-13,5.0,6830024,0.0,162059
+Indonesia,South-East Asia,2024-12-14,9.0,6830033,0.0,162059
+Indonesia,South-East Asia,2024-12-15,7.0,6830040,0.0,162059
+Indonesia,South-East Asia,2024-12-16,6.0,6830046,0.0,162059
+Indonesia,South-East Asia,2024-12-17,16.0,6830062,0.0,162059
+Indonesia,South-East Asia,2024-12-18,6.0,6830068,0.0,162059
+Indonesia,South-East Asia,2024-12-19,6.0,6830074,0.0,162059
+Indonesia,South-East Asia,2024-12-20,5.0,6830079,0.0,162059
+Indonesia,South-East Asia,2024-12-21,2.0,6830081,0.0,162059
+Indonesia,South-East Asia,2024-12-22,3.0,6830084,0.0,162059
+Indonesia,South-East Asia,2024-12-23,5.0,6830089,0.0,162059
+Indonesia,South-East Asia,2024-12-24,4.0,6830093,0.0,162059
+Indonesia,South-East Asia,2024-12-25,2.0,6830095,0.0,162059
+Indonesia,South-East Asia,2024-12-26,1.0,6830096,0.0,162059
+Indonesia,South-East Asia,2024-12-27,7.0,6830103,0.0,162059
+Indonesia,South-East Asia,2024-12-28,4.0,6830107,0.0,162059
+Indonesia,South-East Asia,2024-12-29,2.0,6830109,0.0,162059
+Indonesia,South-East Asia,2024-12-30,2.0,6830111,0.0,162059
+Indonesia,South-East Asia,2024-12-31,7.0,6830118,0.0,162059
+Maldives,South-East Asia,2024-01-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-01-31,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-02-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-03-31,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-04-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-05-31,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-06-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-07-31,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-08-31,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-09-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-10-31,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-11-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2024-12-31,0.0,186694,0.0,316
+Nepal,South-East Asia,2024-01-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-01-31,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-02-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-03-31,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-04-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-05-31,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-06-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-07-31,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-08-31,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-09-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-10-31,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-11-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2024-12-31,0.0,1003450,0.0,12031
+North Korea,South-East Asia,2024-01-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-01-31,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-02-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-03-31,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-04-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-05-31,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-06-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-07-31,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-08-31,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-09-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-10-31,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-11-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-01,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-02,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-03,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-04,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-05,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-06,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-07,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-08,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-09,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-10,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-11,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-12,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-13,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-14,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-15,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-16,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-17,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-18,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-19,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-20,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-21,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-22,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-23,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-24,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-25,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-26,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-27,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-28,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-29,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-30,0.0,0,0.0,0
+North Korea,South-East Asia,2024-12-31,0.0,0,0.0,0
+Sri Lanka,South-East Asia,2024-01-01,0.0,672707,0.0,16890
+Sri Lanka,South-East Asia,2024-01-02,3.0,672710,1.0,16891
+Sri Lanka,South-East Asia,2024-01-03,0.0,672710,0.0,16891
+Sri Lanka,South-East Asia,2024-01-04,3.0,672713,0.0,16891
+Sri Lanka,South-East Asia,2024-01-05,0.0,672713,0.0,16891
+Sri Lanka,South-East Asia,2024-01-06,5.0,672718,0.0,16891
+Sri Lanka,South-East Asia,2024-01-07,3.0,672721,2.0,16893
+Sri Lanka,South-East Asia,2024-01-08,0.0,672721,0.0,16893
+Sri Lanka,South-East Asia,2024-01-09,0.0,672721,0.0,16893
+Sri Lanka,South-East Asia,2024-01-10,5.0,672726,0.0,16893
+Sri Lanka,South-East Asia,2024-01-11,2.0,672728,0.0,16893
+Sri Lanka,South-East Asia,2024-01-12,1.0,672729,0.0,16893
+Sri Lanka,South-East Asia,2024-01-13,5.0,672734,0.0,16893
+Sri Lanka,South-East Asia,2024-01-14,0.0,672734,0.0,16893
+Sri Lanka,South-East Asia,2024-01-15,0.0,672734,0.0,16893
+Sri Lanka,South-East Asia,2024-01-16,0.0,672734,0.0,16893
+Sri Lanka,South-East Asia,2024-01-17,4.0,672738,0.0,16893
+Sri Lanka,South-East Asia,2024-01-18,0.0,672738,0.0,16893
+Sri Lanka,South-East Asia,2024-01-19,0.0,672738,0.0,16893
+Sri Lanka,South-East Asia,2024-01-20,0.0,672738,0.0,16893
+Sri Lanka,South-East Asia,2024-01-21,0.0,672738,0.0,16893
+Sri Lanka,South-East Asia,2024-01-22,2.0,672740,0.0,16893
+Sri Lanka,South-East Asia,2024-01-23,0.0,672740,0.0,16893
+Sri Lanka,South-East Asia,2024-01-24,3.0,672743,0.0,16893
+Sri Lanka,South-East Asia,2024-01-25,1.0,672744,0.0,16893
+Sri Lanka,South-East Asia,2024-01-26,0.0,672744,0.0,16893
+Sri Lanka,South-East Asia,2024-01-27,0.0,672744,0.0,16893
+Sri Lanka,South-East Asia,2024-01-28,0.0,672744,0.0,16893
+Sri Lanka,South-East Asia,2024-01-29,1.0,672745,3.0,16896
+Sri Lanka,South-East Asia,2024-01-30,0.0,672745,0.0,16896
+Sri Lanka,South-East Asia,2024-01-31,0.0,672745,0.0,16896
+Sri Lanka,South-East Asia,2024-02-01,0.0,672745,0.0,16896
+Sri Lanka,South-East Asia,2024-02-02,0.0,672745,0.0,16896
+Sri Lanka,South-East Asia,2024-02-03,0.0,672745,0.0,16896
+Sri Lanka,South-East Asia,2024-02-04,0.0,672745,0.0,16896
+Sri Lanka,South-East Asia,2024-02-05,0.0,672745,0.0,16896
+Sri Lanka,South-East Asia,2024-02-06,1.0,672746,1.0,16897
+Sri Lanka,South-East Asia,2024-02-07,0.0,672746,0.0,16897
+Sri Lanka,South-East Asia,2024-02-08,0.0,672746,0.0,16897
+Sri Lanka,South-East Asia,2024-02-09,1.0,672747,0.0,16897
+Sri Lanka,South-East Asia,2024-02-10,0.0,672747,0.0,16897
+Sri Lanka,South-East Asia,2024-02-11,0.0,672747,0.0,16897
+Sri Lanka,South-East Asia,2024-02-12,0.0,672747,0.0,16897
+Sri Lanka,South-East Asia,2024-02-13,0.0,672747,0.0,16897
+Sri Lanka,South-East Asia,2024-02-14,1.0,672748,0.0,16897
+Sri Lanka,South-East Asia,2024-02-15,0.0,672748,0.0,16897
+Sri Lanka,South-East Asia,2024-02-16,0.0,672748,0.0,16897
+Sri Lanka,South-East Asia,2024-02-17,0.0,672748,0.0,16897
+Sri Lanka,South-East Asia,2024-02-18,0.0,672748,0.0,16897
+Sri Lanka,South-East Asia,2024-02-19,0.0,672748,0.0,16897
+Sri Lanka,South-East Asia,2024-02-20,0.0,672748,0.0,16897
+Sri Lanka,South-East Asia,2024-02-21,0.0,672748,0.0,16897
+Sri Lanka,South-East Asia,2024-02-22,0.0,672748,0.0,16897
+Sri Lanka,South-East Asia,2024-02-23,0.0,672748,0.0,16897
+Sri Lanka,South-East Asia,2024-02-24,1.0,672749,0.0,16897
+Sri Lanka,South-East Asia,2024-02-25,0.0,672749,0.0,16897
+Sri Lanka,South-East Asia,2024-02-26,0.0,672749,0.0,16897
+Sri Lanka,South-East Asia,2024-02-27,1.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-02-28,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-02-29,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-03-01,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-03-02,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-03-03,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-03-04,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-03-05,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-03-06,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-03-07,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-03-08,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-03-09,0.0,672750,0.0,16897
+Sri Lanka,South-East Asia,2024-03-10,1.0,672751,0.0,16897
+Sri Lanka,South-East Asia,2024-03-11,0.0,672751,0.0,16897
+Sri Lanka,South-East Asia,2024-03-12,0.0,672751,0.0,16897
+Sri Lanka,South-East Asia,2024-03-13,0.0,672751,0.0,16897
+Sri Lanka,South-East Asia,2024-03-14,0.0,672751,0.0,16897
+Sri Lanka,South-East Asia,2024-03-15,0.0,672751,0.0,16897
+Sri Lanka,South-East Asia,2024-03-16,0.0,672751,0.0,16897
+Sri Lanka,South-East Asia,2024-03-17,0.0,672751,0.0,16897
+Sri Lanka,South-East Asia,2024-03-18,0.0,672751,0.0,16897
+Sri Lanka,South-East Asia,2024-03-19,2.0,672753,0.0,16897
+Sri Lanka,South-East Asia,2024-03-20,0.0,672753,0.0,16897
+Sri Lanka,South-East Asia,2024-03-21,0.0,672753,0.0,16897
+Sri Lanka,South-East Asia,2024-03-22,0.0,672753,0.0,16897
+Sri Lanka,South-East Asia,2024-03-23,0.0,672753,0.0,16897
+Sri Lanka,South-East Asia,2024-03-24,1.0,672754,2.0,16899
+Sri Lanka,South-East Asia,2024-03-25,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-03-26,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-03-27,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-03-28,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-03-29,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-03-30,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-03-31,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-01,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-02,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-03,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-04,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-05,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-06,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-07,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-08,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-09,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-10,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-11,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-12,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-13,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-14,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-15,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-16,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-17,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-18,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-19,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-20,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-21,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-22,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-23,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-24,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-25,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-26,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-27,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-28,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-29,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-04-30,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-05-01,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-05-02,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-05-03,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-05-04,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-05-05,0.0,672754,0.0,16899
+Sri Lanka,South-East Asia,2024-05-06,5.0,672759,2.0,16901
+Sri Lanka,South-East Asia,2024-05-07,0.0,672759,0.0,16901
+Sri Lanka,South-East Asia,2024-05-08,0.0,672759,0.0,16901
+Sri Lanka,South-East Asia,2024-05-09,3.0,672762,0.0,16901
+Sri Lanka,South-East Asia,2024-05-10,0.0,672762,0.0,16901
+Sri Lanka,South-East Asia,2024-05-11,0.0,672762,0.0,16901
+Sri Lanka,South-East Asia,2024-05-12,0.0,672762,0.0,16901
+Sri Lanka,South-East Asia,2024-05-13,0.0,672762,0.0,16901
+Sri Lanka,South-East Asia,2024-05-14,0.0,672762,0.0,16901
+Sri Lanka,South-East Asia,2024-05-15,1.0,672763,0.0,16901
+Sri Lanka,South-East Asia,2024-05-16,0.0,672763,0.0,16901
+Sri Lanka,South-East Asia,2024-05-17,0.0,672763,0.0,16901
+Sri Lanka,South-East Asia,2024-05-18,0.0,672763,0.0,16901
+Sri Lanka,South-East Asia,2024-05-19,0.0,672763,0.0,16901
+Sri Lanka,South-East Asia,2024-05-20,5.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-21,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-22,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-23,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-24,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-25,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-26,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-27,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-28,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-29,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-30,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-05-31,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-06-01,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-06-02,0.0,672768,0.0,16901
+Sri Lanka,South-East Asia,2024-06-03,11.0,672779,3.0,16904
+Sri Lanka,South-East Asia,2024-06-04,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-05,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-06,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-07,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-08,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-09,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-10,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-11,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-12,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-13,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-14,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-15,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-16,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-17,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-18,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-19,0.0,672779,0.0,16904
+Sri Lanka,South-East Asia,2024-06-20,9.0,672788,3.0,16907
+Sri Lanka,South-East Asia,2024-06-21,0.0,672788,0.0,16907
+Sri Lanka,South-East Asia,2024-06-22,0.0,672788,0.0,16907
+Sri Lanka,South-East Asia,2024-06-23,0.0,672788,0.0,16907
+Sri Lanka,South-East Asia,2024-06-24,0.0,672788,0.0,16907
+Sri Lanka,South-East Asia,2024-06-25,0.0,672788,0.0,16907
+Sri Lanka,South-East Asia,2024-06-26,0.0,672788,0.0,16907
+Sri Lanka,South-East Asia,2024-06-27,0.0,672788,0.0,16907
+Sri Lanka,South-East Asia,2024-06-28,0.0,672788,0.0,16907
+Sri Lanka,South-East Asia,2024-06-29,0.0,672788,0.0,16907
+Sri Lanka,South-East Asia,2024-06-30,3.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-01,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-02,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-03,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-04,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-05,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-06,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-07,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-08,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-09,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-10,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-11,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-12,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-13,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-14,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-15,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-16,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-17,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-18,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-19,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-20,0.0,672791,0.0,16907
+Sri Lanka,South-East Asia,2024-07-21,6.0,672797,0.0,16907
+Sri Lanka,South-East Asia,2024-07-22,0.0,672797,0.0,16907
+Sri Lanka,South-East Asia,2024-07-23,0.0,672797,0.0,16907
+Sri Lanka,South-East Asia,2024-07-24,0.0,672797,0.0,16907
+Sri Lanka,South-East Asia,2024-07-25,0.0,672797,0.0,16907
+Sri Lanka,South-East Asia,2024-07-26,0.0,672797,0.0,16907
+Sri Lanka,South-East Asia,2024-07-27,0.0,672797,0.0,16907
+Sri Lanka,South-East Asia,2024-07-28,0.0,672797,0.0,16907
+Sri Lanka,South-East Asia,2024-07-29,0.0,672797,0.0,16907
+Sri Lanka,South-East Asia,2024-07-30,0.0,672797,0.0,16907
+Sri Lanka,South-East Asia,2024-07-31,1.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-01,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-02,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-03,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-04,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-05,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-06,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-07,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-08,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-09,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-10,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-11,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-12,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-13,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-14,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-15,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-16,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-17,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-18,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-19,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-20,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-21,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-22,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-23,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-24,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-25,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-26,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-27,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-28,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-29,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-30,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-08-31,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-09-01,0.0,672798,0.0,16907
+Sri Lanka,South-East Asia,2024-09-02,4.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-03,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-04,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-05,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-06,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-07,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-08,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-09,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-10,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-11,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-12,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-13,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-14,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-15,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-16,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-17,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-18,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-19,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-20,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-21,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-22,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-23,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-24,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-25,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-26,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-27,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-28,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-29,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-09-30,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-01,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-02,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-03,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-04,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-05,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-06,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-07,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-08,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-09,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-10,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-11,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-12,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-13,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-14,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-15,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-16,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-17,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-18,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-19,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-20,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-21,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-22,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-23,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-24,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-25,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-26,0.0,672802,0.0,16907
+Sri Lanka,South-East Asia,2024-10-27,7.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-10-28,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-10-29,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-10-30,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-10-31,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-01,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-02,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-03,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-04,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-05,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-06,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-07,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-08,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-09,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-10,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-11,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-12,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-13,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-14,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-15,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-16,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-17,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-18,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-19,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-20,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-21,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-22,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-23,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-24,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-25,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-26,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-27,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-28,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-29,0.0,672809,0.0,16907
+Sri Lanka,South-East Asia,2024-11-30,3.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-01,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-02,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-03,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-04,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-05,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-06,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-07,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-08,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-09,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-10,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-11,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-12,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-13,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-14,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-15,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-16,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-17,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-18,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-19,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-20,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-21,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-22,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-23,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-24,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-25,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-26,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-27,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-28,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-29,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-30,0.0,672812,0.0,16907
+Sri Lanka,South-East Asia,2024-12-31,0.0,672812,0.0,16907
+Thailand,South-East Asia,2024-01-01,0.0,4762375,0.0,34517
+Thailand,South-East Asia,2024-01-02,0.0,4762375,0.0,34517
+Thailand,South-East Asia,2024-01-03,0.0,4762375,0.0,34517
+Thailand,South-East Asia,2024-01-04,0.0,4762375,0.0,34517
+Thailand,South-East Asia,2024-01-05,0.0,4762375,0.0,34517
+Thailand,South-East Asia,2024-01-06,664.0,4763039,4.0,34521
+Thailand,South-East Asia,2024-01-07,0.0,4763039,0.0,34521
+Thailand,South-East Asia,2024-01-08,0.0,4763039,0.0,34521
+Thailand,South-East Asia,2024-01-09,0.0,4763039,0.0,34521
+Thailand,South-East Asia,2024-01-10,0.0,4763039,0.0,34521
+Thailand,South-East Asia,2024-01-11,0.0,4763039,0.0,34521
+Thailand,South-East Asia,2024-01-12,0.0,4763039,0.0,34521
+Thailand,South-East Asia,2024-01-13,625.0,4763664,7.0,34528
+Thailand,South-East Asia,2024-01-14,0.0,4763664,0.0,34528
+Thailand,South-East Asia,2024-01-15,0.0,4763664,0.0,34528
+Thailand,South-East Asia,2024-01-16,0.0,4763664,0.0,34528
+Thailand,South-East Asia,2024-01-17,0.0,4763664,0.0,34528
+Thailand,South-East Asia,2024-01-18,0.0,4763664,0.0,34528
+Thailand,South-East Asia,2024-01-19,0.0,4763664,0.0,34528
+Thailand,South-East Asia,2024-01-20,718.0,4764382,11.0,34539
+Thailand,South-East Asia,2024-01-21,0.0,4764382,0.0,34539
+Thailand,South-East Asia,2024-01-22,0.0,4764382,0.0,34539
+Thailand,South-East Asia,2024-01-23,0.0,4764382,0.0,34539
+Thailand,South-East Asia,2024-01-24,0.0,4764382,0.0,34539
+Thailand,South-East Asia,2024-01-25,0.0,4764382,0.0,34539
+Thailand,South-East Asia,2024-01-26,0.0,4764382,0.0,34539
+Thailand,South-East Asia,2024-01-27,621.0,4765003,8.0,34547
+Thailand,South-East Asia,2024-01-28,0.0,4765003,0.0,34547
+Thailand,South-East Asia,2024-01-29,0.0,4765003,0.0,34547
+Thailand,South-East Asia,2024-01-30,0.0,4765003,0.0,34547
+Thailand,South-East Asia,2024-01-31,0.0,4765003,0.0,34547
+Thailand,South-East Asia,2024-02-01,0.0,4765003,0.0,34547
+Thailand,South-East Asia,2024-02-02,0.0,4765003,0.0,34547
+Thailand,South-East Asia,2024-02-03,715.0,4765718,8.0,34555
+Thailand,South-East Asia,2024-02-04,0.0,4765718,0.0,34555
+Thailand,South-East Asia,2024-02-05,0.0,4765718,0.0,34555
+Thailand,South-East Asia,2024-02-06,0.0,4765718,0.0,34555
+Thailand,South-East Asia,2024-02-07,0.0,4765718,0.0,34555
+Thailand,South-East Asia,2024-02-08,0.0,4765718,0.0,34555
+Thailand,South-East Asia,2024-02-09,0.0,4765718,0.0,34555
+Thailand,South-East Asia,2024-02-10,537.0,4766255,5.0,34560
+Thailand,South-East Asia,2024-02-11,0.0,4766255,0.0,34560
+Thailand,South-East Asia,2024-02-12,0.0,4766255,0.0,34560
+Thailand,South-East Asia,2024-02-13,0.0,4766255,0.0,34560
+Thailand,South-East Asia,2024-02-14,0.0,4766255,0.0,34560
+Thailand,South-East Asia,2024-02-15,0.0,4766255,0.0,34560
+Thailand,South-East Asia,2024-02-16,0.0,4766255,0.0,34560
+Thailand,South-East Asia,2024-02-17,496.0,4766751,4.0,34564
+Thailand,South-East Asia,2024-02-18,0.0,4766751,0.0,34564
+Thailand,South-East Asia,2024-02-19,0.0,4766751,0.0,34564
+Thailand,South-East Asia,2024-02-20,0.0,4766751,0.0,34564
+Thailand,South-East Asia,2024-02-21,0.0,4766751,0.0,34564
+Thailand,South-East Asia,2024-02-22,0.0,4766751,0.0,34564
+Thailand,South-East Asia,2024-02-23,0.0,4766751,0.0,34564
+Thailand,South-East Asia,2024-02-24,487.0,4767238,3.0,34567
+Thailand,South-East Asia,2024-02-25,0.0,4767238,0.0,34567
+Thailand,South-East Asia,2024-02-26,0.0,4767238,0.0,34567
+Thailand,South-East Asia,2024-02-27,0.0,4767238,0.0,34567
+Thailand,South-East Asia,2024-02-28,0.0,4767238,0.0,34567
+Thailand,South-East Asia,2024-02-29,0.0,4767238,0.0,34567
+Thailand,South-East Asia,2024-03-01,0.0,4767238,0.0,34567
+Thailand,South-East Asia,2024-03-02,462.0,4767700,2.0,34569
+Thailand,South-East Asia,2024-03-03,0.0,4767700,0.0,34569
+Thailand,South-East Asia,2024-03-04,0.0,4767700,0.0,34569
+Thailand,South-East Asia,2024-03-05,0.0,4767700,0.0,34569
+Thailand,South-East Asia,2024-03-06,0.0,4767700,0.0,34569
+Thailand,South-East Asia,2024-03-07,0.0,4767700,0.0,34569
+Thailand,South-East Asia,2024-03-08,0.0,4767700,0.0,34569
+Thailand,South-East Asia,2024-03-09,446.0,4768146,3.0,34572
+Thailand,South-East Asia,2024-03-10,0.0,4768146,0.0,34572
+Thailand,South-East Asia,2024-03-11,0.0,4768146,0.0,34572
+Thailand,South-East Asia,2024-03-12,0.0,4768146,0.0,34572
+Thailand,South-East Asia,2024-03-13,0.0,4768146,0.0,34572
+Thailand,South-East Asia,2024-03-14,0.0,4768146,0.0,34572
+Thailand,South-East Asia,2024-03-15,0.0,4768146,0.0,34572
+Thailand,South-East Asia,2024-03-16,501.0,4768647,4.0,34576
+Thailand,South-East Asia,2024-03-17,0.0,4768647,0.0,34576
+Thailand,South-East Asia,2024-03-18,0.0,4768647,0.0,34576
+Thailand,South-East Asia,2024-03-19,0.0,4768647,0.0,34576
+Thailand,South-East Asia,2024-03-20,0.0,4768647,0.0,34576
+Thailand,South-East Asia,2024-03-21,0.0,4768647,0.0,34576
+Thailand,South-East Asia,2024-03-22,0.0,4768647,0.0,34576
+Thailand,South-East Asia,2024-03-23,630.0,4769277,5.0,34581
+Thailand,South-East Asia,2024-03-24,0.0,4769277,0.0,34581
+Thailand,South-East Asia,2024-03-25,0.0,4769277,0.0,34581
+Thailand,South-East Asia,2024-03-26,0.0,4769277,0.0,34581
+Thailand,South-East Asia,2024-03-27,0.0,4769277,0.0,34581
+Thailand,South-East Asia,2024-03-28,0.0,4769277,0.0,34581
+Thailand,South-East Asia,2024-03-29,0.0,4769277,0.0,34581
+Thailand,South-East Asia,2024-03-30,728.0,4770005,2.0,34583
+Thailand,South-East Asia,2024-03-31,0.0,4770005,0.0,34583
+Thailand,South-East Asia,2024-04-01,0.0,4770005,0.0,34583
+Thailand,South-East Asia,2024-04-02,0.0,4770005,0.0,34583
+Thailand,South-East Asia,2024-04-03,0.0,4770005,0.0,34583
+Thailand,South-East Asia,2024-04-04,0.0,4770005,0.0,34583
+Thailand,South-East Asia,2024-04-05,0.0,4770005,0.0,34583
+Thailand,South-East Asia,2024-04-06,774.0,4770779,3.0,34586
+Thailand,South-East Asia,2024-04-07,0.0,4770779,0.0,34586
+Thailand,South-East Asia,2024-04-08,0.0,4770779,0.0,34586
+Thailand,South-East Asia,2024-04-09,0.0,4770779,0.0,34586
+Thailand,South-East Asia,2024-04-10,0.0,4770779,0.0,34586
+Thailand,South-East Asia,2024-04-11,0.0,4770779,0.0,34586
+Thailand,South-East Asia,2024-04-12,0.0,4770779,0.0,34586
+Thailand,South-East Asia,2024-04-13,849.0,4771628,4.0,34590
+Thailand,South-East Asia,2024-04-14,0.0,4771628,0.0,34590
+Thailand,South-East Asia,2024-04-15,0.0,4771628,0.0,34590
+Thailand,South-East Asia,2024-04-16,0.0,4771628,0.0,34590
+Thailand,South-East Asia,2024-04-17,0.0,4771628,0.0,34590
+Thailand,South-East Asia,2024-04-18,0.0,4771628,0.0,34590
+Thailand,South-East Asia,2024-04-19,0.0,4771628,0.0,34590
+Thailand,South-East Asia,2024-04-20,1004.0,4772632,3.0,34593
+Thailand,South-East Asia,2024-04-21,0.0,4772632,0.0,34593
+Thailand,South-East Asia,2024-04-22,0.0,4772632,0.0,34593
+Thailand,South-East Asia,2024-04-23,0.0,4772632,0.0,34593
+Thailand,South-East Asia,2024-04-24,0.0,4772632,0.0,34593
+Thailand,South-East Asia,2024-04-25,0.0,4772632,0.0,34593
+Thailand,South-East Asia,2024-04-26,0.0,4772632,0.0,34593
+Thailand,South-East Asia,2024-04-27,1672.0,4774304,9.0,34602
+Thailand,South-East Asia,2024-04-28,0.0,4774304,0.0,34602
+Thailand,South-East Asia,2024-04-29,0.0,4774304,0.0,34602
+Thailand,South-East Asia,2024-04-30,0.0,4774304,0.0,34602
+Thailand,South-East Asia,2024-05-01,0.0,4774304,0.0,34602
+Thailand,South-East Asia,2024-05-02,0.0,4774304,0.0,34602
+Thailand,South-East Asia,2024-05-03,0.0,4774304,0.0,34602
+Thailand,South-East Asia,2024-05-04,1792.0,4776096,12.0,34614
+Thailand,South-East Asia,2024-05-05,0.0,4776096,0.0,34614
+Thailand,South-East Asia,2024-05-06,0.0,4776096,0.0,34614
+Thailand,South-East Asia,2024-05-07,0.0,4776096,0.0,34614
+Thailand,South-East Asia,2024-05-08,0.0,4776096,0.0,34614
+Thailand,South-East Asia,2024-05-09,0.0,4776096,0.0,34614
+Thailand,South-East Asia,2024-05-10,0.0,4776096,0.0,34614
+Thailand,South-East Asia,2024-05-11,1880.0,4777976,11.0,34625
+Thailand,South-East Asia,2024-05-12,0.0,4777976,0.0,34625
+Thailand,South-East Asia,2024-05-13,0.0,4777976,0.0,34625
+Thailand,South-East Asia,2024-05-14,0.0,4777976,0.0,34625
+Thailand,South-East Asia,2024-05-15,0.0,4777976,0.0,34625
+Thailand,South-East Asia,2024-05-16,0.0,4777976,0.0,34625
+Thailand,South-East Asia,2024-05-17,0.0,4777976,0.0,34625
+Thailand,South-East Asia,2024-05-18,1882.0,4779858,16.0,34641
+Thailand,South-East Asia,2024-05-19,0.0,4779858,0.0,34641
+Thailand,South-East Asia,2024-05-20,0.0,4779858,0.0,34641
+Thailand,South-East Asia,2024-05-21,0.0,4779858,0.0,34641
+Thailand,South-East Asia,2024-05-22,0.0,4779858,0.0,34641
+Thailand,South-East Asia,2024-05-23,0.0,4779858,0.0,34641
+Thailand,South-East Asia,2024-05-24,0.0,4779858,0.0,34641
+Thailand,South-East Asia,2024-05-25,1801.0,4781659,6.0,34647
+Thailand,South-East Asia,2024-05-26,0.0,4781659,0.0,34647
+Thailand,South-East Asia,2024-05-27,0.0,4781659,0.0,34647
+Thailand,South-East Asia,2024-05-28,0.0,4781659,0.0,34647
+Thailand,South-East Asia,2024-05-29,0.0,4781659,0.0,34647
+Thailand,South-East Asia,2024-05-30,0.0,4781659,0.0,34647
+Thailand,South-East Asia,2024-05-31,0.0,4781659,0.0,34647
+Thailand,South-East Asia,2024-06-01,1863.0,4783522,6.0,34653
+Thailand,South-East Asia,2024-06-02,0.0,4783522,0.0,34653
+Thailand,South-East Asia,2024-06-03,0.0,4783522,0.0,34653
+Thailand,South-East Asia,2024-06-04,0.0,4783522,0.0,34653
+Thailand,South-East Asia,2024-06-05,0.0,4783522,0.0,34653
+Thailand,South-East Asia,2024-06-06,0.0,4783522,0.0,34653
+Thailand,South-East Asia,2024-06-07,0.0,4783522,0.0,34653
+Thailand,South-East Asia,2024-06-08,2762.0,4786284,5.0,34658
+Thailand,South-East Asia,2024-06-09,0.0,4786284,0.0,34658
+Thailand,South-East Asia,2024-06-10,0.0,4786284,0.0,34658
+Thailand,South-East Asia,2024-06-11,0.0,4786284,0.0,34658
+Thailand,South-East Asia,2024-06-12,0.0,4786284,0.0,34658
+Thailand,South-East Asia,2024-06-13,0.0,4786284,0.0,34658
+Thailand,South-East Asia,2024-06-14,0.0,4786284,0.0,34658
+Thailand,South-East Asia,2024-06-15,2881.0,4789165,7.0,34665
+Thailand,South-East Asia,2024-06-16,0.0,4789165,0.0,34665
+Thailand,South-East Asia,2024-06-17,0.0,4789165,0.0,34665
+Thailand,South-East Asia,2024-06-18,0.0,4789165,0.0,34665
+Thailand,South-East Asia,2024-06-19,0.0,4789165,0.0,34665
+Thailand,South-East Asia,2024-06-20,0.0,4789165,0.0,34665
+Thailand,South-East Asia,2024-06-21,0.0,4789165,0.0,34665
+Thailand,South-East Asia,2024-06-22,1823.0,4790988,12.0,34677
+Thailand,South-East Asia,2024-06-23,0.0,4790988,0.0,34677
+Thailand,South-East Asia,2024-06-24,0.0,4790988,0.0,34677
+Thailand,South-East Asia,2024-06-25,0.0,4790988,0.0,34677
+Thailand,South-East Asia,2024-06-26,0.0,4790988,0.0,34677
+Thailand,South-East Asia,2024-06-27,0.0,4790988,0.0,34677
+Thailand,South-East Asia,2024-06-28,0.0,4790988,0.0,34677
+Thailand,South-East Asia,2024-06-29,3256.0,4794244,16.0,34693
+Thailand,South-East Asia,2024-06-30,0.0,4794244,0.0,34693
+Thailand,South-East Asia,2024-07-01,0.0,4794244,0.0,34693
+Thailand,South-East Asia,2024-07-02,0.0,4794244,0.0,34693
+Thailand,South-East Asia,2024-07-03,0.0,4794244,0.0,34693
+Thailand,South-East Asia,2024-07-04,0.0,4794244,0.0,34693
+Thailand,South-East Asia,2024-07-05,0.0,4794244,0.0,34693
+Thailand,South-East Asia,2024-07-06,1377.0,4795621,11.0,34704
+Thailand,South-East Asia,2024-07-07,0.0,4795621,0.0,34704
+Thailand,South-East Asia,2024-07-08,0.0,4795621,0.0,34704
+Thailand,South-East Asia,2024-07-09,0.0,4795621,0.0,34704
+Thailand,South-East Asia,2024-07-10,0.0,4795621,0.0,34704
+Thailand,South-East Asia,2024-07-11,0.0,4795621,0.0,34704
+Thailand,South-East Asia,2024-07-12,0.0,4795621,0.0,34704
+Thailand,South-East Asia,2024-07-13,1004.0,4796625,5.0,34709
+Thailand,South-East Asia,2024-07-14,0.0,4796625,0.0,34709
+Thailand,South-East Asia,2024-07-15,0.0,4796625,0.0,34709
+Thailand,South-East Asia,2024-07-16,0.0,4796625,0.0,34709
+Thailand,South-East Asia,2024-07-17,0.0,4796625,0.0,34709
+Thailand,South-East Asia,2024-07-18,0.0,4796625,0.0,34709
+Thailand,South-East Asia,2024-07-19,0.0,4796625,0.0,34709
+Thailand,South-East Asia,2024-07-20,1067.0,4797692,3.0,34712
+Thailand,South-East Asia,2024-07-21,0.0,4797692,0.0,34712
+Thailand,South-East Asia,2024-07-22,0.0,4797692,0.0,34712
+Thailand,South-East Asia,2024-07-23,0.0,4797692,0.0,34712
+Thailand,South-East Asia,2024-07-24,0.0,4797692,0.0,34712
+Thailand,South-East Asia,2024-07-25,0.0,4797692,0.0,34712
+Thailand,South-East Asia,2024-07-26,0.0,4797692,0.0,34712
+Thailand,South-East Asia,2024-07-27,928.0,4798620,2.0,34714
+Thailand,South-East Asia,2024-07-28,0.0,4798620,0.0,34714
+Thailand,South-East Asia,2024-07-29,0.0,4798620,0.0,34714
+Thailand,South-East Asia,2024-07-30,0.0,4798620,0.0,34714
+Thailand,South-East Asia,2024-07-31,0.0,4798620,0.0,34714
+Thailand,South-East Asia,2024-08-01,0.0,4798620,0.0,34714
+Thailand,South-East Asia,2024-08-02,0.0,4798620,0.0,34714
+Thailand,South-East Asia,2024-08-03,560.0,4799180,1.0,34715
+Thailand,South-East Asia,2024-08-04,0.0,4799180,0.0,34715
+Thailand,South-East Asia,2024-08-05,0.0,4799180,0.0,34715
+Thailand,South-East Asia,2024-08-06,0.0,4799180,0.0,34715
+Thailand,South-East Asia,2024-08-07,0.0,4799180,0.0,34715
+Thailand,South-East Asia,2024-08-08,0.0,4799180,0.0,34715
+Thailand,South-East Asia,2024-08-09,0.0,4799180,0.0,34715
+Thailand,South-East Asia,2024-08-10,519.0,4799699,4.0,34719
+Thailand,South-East Asia,2024-08-11,0.0,4799699,0.0,34719
+Thailand,South-East Asia,2024-08-12,0.0,4799699,0.0,34719
+Thailand,South-East Asia,2024-08-13,0.0,4799699,0.0,34719
+Thailand,South-East Asia,2024-08-14,0.0,4799699,0.0,34719
+Thailand,South-East Asia,2024-08-15,0.0,4799699,0.0,34719
+Thailand,South-East Asia,2024-08-16,0.0,4799699,0.0,34719
+Thailand,South-East Asia,2024-08-17,435.0,4800134,1.0,34720
+Thailand,South-East Asia,2024-08-18,0.0,4800134,0.0,34720
+Thailand,South-East Asia,2024-08-19,0.0,4800134,0.0,34720
+Thailand,South-East Asia,2024-08-20,0.0,4800134,0.0,34720
+Thailand,South-East Asia,2024-08-21,0.0,4800134,0.0,34720
+Thailand,South-East Asia,2024-08-22,0.0,4800134,0.0,34720
+Thailand,South-East Asia,2024-08-23,0.0,4800134,0.0,34720
+Thailand,South-East Asia,2024-08-24,258.0,4800392,0.0,34720
+Thailand,South-East Asia,2024-08-25,0.0,4800392,0.0,34720
+Thailand,South-East Asia,2024-08-26,0.0,4800392,0.0,34720
+Thailand,South-East Asia,2024-08-27,0.0,4800392,0.0,34720
+Thailand,South-East Asia,2024-08-28,0.0,4800392,0.0,34720
+Thailand,South-East Asia,2024-08-29,0.0,4800392,0.0,34720
+Thailand,South-East Asia,2024-08-30,0.0,4800392,0.0,34720
+Thailand,South-East Asia,2024-08-31,569.0,4800961,1.0,34721
+Thailand,South-East Asia,2024-09-01,0.0,4800961,0.0,34721
+Thailand,South-East Asia,2024-09-02,0.0,4800961,0.0,34721
+Thailand,South-East Asia,2024-09-03,0.0,4800961,0.0,34721
+Thailand,South-East Asia,2024-09-04,0.0,4800961,0.0,34721
+Thailand,South-East Asia,2024-09-05,0.0,4800961,0.0,34721
+Thailand,South-East Asia,2024-09-06,0.0,4800961,0.0,34721
+Thailand,South-East Asia,2024-09-07,314.0,4801275,1.0,34722
+Thailand,South-East Asia,2024-09-08,0.0,4801275,0.0,34722
+Thailand,South-East Asia,2024-09-09,0.0,4801275,0.0,34722
+Thailand,South-East Asia,2024-09-10,0.0,4801275,0.0,34722
+Thailand,South-East Asia,2024-09-11,0.0,4801275,0.0,34722
+Thailand,South-East Asia,2024-09-12,0.0,4801275,0.0,34722
+Thailand,South-East Asia,2024-09-13,0.0,4801275,0.0,34722
+Thailand,South-East Asia,2024-09-14,302.0,4801577,2.0,34724
+Thailand,South-East Asia,2024-09-15,0.0,4801577,0.0,34724
+Thailand,South-East Asia,2024-09-16,0.0,4801577,0.0,34724
+Thailand,South-East Asia,2024-09-17,0.0,4801577,0.0,34724
+Thailand,South-East Asia,2024-09-18,0.0,4801577,0.0,34724
+Thailand,South-East Asia,2024-09-19,0.0,4801577,0.0,34724
+Thailand,South-East Asia,2024-09-20,0.0,4801577,0.0,34724
+Thailand,South-East Asia,2024-09-21,238.0,4801815,1.0,34725
+Thailand,South-East Asia,2024-09-22,0.0,4801815,0.0,34725
+Thailand,South-East Asia,2024-09-23,0.0,4801815,0.0,34725
+Thailand,South-East Asia,2024-09-24,0.0,4801815,0.0,34725
+Thailand,South-East Asia,2024-09-25,0.0,4801815,0.0,34725
+Thailand,South-East Asia,2024-09-26,0.0,4801815,0.0,34725
+Thailand,South-East Asia,2024-09-27,0.0,4801815,0.0,34725
+Thailand,South-East Asia,2024-09-28,287.0,4802102,3.0,34728
+Thailand,South-East Asia,2024-09-29,0.0,4802102,0.0,34728
+Thailand,South-East Asia,2024-09-30,0.0,4802102,0.0,34728
+Thailand,South-East Asia,2024-10-01,0.0,4802102,0.0,34728
+Thailand,South-East Asia,2024-10-02,0.0,4802102,0.0,34728
+Thailand,South-East Asia,2024-10-03,0.0,4802102,0.0,34728
+Thailand,South-East Asia,2024-10-04,0.0,4802102,0.0,34728
+Thailand,South-East Asia,2024-10-05,281.0,4802383,4.0,34732
+Thailand,South-East Asia,2024-10-06,0.0,4802383,0.0,34732
+Thailand,South-East Asia,2024-10-07,0.0,4802383,0.0,34732
+Thailand,South-East Asia,2024-10-08,0.0,4802383,0.0,34732
+Thailand,South-East Asia,2024-10-09,0.0,4802383,0.0,34732
+Thailand,South-East Asia,2024-10-10,0.0,4802383,0.0,34732
+Thailand,South-East Asia,2024-10-11,0.0,4802383,0.0,34732
+Thailand,South-East Asia,2024-10-12,353.0,4802736,0.0,34732
+Thailand,South-East Asia,2024-10-13,0.0,4802736,0.0,34732
+Thailand,South-East Asia,2024-10-14,0.0,4802736,0.0,34732
+Thailand,South-East Asia,2024-10-15,0.0,4802736,0.0,34732
+Thailand,South-East Asia,2024-10-16,0.0,4802736,0.0,34732
+Thailand,South-East Asia,2024-10-17,0.0,4802736,0.0,34732
+Thailand,South-East Asia,2024-10-18,0.0,4802736,0.0,34732
+Thailand,South-East Asia,2024-10-19,399.0,4803135,1.0,34733
+Thailand,South-East Asia,2024-10-20,0.0,4803135,0.0,34733
+Thailand,South-East Asia,2024-10-21,0.0,4803135,0.0,34733
+Thailand,South-East Asia,2024-10-22,0.0,4803135,0.0,34733
+Thailand,South-East Asia,2024-10-23,0.0,4803135,0.0,34733
+Thailand,South-East Asia,2024-10-24,0.0,4803135,0.0,34733
+Thailand,South-East Asia,2024-10-25,0.0,4803135,0.0,34733
+Thailand,South-East Asia,2024-10-26,497.0,4803632,1.0,34734
+Thailand,South-East Asia,2024-10-27,0.0,4803632,0.0,34734
+Thailand,South-East Asia,2024-10-28,0.0,4803632,0.0,34734
+Thailand,South-East Asia,2024-10-29,0.0,4803632,0.0,34734
+Thailand,South-East Asia,2024-10-30,0.0,4803632,0.0,34734
+Thailand,South-East Asia,2024-10-31,0.0,4803632,0.0,34734
+Thailand,South-East Asia,2024-11-01,0.0,4803632,0.0,34734
+Thailand,South-East Asia,2024-11-02,549.0,4804181,1.0,34735
+Thailand,South-East Asia,2024-11-03,0.0,4804181,0.0,34735
+Thailand,South-East Asia,2024-11-04,0.0,4804181,0.0,34735
+Thailand,South-East Asia,2024-11-05,0.0,4804181,0.0,34735
+Thailand,South-East Asia,2024-11-06,0.0,4804181,0.0,34735
+Thailand,South-East Asia,2024-11-07,0.0,4804181,0.0,34735
+Thailand,South-East Asia,2024-11-08,0.0,4804181,0.0,34735
+Thailand,South-East Asia,2024-11-09,569.0,4804750,0.0,34735
+Thailand,South-East Asia,2024-11-10,0.0,4804750,0.0,34735
+Thailand,South-East Asia,2024-11-11,0.0,4804750,0.0,34735
+Thailand,South-East Asia,2024-11-12,0.0,4804750,0.0,34735
+Thailand,South-East Asia,2024-11-13,0.0,4804750,0.0,34735
+Thailand,South-East Asia,2024-11-14,0.0,4804750,0.0,34735
+Thailand,South-East Asia,2024-11-15,0.0,4804750,0.0,34735
+Thailand,South-East Asia,2024-11-16,504.0,4805254,1.0,34736
+Thailand,South-East Asia,2024-11-17,0.0,4805254,0.0,34736
+Thailand,South-East Asia,2024-11-18,0.0,4805254,0.0,34736
+Thailand,South-East Asia,2024-11-19,0.0,4805254,0.0,34736
+Thailand,South-East Asia,2024-11-20,0.0,4805254,0.0,34736
+Thailand,South-East Asia,2024-11-21,0.0,4805254,0.0,34736
+Thailand,South-East Asia,2024-11-22,0.0,4805254,0.0,34736
+Thailand,South-East Asia,2024-11-23,510.0,4805764,0.0,34736
+Thailand,South-East Asia,2024-11-24,0.0,4805764,0.0,34736
+Thailand,South-East Asia,2024-11-25,0.0,4805764,0.0,34736
+Thailand,South-East Asia,2024-11-26,0.0,4805764,0.0,34736
+Thailand,South-East Asia,2024-11-27,0.0,4805764,0.0,34736
+Thailand,South-East Asia,2024-11-28,0.0,4805764,0.0,34736
+Thailand,South-East Asia,2024-11-29,0.0,4805764,0.0,34736
+Thailand,South-East Asia,2024-11-30,516.0,4806280,5.0,34741
+Thailand,South-East Asia,2024-12-01,0.0,4806280,0.0,34741
+Thailand,South-East Asia,2024-12-02,0.0,4806280,0.0,34741
+Thailand,South-East Asia,2024-12-03,0.0,4806280,0.0,34741
+Thailand,South-East Asia,2024-12-04,0.0,4806280,0.0,34741
+Thailand,South-East Asia,2024-12-05,0.0,4806280,0.0,34741
+Thailand,South-East Asia,2024-12-06,0.0,4806280,0.0,34741
+Thailand,South-East Asia,2024-12-07,577.0,4806857,0.0,34741
+Thailand,South-East Asia,2024-12-08,0.0,4806857,0.0,34741
+Thailand,South-East Asia,2024-12-09,0.0,4806857,0.0,34741
+Thailand,South-East Asia,2024-12-10,0.0,4806857,0.0,34741
+Thailand,South-East Asia,2024-12-11,0.0,4806857,0.0,34741
+Thailand,South-East Asia,2024-12-12,0.0,4806857,0.0,34741
+Thailand,South-East Asia,2024-12-13,0.0,4806857,0.0,34741
+Thailand,South-East Asia,2024-12-14,730.0,4807587,0.0,34741
+Thailand,South-East Asia,2024-12-15,0.0,4807587,0.0,34741
+Thailand,South-East Asia,2024-12-16,0.0,4807587,0.0,34741
+Thailand,South-East Asia,2024-12-17,0.0,4807587,0.0,34741
+Thailand,South-East Asia,2024-12-18,0.0,4807587,0.0,34741
+Thailand,South-East Asia,2024-12-19,0.0,4807587,0.0,34741
+Thailand,South-East Asia,2024-12-20,0.0,4807587,0.0,34741
+Thailand,South-East Asia,2024-12-21,867.0,4808454,0.0,34741
+Thailand,South-East Asia,2024-12-22,0.0,4808454,0.0,34741
+Thailand,South-East Asia,2024-12-23,0.0,4808454,0.0,34741
+Thailand,South-East Asia,2024-12-24,0.0,4808454,0.0,34741
+Thailand,South-East Asia,2024-12-25,0.0,4808454,0.0,34741
+Thailand,South-East Asia,2024-12-26,0.0,4808454,0.0,34741
+Thailand,South-East Asia,2024-12-27,0.0,4808454,0.0,34741
+Thailand,South-East Asia,2024-12-28,0.0,4808454,0.0,34741
+Thailand,South-East Asia,2024-12-29,0.0,4808454,0.0,34741
+Thailand,South-East Asia,2024-12-30,0.0,4808454,0.0,34741
+Thailand,South-East Asia,2024-12-31,0.0,4808454,0.0,34741

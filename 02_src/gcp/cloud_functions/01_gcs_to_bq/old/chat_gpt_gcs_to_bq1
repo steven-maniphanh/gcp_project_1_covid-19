@@ -1,0 +1,55 @@
+import pandas as pd
+from google.cloud import bigquery
+
+def hello_gcs(event, context):
+    # 1. Infos du fichier
+    file_name = event['name']
+    bucket_name = event['bucket']
+    uri = f"gs://{bucket_name}/{file_name}"
+    table_base_name = file_name.split('.')[0]
+
+    # 2. Chargement du fichier CSV
+    df_data = pd.read_csv(uri)
+
+    # 3. Nom de table + dataset
+    project_id = 'gcp-dataeng-demos-365206'
+    dataset_id = 'gcp_dataeng_demos'
+    table_id = f"{project_id}.{dataset_id}.{table_base_name}"
+
+    # 4. Création du client BQ
+    client = bigquery.Client()
+
+    # 5. Définir le schéma (auto ou explicite si besoin)
+    job_config = bigquery.LoadJobConfig(
+        autodetect=True,
+        source_format=bigquery.SourceFormat.CSV,
+        skip_leading_rows=1,
+        write_disposition=bigquery.WriteDisposition.WRITE_APPEND,
+        time_partitioning=bigquery.TimePartitioning(
+            type_=bigquery.TimePartitioningType.DAY,
+            field="date"  # ✅ Partitionnement sur colonne 'date'
+        ),
+        clustering_fields=["region", "country"]  # ✅ Clustering sur ces colonnes
+    )
+
+    # 6. Lancer le job de chargement
+    load_job = client.load_table_from_dataframe(df_data, table_id, job_config=job_config)
+    load_job.result()  # Attend que ça finisse
+
+    print(f"✅ Données chargées dans {table_id} avec partitionnement et clustering.")
+
+    # 7. (Optionnel) Logger les métadonnées de l'événement
+    metadata = pd.DataFrame([{
+        'Event_ID': context.event_id,
+        'Event_type': context.event_type,
+        'Bucket_name': event['bucket'],
+        'File_name': event['name'],
+        'Created': event['timeCreated'],
+        'Updated': event['updated']
+    }])
+    metadata.to_gbq(
+        f"{dataset_id}.data_loading_metadata",
+        project_id=project_id,
+        if_exists="append",
+        location="us"
+    )

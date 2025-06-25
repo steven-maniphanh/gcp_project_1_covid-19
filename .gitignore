@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (DO NOT TRACK RAW DATA)
+#data/raw/
+#data/cleaned/
+#*.csv
+*.zip
+
+# OS
+.DS_Store
+
+# PowerPoint cache
+~$*.pptx

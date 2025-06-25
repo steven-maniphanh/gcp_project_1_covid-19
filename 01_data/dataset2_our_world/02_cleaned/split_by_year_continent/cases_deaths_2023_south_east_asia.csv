@@ -1,0 +1,3286 @@
+country,region,date,new_cases,total_cases,new_deaths,total_deaths
+Bangladesh,South-East Asia,2023-01-01,17.0,2037142,0.0,29440
+Bangladesh,South-East Asia,2023-01-02,14.0,2037156,0.0,29440
+Bangladesh,South-East Asia,2023-01-03,31.0,2037187,0.0,29440
+Bangladesh,South-East Asia,2023-01-04,21.0,2037208,0.0,29440
+Bangladesh,South-East Asia,2023-01-05,22.0,2037230,0.0,29440
+Bangladesh,South-East Asia,2023-01-06,10.0,2037240,0.0,29440
+Bangladesh,South-East Asia,2023-01-07,10.0,2037250,0.0,29440
+Bangladesh,South-East Asia,2023-01-08,17.0,2037267,0.0,29440
+Bangladesh,South-East Asia,2023-01-09,17.0,2037284,0.0,29440
+Bangladesh,South-East Asia,2023-01-10,21.0,2037305,0.0,29440
+Bangladesh,South-East Asia,2023-01-11,22.0,2037327,1.0,29441
+Bangladesh,South-East Asia,2023-01-12,4.0,2037331,0.0,29441
+Bangladesh,South-East Asia,2023-01-13,15.0,2037346,0.0,29441
+Bangladesh,South-East Asia,2023-01-14,10.0,2037356,0.0,29441
+Bangladesh,South-East Asia,2023-01-15,12.0,2037368,0.0,29441
+Bangladesh,South-East Asia,2023-01-16,9.0,2037377,0.0,29441
+Bangladesh,South-East Asia,2023-01-17,9.0,2037386,0.0,29441
+Bangladesh,South-East Asia,2023-01-18,13.0,2037399,0.0,29441
+Bangladesh,South-East Asia,2023-01-19,9.0,2037408,0.0,29441
+Bangladesh,South-East Asia,2023-01-20,8.0,2037416,0.0,29441
+Bangladesh,South-East Asia,2023-01-21,17.0,2037433,0.0,29441
+Bangladesh,South-East Asia,2023-01-22,11.0,2037444,0.0,29441
+Bangladesh,South-East Asia,2023-01-23,12.0,2037456,0.0,29441
+Bangladesh,South-East Asia,2023-01-24,13.0,2037469,0.0,29441
+Bangladesh,South-East Asia,2023-01-25,9.0,2037478,0.0,29441
+Bangladesh,South-East Asia,2023-01-26,16.0,2037494,0.0,29441
+Bangladesh,South-East Asia,2023-01-27,12.0,2037506,0.0,29441
+Bangladesh,South-East Asia,2023-01-28,10.0,2037516,1.0,29442
+Bangladesh,South-East Asia,2023-01-29,16.0,2037532,0.0,29442
+Bangladesh,South-East Asia,2023-01-30,11.0,2037543,0.0,29442
+Bangladesh,South-East Asia,2023-01-31,13.0,2037556,0.0,29442
+Bangladesh,South-East Asia,2023-02-01,12.0,2037568,0.0,29442
+Bangladesh,South-East Asia,2023-02-02,10.0,2037578,1.0,29443
+Bangladesh,South-East Asia,2023-02-03,10.0,2037588,0.0,29443
+Bangladesh,South-East Asia,2023-02-04,12.0,2037600,0.0,29443
+Bangladesh,South-East Asia,2023-02-05,9.0,2037609,0.0,29443
+Bangladesh,South-East Asia,2023-02-06,13.0,2037622,0.0,29443
+Bangladesh,South-East Asia,2023-02-07,14.0,2037636,0.0,29443
+Bangladesh,South-East Asia,2023-02-08,11.0,2037647,1.0,29444
+Bangladesh,South-East Asia,2023-02-09,8.0,2037655,0.0,29444
+Bangladesh,South-East Asia,2023-02-10,9.0,2037664,0.0,29444
+Bangladesh,South-East Asia,2023-02-11,9.0,2037673,0.0,29444
+Bangladesh,South-East Asia,2023-02-12,6.0,2037679,0.0,29444
+Bangladesh,South-East Asia,2023-02-13,9.0,2037688,1.0,29445
+Bangladesh,South-East Asia,2023-02-14,15.0,2037703,0.0,29445
+Bangladesh,South-East Asia,2023-02-15,13.0,2037716,0.0,29445
+Bangladesh,South-East Asia,2023-02-16,14.0,2037730,0.0,29445
+Bangladesh,South-East Asia,2023-02-17,8.0,2037738,0.0,29445
+Bangladesh,South-East Asia,2023-02-18,5.0,2037743,0.0,29445
+Bangladesh,South-East Asia,2023-02-19,7.0,2037750,0.0,29445
+Bangladesh,South-East Asia,2023-02-20,14.0,2037764,0.0,29445
+Bangladesh,South-East Asia,2023-02-21,9.0,2037773,0.0,29445
+Bangladesh,South-East Asia,2023-02-22,7.0,2037780,0.0,29445
+Bangladesh,South-East Asia,2023-02-23,6.0,2037786,0.0,29445
+Bangladesh,South-East Asia,2023-02-24,4.0,2037790,0.0,29445
+Bangladesh,South-East Asia,2023-02-25,6.0,2037796,0.0,29445
+Bangladesh,South-East Asia,2023-02-26,12.0,2037808,0.0,29445
+Bangladesh,South-East Asia,2023-02-27,10.0,2037818,0.0,29445
+Bangladesh,South-East Asia,2023-02-28,11.0,2037829,0.0,29445
+Bangladesh,South-East Asia,2023-03-01,11.0,2037840,0.0,29445
+Bangladesh,South-East Asia,2023-03-02,10.0,2037850,0.0,29445
+Bangladesh,South-East Asia,2023-03-03,4.0,2037854,0.0,29445
+Bangladesh,South-East Asia,2023-03-04,2.0,2037856,0.0,29445
+Bangladesh,South-East Asia,2023-03-05,9.0,2037865,0.0,29445
+Bangladesh,South-East Asia,2023-03-06,6.0,2037871,0.0,29445
+Bangladesh,South-East Asia,2023-03-07,8.0,2037879,0.0,29445
+Bangladesh,South-East Asia,2023-03-08,8.0,2037887,0.0,29445
+Bangladesh,South-East Asia,2023-03-09,6.0,2037893,0.0,29445
+Bangladesh,South-East Asia,2023-03-10,11.0,2037904,0.0,29445
+Bangladesh,South-East Asia,2023-03-11,15.0,2037919,0.0,29445
+Bangladesh,South-East Asia,2023-03-12,3.0,2037922,0.0,29445
+Bangladesh,South-East Asia,2023-03-13,7.0,2037929,0.0,29445
+Bangladesh,South-East Asia,2023-03-14,9.0,2037938,0.0,29445
+Bangladesh,South-East Asia,2023-03-15,9.0,2037947,0.0,29445
+Bangladesh,South-East Asia,2023-03-16,7.0,2037954,0.0,29445
+Bangladesh,South-East Asia,2023-03-17,5.0,2037959,0.0,29445
+Bangladesh,South-East Asia,2023-03-18,4.0,2037963,0.0,29445
+Bangladesh,South-East Asia,2023-03-19,6.0,2037969,0.0,29445
+Bangladesh,South-East Asia,2023-03-20,5.0,2037974,0.0,29445
+Bangladesh,South-East Asia,2023-03-21,4.0,2037978,0.0,29445
+Bangladesh,South-East Asia,2023-03-22,4.0,2037982,0.0,29445
+Bangladesh,South-East Asia,2023-03-23,4.0,2037986,0.0,29445
+Bangladesh,South-East Asia,2023-03-24,3.0,2037989,0.0,29445
+Bangladesh,South-East Asia,2023-03-25,4.0,2037993,0.0,29445
+Bangladesh,South-East Asia,2023-03-26,8.0,2038001,0.0,29445
+Bangladesh,South-East Asia,2023-03-27,7.0,2038008,0.0,29445
+Bangladesh,South-East Asia,2023-03-28,6.0,2038014,1.0,29446
+Bangladesh,South-East Asia,2023-03-29,4.0,2038018,0.0,29446
+Bangladesh,South-East Asia,2023-03-30,5.0,2038023,0.0,29446
+Bangladesh,South-East Asia,2023-03-31,5.0,2038028,0.0,29446
+Bangladesh,South-East Asia,2023-04-01,4.0,2038032,0.0,29446
+Bangladesh,South-East Asia,2023-04-02,6.0,2038038,0.0,29446
+Bangladesh,South-East Asia,2023-04-03,7.0,2038045,0.0,29446
+Bangladesh,South-East Asia,2023-04-04,8.0,2038053,0.0,29446
+Bangladesh,South-East Asia,2023-04-05,8.0,2038061,0.0,29446
+Bangladesh,South-East Asia,2023-04-06,5.0,2038066,0.0,29446
+Bangladesh,South-East Asia,2023-04-07,3.0,2038069,0.0,29446
+Bangladesh,South-East Asia,2023-04-08,4.0,2038073,0.0,29446
+Bangladesh,South-East Asia,2023-04-09,5.0,2038078,0.0,29446
+Bangladesh,South-East Asia,2023-04-10,8.0,2038086,0.0,29446
+Bangladesh,South-East Asia,2023-04-11,5.0,2038091,0.0,29446
+Bangladesh,South-East Asia,2023-04-12,6.0,2038097,0.0,29446
+Bangladesh,South-East Asia,2023-04-13,6.0,2038103,0.0,29446
+Bangladesh,South-East Asia,2023-04-14,6.0,2038109,0.0,29446
+Bangladesh,South-East Asia,2023-04-15,4.0,2038113,0.0,29446
+Bangladesh,South-East Asia,2023-04-16,3.0,2038116,0.0,29446
+Bangladesh,South-East Asia,2023-04-17,8.0,2038124,0.0,29446
+Bangladesh,South-East Asia,2023-04-18,5.0,2038129,0.0,29446
+Bangladesh,South-East Asia,2023-04-19,5.0,2038134,0.0,29446
+Bangladesh,South-East Asia,2023-04-20,9.0,2038143,0.0,29446
+Bangladesh,South-East Asia,2023-04-21,3.0,2038146,0.0,29446
+Bangladesh,South-East Asia,2023-04-22,4.0,2038150,0.0,29446
+Bangladesh,South-East Asia,2023-04-23,4.0,2038154,0.0,29446
+Bangladesh,South-East Asia,2023-04-24,7.0,2038161,0.0,29446
+Bangladesh,South-East Asia,2023-04-25,13.0,2038174,0.0,29446
+Bangladesh,South-East Asia,2023-04-26,11.0,2038185,0.0,29446
+Bangladesh,South-East Asia,2023-04-27,7.0,2038192,0.0,29446
+Bangladesh,South-East Asia,2023-04-28,15.0,2038207,0.0,29446
+Bangladesh,South-East Asia,2023-04-29,9.0,2038216,0.0,29446
+Bangladesh,South-East Asia,2023-04-30,16.0,2038232,0.0,29446
+Bangladesh,South-East Asia,2023-05-01,13.0,2038245,0.0,29446
+Bangladesh,South-East Asia,2023-05-02,5.0,2038250,0.0,29446
+Bangladesh,South-East Asia,2023-05-03,18.0,2038268,0.0,29446
+Bangladesh,South-East Asia,2023-05-04,23.0,2038291,0.0,29446
+Bangladesh,South-East Asia,2023-05-05,9.0,2038300,0.0,29446
+Bangladesh,South-East Asia,2023-05-06,15.0,2038315,0.0,29446
+Bangladesh,South-East Asia,2023-05-07,23.0,2038338,0.0,29446
+Bangladesh,South-East Asia,2023-05-08,24.0,2038362,0.0,29446
+Bangladesh,South-East Asia,2023-05-09,22.0,2038384,0.0,29446
+Bangladesh,South-East Asia,2023-05-10,22.0,2038406,0.0,29446
+Bangladesh,South-East Asia,2023-05-11,24.0,2038430,0.0,29446
+Bangladesh,South-East Asia,2023-05-12,23.0,2038453,0.0,29446
+Bangladesh,South-East Asia,2023-05-13,8.0,2038461,0.0,29446
+Bangladesh,South-East Asia,2023-05-14,17.0,2038478,0.0,29446
+Bangladesh,South-East Asia,2023-05-15,19.0,2038497,0.0,29446
+Bangladesh,South-East Asia,2023-05-16,20.0,2038517,0.0,29446
+Bangladesh,South-East Asia,2023-05-17,22.0,2038539,0.0,29446
+Bangladesh,South-East Asia,2023-05-18,36.0,2038575,0.0,29446
+Bangladesh,South-East Asia,2023-05-19,14.0,2038589,0.0,29446
+Bangladesh,South-East Asia,2023-05-20,18.0,2038607,0.0,29446
+Bangladesh,South-East Asia,2023-05-21,19.0,2038626,0.0,29446
+Bangladesh,South-East Asia,2023-05-22,38.0,2038664,0.0,29446
+Bangladesh,South-East Asia,2023-05-23,44.0,2038708,0.0,29446
+Bangladesh,South-East Asia,2023-05-24,33.0,2038741,0.0,29446
+Bangladesh,South-East Asia,2023-05-25,68.0,2038809,0.0,29446
+Bangladesh,South-East Asia,2023-05-26,28.0,2038837,0.0,29446
+Bangladesh,South-East Asia,2023-05-27,61.0,2038898,0.0,29446
+Bangladesh,South-East Asia,2023-05-28,73.0,2038971,0.0,29446
+Bangladesh,South-East Asia,2023-05-29,159.0,2039130,0.0,29446
+Bangladesh,South-East Asia,2023-05-30,114.0,2039244,0.0,29446
+Bangladesh,South-East Asia,2023-05-31,103.0,2039347,0.0,29446
+Bangladesh,South-East Asia,2023-06-01,70.0,2039417,0.0,29446
+Bangladesh,South-East Asia,2023-06-02,89.0,2039506,2.0,29448
+Bangladesh,South-East Asia,2023-06-03,65.0,2039571,0.0,29448
+Bangladesh,South-East Asia,2023-06-04,68.0,2039639,0.0,29448
+Bangladesh,South-East Asia,2023-06-05,75.0,2039714,2.0,29450
+Bangladesh,South-East Asia,2023-06-06,197.0,2039911,1.0,29451
+Bangladesh,South-East Asia,2023-06-07,103.0,2040014,0.0,29451
+Bangladesh,South-East Asia,2023-06-08,104.0,2040118,0.0,29451
+Bangladesh,South-East Asia,2023-06-09,94.0,2040212,0.0,29451
+Bangladesh,South-East Asia,2023-06-10,107.0,2040319,0.0,29451
+Bangladesh,South-East Asia,2023-06-11,151.0,2040470,0.0,29451
+Bangladesh,South-East Asia,2023-06-12,140.0,2040610,1.0,29452
+Bangladesh,South-East Asia,2023-06-13,71.0,2040681,0.0,29452
+Bangladesh,South-East Asia,2023-06-14,134.0,2040815,1.0,29453
+Bangladesh,South-East Asia,2023-06-15,151.0,2040966,1.0,29454
+Bangladesh,South-East Asia,2023-06-16,166.0,2041132,1.0,29455
+Bangladesh,South-East Asia,2023-06-17,108.0,2041240,0.0,29455
+Bangladesh,South-East Asia,2023-06-18,230.0,2041470,2.0,29457
+Bangladesh,South-East Asia,2023-06-19,153.0,2041623,0.0,29457
+Bangladesh,South-East Asia,2023-06-20,125.0,2041748,0.0,29457
+Bangladesh,South-East Asia,2023-06-21,146.0,2041894,1.0,29458
+Bangladesh,South-East Asia,2023-06-22,95.0,2041989,0.0,29458
+Bangladesh,South-East Asia,2023-06-23,60.0,2042049,0.0,29458
+Bangladesh,South-East Asia,2023-06-24,82.0,2042131,1.0,29459
+Bangladesh,South-East Asia,2023-06-25,121.0,2042252,2.0,29461
+Bangladesh,South-East Asia,2023-06-26,110.0,2042362,0.0,29461
+Bangladesh,South-East Asia,2023-06-27,60.0,2042422,1.0,29462
+Bangladesh,South-East Asia,2023-06-28,97.0,2042519,0.0,29462
+Bangladesh,South-East Asia,2023-06-29,34.0,2042553,0.0,29462
+Bangladesh,South-East Asia,2023-06-30,39.0,2042592,0.0,29462
+Bangladesh,South-East Asia,2023-07-01,68.0,2042660,0.0,29462
+Bangladesh,South-East Asia,2023-07-02,42.0,2042702,0.0,29462
+Bangladesh,South-East Asia,2023-07-03,66.0,2042768,0.0,29462
+Bangladesh,South-East Asia,2023-07-04,86.0,2042854,0.0,29462
+Bangladesh,South-East Asia,2023-07-05,86.0,2042940,0.0,29462
+Bangladesh,South-East Asia,2023-07-06,35.0,2042975,0.0,29462
+Bangladesh,South-East Asia,2023-07-07,87.0,2043062,0.0,29462
+Bangladesh,South-East Asia,2023-07-08,23.0,2043085,0.0,29462
+Bangladesh,South-East Asia,2023-07-09,76.0,2043161,0.0,29462
+Bangladesh,South-East Asia,2023-07-10,61.0,2043222,0.0,29462
+Bangladesh,South-East Asia,2023-07-11,66.0,2043288,1.0,29463
+Bangladesh,South-East Asia,2023-07-12,36.0,2043324,0.0,29463
+Bangladesh,South-East Asia,2023-07-13,63.0,2043387,0.0,29463
+Bangladesh,South-East Asia,2023-07-14,62.0,2043449,0.0,29463
+Bangladesh,South-East Asia,2023-07-15,36.0,2043485,1.0,29464
+Bangladesh,South-East Asia,2023-07-16,92.0,2043577,0.0,29464
+Bangladesh,South-East Asia,2023-07-17,80.0,2043657,1.0,29465
+Bangladesh,South-East Asia,2023-07-18,73.0,2043730,0.0,29465
+Bangladesh,South-East Asia,2023-07-19,42.0,2043772,0.0,29465
+Bangladesh,South-East Asia,2023-07-20,109.0,2043881,1.0,29466
+Bangladesh,South-East Asia,2023-07-21,32.0,2043913,1.0,29467
+Bangladesh,South-East Asia,2023-07-22,22.0,2043935,0.0,29467
+Bangladesh,South-East Asia,2023-07-23,36.0,2043971,1.0,29468
+Bangladesh,South-East Asia,2023-07-24,77.0,2044048,1.0,29469
+Bangladesh,South-East Asia,2023-07-25,83.0,2044131,0.0,29469
+Bangladesh,South-East Asia,2023-07-26,38.0,2044169,0.0,29469
+Bangladesh,South-East Asia,2023-07-27,71.0,2044240,2.0,29471
+Bangladesh,South-East Asia,2023-07-28,61.0,2044301,1.0,29472
+Bangladesh,South-East Asia,2023-07-29,50.0,2044351,0.0,29472
+Bangladesh,South-East Asia,2023-07-30,59.0,2044410,0.0,29472
+Bangladesh,South-East Asia,2023-07-31,47.0,2044457,0.0,29472
+Bangladesh,South-East Asia,2023-08-01,75.0,2044532,1.0,29473
+Bangladesh,South-East Asia,2023-08-02,32.0,2044564,0.0,29473
+Bangladesh,South-East Asia,2023-08-03,77.0,2044641,0.0,29473
+Bangladesh,South-East Asia,2023-08-04,72.0,2044713,0.0,29473
+Bangladesh,South-East Asia,2023-08-05,22.0,2044735,0.0,29473
+Bangladesh,South-East Asia,2023-08-06,44.0,2044779,1.0,29474
+Bangladesh,South-East Asia,2023-08-07,43.0,2044822,1.0,29475
+Bangladesh,South-East Asia,2023-08-08,39.0,2044861,0.0,29475
+Bangladesh,South-East Asia,2023-08-09,41.0,2044902,0.0,29475
+Bangladesh,South-East Asia,2023-08-10,35.0,2044937,0.0,29475
+Bangladesh,South-East Asia,2023-08-11,20.0,2044957,0.0,29475
+Bangladesh,South-East Asia,2023-08-12,12.0,2044969,1.0,29476
+Bangladesh,South-East Asia,2023-08-13,28.0,2044997,0.0,29476
+Bangladesh,South-East Asia,2023-08-14,43.0,2045040,0.0,29476
+Bangladesh,South-East Asia,2023-08-15,37.0,2045077,0.0,29476
+Bangladesh,South-East Asia,2023-08-16,26.0,2045103,0.0,29476
+Bangladesh,South-East Asia,2023-08-17,17.0,2045120,0.0,29476
+Bangladesh,South-East Asia,2023-08-18,12.0,2045132,0.0,29476
+Bangladesh,South-East Asia,2023-08-19,14.0,2045146,0.0,29476
+Bangladesh,South-East Asia,2023-08-20,13.0,2045159,0.0,29476
+Bangladesh,South-East Asia,2023-08-21,27.0,2045186,0.0,29476
+Bangladesh,South-East Asia,2023-08-22,21.0,2045207,0.0,29476
+Bangladesh,South-East Asia,2023-08-23,23.0,2045230,0.0,29476
+Bangladesh,South-East Asia,2023-08-24,12.0,2045242,0.0,29476
+Bangladesh,South-East Asia,2023-08-25,13.0,2045255,0.0,29476
+Bangladesh,South-East Asia,2023-08-26,9.0,2045264,0.0,29476
+Bangladesh,South-East Asia,2023-08-27,22.0,2045286,0.0,29476
+Bangladesh,South-East Asia,2023-08-28,21.0,2045307,0.0,29476
+Bangladesh,South-East Asia,2023-08-29,13.0,2045320,0.0,29476
+Bangladesh,South-East Asia,2023-08-30,14.0,2045334,0.0,29476
+Bangladesh,South-East Asia,2023-08-31,18.0,2045352,0.0,29476
+Bangladesh,South-East Asia,2023-09-01,25.0,2045377,0.0,29476
+Bangladesh,South-East Asia,2023-09-02,9.0,2045386,0.0,29476
+Bangladesh,South-East Asia,2023-09-03,22.0,2045408,1.0,29477
+Bangladesh,South-East Asia,2023-09-04,14.0,2045422,0.0,29477
+Bangladesh,South-East Asia,2023-09-05,11.0,2045433,0.0,29477
+Bangladesh,South-East Asia,2023-09-06,16.0,2045449,0.0,29477
+Bangladesh,South-East Asia,2023-09-07,22.0,2045471,0.0,29477
+Bangladesh,South-East Asia,2023-09-08,16.0,2045487,0.0,29477
+Bangladesh,South-East Asia,2023-09-09,13.0,2045500,0.0,29477
+Bangladesh,South-East Asia,2023-09-10,17.0,2045517,0.0,29477
+Bangladesh,South-East Asia,2023-09-11,13.0,2045530,0.0,29477
+Bangladesh,South-East Asia,2023-09-12,7.0,2045537,0.0,29477
+Bangladesh,South-East Asia,2023-09-13,18.0,2045555,0.0,29477
+Bangladesh,South-East Asia,2023-09-14,11.0,2045566,0.0,29477
+Bangladesh,South-East Asia,2023-09-15,8.0,2045574,0.0,29477
+Bangladesh,South-East Asia,2023-09-16,19.0,2045593,0.0,29477
+Bangladesh,South-East Asia,2023-09-17,9.0,2045602,0.0,29477
+Bangladesh,South-East Asia,2023-09-18,10.0,2045612,0.0,29477
+Bangladesh,South-East Asia,2023-09-19,12.0,2045624,0.0,29477
+Bangladesh,South-East Asia,2023-09-20,9.0,2045633,0.0,29477
+Bangladesh,South-East Asia,2023-09-21,9.0,2045642,0.0,29477
+Bangladesh,South-East Asia,2023-09-22,10.0,2045652,0.0,29477
+Bangladesh,South-East Asia,2023-09-23,9.0,2045661,0.0,29477
+Bangladesh,South-East Asia,2023-09-24,10.0,2045671,0.0,29477
+Bangladesh,South-East Asia,2023-09-25,9.0,2045680,0.0,29477
+Bangladesh,South-East Asia,2023-09-26,7.0,2045687,0.0,29477
+Bangladesh,South-East Asia,2023-09-27,11.0,2045698,0.0,29477
+Bangladesh,South-East Asia,2023-09-28,8.0,2045706,0.0,29477
+Bangladesh,South-East Asia,2023-09-29,15.0,2045721,0.0,29477
+Bangladesh,South-East Asia,2023-09-30,8.0,2045729,0.0,29477
+Bangladesh,South-East Asia,2023-10-01,5.0,2045734,0.0,29477
+Bangladesh,South-East Asia,2023-10-02,7.0,2045741,0.0,29477
+Bangladesh,South-East Asia,2023-10-03,8.0,2045749,0.0,29477
+Bangladesh,South-East Asia,2023-10-04,5.0,2045754,0.0,29477
+Bangladesh,South-East Asia,2023-10-05,8.0,2045762,0.0,29477
+Bangladesh,South-East Asia,2023-10-06,7.0,2045769,0.0,29477
+Bangladesh,South-East Asia,2023-10-07,11.0,2045780,0.0,29477
+Bangladesh,South-East Asia,2023-10-08,9.0,2045789,0.0,29477
+Bangladesh,South-East Asia,2023-10-09,14.0,2045803,0.0,29477
+Bangladesh,South-East Asia,2023-10-10,9.0,2045812,0.0,29477
+Bangladesh,South-East Asia,2023-10-11,7.0,2045819,0.0,29477
+Bangladesh,South-East Asia,2023-10-12,9.0,2045828,0.0,29477
+Bangladesh,South-East Asia,2023-10-13,5.0,2045833,0.0,29477
+Bangladesh,South-East Asia,2023-10-14,5.0,2045838,0.0,29477
+Bangladesh,South-East Asia,2023-10-15,5.0,2045843,0.0,29477
+Bangladesh,South-East Asia,2023-10-16,9.0,2045852,0.0,29477
+Bangladesh,South-East Asia,2023-10-17,6.0,2045858,0.0,29477
+Bangladesh,South-East Asia,2023-10-18,7.0,2045865,0.0,29477
+Bangladesh,South-East Asia,2023-10-19,7.0,2045872,0.0,29477
+Bangladesh,South-East Asia,2023-10-20,8.0,2045880,0.0,29477
+Bangladesh,South-East Asia,2023-10-21,5.0,2045885,0.0,29477
+Bangladesh,South-East Asia,2023-10-22,7.0,2045892,0.0,29477
+Bangladesh,South-East Asia,2023-10-23,6.0,2045898,0.0,29477
+Bangladesh,South-East Asia,2023-10-24,4.0,2045902,0.0,29477
+Bangladesh,South-East Asia,2023-10-25,4.0,2045906,0.0,29477
+Bangladesh,South-East Asia,2023-10-26,5.0,2045911,0.0,29477
+Bangladesh,South-East Asia,2023-10-27,4.0,2045915,0.0,29477
+Bangladesh,South-East Asia,2023-10-28,5.0,2045920,0.0,29477
+Bangladesh,South-East Asia,2023-10-29,3.0,2045923,0.0,29477
+Bangladesh,South-East Asia,2023-10-30,5.0,2045928,0.0,29477
+Bangladesh,South-East Asia,2023-10-31,5.0,2045933,0.0,29477
+Bangladesh,South-East Asia,2023-11-01,7.0,2045940,0.0,29477
+Bangladesh,South-East Asia,2023-11-02,6.0,2045946,0.0,29477
+Bangladesh,South-East Asia,2023-11-03,3.0,2045949,0.0,29477
+Bangladesh,South-East Asia,2023-11-04,5.0,2045954,0.0,29477
+Bangladesh,South-East Asia,2023-11-05,4.0,2045958,0.0,29477
+Bangladesh,South-East Asia,2023-11-06,6.0,2045964,0.0,29477
+Bangladesh,South-East Asia,2023-11-07,4.0,2045968,0.0,29477
+Bangladesh,South-East Asia,2023-11-08,5.0,2045973,0.0,29477
+Bangladesh,South-East Asia,2023-11-09,6.0,2045979,0.0,29477
+Bangladesh,South-East Asia,2023-11-10,5.0,2045984,0.0,29477
+Bangladesh,South-East Asia,2023-11-11,5.0,2045989,0.0,29477
+Bangladesh,South-East Asia,2023-11-12,3.0,2045992,0.0,29477
+Bangladesh,South-East Asia,2023-11-13,6.0,2045998,0.0,29477
+Bangladesh,South-East Asia,2023-11-14,5.0,2046003,0.0,29477
+Bangladesh,South-East Asia,2023-11-15,4.0,2046007,0.0,29477
+Bangladesh,South-East Asia,2023-11-16,7.0,2046014,0.0,29477
+Bangladesh,South-East Asia,2023-11-17,4.0,2046018,0.0,29477
+Bangladesh,South-East Asia,2023-11-18,4.0,2046022,0.0,29477
+Bangladesh,South-East Asia,2023-11-19,4.0,2046026,0.0,29477
+Bangladesh,South-East Asia,2023-11-20,5.0,2046031,0.0,29477
+Bangladesh,South-East Asia,2023-11-21,7.0,2046038,0.0,29477
+Bangladesh,South-East Asia,2023-11-22,6.0,2046044,0.0,29477
+Bangladesh,South-East Asia,2023-11-23,4.0,2046048,0.0,29477
+Bangladesh,South-East Asia,2023-11-24,3.0,2046051,0.0,29477
+Bangladesh,South-East Asia,2023-11-25,5.0,2046056,0.0,29477
+Bangladesh,South-East Asia,2023-11-26,4.0,2046060,0.0,29477
+Bangladesh,South-East Asia,2023-11-27,8.0,2046068,0.0,29477
+Bangladesh,South-East Asia,2023-11-28,4.0,2046072,0.0,29477
+Bangladesh,South-East Asia,2023-11-29,4.0,2046076,0.0,29477
+Bangladesh,South-East Asia,2023-11-30,3.0,2046079,0.0,29477
+Bangladesh,South-East Asia,2023-12-01,3.0,2046082,0.0,29477
+Bangladesh,South-East Asia,2023-12-02,4.0,2046086,0.0,29477
+Bangladesh,South-East Asia,2023-12-03,4.0,2046090,0.0,29477
+Bangladesh,South-East Asia,2023-12-04,5.0,2046095,0.0,29477
+Bangladesh,South-East Asia,2023-12-05,5.0,2046100,0.0,29477
+Bangladesh,South-East Asia,2023-12-06,8.0,2046108,0.0,29477
+Bangladesh,South-East Asia,2023-12-07,9.0,2046117,0.0,29477
+Bangladesh,South-East Asia,2023-12-08,5.0,2046122,0.0,29477
+Bangladesh,South-East Asia,2023-12-09,6.0,2046128,0.0,29477
+Bangladesh,South-East Asia,2023-12-10,5.0,2046133,0.0,29477
+Bangladesh,South-East Asia,2023-12-11,5.0,2046138,0.0,29477
+Bangladesh,South-East Asia,2023-12-12,6.0,2046144,0.0,29477
+Bangladesh,South-East Asia,2023-12-13,5.0,2046149,0.0,29477
+Bangladesh,South-East Asia,2023-12-14,6.0,2046155,0.0,29477
+Bangladesh,South-East Asia,2023-12-15,3.0,2046158,0.0,29477
+Bangladesh,South-East Asia,2023-12-16,4.0,2046162,0.0,29477
+Bangladesh,South-East Asia,2023-12-17,3.0,2046165,0.0,29477
+Bangladesh,South-East Asia,2023-12-18,5.0,2046170,0.0,29477
+Bangladesh,South-East Asia,2023-12-19,5.0,2046175,0.0,29477
+Bangladesh,South-East Asia,2023-12-20,5.0,2046180,0.0,29477
+Bangladesh,South-East Asia,2023-12-21,8.0,2046188,0.0,29477
+Bangladesh,South-East Asia,2023-12-22,4.0,2046192,0.0,29477
+Bangladesh,South-East Asia,2023-12-23,5.0,2046197,0.0,29477
+Bangladesh,South-East Asia,2023-12-24,10.0,2046207,0.0,29477
+Bangladesh,South-East Asia,2023-12-25,11.0,2046218,0.0,29477
+Bangladesh,South-East Asia,2023-12-26,5.0,2046223,0.0,29477
+Bangladesh,South-East Asia,2023-12-27,14.0,2046237,0.0,29477
+Bangladesh,South-East Asia,2023-12-28,19.0,2046256,0.0,29477
+Bangladesh,South-East Asia,2023-12-29,7.0,2046263,0.0,29477
+Bangladesh,South-East Asia,2023-12-30,11.0,2046274,0.0,29477
+Bangladesh,South-East Asia,2023-12-31,18.0,2046292,0.0,29477
+Bhutan,South-East Asia,2023-01-01,7.0,62538,0.0,21
+Bhutan,South-East Asia,2023-01-02,0.0,62538,0.0,21
+Bhutan,South-East Asia,2023-01-03,0.0,62538,0.0,21
+Bhutan,South-East Asia,2023-01-04,0.0,62538,0.0,21
+Bhutan,South-East Asia,2023-01-05,0.0,62538,0.0,21
+Bhutan,South-East Asia,2023-01-06,0.0,62538,0.0,21
+Bhutan,South-East Asia,2023-01-07,0.0,62538,0.0,21
+Bhutan,South-East Asia,2023-01-08,13.0,62551,0.0,21
+Bhutan,South-East Asia,2023-01-09,0.0,62551,0.0,21
+Bhutan,South-East Asia,2023-01-10,0.0,62551,0.0,21
+Bhutan,South-East Asia,2023-01-11,0.0,62551,0.0,21
+Bhutan,South-East Asia,2023-01-12,0.0,62551,0.0,21
+Bhutan,South-East Asia,2023-01-13,0.0,62551,0.0,21
+Bhutan,South-East Asia,2023-01-14,0.0,62551,0.0,21
+Bhutan,South-East Asia,2023-01-15,26.0,62577,0.0,21
+Bhutan,South-East Asia,2023-01-16,0.0,62577,0.0,21
+Bhutan,South-East Asia,2023-01-17,0.0,62577,0.0,21
+Bhutan,South-East Asia,2023-01-18,0.0,62577,0.0,21
+Bhutan,South-East Asia,2023-01-19,0.0,62577,0.0,21
+Bhutan,South-East Asia,2023-01-20,0.0,62577,0.0,21
+Bhutan,South-East Asia,2023-01-21,0.0,62577,0.0,21
+Bhutan,South-East Asia,2023-01-22,21.0,62598,0.0,21
+Bhutan,South-East Asia,2023-01-23,0.0,62598,0.0,21
+Bhutan,South-East Asia,2023-01-24,0.0,62598,0.0,21
+Bhutan,South-East Asia,2023-01-25,0.0,62598,0.0,21
+Bhutan,South-East Asia,2023-01-26,0.0,62598,0.0,21
+Bhutan,South-East Asia,2023-01-27,0.0,62598,0.0,21
+Bhutan,South-East Asia,2023-01-28,0.0,62598,0.0,21
+Bhutan,South-East Asia,2023-01-29,7.0,62605,0.0,21
+Bhutan,South-East Asia,2023-01-30,0.0,62605,0.0,21
+Bhutan,South-East Asia,2023-01-31,0.0,62605,0.0,21
+Bhutan,South-East Asia,2023-02-01,0.0,62605,0.0,21
+Bhutan,South-East Asia,2023-02-02,0.0,62605,0.0,21
+Bhutan,South-East Asia,2023-02-03,0.0,62605,0.0,21
+Bhutan,South-East Asia,2023-02-04,0.0,62605,0.0,21
+Bhutan,South-East Asia,2023-02-05,3.0,62608,0.0,21
+Bhutan,South-East Asia,2023-02-06,0.0,62608,0.0,21
+Bhutan,South-East Asia,2023-02-07,0.0,62608,0.0,21
+Bhutan,South-East Asia,2023-02-08,0.0,62608,0.0,21
+Bhutan,South-East Asia,2023-02-09,0.0,62608,0.0,21
+Bhutan,South-East Asia,2023-02-10,0.0,62608,0.0,21
+Bhutan,South-East Asia,2023-02-11,0.0,62608,0.0,21
+Bhutan,South-East Asia,2023-02-12,3.0,62611,0.0,21
+Bhutan,South-East Asia,2023-02-13,0.0,62611,0.0,21
+Bhutan,South-East Asia,2023-02-14,0.0,62611,0.0,21
+Bhutan,South-East Asia,2023-02-15,0.0,62611,0.0,21
+Bhutan,South-East Asia,2023-02-16,0.0,62611,0.0,21
+Bhutan,South-East Asia,2023-02-17,0.0,62611,0.0,21
+Bhutan,South-East Asia,2023-02-18,0.0,62611,0.0,21
+Bhutan,South-East Asia,2023-02-19,4.0,62615,0.0,21
+Bhutan,South-East Asia,2023-02-20,0.0,62615,0.0,21
+Bhutan,South-East Asia,2023-02-21,0.0,62615,0.0,21
+Bhutan,South-East Asia,2023-02-22,0.0,62615,0.0,21
+Bhutan,South-East Asia,2023-02-23,0.0,62615,0.0,21
+Bhutan,South-East Asia,2023-02-24,0.0,62615,0.0,21
+Bhutan,South-East Asia,2023-02-25,0.0,62615,0.0,21
+Bhutan,South-East Asia,2023-02-26,5.0,62620,0.0,21
+Bhutan,South-East Asia,2023-02-27,0.0,62620,0.0,21
+Bhutan,South-East Asia,2023-02-28,0.0,62620,0.0,21
+Bhutan,South-East Asia,2023-03-01,0.0,62620,0.0,21
+Bhutan,South-East Asia,2023-03-02,0.0,62620,0.0,21
+Bhutan,South-East Asia,2023-03-03,0.0,62620,0.0,21
+Bhutan,South-East Asia,2023-03-04,0.0,62620,0.0,21
+Bhutan,South-East Asia,2023-03-05,7.0,62627,0.0,21
+Bhutan,South-East Asia,2023-03-06,0.0,62627,0.0,21
+Bhutan,South-East Asia,2023-03-07,0.0,62627,0.0,21
+Bhutan,South-East Asia,2023-03-08,0.0,62627,0.0,21
+Bhutan,South-East Asia,2023-03-09,0.0,62627,0.0,21
+Bhutan,South-East Asia,2023-03-10,0.0,62627,0.0,21
+Bhutan,South-East Asia,2023-03-11,0.0,62627,0.0,21
+Bhutan,South-East Asia,2023-03-12,10.0,62637,0.0,21
+Bhutan,South-East Asia,2023-03-13,0.0,62637,0.0,21
+Bhutan,South-East Asia,2023-03-14,0.0,62637,0.0,21
+Bhutan,South-East Asia,2023-03-15,0.0,62637,0.0,21
+Bhutan,South-East Asia,2023-03-16,0.0,62637,0.0,21
+Bhutan,South-East Asia,2023-03-17,0.0,62637,0.0,21
+Bhutan,South-East Asia,2023-03-18,0.0,62637,0.0,21
+Bhutan,South-East Asia,2023-03-19,10.0,62647,0.0,21
+Bhutan,South-East Asia,2023-03-20,0.0,62647,0.0,21
+Bhutan,South-East Asia,2023-03-21,0.0,62647,0.0,21
+Bhutan,South-East Asia,2023-03-22,0.0,62647,0.0,21
+Bhutan,South-East Asia,2023-03-23,0.0,62647,0.0,21
+Bhutan,South-East Asia,2023-03-24,0.0,62647,0.0,21
+Bhutan,South-East Asia,2023-03-25,0.0,62647,0.0,21
+Bhutan,South-East Asia,2023-03-26,1.0,62648,0.0,21
+Bhutan,South-East Asia,2023-03-27,0.0,62648,0.0,21
+Bhutan,South-East Asia,2023-03-28,0.0,62648,0.0,21
+Bhutan,South-East Asia,2023-03-29,0.0,62648,0.0,21
+Bhutan,South-East Asia,2023-03-30,0.0,62648,0.0,21
+Bhutan,South-East Asia,2023-03-31,0.0,62648,0.0,21
+Bhutan,South-East Asia,2023-04-01,0.0,62648,0.0,21
+Bhutan,South-East Asia,2023-04-02,1.0,62649,0.0,21
+Bhutan,South-East Asia,2023-04-03,0.0,62649,0.0,21
+Bhutan,South-East Asia,2023-04-04,0.0,62649,0.0,21
+Bhutan,South-East Asia,2023-04-05,0.0,62649,0.0,21
+Bhutan,South-East Asia,2023-04-06,0.0,62649,0.0,21
+Bhutan,South-East Asia,2023-04-07,0.0,62649,0.0,21
+Bhutan,South-East Asia,2023-04-08,0.0,62649,0.0,21
+Bhutan,South-East Asia,2023-04-09,1.0,62650,0.0,21
+Bhutan,South-East Asia,2023-04-10,0.0,62650,0.0,21
+Bhutan,South-East Asia,2023-04-11,0.0,62650,0.0,21
+Bhutan,South-East Asia,2023-04-12,0.0,62650,0.0,21
+Bhutan,South-East Asia,2023-04-13,0.0,62650,0.0,21
+Bhutan,South-East Asia,2023-04-14,0.0,62650,0.0,21
+Bhutan,South-East Asia,2023-04-15,0.0,62650,0.0,21
+Bhutan,South-East Asia,2023-04-16,4.0,62654,0.0,21
+Bhutan,South-East Asia,2023-04-17,0.0,62654,0.0,21
+Bhutan,South-East Asia,2023-04-18,0.0,62654,0.0,21
+Bhutan,South-East Asia,2023-04-19,0.0,62654,0.0,21
+Bhutan,South-East Asia,2023-04-20,0.0,62654,0.0,21
+Bhutan,South-East Asia,2023-04-21,0.0,62654,0.0,21
+Bhutan,South-East Asia,2023-04-22,0.0,62654,0.0,21
+Bhutan,South-East Asia,2023-04-23,9.0,62663,0.0,21
+Bhutan,South-East Asia,2023-04-24,0.0,62663,0.0,21
+Bhutan,South-East Asia,2023-04-25,0.0,62663,0.0,21
+Bhutan,South-East Asia,2023-04-26,0.0,62663,0.0,21
+Bhutan,South-East Asia,2023-04-27,0.0,62663,0.0,21
+Bhutan,South-East Asia,2023-04-28,0.0,62663,0.0,21
+Bhutan,South-East Asia,2023-04-29,0.0,62663,0.0,21
+Bhutan,South-East Asia,2023-04-30,3.0,62666,0.0,21
+Bhutan,South-East Asia,2023-05-01,0.0,62666,0.0,21
+Bhutan,South-East Asia,2023-05-02,0.0,62666,0.0,21
+Bhutan,South-East Asia,2023-05-03,0.0,62666,0.0,21
+Bhutan,South-East Asia,2023-05-04,0.0,62666,0.0,21
+Bhutan,South-East Asia,2023-05-05,0.0,62666,0.0,21
+Bhutan,South-East Asia,2023-05-06,0.0,62666,0.0,21
+Bhutan,South-East Asia,2023-05-07,2.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-08,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-09,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-10,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-11,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-12,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-13,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-14,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-15,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-16,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-17,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-18,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-19,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-20,0.0,62668,0.0,21
+Bhutan,South-East Asia,2023-05-21,2.0,62670,0.0,21
+Bhutan,South-East Asia,2023-05-22,0.0,62670,0.0,21
+Bhutan,South-East Asia,2023-05-23,0.0,62670,0.0,21
+Bhutan,South-East Asia,2023-05-24,0.0,62670,0.0,21
+Bhutan,South-East Asia,2023-05-25,0.0,62670,0.0,21
+Bhutan,South-East Asia,2023-05-26,0.0,62670,0.0,21
+Bhutan,South-East Asia,2023-05-27,0.0,62670,0.0,21
+Bhutan,South-East Asia,2023-05-28,1.0,62671,0.0,21
+Bhutan,South-East Asia,2023-05-29,0.0,62671,0.0,21
+Bhutan,South-East Asia,2023-05-30,0.0,62671,0.0,21
+Bhutan,South-East Asia,2023-05-31,0.0,62671,0.0,21
+Bhutan,South-East Asia,2023-06-01,0.0,62671,0.0,21
+Bhutan,South-East Asia,2023-06-02,0.0,62671,0.0,21
+Bhutan,South-East Asia,2023-06-03,0.0,62671,0.0,21
+Bhutan,South-East Asia,2023-06-04,1.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-05,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-06,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-07,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-08,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-09,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-10,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-11,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-12,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-13,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-14,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-15,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-16,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-17,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-18,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-19,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-20,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-21,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-22,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-23,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-24,0.0,62672,0.0,21
+Bhutan,South-East Asia,2023-06-25,1.0,62673,0.0,21
+Bhutan,South-East Asia,2023-06-26,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-06-27,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-06-28,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-06-29,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-06-30,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-07-01,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-07-02,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-07-03,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-07-04,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-07-05,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-07-06,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-07-07,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-07-08,0.0,62673,0.0,21
+Bhutan,South-East Asia,2023-07-09,10.0,62683,0.0,21
+Bhutan,South-East Asia,2023-07-10,0.0,62683,0.0,21
+Bhutan,South-East Asia,2023-07-11,0.0,62683,0.0,21
+Bhutan,South-East Asia,2023-07-12,0.0,62683,0.0,21
+Bhutan,South-East Asia,2023-07-13,0.0,62683,0.0,21
+Bhutan,South-East Asia,2023-07-14,0.0,62683,0.0,21
+Bhutan,South-East Asia,2023-07-15,0.0,62683,0.0,21
+Bhutan,South-East Asia,2023-07-16,7.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-17,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-18,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-19,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-20,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-21,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-22,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-23,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-24,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-25,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-26,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-27,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-28,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-29,0.0,62690,0.0,21
+Bhutan,South-East Asia,2023-07-30,1.0,62691,0.0,21
+Bhutan,South-East Asia,2023-07-31,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-01,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-02,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-03,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-04,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-05,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-06,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-07,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-08,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-09,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-10,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-11,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-12,0.0,62691,0.0,21
+Bhutan,South-East Asia,2023-08-13,3.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-14,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-15,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-16,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-17,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-18,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-19,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-20,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-21,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-22,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-23,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-24,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-25,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-26,0.0,62694,0.0,21
+Bhutan,South-East Asia,2023-08-27,3.0,62697,0.0,21
+Bhutan,South-East Asia,2023-08-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-08-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-08-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-08-31,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-09-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-10-31,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-11-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-01,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-02,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-03,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-04,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-05,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-06,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-07,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-08,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-09,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-10,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-11,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-12,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-13,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-14,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-15,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-16,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-17,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-18,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-19,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-20,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-21,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-22,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-23,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-24,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-25,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-26,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-27,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-28,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-29,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-30,0.0,62697,0.0,21
+Bhutan,South-East Asia,2023-12-31,0.0,62697,0.0,21
+India,South-East Asia,2023-01-01,265.0,44678649,3.0,530705
+India,South-East Asia,2023-01-02,173.0,44678822,2.0,530707
+India,South-East Asia,2023-01-03,134.0,44678956,0.0,530707
+India,South-East Asia,2023-01-04,175.0,44679131,0.0,530707
+India,South-East Asia,2023-01-05,188.0,44679319,3.0,530710
+India,South-East Asia,2023-01-06,228.0,44679547,4.0,530714
+India,South-East Asia,2023-01-07,214.0,44679761,4.0,530718
+India,South-East Asia,2023-01-08,163.0,44679924,2.0,530720
+India,South-East Asia,2023-01-09,170.0,44680094,1.0,530721
+India,South-East Asia,2023-01-10,121.0,44680215,1.0,530722
+India,South-East Asia,2023-01-11,171.0,44680386,0.0,530722
+India,South-East Asia,2023-01-12,197.0,44680583,1.0,530723
+India,South-East Asia,2023-01-13,174.0,44680757,2.0,530725
+India,South-East Asia,2023-01-14,179.0,44680936,1.0,530726
+India,South-East Asia,2023-01-15,104.0,44681040,0.0,530726
+India,South-East Asia,2023-01-16,114.0,44681154,0.0,530726
+India,South-East Asia,2023-01-17,79.0,44681233,0.0,530726
+India,South-East Asia,2023-01-18,138.0,44681371,2.0,530728
+India,South-East Asia,2023-01-19,134.0,44681505,0.0,530728
+India,South-East Asia,2023-01-20,145.0,44681650,0.0,530728
+India,South-East Asia,2023-01-21,131.0,44681781,2.0,530730
+India,South-East Asia,2023-01-22,140.0,44681921,3.0,530733
+India,South-East Asia,2023-01-23,94.0,44682015,2.0,530735
+India,South-East Asia,2023-01-24,89.0,44682104,2.0,530737
+India,South-East Asia,2023-01-25,102.0,44682206,0.0,530737
+India,South-East Asia,2023-01-26,132.0,44682338,1.0,530738
+India,South-East Asia,2023-01-27,99.0,44682437,1.0,530739
+India,South-East Asia,2023-01-28,93.0,44682530,0.0,530739
+India,South-East Asia,2023-01-29,109.0,44682639,1.0,530740
+India,South-East Asia,2023-01-30,80.0,44682719,0.0,530740
+India,South-East Asia,2023-01-31,65.0,44682784,0.0,530740
+India,South-East Asia,2023-02-01,111.0,44682895,0.0,530740
+India,South-East Asia,2023-02-02,128.0,44683023,1.0,530741
+India,South-East Asia,2023-02-03,99.0,44683122,0.0,530741
+India,South-East Asia,2023-02-04,128.0,44683250,0.0,530741
+India,South-East Asia,2023-02-05,113.0,44683363,4.0,530745
+India,South-East Asia,2023-02-06,91.0,44683454,0.0,530745
+India,South-East Asia,2023-02-07,89.0,44683543,0.0,530745
+India,South-East Asia,2023-02-08,96.0,44683639,1.0,530746
+India,South-East Asia,2023-02-09,109.0,44683748,2.0,530748
+India,South-East Asia,2023-02-10,114.0,44683862,2.0,530750
+India,South-East Asia,2023-02-11,132.0,44683994,0.0,530750
+India,South-East Asia,2023-02-12,124.0,44684118,0.0,530750
+India,South-East Asia,2023-02-13,79.0,44684197,0.0,530750
+India,South-East Asia,2023-02-14,77.0,44684274,3.0,530753
+India,South-East Asia,2023-02-15,102.0,44684376,3.0,530756
+India,South-East Asia,2023-02-16,126.0,44684502,1.0,530757
+India,South-East Asia,2023-02-17,156.0,44684658,0.0,530757
+India,South-East Asia,2023-02-18,117.0,44684775,0.0,530757
+India,South-East Asia,2023-02-19,142.0,44684917,3.0,530760
+India,South-East Asia,2023-02-20,120.0,44685037,1.0,530761
+India,South-East Asia,2023-02-21,95.0,44685132,0.0,530761
+India,South-East Asia,2023-02-22,125.0,44685257,1.0,530762
+India,South-East Asia,2023-02-23,193.0,44685450,1.0,530763
+India,South-East Asia,2023-02-24,169.0,44685619,1.0,530764
+India,South-East Asia,2023-02-25,180.0,44685799,0.0,530764
+India,South-East Asia,2023-02-26,218.0,44686017,5.0,530769
+India,South-East Asia,2023-02-27,185.0,44686202,1.0,530770
+India,South-East Asia,2023-02-28,169.0,44686371,1.0,530771
+India,South-East Asia,2023-03-01,240.0,44686611,1.0,530772
+India,South-East Asia,2023-03-02,268.0,44686879,0.0,530772
+India,South-East Asia,2023-03-03,283.0,44687162,0.0,530772
+India,South-East Asia,2023-03-04,334.0,44687496,3.0,530775
+India,South-East Asia,2023-03-05,324.0,44687820,0.0,530775
+India,South-East Asia,2023-03-06,281.0,44688101,0.0,530775
+India,South-East Asia,2023-03-07,266.0,44688367,0.0,530775
+India,South-East Asia,2023-03-08,326.0,44688693,0.0,530775
+India,South-East Asia,2023-03-09,379.0,44689072,1.0,530776
+India,South-East Asia,2023-03-10,440.0,44689512,3.0,530779
+India,South-East Asia,2023-03-11,456.0,44689968,1.0,530780
+India,South-East Asia,2023-03-12,524.0,44690492,1.0,530781
+India,South-East Asia,2023-03-13,444.0,44690936,1.0,530782
+India,South-East Asia,2023-03-14,402.0,44691338,2.0,530784
+India,South-East Asia,2023-03-15,618.0,44691956,5.0,530789
+India,South-East Asia,2023-03-16,754.0,44692710,1.0,530790
+India,South-East Asia,2023-03-17,796.0,44693506,5.0,530795
+India,South-East Asia,2023-03-18,843.0,44694349,4.0,530799
+India,South-East Asia,2023-03-19,1071.0,44695420,3.0,530802
+India,South-East Asia,2023-03-20,918.0,44696338,4.0,530806
+India,South-East Asia,2023-03-21,646.0,44696984,2.0,530808
+India,South-East Asia,2023-03-22,1134.0,44698118,5.0,530813
+India,South-East Asia,2023-03-23,1300.0,44699418,3.0,530816
+India,South-East Asia,2023-03-24,1249.0,44700667,2.0,530818
+India,South-East Asia,2023-03-25,1590.0,44702257,6.0,530824
+India,South-East Asia,2023-03-26,1890.0,44704147,7.0,530831
+India,South-East Asia,2023-03-27,1805.0,44705952,6.0,530837
+India,South-East Asia,2023-03-28,1573.0,44707525,4.0,530841
+India,South-East Asia,2023-03-29,2151.0,44709676,7.0,530848
+India,South-East Asia,2023-03-30,3016.0,44712692,14.0,530862
+India,South-East Asia,2023-03-31,3094.0,44715786,5.0,530867
+India,South-East Asia,2023-04-01,2995.0,44718781,9.0,530876
+India,South-East Asia,2023-04-02,3824.0,44722605,5.0,530881
+India,South-East Asia,2023-04-03,3641.0,44726246,11.0,530892
+India,South-East Asia,2023-04-04,3038.0,44729284,9.0,530901
+India,South-East Asia,2023-04-05,4435.0,44733719,15.0,530916
+India,South-East Asia,2023-04-06,5335.0,44739054,13.0,530929
+India,South-East Asia,2023-04-07,6050.0,44745104,14.0,530943
+India,South-East Asia,2023-04-08,6155.0,44751259,11.0,530954
+India,South-East Asia,2023-04-09,5357.0,44756616,11.0,530965
+India,South-East Asia,2023-04-10,5880.0,44762496,14.0,530979
+India,South-East Asia,2023-04-11,5676.0,44768172,21.0,531000
+India,South-East Asia,2023-04-12,7830.0,44776002,16.0,531016
+India,South-East Asia,2023-04-13,10158.0,44786160,19.0,531035
+India,South-East Asia,2023-04-14,11109.0,44797269,29.0,531064
+India,South-East Asia,2023-04-15,10753.0,44808022,27.0,531091
+India,South-East Asia,2023-04-16,10093.0,44818115,23.0,531114
+India,South-East Asia,2023-04-17,9111.0,44827226,27.0,531141
+India,South-East Asia,2023-04-18,7633.0,44834859,11.0,531152
+India,South-East Asia,2023-04-19,10542.0,44845401,38.0,531190
+India,South-East Asia,2023-04-20,12591.0,44857992,40.0,531230
+India,South-East Asia,2023-04-21,11692.0,44869684,28.0,531258
+India,South-East Asia,2023-04-22,12193.0,44881877,42.0,531300
+India,South-East Asia,2023-04-23,10112.0,44891989,29.0,531329
+India,South-East Asia,2023-04-24,6904.0,44898893,16.0,531345
+India,South-East Asia,2023-04-25,6934.0,44905827,24.0,531369
+India,South-East Asia,2023-04-26,9629.0,44915456,29.0,531398
+India,South-East Asia,2023-04-27,9355.0,44924811,26.0,531424
+India,South-East Asia,2023-04-28,7533.0,44932344,44.0,531468
+India,South-East Asia,2023-04-29,7171.0,44939515,40.0,531508
+India,South-East Asia,2023-04-30,5874.0,44945389,25.0,531533
+India,South-East Asia,2023-05-01,4282.0,44949671,14.0,531547
+India,South-East Asia,2023-05-02,3325.0,44952996,17.0,531564
+India,South-East Asia,2023-05-03,3720.0,44956716,20.0,531584
+India,South-East Asia,2023-05-04,3962.0,44960678,22.0,531606
+India,South-East Asia,2023-05-05,3611.0,44964289,36.0,531642
+India,South-East Asia,2023-05-06,2961.0,44967250,17.0,531659
+India,South-East Asia,2023-05-07,2380.0,44969630,21.0,531680
+India,South-East Asia,2023-05-08,1839.0,44971469,12.0,531692
+India,South-East Asia,2023-05-09,1331.0,44972800,15.0,531707
+India,South-East Asia,2023-05-10,2109.0,44974909,15.0,531722
+India,South-East Asia,2023-05-11,1690.0,44976599,14.0,531736
+India,South-East Asia,2023-05-12,1580.0,44978179,17.0,531753
+India,South-East Asia,2023-05-13,1223.0,44979402,14.0,531767
+India,South-East Asia,2023-05-14,1272.0,44980674,3.0,531770
+India,South-East Asia,2023-05-15,801.0,44981475,8.0,531778
+India,South-East Asia,2023-05-16,656.0,44982131,12.0,531790
+India,South-East Asia,2023-05-17,1021.0,44983152,4.0,531794
+India,South-East Asia,2023-05-18,906.0,44984058,20.0,531814
+India,South-East Asia,2023-05-19,865.0,44984923,4.0,531818
+India,South-East Asia,2023-05-20,782.0,44985705,6.0,531824
+India,South-East Asia,2023-05-21,756.0,44986461,8.0,531832
+India,South-East Asia,2023-05-22,473.0,44986934,7.0,531839
+India,South-East Asia,2023-05-23,405.0,44987339,4.0,531843
+India,South-East Asia,2023-05-24,552.0,44987891,6.0,531849
+India,South-East Asia,2023-05-25,535.0,44988426,5.0,531854
+India,South-East Asia,2023-05-26,490.0,44988916,2.0,531856
+India,South-East Asia,2023-05-27,425.0,44989341,3.0,531859
+India,South-East Asia,2023-05-28,403.0,44989744,5.0,531864
+India,South-East Asia,2023-05-29,310.0,44990054,2.0,531866
+India,South-East Asia,2023-05-30,224.0,44990278,1.0,531867
+India,South-East Asia,2023-05-31,310.0,44990588,3.0,531870
+India,South-East Asia,2023-06-01,288.0,44990876,2.0,531872
+India,South-East Asia,2023-06-02,267.0,44991143,2.0,531874
+India,South-East Asia,2023-06-03,237.0,44991380,4.0,531878
+India,South-East Asia,2023-06-04,202.0,44991582,2.0,531880
+India,South-East Asia,2023-06-05,174.0,44991756,2.0,531882
+India,South-East Asia,2023-06-06,124.0,44991880,2.0,531884
+India,South-East Asia,2023-06-07,214.0,44992094,0.0,531884
+India,South-East Asia,2023-06-08,199.0,44992293,2.0,531886
+India,South-East Asia,2023-06-09,169.0,44992462,2.0,531888
+India,South-East Asia,2023-06-10,186.0,44992648,0.0,531888
+India,South-East Asia,2023-06-11,140.0,44992788,3.0,531891
+India,South-East Asia,2023-06-12,92.0,44992880,0.0,531891
+India,South-East Asia,2023-06-13,80.0,44992960,1.0,531892
+India,South-East Asia,2023-06-14,120.0,44993080,0.0,531892
+India,South-East Asia,2023-06-15,106.0,44993186,1.0,531893
+India,South-East Asia,2023-06-16,96.0,44993282,0.0,531893
+India,South-East Asia,2023-06-17,108.0,44993390,0.0,531893
+India,South-East Asia,2023-06-18,90.0,44993480,2.0,531895
+India,South-East Asia,2023-06-19,63.0,44993543,1.0,531896
+India,South-East Asia,2023-06-20,36.0,44993579,1.0,531897
+India,South-East Asia,2023-06-21,92.0,44993671,1.0,531898
+India,South-East Asia,2023-06-22,95.0,44993766,2.0,531900
+India,South-East Asia,2023-06-23,51.0,44993817,2.0,531902
+India,South-East Asia,2023-06-24,55.0,44993872,1.0,531903
+India,South-East Asia,2023-06-25,80.0,44993952,0.0,531903
+India,South-East Asia,2023-06-26,47.0,44993999,0.0,531903
+India,South-East Asia,2023-06-27,33.0,44994032,0.0,531903
+India,South-East Asia,2023-06-28,65.0,44994097,2.0,531905
+India,South-East Asia,2023-06-29,47.0,44994144,0.0,531905
+India,South-East Asia,2023-06-30,44.0,44994188,0.0,531905
+India,South-East Asia,2023-07-01,40.0,44994228,1.0,531906
+India,South-East Asia,2023-07-02,53.0,44994281,1.0,531907
+India,South-East Asia,2023-07-03,44.0,44994325,1.0,531908
+India,South-East Asia,2023-07-04,26.0,44994351,0.0,531908
+India,South-East Asia,2023-07-05,56.0,44994407,2.0,531910
+India,South-East Asia,2023-07-06,42.0,44994449,0.0,531910
+India,South-East Asia,2023-07-07,45.0,44994494,2.0,531912
+India,South-East Asia,2023-07-08,49.0,44994543,0.0,531912
+India,South-East Asia,2023-07-09,32.0,44994575,1.0,531913
+India,South-East Asia,2023-07-10,24.0,44994599,0.0,531913
+India,South-East Asia,2023-07-11,20.0,44994619,0.0,531913
+India,South-East Asia,2023-07-12,46.0,44994665,0.0,531913
+India,South-East Asia,2023-07-13,48.0,44994713,0.0,531913
+India,South-East Asia,2023-07-14,52.0,44994765,1.0,531914
+India,South-East Asia,2023-07-15,54.0,44994819,0.0,531914
+India,South-East Asia,2023-07-16,59.0,44994878,1.0,531915
+India,South-East Asia,2023-07-17,43.0,44994921,0.0,531915
+India,South-East Asia,2023-07-18,34.0,44994955,0.0,531915
+India,South-East Asia,2023-07-19,49.0,44995004,0.0,531915
+India,South-East Asia,2023-07-20,51.0,44995055,0.0,531915
+India,South-East Asia,2023-07-21,109.0,44995164,0.0,531915
+India,South-East Asia,2023-07-22,60.0,44995224,0.0,531915
+India,South-East Asia,2023-07-23,40.0,44995264,0.0,531915
+India,South-East Asia,2023-07-24,47.0,44995311,0.0,531915
+India,South-East Asia,2023-07-25,21.0,44995332,0.0,531915
+India,South-East Asia,2023-07-26,60.0,44995392,0.0,531915
+India,South-East Asia,2023-07-27,42.0,44995434,0.0,531915
+India,South-East Asia,2023-07-28,52.0,44995486,0.0,531915
+India,South-East Asia,2023-07-29,50.0,44995536,0.0,531915
+India,South-East Asia,2023-07-30,52.0,44995588,1.0,531916
+India,South-East Asia,2023-07-31,41.0,44995629,1.0,531917
+India,South-East Asia,2023-08-01,36.0,44995665,0.0,531917
+India,South-East Asia,2023-08-02,60.0,44995725,0.0,531917
+India,South-East Asia,2023-08-03,77.0,44995802,1.0,531918
+India,South-East Asia,2023-08-04,54.0,44995856,0.0,531918
+India,South-East Asia,2023-08-05,77.0,44995933,0.0,531918
+India,South-East Asia,2023-08-06,47.0,44995980,0.0,531918
+India,South-East Asia,2023-08-07,54.0,44996034,0.0,531918
+India,South-East Asia,2023-08-08,25.0,44996059,0.0,531918
+India,South-East Asia,2023-08-09,53.0,44996112,0.0,531918
+India,South-East Asia,2023-08-10,39.0,44996151,2.0,531920
+India,South-East Asia,2023-08-11,47.0,44996198,0.0,531920
+India,South-East Asia,2023-08-12,38.0,44996236,0.0,531920
+India,South-East Asia,2023-08-13,38.0,44996274,1.0,531921
+India,South-East Asia,2023-08-14,39.0,44996313,0.0,531921
+India,South-East Asia,2023-08-15,22.0,44996335,1.0,531922
+India,South-East Asia,2023-08-16,58.0,44996393,0.0,531922
+India,South-East Asia,2023-08-17,33.0,44996426,2.0,531924
+India,South-East Asia,2023-08-18,50.0,44996476,0.0,531924
+India,South-East Asia,2023-08-19,72.0,44996548,1.0,531925
+India,South-East Asia,2023-08-20,51.0,44996599,0.0,531925
+India,South-East Asia,2023-08-21,54.0,44996653,1.0,531926
+India,South-East Asia,2023-08-22,23.0,44996676,0.0,531926
+India,South-East Asia,2023-08-23,56.0,44996732,0.0,531926
+India,South-East Asia,2023-08-24,54.0,44996786,0.0,531926
+India,South-East Asia,2023-08-25,73.0,44996859,1.0,531927
+India,South-East Asia,2023-08-26,60.0,44996919,1.0,531928
+India,South-East Asia,2023-08-27,44.0,44996963,0.0,531928
+India,South-East Asia,2023-08-28,70.0,44997033,1.0,531929
+India,South-East Asia,2023-08-29,23.0,44997056,0.0,531929
+India,South-East Asia,2023-08-30,61.0,44997117,0.0,531929
+India,South-East Asia,2023-08-31,50.0,44997167,1.0,531930
+India,South-East Asia,2023-09-01,49.0,44997216,0.0,531930
+India,South-East Asia,2023-09-02,50.0,44997266,93.0,532023
+India,South-East Asia,2023-09-03,60.0,44997326,0.0,532023
+India,South-East Asia,2023-09-04,46.0,44997372,0.0,532023
+India,South-East Asia,2023-09-05,28.0,44997400,0.0,532023
+India,South-East Asia,2023-09-06,66.0,44997466,1.0,532024
+India,South-East Asia,2023-09-07,71.0,44997537,0.0,532024
+India,South-East Asia,2023-09-08,46.0,44997583,0.0,532024
+India,South-East Asia,2023-09-09,59.0,44997642,1.0,532025
+India,South-East Asia,2023-09-10,68.0,44997710,2.0,532027
+India,South-East Asia,2023-09-11,70.0,44997780,0.0,532027
+India,South-East Asia,2023-09-12,40.0,44997820,0.0,532027
+India,South-East Asia,2023-09-13,97.0,44997917,1.0,532028
+India,South-East Asia,2023-09-14,58.0,44997975,1.0,532029
+India,South-East Asia,2023-09-15,60.0,44998035,0.0,532029
+India,South-East Asia,2023-09-16,72.0,44998107,0.0,532029
+India,South-East Asia,2023-09-17,55.0,44998162,1.0,532030
+India,South-East Asia,2023-09-18,55.0,44998217,0.0,532030
+India,South-East Asia,2023-09-19,26.0,44998243,0.0,532030
+India,South-East Asia,2023-09-20,51.0,44998294,1.0,532031
+India,South-East Asia,2023-09-21,44.0,44998338,0.0,532031
+India,South-East Asia,2023-09-22,55.0,44998393,0.0,532031
+India,South-East Asia,2023-09-23,70.0,44998463,0.0,532031
+India,South-East Asia,2023-09-24,62.0,44998525,0.0,532031
+India,South-East Asia,2023-09-25,40.0,44998565,0.0,532031
+India,South-East Asia,2023-09-26,38.0,44998603,0.0,532031
+India,South-East Asia,2023-09-27,47.0,44998650,0.0,532031
+India,South-East Asia,2023-09-28,51.0,44998701,0.0,532031
+India,South-East Asia,2023-09-29,40.0,44998741,0.0,532031
+India,South-East Asia,2023-09-30,41.0,44998782,0.0,532031
+India,South-East Asia,2023-10-01,56.0,44998838,1.0,532032
+India,South-East Asia,2023-10-02,36.0,44998874,0.0,532032
+India,South-East Asia,2023-10-03,42.0,44998916,0.0,532032
+India,South-East Asia,2023-10-04,38.0,44998954,2.0,532034
+India,South-East Asia,2023-10-05,250.0,44999204,0.0,532034
+India,South-East Asia,2023-10-06,39.0,44999243,0.0,532034
+India,South-East Asia,2023-10-07,42.0,44999285,0.0,532034
+India,South-East Asia,2023-10-08,43.0,44999328,0.0,532034
+India,South-East Asia,2023-10-09,38.0,44999366,0.0,532034
+India,South-East Asia,2023-10-10,26.0,44999392,1.0,532035
+India,South-East Asia,2023-10-11,46.0,44999438,0.0,532035
+India,South-East Asia,2023-10-12,35.0,44999473,0.0,532035
+India,South-East Asia,2023-10-13,37.0,44999510,2.0,532037
+India,South-East Asia,2023-10-14,51.0,44999561,0.0,532037
+India,South-East Asia,2023-10-15,27.0,44999588,0.0,532037
+India,South-East Asia,2023-10-16,33.0,44999621,0.0,532037
+India,South-East Asia,2023-10-17,21.0,44999642,0.0,532037
+India,South-East Asia,2023-10-18,38.0,44999680,0.0,532037
+India,South-East Asia,2023-10-19,48.0,44999728,0.0,532037
+India,South-East Asia,2023-10-20,37.0,44999765,1.0,532038
+India,South-East Asia,2023-10-21,1275.0,45001040,1253.0,533291
+India,South-East Asia,2023-10-22,12.0,45001052,0.0,533291
+India,South-East Asia,2023-10-23,9.0,45001061,0.0,533291
+India,South-East Asia,2023-10-24,14.0,45001075,2.0,533293
+India,South-East Asia,2023-10-25,51.0,45001126,0.0,533293
+India,South-East Asia,2023-10-26,24.0,45001150,0.0,533293
+India,South-East Asia,2023-10-27,26.0,45001176,0.0,533293
+India,South-East Asia,2023-10-28,35.0,45001211,0.0,533293
+India,South-East Asia,2023-10-29,34.0,45001245,0.0,533293
+India,South-East Asia,2023-10-30,23.0,45001268,0.0,533293
+India,South-East Asia,2023-10-31,22.0,45001290,0.0,533293
+India,South-East Asia,2023-11-01,38.0,45001328,1.0,533294
+India,South-East Asia,2023-11-02,15.0,45001343,0.0,533294
+India,South-East Asia,2023-11-03,19.0,45001362,0.0,533294
+India,South-East Asia,2023-11-04,14.0,45001376,0.0,533294
+India,South-East Asia,2023-11-05,8.0,45001384,0.0,533294
+India,South-East Asia,2023-11-06,8.0,45001392,0.0,533294
+India,South-East Asia,2023-11-07,5.0,45001397,0.0,533294
+India,South-East Asia,2023-11-08,11.0,45001408,1.0,533295
+India,South-East Asia,2023-11-09,11.0,45001419,0.0,533295
+India,South-East Asia,2023-11-10,14.0,45001433,0.0,533295
+India,South-East Asia,2023-11-11,6.0,45001439,0.0,533295
+India,South-East Asia,2023-11-12,17.0,45001456,0.0,533295
+India,South-East Asia,2023-11-13,8.0,45001464,0.0,533295
+India,South-East Asia,2023-11-14,18.0,45001482,0.0,533295
+India,South-East Asia,2023-11-15,10.0,45001492,0.0,533295
+India,South-East Asia,2023-11-16,18.0,45001510,0.0,533295
+India,South-East Asia,2023-11-17,26.0,45001536,0.0,533295
+India,South-East Asia,2023-11-18,18.0,45001554,0.0,533295
+India,South-East Asia,2023-11-19,21.0,45001575,0.0,533295
+India,South-East Asia,2023-11-20,18.0,45001593,0.0,533295
+India,South-East Asia,2023-11-21,13.0,45001606,0.0,533295
+India,South-East Asia,2023-11-22,23.0,45001629,0.0,533295
+India,South-East Asia,2023-11-23,26.0,45001655,0.0,533295
+India,South-East Asia,2023-11-24,36.0,45001691,2.0,533297
+India,South-East Asia,2023-11-25,42.0,45001733,0.0,533297
+India,South-East Asia,2023-11-26,31.0,45001764,1.0,533298
+India,South-East Asia,2023-11-27,21.0,45001785,0.0,533298
+India,South-East Asia,2023-11-28,22.0,45001807,0.0,533298
+India,South-East Asia,2023-11-29,79.0,45001886,0.0,533298
+India,South-East Asia,2023-11-30,58.0,45001944,0.0,533298
+India,South-East Asia,2023-12-01,71.0,45002015,0.0,533298
+India,South-East Asia,2023-12-02,88.0,45002103,2.0,533300
+India,South-East Asia,2023-12-03,76.0,45002179,0.0,533300
+India,South-East Asia,2023-12-04,59.0,45002238,0.0,533300
+India,South-East Asia,2023-12-05,83.0,45002321,1.0,533301
+India,South-East Asia,2023-12-06,119.0,45002440,1.0,533302
+India,South-East Asia,2023-12-07,121.0,45002561,3.0,533305
+India,South-East Asia,2023-12-08,180.0,45002741,1.0,533306
+India,South-East Asia,2023-12-09,148.0,45002889,0.0,533306
+India,South-East Asia,2023-12-10,166.0,45003055,0.0,533306
+India,South-East Asia,2023-12-11,122.0,45003177,1.0,533307
+India,South-East Asia,2023-12-12,164.0,45003341,0.0,533307
+India,South-East Asia,2023-12-13,252.0,45003593,1.0,533308
+India,South-East Asia,2023-12-14,237.0,45003830,1.0,533309
+India,South-East Asia,2023-12-15,312.0,45004142,1.0,533310
+India,South-East Asia,2023-12-16,339.0,45004481,1.0,533311
+India,South-East Asia,2023-12-17,335.0,45004816,5.0,533316
+India,South-East Asia,2023-12-18,260.0,45005076,1.0,533317
+India,South-East Asia,2023-12-19,288.0,45005364,1.0,533318
+India,South-East Asia,2023-12-20,614.0,45005978,3.0,533321
+India,South-East Asia,2023-12-21,594.0,45006572,6.0,533327
+India,South-East Asia,2023-12-22,640.0,45007212,1.0,533328
+India,South-East Asia,2023-12-23,752.0,45007964,4.0,533332
+India,South-East Asia,2023-12-24,656.0,45008620,1.0,533333
+India,South-East Asia,2023-12-25,628.0,45009248,1.0,533334
+India,South-East Asia,2023-12-26,412.0,45009660,3.0,533337
+India,South-East Asia,2023-12-27,529.0,45010189,3.0,533340
+India,South-East Asia,2023-12-28,702.0,45010891,6.0,533346
+India,South-East Asia,2023-12-29,797.0,45011688,5.0,533351
+India,South-East Asia,2023-12-30,743.0,45012431,7.0,533358
+India,South-East Asia,2023-12-31,741.0,45013172,3.0,533361
+Indonesia,South-East Asia,2023-01-01,366.0,6720181,7.0,160619
+Indonesia,South-East Asia,2023-01-02,262.0,6720443,16.0,160635
+Indonesia,South-East Asia,2023-01-03,652.0,6721095,13.0,160648
+Indonesia,South-East Asia,2023-01-04,597.0,6721692,9.0,160657
+Indonesia,South-East Asia,2023-01-05,535.0,6722227,8.0,160665
+Indonesia,South-East Asia,2023-01-06,519.0,6722746,8.0,160673
+Indonesia,South-East Asia,2023-01-07,455.0,6723201,6.0,160679
+Indonesia,South-East Asia,2023-01-08,345.0,6723546,4.0,160683
+Indonesia,South-East Asia,2023-01-09,266.0,6723812,11.0,160694
+Indonesia,South-East Asia,2023-01-10,469.0,6724281,3.0,160697
+Indonesia,South-East Asia,2023-01-11,402.0,6724683,8.0,160705
+Indonesia,South-East Asia,2023-01-12,412.0,6725095,6.0,160711
+Indonesia,South-East Asia,2023-01-13,363.0,6725458,8.0,160719
+Indonesia,South-East Asia,2023-01-14,389.0,6725847,5.0,160724
+Indonesia,South-East Asia,2023-01-15,239.0,6726086,3.0,160727
+Indonesia,South-East Asia,2023-01-16,225.0,6726311,12.0,160739
+Indonesia,South-East Asia,2023-01-17,357.0,6726668,7.0,160746
+Indonesia,South-East Asia,2023-01-18,339.0,6727007,10.0,160756
+Indonesia,South-East Asia,2023-01-19,310.0,6727317,8.0,160764
+Indonesia,South-East Asia,2023-01-20,292.0,6727609,8.0,160772
+Indonesia,South-East Asia,2023-01-21,238.0,6727847,5.0,160777
+Indonesia,South-East Asia,2023-01-22,218.0,6728065,4.0,160781
+Indonesia,South-East Asia,2023-01-23,119.0,6728184,7.0,160788
+Indonesia,South-East Asia,2023-01-24,218.0,6728402,5.0,160793
+Indonesia,South-East Asia,2023-01-25,274.0,6728676,2.0,160795
+Indonesia,South-East Asia,2023-01-26,322.0,6728998,4.0,160799
+Indonesia,South-East Asia,2023-01-27,211.0,6729209,2.0,160801
+Indonesia,South-East Asia,2023-01-28,199.0,6729408,1.0,160802
+Indonesia,South-East Asia,2023-01-29,165.0,6729573,1.0,160803
+Indonesia,South-East Asia,2023-01-30,183.0,6729756,7.0,160810
+Indonesia,South-East Asia,2023-01-31,260.0,6730016,4.0,160814
+Indonesia,South-East Asia,2023-02-01,273.0,6730289,3.0,160817
+Indonesia,South-East Asia,2023-02-02,248.0,6730537,5.0,160822
+Indonesia,South-East Asia,2023-02-03,241.0,6730778,4.0,160826
+Indonesia,South-East Asia,2023-02-04,186.0,6730964,5.0,160831
+Indonesia,South-East Asia,2023-02-05,171.0,6731135,1.0,160832
+Indonesia,South-East Asia,2023-02-06,169.0,6731304,6.0,160838
+Indonesia,South-East Asia,2023-02-07,392.0,6731696,9.0,160847
+Indonesia,South-East Asia,2023-02-08,263.0,6731959,5.0,160852
+Indonesia,South-East Asia,2023-02-09,220.0,6732179,3.0,160855
+Indonesia,South-East Asia,2023-02-10,239.0,6732418,3.0,160858
+Indonesia,South-East Asia,2023-02-11,200.0,6732618,2.0,160860
+Indonesia,South-East Asia,2023-02-12,181.0,6732799,4.0,160864
+Indonesia,South-East Asia,2023-02-13,169.0,6732968,6.0,160870
+Indonesia,South-East Asia,2023-02-14,247.0,6733215,3.0,160873
+Indonesia,South-East Asia,2023-02-15,263.0,6733478,5.0,160878
+Indonesia,South-East Asia,2023-02-16,219.0,6733697,2.0,160880
+Indonesia,South-East Asia,2023-02-17,215.0,6733912,4.0,160884
+Indonesia,South-East Asia,2023-02-18,190.0,6734102,0.0,160884
+Indonesia,South-East Asia,2023-02-19,113.0,6734215,2.0,160886
+Indonesia,South-East Asia,2023-02-20,119.0,6734334,2.0,160888
+Indonesia,South-East Asia,2023-02-21,272.0,6734606,4.0,160892
+Indonesia,South-East Asia,2023-02-22,212.0,6734818,2.0,160894
+Indonesia,South-East Asia,2023-02-23,215.0,6735033,3.0,160897
+Indonesia,South-East Asia,2023-02-24,236.0,6735269,5.0,160902
+Indonesia,South-East Asia,2023-02-25,182.0,6735451,3.0,160905
+Indonesia,South-East Asia,2023-02-26,177.0,6735628,3.0,160908
+Indonesia,South-East Asia,2023-02-27,152.0,6735780,3.0,160911
+Indonesia,South-East Asia,2023-02-28,266.0,6736046,3.0,160914
+Indonesia,South-East Asia,2023-03-01,252.0,6736298,2.0,160916
+Indonesia,South-East Asia,2023-03-02,278.0,6736576,4.0,160920
+Indonesia,South-East Asia,2023-03-03,211.0,6736787,5.0,160925
+Indonesia,South-East Asia,2023-03-04,207.0,6736994,3.0,160928
+Indonesia,South-East Asia,2023-03-05,165.0,6737159,2.0,160930
+Indonesia,South-East Asia,2023-03-06,144.0,6737303,2.0,160932
+Indonesia,South-East Asia,2023-03-07,303.0,6737606,2.0,160934
+Indonesia,South-East Asia,2023-03-08,312.0,6737918,3.0,160937
+Indonesia,South-East Asia,2023-03-09,307.0,6738225,4.0,160941
+Indonesia,South-East Asia,2023-03-10,295.0,6738520,3.0,160944
+Indonesia,South-East Asia,2023-03-11,324.0,6738844,1.0,160945
+Indonesia,South-East Asia,2023-03-12,223.0,6739067,3.0,160948
+Indonesia,South-East Asia,2023-03-13,222.0,6739289,2.0,160950
+Indonesia,South-East Asia,2023-03-14,380.0,6739669,3.0,160953
+Indonesia,South-East Asia,2023-03-15,362.0,6740031,3.0,160956
+Indonesia,South-East Asia,2023-03-16,373.0,6740404,7.0,160963
+Indonesia,South-East Asia,2023-03-17,323.0,6740727,5.0,160968
+Indonesia,South-East Asia,2023-03-18,355.0,6741082,1.0,160969
+Indonesia,South-East Asia,2023-03-19,272.0,6741354,2.0,160971
+Indonesia,South-East Asia,2023-03-20,234.0,6741588,4.0,160975
+Indonesia,South-East Asia,2023-03-21,473.0,6742061,2.0,160977
+Indonesia,South-East Asia,2023-03-22,449.0,6742510,5.0,160982
+Indonesia,South-East Asia,2023-03-23,304.0,6742814,2.0,160984
+Indonesia,South-East Asia,2023-03-24,357.0,6743171,1.0,160985
+Indonesia,South-East Asia,2023-03-25,436.0,6743607,9.0,160994
+Indonesia,South-East Asia,2023-03-26,426.0,6744033,0.0,160994
+Indonesia,South-East Asia,2023-03-27,329.0,6744362,6.0,161000
+Indonesia,South-East Asia,2023-03-28,511.0,6744873,5.0,161005
+Indonesia,South-East Asia,2023-03-29,580.0,6745453,3.0,161008
+Indonesia,South-East Asia,2023-03-30,556.0,6746009,4.0,161012
+Indonesia,South-East Asia,2023-03-31,465.0,6746474,8.0,161020
+Indonesia,South-East Asia,2023-04-01,486.0,6746960,3.0,161023
+Indonesia,South-East Asia,2023-04-02,403.0,6747363,4.0,161027
+Indonesia,South-East Asia,2023-04-03,329.0,6747692,3.0,161030
+Indonesia,South-East Asia,2023-04-04,616.0,6748308,5.0,161035
+Indonesia,South-East Asia,2023-04-05,665.0,6748973,4.0,161039
+Indonesia,South-East Asia,2023-04-06,591.0,6749564,5.0,161044
+Indonesia,South-East Asia,2023-04-07,619.0,6750183,2.0,161046
+Indonesia,South-East Asia,2023-04-08,420.0,6750603,4.0,161050
+Indonesia,South-East Asia,2023-04-09,565.0,6751168,2.0,161052
+Indonesia,South-East Asia,2023-04-10,494.0,6751662,5.0,161057
+Indonesia,South-East Asia,2023-04-11,944.0,6752606,14.0,161071
+Indonesia,South-East Asia,2023-04-12,987.0,6753593,11.0,161082
+Indonesia,South-East Asia,2023-04-13,990.0,6754583,14.0,161096
+Indonesia,South-East Asia,2023-04-14,1017.0,6755600,14.0,161110
+Indonesia,South-East Asia,2023-04-15,941.0,6756541,6.0,161116
+Indonesia,South-East Asia,2023-04-16,904.0,6757445,7.0,161123
+Indonesia,South-East Asia,2023-04-17,725.0,6758170,6.0,161129
+Indonesia,South-East Asia,2023-04-18,1343.0,6759513,11.0,161140
+Indonesia,South-East Asia,2023-04-19,1242.0,6760755,12.0,161152
+Indonesia,South-East Asia,2023-04-20,1145.0,6761900,13.0,161165
+Indonesia,South-East Asia,2023-04-21,904.0,6762804,5.0,161170
+Indonesia,South-East Asia,2023-04-22,752.0,6763556,6.0,161176
+Indonesia,South-East Asia,2023-04-23,384.0,6763940,1.0,161177
+Indonesia,South-East Asia,2023-04-24,620.0,6764560,5.0,161182
+Indonesia,South-East Asia,2023-04-25,1167.0,6765727,8.0,161190
+Indonesia,South-East Asia,2023-04-26,1399.0,6767126,14.0,161204
+Indonesia,South-East Asia,2023-04-27,1879.0,6769005,17.0,161221
+Indonesia,South-East Asia,2023-04-28,2067.0,6771072,37.0,161258
+Indonesia,South-East Asia,2023-04-29,2074.0,6773146,14.0,161272
+Indonesia,South-East Asia,2023-04-30,1575.0,6774721,12.0,161284
+Indonesia,South-East Asia,2023-05-01,892.0,6775613,16.0,161300
+Indonesia,South-East Asia,2023-05-02,1371.0,6776984,27.0,161327
+Indonesia,South-East Asia,2023-05-03,2647.0,6779631,25.0,161352
+Indonesia,South-East Asia,2023-05-04,2417.0,6782048,32.0,161384
+Indonesia,South-East Asia,2023-05-05,2122.0,6784170,20.0,161404
+Indonesia,South-East Asia,2023-05-06,1889.0,6786059,35.0,161439
+Indonesia,South-East Asia,2023-05-07,1295.0,6787354,20.0,161459
+Indonesia,South-East Asia,2023-05-08,1149.0,6788503,21.0,161480
+Indonesia,South-East Asia,2023-05-09,2618.0,6791121,21.0,161501
+Indonesia,South-East Asia,2023-05-10,1768.0,6792889,25.0,161526
+Indonesia,South-East Asia,2023-05-11,861.0,6793750,26.0,161552
+Indonesia,South-East Asia,2023-05-12,1471.0,6795221,22.0,161574
+Indonesia,South-East Asia,2023-05-13,1245.0,6796466,25.0,161599
+Indonesia,South-East Asia,2023-05-14,870.0,6797336,10.0,161609
+Indonesia,South-East Asia,2023-05-15,761.0,6798097,21.0,161630
+Indonesia,South-East Asia,2023-05-16,639.0,6798736,8.0,161638
+Indonesia,South-East Asia,2023-05-17,1024.0,6799760,8.0,161646
+Indonesia,South-East Asia,2023-05-18,665.0,6800425,7.0,161653
+Indonesia,South-East Asia,2023-05-19,518.0,6800943,5.0,161658
+Indonesia,South-East Asia,2023-05-20,672.0,6801615,13.0,161671
+Indonesia,South-East Asia,2023-05-21,475.0,6802090,3.0,161674
+Indonesia,South-East Asia,2023-05-22,424.0,6802514,9.0,161683
+Indonesia,South-East Asia,2023-05-23,990.0,6803504,18.0,161701
+Indonesia,South-East Asia,2023-05-24,786.0,6804290,14.0,161715
+Indonesia,South-East Asia,2023-05-25,619.0,6804909,6.0,161721
+Indonesia,South-East Asia,2023-05-26,594.0,6805503,5.0,161726
+Indonesia,South-East Asia,2023-05-27,502.0,6806005,7.0,161733
+Indonesia,South-East Asia,2023-05-28,283.0,6806288,6.0,161739
+Indonesia,South-East Asia,2023-05-29,256.0,6806544,15.0,161754
+Indonesia,South-East Asia,2023-05-30,541.0,6807085,8.0,161762
+Indonesia,South-East Asia,2023-05-31,428.0,6807513,9.0,161771
+Indonesia,South-East Asia,2023-06-01,365.0,6807878,2.0,161773
+Indonesia,South-East Asia,2023-06-02,178.0,6808056,5.0,161778
+Indonesia,South-East Asia,2023-06-03,252.0,6808308,2.0,161780
+Indonesia,South-East Asia,2023-06-04,229.0,6808537,9.0,161789
+Indonesia,South-East Asia,2023-06-05,231.0,6808768,8.0,161797
+Indonesia,South-East Asia,2023-06-06,362.0,6809130,7.0,161804
+Indonesia,South-East Asia,2023-06-07,247.0,6809377,7.0,161811
+Indonesia,South-East Asia,2023-06-08,254.0,6809631,4.0,161815
+Indonesia,South-East Asia,2023-06-09,190.0,6809821,5.0,161820
+Indonesia,South-East Asia,2023-06-10,187.0,6810008,0.0,161820
+Indonesia,South-East Asia,2023-06-11,111.0,6810119,1.0,161821
+Indonesia,South-East Asia,2023-06-12,117.0,6810236,5.0,161826
+Indonesia,South-East Asia,2023-06-13,181.0,6810417,4.0,161830
+Indonesia,South-East Asia,2023-06-14,182.0,6810599,2.0,161832
+Indonesia,South-East Asia,2023-06-15,179.0,6810778,4.0,161836
+Indonesia,South-East Asia,2023-06-16,165.0,6810943,3.0,161839
+Indonesia,South-East Asia,2023-06-17,114.0,6811057,1.0,161840
+Indonesia,South-East Asia,2023-06-18,71.0,6811128,4.0,161844
+Indonesia,South-East Asia,2023-06-19,73.0,6811201,0.0,161844
+Indonesia,South-East Asia,2023-06-20,129.0,6811330,4.0,161848
+Indonesia,South-East Asia,2023-06-21,114.0,6811444,5.0,161853
+Indonesia,South-East Asia,2023-06-22,84.0,6811528,4.0,161857
+Indonesia,South-East Asia,2023-06-23,110.0,6811638,4.0,161861
+Indonesia,South-East Asia,2023-06-24,74.0,6811712,2.0,161863
+Indonesia,South-East Asia,2023-06-25,68.0,6811780,2.0,161865
+Indonesia,South-East Asia,2023-06-26,38.0,6811818,2.0,161867
+Indonesia,South-East Asia,2023-06-27,79.0,6811897,3.0,161870
+Indonesia,South-East Asia,2023-06-28,48.0,6811945,0.0,161870
+Indonesia,South-East Asia,2023-06-29,44.0,6811989,1.0,161871
+Indonesia,South-East Asia,2023-06-30,26.0,6812015,1.0,161872
+Indonesia,South-East Asia,2023-07-01,36.0,6812051,2.0,161874
+Indonesia,South-East Asia,2023-07-02,36.0,6812087,4.0,161878
+Indonesia,South-East Asia,2023-07-03,40.0,6812127,1.0,161879
+Indonesia,South-East Asia,2023-07-04,60.0,6812187,2.0,161881
+Indonesia,South-East Asia,2023-07-05,43.0,6812230,3.0,161884
+Indonesia,South-East Asia,2023-07-06,42.0,6812272,0.0,161884
+Indonesia,South-East Asia,2023-07-07,41.0,6812313,0.0,161884
+Indonesia,South-East Asia,2023-07-08,46.0,6812359,0.0,161884
+Indonesia,South-East Asia,2023-07-09,30.0,6812389,0.0,161884
+Indonesia,South-East Asia,2023-07-10,29.0,6812418,5.0,161889
+Indonesia,South-East Asia,2023-07-11,67.0,6812485,2.0,161891
+Indonesia,South-East Asia,2023-07-12,47.0,6812532,1.0,161892
+Indonesia,South-East Asia,2023-07-13,43.0,6812575,2.0,161894
+Indonesia,South-East Asia,2023-07-14,35.0,6812610,0.0,161894
+Indonesia,South-East Asia,2023-07-15,47.0,6812657,0.0,161894
+Indonesia,South-East Asia,2023-07-16,13.0,6812670,1.0,161895
+Indonesia,South-East Asia,2023-07-17,20.0,6812690,2.0,161897
+Indonesia,South-East Asia,2023-07-18,31.0,6812721,3.0,161900
+Indonesia,South-East Asia,2023-07-19,15.0,6812736,0.0,161900
+Indonesia,South-East Asia,2023-07-20,15.0,6812751,1.0,161901
+Indonesia,South-East Asia,2023-07-21,29.0,6812780,0.0,161901
+Indonesia,South-East Asia,2023-07-22,30.0,6812810,0.0,161901
+Indonesia,South-East Asia,2023-07-23,8.0,6812818,2.0,161903
+Indonesia,South-East Asia,2023-07-24,27.0,6812845,2.0,161905
+Indonesia,South-East Asia,2023-07-25,26.0,6812871,2.0,161907
+Indonesia,South-East Asia,2023-07-26,21.0,6812892,1.0,161908
+Indonesia,South-East Asia,2023-07-27,22.0,6812914,1.0,161909
+Indonesia,South-East Asia,2023-07-28,12.0,6812926,2.0,161911
+Indonesia,South-East Asia,2023-07-29,23.0,6812949,0.0,161911
+Indonesia,South-East Asia,2023-07-30,17.0,6812966,3.0,161914
+Indonesia,South-East Asia,2023-07-31,21.0,6812987,0.0,161914
+Indonesia,South-East Asia,2023-08-01,33.0,6813020,1.0,161915
+Indonesia,South-East Asia,2023-08-02,20.0,6813040,0.0,161915
+Indonesia,South-East Asia,2023-08-03,12.0,6813052,0.0,161915
+Indonesia,South-East Asia,2023-08-04,17.0,6813069,1.0,161916
+Indonesia,South-East Asia,2023-08-05,13.0,6813082,0.0,161916
+Indonesia,South-East Asia,2023-08-06,13.0,6813095,0.0,161916
+Indonesia,South-East Asia,2023-08-07,3.0,6813098,0.0,161916
+Indonesia,South-East Asia,2023-08-08,12.0,6813110,0.0,161916
+Indonesia,South-East Asia,2023-08-09,16.0,6813126,0.0,161916
+Indonesia,South-East Asia,2023-08-10,12.0,6813138,0.0,161916
+Indonesia,South-East Asia,2023-08-11,17.0,6813155,0.0,161916
+Indonesia,South-East Asia,2023-08-12,7.0,6813162,0.0,161916
+Indonesia,South-East Asia,2023-08-13,5.0,6813167,0.0,161916
+Indonesia,South-East Asia,2023-08-14,14.0,6813181,0.0,161916
+Indonesia,South-East Asia,2023-08-15,18.0,6813199,0.0,161916
+Indonesia,South-East Asia,2023-08-16,6.0,6813205,0.0,161916
+Indonesia,South-East Asia,2023-08-17,11.0,6813216,0.0,161916
+Indonesia,South-East Asia,2023-08-18,4.0,6813220,0.0,161916
+Indonesia,South-East Asia,2023-08-19,5.0,6813225,0.0,161916
+Indonesia,South-East Asia,2023-08-20,8.0,6813233,0.0,161916
+Indonesia,South-East Asia,2023-08-21,3.0,6813236,0.0,161916
+Indonesia,South-East Asia,2023-08-22,11.0,6813247,0.0,161916
+Indonesia,South-East Asia,2023-08-23,7.0,6813254,0.0,161916
+Indonesia,South-East Asia,2023-08-24,8.0,6813262,0.0,161916
+Indonesia,South-East Asia,2023-08-25,5.0,6813267,0.0,161916
+Indonesia,South-East Asia,2023-08-26,20.0,6813287,2.0,161918
+Indonesia,South-East Asia,2023-08-27,14.0,6813301,0.0,161918
+Indonesia,South-East Asia,2023-08-28,7.0,6813308,0.0,161918
+Indonesia,South-East Asia,2023-08-29,10.0,6813318,0.0,161918
+Indonesia,South-East Asia,2023-08-30,5.0,6813323,0.0,161918
+Indonesia,South-East Asia,2023-08-31,18.0,6813341,0.0,161918
+Indonesia,South-East Asia,2023-09-01,12.0,6813353,0.0,161918
+Indonesia,South-East Asia,2023-09-02,11.0,6813364,0.0,161918
+Indonesia,South-East Asia,2023-09-03,3.0,6813367,0.0,161918
+Indonesia,South-East Asia,2023-09-04,2.0,6813369,0.0,161918
+Indonesia,South-East Asia,2023-09-05,2.0,6813371,0.0,161918
+Indonesia,South-East Asia,2023-09-06,7.0,6813378,0.0,161918
+Indonesia,South-East Asia,2023-09-07,0.0,6813378,0.0,161918
+Indonesia,South-East Asia,2023-09-08,0.0,6813378,0.0,161918
+Indonesia,South-East Asia,2023-09-09,0.0,6813378,0.0,161918
+Indonesia,South-East Asia,2023-09-10,0.0,6813378,0.0,161918
+Indonesia,South-East Asia,2023-09-11,0.0,6813378,0.0,161918
+Indonesia,South-East Asia,2023-09-12,0.0,6813378,0.0,161918
+Indonesia,South-East Asia,2023-09-13,51.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-14,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-15,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-16,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-17,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-18,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-19,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-20,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-21,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-22,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-23,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-24,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-25,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-26,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-27,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-28,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-29,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-09-30,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-01,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-02,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-03,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-04,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-05,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-06,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-07,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-08,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-09,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-10,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-11,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-12,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-13,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-14,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-15,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-16,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-17,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-18,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-19,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-20,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-21,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-22,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-23,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-24,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-25,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-26,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-27,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-28,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-29,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-30,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-10-31,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-01,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-02,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-03,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-04,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-05,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-06,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-07,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-08,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-09,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-10,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-11,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-12,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-13,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-14,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-15,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-16,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-17,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-18,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-19,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-20,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-21,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-22,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-23,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-24,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-25,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-26,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-27,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-28,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-29,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-11-30,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-12-01,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-12-02,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-12-03,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-12-04,0.0,6813429,0.0,161918
+Indonesia,South-East Asia,2023-12-05,841.0,6814270,3.0,161921
+Indonesia,South-East Asia,2023-12-06,246.0,6814516,0.0,161921
+Indonesia,South-East Asia,2023-12-07,0.0,6814516,0.0,161921
+Indonesia,South-East Asia,2023-12-08,389.0,6814905,2.0,161923
+Indonesia,South-East Asia,2023-12-09,132.0,6815037,0.0,161923
+Indonesia,South-East Asia,2023-12-10,119.0,6815156,0.0,161923
+Indonesia,South-East Asia,2023-12-11,122.0,6815278,0.0,161923
+Indonesia,South-East Asia,2023-12-12,298.0,6815576,2.0,161925
+Indonesia,South-East Asia,2023-12-13,0.0,6815576,0.0,161925
+Indonesia,South-East Asia,2023-12-14,677.0,6816253,1.0,161926
+Indonesia,South-East Asia,2023-12-15,336.0,6816589,2.0,161928
+Indonesia,South-East Asia,2023-12-16,349.0,6816938,1.0,161929
+Indonesia,South-East Asia,2023-12-17,216.0,6817154,1.0,161930
+Indonesia,South-East Asia,2023-12-18,243.0,6817397,2.0,161932
+Indonesia,South-East Asia,2023-12-19,453.0,6817850,1.0,161933
+Indonesia,South-East Asia,2023-12-20,486.0,6818336,4.0,161937
+Indonesia,South-East Asia,2023-12-21,453.0,6818789,9.0,161946
+Indonesia,South-East Asia,2023-12-22,402.0,6819191,6.0,161952
+Indonesia,South-East Asia,2023-12-23,373.0,6819564,2.0,161954
+Indonesia,South-East Asia,2023-12-24,266.0,6819830,0.0,161954
+Indonesia,South-East Asia,2023-12-25,171.0,6820001,5.0,161959
+Indonesia,South-East Asia,2023-12-26,190.0,6820191,3.0,161962
+Indonesia,South-East Asia,2023-12-27,331.0,6820522,2.0,161964
+Indonesia,South-East Asia,2023-12-28,404.0,6820926,1.0,161965
+Indonesia,South-East Asia,2023-12-29,323.0,6821249,2.0,161967
+Indonesia,South-East Asia,2023-12-30,318.0,6821567,2.0,161969
+Indonesia,South-East Asia,2023-12-31,203.0,6821770,3.0,161972
+Maldives,South-East Asia,2023-01-01,0.0,185693,0.0,311
+Maldives,South-East Asia,2023-01-02,0.0,185693,0.0,311
+Maldives,South-East Asia,2023-01-03,0.0,185693,0.0,311
+Maldives,South-East Asia,2023-01-04,0.0,185693,0.0,311
+Maldives,South-East Asia,2023-01-05,0.0,185693,0.0,311
+Maldives,South-East Asia,2023-01-06,0.0,185693,0.0,311
+Maldives,South-East Asia,2023-01-07,9.0,185702,0.0,311
+Maldives,South-East Asia,2023-01-08,0.0,185702,0.0,311
+Maldives,South-East Asia,2023-01-09,0.0,185702,0.0,311
+Maldives,South-East Asia,2023-01-10,0.0,185702,0.0,311
+Maldives,South-East Asia,2023-01-11,0.0,185702,0.0,311
+Maldives,South-East Asia,2023-01-12,0.0,185702,0.0,311
+Maldives,South-East Asia,2023-01-13,0.0,185702,0.0,311
+Maldives,South-East Asia,2023-01-14,6.0,185708,0.0,311
+Maldives,South-East Asia,2023-01-15,0.0,185708,0.0,311
+Maldives,South-East Asia,2023-01-16,0.0,185708,0.0,311
+Maldives,South-East Asia,2023-01-17,0.0,185708,0.0,311
+Maldives,South-East Asia,2023-01-18,0.0,185708,0.0,311
+Maldives,South-East Asia,2023-01-19,0.0,185708,0.0,311
+Maldives,South-East Asia,2023-01-20,0.0,185708,0.0,311
+Maldives,South-East Asia,2023-01-21,5.0,185713,0.0,311
+Maldives,South-East Asia,2023-01-22,0.0,185713,0.0,311
+Maldives,South-East Asia,2023-01-23,0.0,185713,0.0,311
+Maldives,South-East Asia,2023-01-24,0.0,185713,0.0,311
+Maldives,South-East Asia,2023-01-25,0.0,185713,0.0,311
+Maldives,South-East Asia,2023-01-26,0.0,185713,0.0,311
+Maldives,South-East Asia,2023-01-27,0.0,185713,0.0,311
+Maldives,South-East Asia,2023-01-28,2.0,185715,0.0,311
+Maldives,South-East Asia,2023-01-29,0.0,185715,0.0,311
+Maldives,South-East Asia,2023-01-30,0.0,185715,0.0,311
+Maldives,South-East Asia,2023-01-31,0.0,185715,0.0,311
+Maldives,South-East Asia,2023-02-01,0.0,185715,0.0,311
+Maldives,South-East Asia,2023-02-02,0.0,185715,0.0,311
+Maldives,South-East Asia,2023-02-03,0.0,185715,0.0,311
+Maldives,South-East Asia,2023-02-04,6.0,185721,0.0,311
+Maldives,South-East Asia,2023-02-05,0.0,185721,0.0,311
+Maldives,South-East Asia,2023-02-06,0.0,185721,0.0,311
+Maldives,South-East Asia,2023-02-07,0.0,185721,0.0,311
+Maldives,South-East Asia,2023-02-08,0.0,185721,0.0,311
+Maldives,South-East Asia,2023-02-09,0.0,185721,0.0,311
+Maldives,South-East Asia,2023-02-10,0.0,185721,0.0,311
+Maldives,South-East Asia,2023-02-11,2.0,185723,0.0,311
+Maldives,South-East Asia,2023-02-12,0.0,185723,0.0,311
+Maldives,South-East Asia,2023-02-13,0.0,185723,0.0,311
+Maldives,South-East Asia,2023-02-14,0.0,185723,0.0,311
+Maldives,South-East Asia,2023-02-15,0.0,185723,0.0,311
+Maldives,South-East Asia,2023-02-16,0.0,185723,0.0,311
+Maldives,South-East Asia,2023-02-17,0.0,185723,0.0,311
+Maldives,South-East Asia,2023-02-18,6.0,185729,0.0,311
+Maldives,South-East Asia,2023-02-19,0.0,185729,0.0,311
+Maldives,South-East Asia,2023-02-20,0.0,185729,0.0,311
+Maldives,South-East Asia,2023-02-21,0.0,185729,0.0,311
+Maldives,South-East Asia,2023-02-22,0.0,185729,0.0,311
+Maldives,South-East Asia,2023-02-23,0.0,185729,0.0,311
+Maldives,South-East Asia,2023-02-24,0.0,185729,0.0,311
+Maldives,South-East Asia,2023-02-25,3.0,185732,0.0,311
+Maldives,South-East Asia,2023-02-26,0.0,185732,0.0,311
+Maldives,South-East Asia,2023-02-27,0.0,185732,0.0,311
+Maldives,South-East Asia,2023-02-28,0.0,185732,0.0,311
+Maldives,South-East Asia,2023-03-01,0.0,185732,0.0,311
+Maldives,South-East Asia,2023-03-02,0.0,185732,0.0,311
+Maldives,South-East Asia,2023-03-03,0.0,185732,0.0,311
+Maldives,South-East Asia,2023-03-04,6.0,185738,0.0,311
+Maldives,South-East Asia,2023-03-05,0.0,185738,0.0,311
+Maldives,South-East Asia,2023-03-06,0.0,185738,0.0,311
+Maldives,South-East Asia,2023-03-07,0.0,185738,0.0,311
+Maldives,South-East Asia,2023-03-08,0.0,185738,0.0,311
+Maldives,South-East Asia,2023-03-09,0.0,185738,0.0,311
+Maldives,South-East Asia,2023-03-10,0.0,185738,0.0,311
+Maldives,South-East Asia,2023-03-11,6.0,185744,0.0,311
+Maldives,South-East Asia,2023-03-12,0.0,185744,0.0,311
+Maldives,South-East Asia,2023-03-13,0.0,185744,0.0,311
+Maldives,South-East Asia,2023-03-14,0.0,185744,0.0,311
+Maldives,South-East Asia,2023-03-15,0.0,185744,0.0,311
+Maldives,South-East Asia,2023-03-16,0.0,185744,0.0,311
+Maldives,South-East Asia,2023-03-17,0.0,185744,0.0,311
+Maldives,South-East Asia,2023-03-18,11.0,185755,0.0,311
+Maldives,South-East Asia,2023-03-19,0.0,185755,0.0,311
+Maldives,South-East Asia,2023-03-20,0.0,185755,0.0,311
+Maldives,South-East Asia,2023-03-21,0.0,185755,0.0,311
+Maldives,South-East Asia,2023-03-22,0.0,185755,0.0,311
+Maldives,South-East Asia,2023-03-23,0.0,185755,0.0,311
+Maldives,South-East Asia,2023-03-24,0.0,185755,0.0,311
+Maldives,South-East Asia,2023-03-25,16.0,185771,0.0,311
+Maldives,South-East Asia,2023-03-26,0.0,185771,0.0,311
+Maldives,South-East Asia,2023-03-27,0.0,185771,0.0,311
+Maldives,South-East Asia,2023-03-28,0.0,185771,0.0,311
+Maldives,South-East Asia,2023-03-29,0.0,185771,0.0,311
+Maldives,South-East Asia,2023-03-30,0.0,185771,0.0,311
+Maldives,South-East Asia,2023-03-31,0.0,185771,0.0,311
+Maldives,South-East Asia,2023-04-01,39.0,185810,0.0,311
+Maldives,South-East Asia,2023-04-02,0.0,185810,0.0,311
+Maldives,South-East Asia,2023-04-03,0.0,185810,0.0,311
+Maldives,South-East Asia,2023-04-04,0.0,185810,0.0,311
+Maldives,South-East Asia,2023-04-05,0.0,185810,0.0,311
+Maldives,South-East Asia,2023-04-06,0.0,185810,0.0,311
+Maldives,South-East Asia,2023-04-07,0.0,185810,0.0,311
+Maldives,South-East Asia,2023-04-08,84.0,185894,0.0,311
+Maldives,South-East Asia,2023-04-09,0.0,185894,0.0,311
+Maldives,South-East Asia,2023-04-10,0.0,185894,0.0,311
+Maldives,South-East Asia,2023-04-11,0.0,185894,0.0,311
+Maldives,South-East Asia,2023-04-12,0.0,185894,0.0,311
+Maldives,South-East Asia,2023-04-13,0.0,185894,0.0,311
+Maldives,South-East Asia,2023-04-14,0.0,185894,0.0,311
+Maldives,South-East Asia,2023-04-15,148.0,186042,0.0,311
+Maldives,South-East Asia,2023-04-16,0.0,186042,0.0,311
+Maldives,South-East Asia,2023-04-17,0.0,186042,0.0,311
+Maldives,South-East Asia,2023-04-18,0.0,186042,0.0,311
+Maldives,South-East Asia,2023-04-19,0.0,186042,0.0,311
+Maldives,South-East Asia,2023-04-20,0.0,186042,0.0,311
+Maldives,South-East Asia,2023-04-21,0.0,186042,0.0,311
+Maldives,South-East Asia,2023-04-22,199.0,186241,2.0,313
+Maldives,South-East Asia,2023-04-23,0.0,186241,0.0,313
+Maldives,South-East Asia,2023-04-24,0.0,186241,0.0,313
+Maldives,South-East Asia,2023-04-25,0.0,186241,0.0,313
+Maldives,South-East Asia,2023-04-26,0.0,186241,0.0,313
+Maldives,South-East Asia,2023-04-27,0.0,186241,0.0,313
+Maldives,South-East Asia,2023-04-28,0.0,186241,0.0,313
+Maldives,South-East Asia,2023-04-29,194.0,186435,0.0,313
+Maldives,South-East Asia,2023-04-30,0.0,186435,0.0,313
+Maldives,South-East Asia,2023-05-01,0.0,186435,0.0,313
+Maldives,South-East Asia,2023-05-02,0.0,186435,0.0,313
+Maldives,South-East Asia,2023-05-03,0.0,186435,0.0,313
+Maldives,South-East Asia,2023-05-04,0.0,186435,0.0,313
+Maldives,South-East Asia,2023-05-05,0.0,186435,0.0,313
+Maldives,South-East Asia,2023-05-06,91.0,186526,1.0,314
+Maldives,South-East Asia,2023-05-07,0.0,186526,0.0,314
+Maldives,South-East Asia,2023-05-08,0.0,186526,0.0,314
+Maldives,South-East Asia,2023-05-09,0.0,186526,0.0,314
+Maldives,South-East Asia,2023-05-10,0.0,186526,0.0,314
+Maldives,South-East Asia,2023-05-11,0.0,186526,0.0,314
+Maldives,South-East Asia,2023-05-12,0.0,186526,0.0,314
+Maldives,South-East Asia,2023-05-13,63.0,186589,0.0,314
+Maldives,South-East Asia,2023-05-14,0.0,186589,0.0,314
+Maldives,South-East Asia,2023-05-15,0.0,186589,0.0,314
+Maldives,South-East Asia,2023-05-16,0.0,186589,0.0,314
+Maldives,South-East Asia,2023-05-17,0.0,186589,0.0,314
+Maldives,South-East Asia,2023-05-18,0.0,186589,0.0,314
+Maldives,South-East Asia,2023-05-19,0.0,186589,0.0,314
+Maldives,South-East Asia,2023-05-20,36.0,186625,1.0,315
+Maldives,South-East Asia,2023-05-21,0.0,186625,0.0,315
+Maldives,South-East Asia,2023-05-22,0.0,186625,0.0,315
+Maldives,South-East Asia,2023-05-23,0.0,186625,0.0,315
+Maldives,South-East Asia,2023-05-24,0.0,186625,0.0,315
+Maldives,South-East Asia,2023-05-25,0.0,186625,0.0,315
+Maldives,South-East Asia,2023-05-26,0.0,186625,0.0,315
+Maldives,South-East Asia,2023-05-27,26.0,186651,0.0,315
+Maldives,South-East Asia,2023-05-28,0.0,186651,0.0,315
+Maldives,South-East Asia,2023-05-29,0.0,186651,0.0,315
+Maldives,South-East Asia,2023-05-30,0.0,186651,0.0,315
+Maldives,South-East Asia,2023-05-31,0.0,186651,0.0,315
+Maldives,South-East Asia,2023-06-01,0.0,186651,0.0,315
+Maldives,South-East Asia,2023-06-02,0.0,186651,0.0,315
+Maldives,South-East Asia,2023-06-03,21.0,186672,1.0,316
+Maldives,South-East Asia,2023-06-04,0.0,186672,0.0,316
+Maldives,South-East Asia,2023-06-05,0.0,186672,0.0,316
+Maldives,South-East Asia,2023-06-06,0.0,186672,0.0,316
+Maldives,South-East Asia,2023-06-07,0.0,186672,0.0,316
+Maldives,South-East Asia,2023-06-08,0.0,186672,0.0,316
+Maldives,South-East Asia,2023-06-09,0.0,186672,0.0,316
+Maldives,South-East Asia,2023-06-10,11.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-11,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-12,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-13,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-14,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-15,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-16,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-17,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-18,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-19,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-20,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-21,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-22,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-23,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-24,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-25,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-26,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-27,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-28,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-29,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-06-30,0.0,186683,0.0,316
+Maldives,South-East Asia,2023-07-01,4.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-02,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-03,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-04,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-05,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-06,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-07,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-08,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-09,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-10,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-11,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-12,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-13,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-14,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-15,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-16,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-17,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-18,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-19,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-20,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-21,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-22,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-23,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-24,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-25,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-26,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-27,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-28,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-29,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-30,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-07-31,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-08-01,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-08-02,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-08-03,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-08-04,0.0,186687,0.0,316
+Maldives,South-East Asia,2023-08-05,7.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-08-31,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-09-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-10-31,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-11-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-01,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-02,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-03,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-04,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-05,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-06,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-07,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-08,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-09,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-10,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-11,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-12,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-13,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-14,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-15,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-16,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-17,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-18,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-19,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-20,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-21,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-22,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-23,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-24,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-25,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-26,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-27,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-28,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-29,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-30,0.0,186694,0.0,316
+Maldives,South-East Asia,2023-12-31,0.0,186694,0.0,316
+Nepal,South-East Asia,2023-01-01,2.0,1001002,0.0,12019
+Nepal,South-East Asia,2023-01-02,1.0,1001003,0.0,12019
+Nepal,South-East Asia,2023-01-03,2.0,1001005,0.0,12019
+Nepal,South-East Asia,2023-01-04,7.0,1001012,0.0,12019
+Nepal,South-East Asia,2023-01-05,3.0,1001015,0.0,12019
+Nepal,South-East Asia,2023-01-06,2.0,1001017,0.0,12019
+Nepal,South-East Asia,2023-01-07,3.0,1001020,1.0,12020
+Nepal,South-East Asia,2023-01-08,2.0,1001022,0.0,12020
+Nepal,South-East Asia,2023-01-09,5.0,1001027,0.0,12020
+Nepal,South-East Asia,2023-01-10,4.0,1001031,0.0,12020
+Nepal,South-East Asia,2023-01-11,2.0,1001033,0.0,12020
+Nepal,South-East Asia,2023-01-12,4.0,1001037,0.0,12020
+Nepal,South-East Asia,2023-01-13,9.0,1001046,0.0,12020
+Nepal,South-East Asia,2023-01-14,5.0,1001051,0.0,12020
+Nepal,South-East Asia,2023-01-15,0.0,1001051,0.0,12020
+Nepal,South-East Asia,2023-01-16,5.0,1001056,0.0,12020
+Nepal,South-East Asia,2023-01-17,3.0,1001059,0.0,12020
+Nepal,South-East Asia,2023-01-18,9.0,1001068,0.0,12020
+Nepal,South-East Asia,2023-01-19,5.0,1001073,0.0,12020
+Nepal,South-East Asia,2023-01-20,1.0,1001074,0.0,12020
+Nepal,South-East Asia,2023-01-21,1.0,1001075,0.0,12020
+Nepal,South-East Asia,2023-01-22,1.0,1001076,0.0,12020
+Nepal,South-East Asia,2023-01-23,1.0,1001077,0.0,12020
+Nepal,South-East Asia,2023-01-24,1.0,1001078,0.0,12020
+Nepal,South-East Asia,2023-01-25,3.0,1001081,0.0,12020
+Nepal,South-East Asia,2023-01-26,5.0,1001086,0.0,12020
+Nepal,South-East Asia,2023-01-27,6.0,1001092,0.0,12020
+Nepal,South-East Asia,2023-01-28,0.0,1001092,0.0,12020
+Nepal,South-East Asia,2023-01-29,4.0,1001096,0.0,12020
+Nepal,South-East Asia,2023-01-30,3.0,1001099,0.0,12020
+Nepal,South-East Asia,2023-01-31,1.0,1001100,0.0,12020
+Nepal,South-East Asia,2023-02-01,2.0,1001102,0.0,12020
+Nepal,South-East Asia,2023-02-02,3.0,1001105,0.0,12020
+Nepal,South-East Asia,2023-02-03,1.0,1001106,0.0,12020
+Nepal,South-East Asia,2023-02-04,0.0,1001106,0.0,12020
+Nepal,South-East Asia,2023-02-05,0.0,1001106,0.0,12020
+Nepal,South-East Asia,2023-02-06,0.0,1001106,0.0,12020
+Nepal,South-East Asia,2023-02-07,1.0,1001107,0.0,12020
+Nepal,South-East Asia,2023-02-08,2.0,1001109,0.0,12020
+Nepal,South-East Asia,2023-02-09,1.0,1001110,0.0,12020
+Nepal,South-East Asia,2023-02-10,3.0,1001113,0.0,12020
+Nepal,South-East Asia,2023-02-11,0.0,1001113,0.0,12020
+Nepal,South-East Asia,2023-02-12,2.0,1001115,0.0,12020
+Nepal,South-East Asia,2023-02-13,1.0,1001116,0.0,12020
+Nepal,South-East Asia,2023-02-14,2.0,1001118,0.0,12020
+Nepal,South-East Asia,2023-02-15,3.0,1001121,0.0,12020
+Nepal,South-East Asia,2023-02-16,4.0,1001125,0.0,12020
+Nepal,South-East Asia,2023-02-17,5.0,1001130,0.0,12020
+Nepal,South-East Asia,2023-02-18,3.0,1001133,0.0,12020
+Nepal,South-East Asia,2023-02-19,0.0,1001133,0.0,12020
+Nepal,South-East Asia,2023-02-20,2.0,1001135,0.0,12020
+Nepal,South-East Asia,2023-02-21,0.0,1001135,0.0,12020
+Nepal,South-East Asia,2023-02-22,2.0,1001137,0.0,12020
+Nepal,South-East Asia,2023-02-23,1.0,1001138,0.0,12020
+Nepal,South-East Asia,2023-02-24,1.0,1001139,0.0,12020
+Nepal,South-East Asia,2023-02-25,1.0,1001140,0.0,12020
+Nepal,South-East Asia,2023-02-26,0.0,1001140,0.0,12020
+Nepal,South-East Asia,2023-02-27,3.0,1001143,0.0,12020
+Nepal,South-East Asia,2023-02-28,2.0,1001145,0.0,12020
+Nepal,South-East Asia,2023-03-01,3.0,1001148,0.0,12020
+Nepal,South-East Asia,2023-03-02,1.0,1001149,0.0,12020
+Nepal,South-East Asia,2023-03-03,0.0,1001149,0.0,12020
+Nepal,South-East Asia,2023-03-04,0.0,1001149,0.0,12020
+Nepal,South-East Asia,2023-03-05,0.0,1001149,0.0,12020
+Nepal,South-East Asia,2023-03-06,0.0,1001149,0.0,12020
+Nepal,South-East Asia,2023-03-07,0.0,1001149,0.0,12020
+Nepal,South-East Asia,2023-03-08,1.0,1001150,0.0,12020
+Nepal,South-East Asia,2023-03-09,4.0,1001154,0.0,12020
+Nepal,South-East Asia,2023-03-10,0.0,1001154,0.0,12020
+Nepal,South-East Asia,2023-03-11,7.0,1001161,0.0,12020
+Nepal,South-East Asia,2023-03-12,3.0,1001164,0.0,12020
+Nepal,South-East Asia,2023-03-13,2.0,1001166,0.0,12020
+Nepal,South-East Asia,2023-03-14,2.0,1001168,0.0,12020
+Nepal,South-East Asia,2023-03-15,4.0,1001172,0.0,12020
+Nepal,South-East Asia,2023-03-16,0.0,1001172,0.0,12020
+Nepal,South-East Asia,2023-03-17,6.0,1001178,0.0,12020
+Nepal,South-East Asia,2023-03-18,2.0,1001180,0.0,12020
+Nepal,South-East Asia,2023-03-19,2.0,1001182,0.0,12020
+Nepal,South-East Asia,2023-03-20,3.0,1001185,0.0,12020
+Nepal,South-East Asia,2023-03-21,0.0,1001185,0.0,12020
+Nepal,South-East Asia,2023-03-22,0.0,1001185,0.0,12020
+Nepal,South-East Asia,2023-03-23,17.0,1001202,0.0,12020
+Nepal,South-East Asia,2023-03-24,2.0,1001204,0.0,12020
+Nepal,South-East Asia,2023-03-25,3.0,1001207,0.0,12020
+Nepal,South-East Asia,2023-03-26,16.0,1001223,0.0,12020
+Nepal,South-East Asia,2023-03-27,25.0,1001248,0.0,12020
+Nepal,South-East Asia,2023-03-28,15.0,1001263,0.0,12020
+Nepal,South-East Asia,2023-03-29,25.0,1001288,0.0,12020
+Nepal,South-East Asia,2023-03-30,37.0,1001325,0.0,12020
+Nepal,South-East Asia,2023-03-31,44.0,1001369,0.0,12020
+Nepal,South-East Asia,2023-04-01,15.0,1001384,0.0,12020
+Nepal,South-East Asia,2023-04-02,37.0,1001421,0.0,12020
+Nepal,South-East Asia,2023-04-03,49.0,1001470,0.0,12020
+Nepal,South-East Asia,2023-04-04,64.0,1001534,0.0,12020
+Nepal,South-East Asia,2023-04-05,71.0,1001605,0.0,12020
+Nepal,South-East Asia,2023-04-06,63.0,1001668,0.0,12020
+Nepal,South-East Asia,2023-04-07,41.0,1001709,0.0,12020
+Nepal,South-East Asia,2023-04-08,41.0,1001750,0.0,12020
+Nepal,South-East Asia,2023-04-09,50.0,1001800,0.0,12020
+Nepal,South-East Asia,2023-04-10,77.0,1001877,0.0,12020
+Nepal,South-East Asia,2023-04-11,74.0,1001951,1.0,12021
+Nepal,South-East Asia,2023-04-12,58.0,1002009,1.0,12022
+Nepal,South-East Asia,2023-04-13,64.0,1002073,0.0,12022
+Nepal,South-East Asia,2023-04-14,34.0,1002107,0.0,12022
+Nepal,South-East Asia,2023-04-15,21.0,1002128,0.0,12022
+Nepal,South-East Asia,2023-04-16,50.0,1002178,0.0,12022
+Nepal,South-East Asia,2023-04-17,63.0,1002241,1.0,12023
+Nepal,South-East Asia,2023-04-18,105.0,1002346,2.0,12025
+Nepal,South-East Asia,2023-04-19,55.0,1002401,0.0,12025
+Nepal,South-East Asia,2023-04-20,72.0,1002473,0.0,12025
+Nepal,South-East Asia,2023-04-21,64.0,1002537,1.0,12026
+Nepal,South-East Asia,2023-04-22,20.0,1002557,1.0,12027
+Nepal,South-East Asia,2023-04-23,41.0,1002598,0.0,12027
+Nepal,South-East Asia,2023-04-24,64.0,1002662,0.0,12027
+Nepal,South-East Asia,2023-04-25,92.0,1002754,0.0,12027
+Nepal,South-East Asia,2023-04-26,37.0,1002791,1.0,12028
+Nepal,South-East Asia,2023-04-27,78.0,1002869,1.0,12029
+Nepal,South-East Asia,2023-04-28,50.0,1002919,0.0,12029
+Nepal,South-East Asia,2023-04-29,22.0,1002941,1.0,12030
+Nepal,South-East Asia,2023-04-30,22.0,1002963,0.0,12030
+Nepal,South-East Asia,2023-05-01,19.0,1002982,0.0,12030
+Nepal,South-East Asia,2023-05-02,22.0,1003004,0.0,12030
+Nepal,South-East Asia,2023-05-03,27.0,1003031,0.0,12030
+Nepal,South-East Asia,2023-05-04,33.0,1003064,1.0,12031
+Nepal,South-East Asia,2023-05-05,17.0,1003081,0.0,12031
+Nepal,South-East Asia,2023-05-06,1.0,1003082,0.0,12031
+Nepal,South-East Asia,2023-05-07,8.0,1003090,0.0,12031
+Nepal,South-East Asia,2023-05-08,41.0,1003131,0.0,12031
+Nepal,South-East Asia,2023-05-09,26.0,1003157,0.0,12031
+Nepal,South-East Asia,2023-05-10,17.0,1003174,0.0,12031
+Nepal,South-East Asia,2023-05-11,10.0,1003184,0.0,12031
+Nepal,South-East Asia,2023-05-12,21.0,1003205,0.0,12031
+Nepal,South-East Asia,2023-05-13,11.0,1003216,0.0,12031
+Nepal,South-East Asia,2023-05-14,6.0,1003222,0.0,12031
+Nepal,South-East Asia,2023-05-15,14.0,1003236,0.0,12031
+Nepal,South-East Asia,2023-05-16,12.0,1003248,0.0,12031
+Nepal,South-East Asia,2023-05-17,12.0,1003260,0.0,12031
+Nepal,South-East Asia,2023-05-18,14.0,1003274,0.0,12031
+Nepal,South-East Asia,2023-05-19,14.0,1003288,0.0,12031
+Nepal,South-East Asia,2023-05-20,4.0,1003292,0.0,12031
+Nepal,South-East Asia,2023-05-21,2.0,1003294,0.0,12031
+Nepal,South-East Asia,2023-05-22,4.0,1003298,0.0,12031
+Nepal,South-East Asia,2023-05-23,9.0,1003307,0.0,12031
+Nepal,South-East Asia,2023-05-24,9.0,1003316,0.0,12031
+Nepal,South-East Asia,2023-05-25,3.0,1003319,0.0,12031
+Nepal,South-East Asia,2023-05-26,1.0,1003320,0.0,12031
+Nepal,South-East Asia,2023-05-27,5.0,1003325,0.0,12031
+Nepal,South-East Asia,2023-05-28,2.0,1003327,0.0,12031
+Nepal,South-East Asia,2023-05-29,2.0,1003329,0.0,12031
+Nepal,South-East Asia,2023-05-30,6.0,1003335,0.0,12031
+Nepal,South-East Asia,2023-05-31,2.0,1003337,0.0,12031
+Nepal,South-East Asia,2023-06-01,3.0,1003340,0.0,12031
+Nepal,South-East Asia,2023-06-02,2.0,1003342,0.0,12031
+Nepal,South-East Asia,2023-06-03,1.0,1003343,0.0,12031
+Nepal,South-East Asia,2023-06-04,0.0,1003343,0.0,12031
+Nepal,South-East Asia,2023-06-05,2.0,1003345,0.0,12031
+Nepal,South-East Asia,2023-06-06,7.0,1003352,0.0,12031
+Nepal,South-East Asia,2023-06-07,1.0,1003353,0.0,12031
+Nepal,South-East Asia,2023-06-08,0.0,1003353,0.0,12031
+Nepal,South-East Asia,2023-06-09,0.0,1003353,0.0,12031
+Nepal,South-East Asia,2023-06-10,0.0,1003353,0.0,12031
+Nepal,South-East Asia,2023-06-11,0.0,1003353,0.0,12031
+Nepal,South-East Asia,2023-06-12,3.0,1003356,0.0,12031
+Nepal,South-East Asia,2023-06-13,0.0,1003356,0.0,12031
+Nepal,South-East Asia,2023-06-14,1.0,1003357,0.0,12031
+Nepal,South-East Asia,2023-06-15,3.0,1003360,0.0,12031
+Nepal,South-East Asia,2023-06-16,1.0,1003361,0.0,12031
+Nepal,South-East Asia,2023-06-17,0.0,1003361,0.0,12031
+Nepal,South-East Asia,2023-06-18,0.0,1003361,0.0,12031
+Nepal,South-East Asia,2023-06-19,0.0,1003361,0.0,12031
+Nepal,South-East Asia,2023-06-20,1.0,1003362,0.0,12031
+Nepal,South-East Asia,2023-06-21,0.0,1003362,0.0,12031
+Nepal,South-East Asia,2023-06-22,3.0,1003365,0.0,12031
+Nepal,South-East Asia,2023-06-23,0.0,1003365,0.0,12031
+Nepal,South-East Asia,2023-06-24,0.0,1003365,0.0,12031
+Nepal,South-East Asia,2023-06-25,0.0,1003365,0.0,12031
+Nepal,South-East Asia,2023-06-26,1.0,1003366,0.0,12031
+Nepal,South-East Asia,2023-06-27,1.0,1003367,0.0,12031
+Nepal,South-East Asia,2023-06-28,0.0,1003367,0.0,12031
+Nepal,South-East Asia,2023-06-29,1.0,1003368,0.0,12031
+Nepal,South-East Asia,2023-06-30,0.0,1003368,0.0,12031
+Nepal,South-East Asia,2023-07-01,0.0,1003368,0.0,12031
+Nepal,South-East Asia,2023-07-02,0.0,1003368,0.0,12031
+Nepal,South-East Asia,2023-07-03,0.0,1003368,0.0,12031
+Nepal,South-East Asia,2023-07-04,0.0,1003368,0.0,12031
+Nepal,South-East Asia,2023-07-05,0.0,1003368,0.0,12031
+Nepal,South-East Asia,2023-07-06,1.0,1003369,0.0,12031
+Nepal,South-East Asia,2023-07-07,0.0,1003369,0.0,12031
+Nepal,South-East Asia,2023-07-08,0.0,1003369,0.0,12031
+Nepal,South-East Asia,2023-07-09,0.0,1003369,0.0,12031
+Nepal,South-East Asia,2023-07-10,0.0,1003369,0.0,12031
+Nepal,South-East Asia,2023-07-11,0.0,1003369,0.0,12031
+Nepal,South-East Asia,2023-07-12,0.0,1003369,0.0,12031
+Nepal,South-East Asia,2023-07-13,1.0,1003370,0.0,12031
+Nepal,South-East Asia,2023-07-14,0.0,1003370,0.0,12031
+Nepal,South-East Asia,2023-07-15,0.0,1003370,0.0,12031
+Nepal,South-East Asia,2023-07-16,0.0,1003370,0.0,12031
+Nepal,South-East Asia,2023-07-17,0.0,1003370,0.0,12031
+Nepal,South-East Asia,2023-07-18,0.0,1003370,0.0,12031
+Nepal,South-East Asia,2023-07-19,3.0,1003373,0.0,12031
+Nepal,South-East Asia,2023-07-20,0.0,1003373,0.0,12031
+Nepal,South-East Asia,2023-07-21,0.0,1003373,0.0,12031
+Nepal,South-East Asia,2023-07-22,0.0,1003373,0.0,12031
+Nepal,South-East Asia,2023-07-23,0.0,1003373,0.0,12031
+Nepal,South-East Asia,2023-07-24,2.0,1003375,0.0,12031
+Nepal,South-East Asia,2023-07-25,0.0,1003375,0.0,12031
+Nepal,South-East Asia,2023-07-26,2.0,1003377,0.0,12031
+Nepal,South-East Asia,2023-07-27,1.0,1003378,0.0,12031
+Nepal,South-East Asia,2023-07-28,2.0,1003380,0.0,12031
+Nepal,South-East Asia,2023-07-29,0.0,1003380,0.0,12031
+Nepal,South-East Asia,2023-07-30,2.0,1003382,0.0,12031
+Nepal,South-East Asia,2023-07-31,2.0,1003384,0.0,12031
+Nepal,South-East Asia,2023-08-01,2.0,1003386,0.0,12031
+Nepal,South-East Asia,2023-08-02,0.0,1003386,0.0,12031
+Nepal,South-East Asia,2023-08-03,0.0,1003386,0.0,12031
+Nepal,South-East Asia,2023-08-04,1.0,1003387,0.0,12031
+Nepal,South-East Asia,2023-08-05,0.0,1003387,0.0,12031
+Nepal,South-East Asia,2023-08-06,1.0,1003388,0.0,12031
+Nepal,South-East Asia,2023-08-07,0.0,1003388,0.0,12031
+Nepal,South-East Asia,2023-08-08,1.0,1003389,0.0,12031
+Nepal,South-East Asia,2023-08-09,1.0,1003390,0.0,12031
+Nepal,South-East Asia,2023-08-10,4.0,1003394,0.0,12031
+Nepal,South-East Asia,2023-08-11,0.0,1003394,0.0,12031
+Nepal,South-East Asia,2023-08-12,0.0,1003394,0.0,12031
+Nepal,South-East Asia,2023-08-13,0.0,1003394,0.0,12031
+Nepal,South-East Asia,2023-08-14,2.0,1003396,0.0,12031
+Nepal,South-East Asia,2023-08-15,1.0,1003397,0.0,12031
+Nepal,South-East Asia,2023-08-16,3.0,1003400,0.0,12031
+Nepal,South-East Asia,2023-08-17,5.0,1003405,0.0,12031
+Nepal,South-East Asia,2023-08-18,1.0,1003406,0.0,12031
+Nepal,South-East Asia,2023-08-19,0.0,1003406,0.0,12031
+Nepal,South-East Asia,2023-08-20,0.0,1003406,0.0,12031
+Nepal,South-East Asia,2023-08-21,3.0,1003409,0.0,12031
+Nepal,South-East Asia,2023-08-22,3.0,1003412,0.0,12031
+Nepal,South-East Asia,2023-08-23,0.0,1003412,0.0,12031
+Nepal,South-East Asia,2023-08-24,2.0,1003414,0.0,12031
+Nepal,South-East Asia,2023-08-25,0.0,1003414,0.0,12031
+Nepal,South-East Asia,2023-08-26,2.0,1003416,0.0,12031
+Nepal,South-East Asia,2023-08-27,0.0,1003416,0.0,12031
+Nepal,South-East Asia,2023-08-28,1.0,1003417,0.0,12031
+Nepal,South-East Asia,2023-08-29,2.0,1003419,0.0,12031
+Nepal,South-East Asia,2023-08-30,0.0,1003419,0.0,12031
+Nepal,South-East Asia,2023-08-31,0.0,1003419,0.0,12031
+Nepal,South-East Asia,2023-09-01,2.0,1003421,0.0,12031
+Nepal,South-East Asia,2023-09-02,0.0,1003421,0.0,12031
+Nepal,South-East Asia,2023-09-03,0.0,1003421,0.0,12031
+Nepal,South-East Asia,2023-09-04,0.0,1003421,0.0,12031
+Nepal,South-East Asia,2023-09-05,0.0,1003421,0.0,12031
+Nepal,South-East Asia,2023-09-06,2.0,1003423,0.0,12031
+Nepal,South-East Asia,2023-09-07,0.0,1003423,0.0,12031
+Nepal,South-East Asia,2023-09-08,0.0,1003423,0.0,12031
+Nepal,South-East Asia,2023-09-09,0.0,1003423,0.0,12031
+Nepal,South-East Asia,2023-09-10,1.0,1003424,0.0,12031
+Nepal,South-East Asia,2023-09-11,1.0,1003425,0.0,12031
+Nepal,South-East Asia,2023-09-12,0.0,1003425,0.0,12031
+Nepal,South-East Asia,2023-09-13,2.0,1003427,0.0,12031
+Nepal,South-East Asia,2023-09-14,1.0,1003428,0.0,12031
+Nepal,South-East Asia,2023-09-15,3.0,1003431,0.0,12031
+Nepal,South-East Asia,2023-09-16,0.0,1003431,0.0,12031
+Nepal,South-East Asia,2023-09-17,0.0,1003431,0.0,12031
+Nepal,South-East Asia,2023-09-18,2.0,1003433,0.0,12031
+Nepal,South-East Asia,2023-09-19,0.0,1003433,0.0,12031
+Nepal,South-East Asia,2023-09-20,5.0,1003438,0.0,12031
+Nepal,South-East Asia,2023-09-21,0.0,1003438,0.0,12031
+Nepal,South-East Asia,2023-09-22,0.0,1003438,0.0,12031
+Nepal,South-East Asia,2023-09-23,0.0,1003438,0.0,12031
+Nepal,South-East Asia,2023-09-24,0.0,1003438,0.0,12031
+Nepal,South-East Asia,2023-09-25,0.0,1003438,0.0,12031
+Nepal,South-East Asia,2023-09-26,0.0,1003438,0.0,12031
+Nepal,South-East Asia,2023-09-27,0.0,1003438,0.0,12031
+Nepal,South-East Asia,2023-09-28,2.0,1003440,0.0,12031
+Nepal,South-East Asia,2023-09-29,0.0,1003440,0.0,12031
+Nepal,South-East Asia,2023-09-30,1.0,1003441,0.0,12031
+Nepal,South-East Asia,2023-10-01,0.0,1003441,0.0,12031
+Nepal,South-East Asia,2023-10-02,0.0,1003441,0.0,12031
+Nepal,South-East Asia,2023-10-03,0.0,1003441,0.0,12031
+Nepal,South-East Asia,2023-10-04,1.0,1003442,0.0,12031
+Nepal,South-East Asia,2023-10-05,1.0,1003443,0.0,12031
+Nepal,South-East Asia,2023-10-06,0.0,1003443,0.0,12031
+Nepal,South-East Asia,2023-10-07,1.0,1003444,0.0,12031
+Nepal,South-East Asia,2023-10-08,0.0,1003444,0.0,12031
+Nepal,South-East Asia,2023-10-09,1.0,1003445,0.0,12031
+Nepal,South-East Asia,2023-10-10,0.0,1003445,0.0,12031
+Nepal,South-East Asia,2023-10-11,0.0,1003445,0.0,12031
+Nepal,South-East Asia,2023-10-12,0.0,1003445,0.0,12031
+Nepal,South-East Asia,2023-10-13,2.0,1003447,0.0,12031
+Nepal,South-East Asia,2023-10-14,0.0,1003447,0.0,12031
+Nepal,South-East Asia,2023-10-15,0.0,1003447,0.0,12031
+Nepal,South-East Asia,2023-10-16,2.0,1003449,0.0,12031
+Nepal,South-East Asia,2023-10-17,0.0,1003449,0.0,12031
+Nepal,South-East Asia,2023-10-18,0.0,1003449,0.0,12031
+Nepal,South-East Asia,2023-10-19,1.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-10-31,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-11-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-01,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-02,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-03,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-04,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-05,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-06,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-07,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-08,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-09,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-10,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-11,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-12,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-13,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-14,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-15,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-16,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-17,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-18,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-19,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-20,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-21,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-22,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-23,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-24,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-25,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-26,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-27,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-28,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-29,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-30,0.0,1003450,0.0,12031
+Nepal,South-East Asia,2023-12-31,0.0,1003450,0.0,12031
+North Korea,South-East Asia,2023-01-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-01-31,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-02-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-03-31,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-04-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-05-31,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-06-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-07-31,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-08-31,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-09-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-10-31,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-11-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-01,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-02,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-03,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-04,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-05,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-06,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-07,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-08,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-09,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-10,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-11,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-12,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-13,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-14,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-15,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-16,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-17,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-18,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-19,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-20,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-21,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-22,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-23,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-24,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-25,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-26,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-27,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-28,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-29,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-30,0.0,0,0.0,0
+North Korea,South-East Asia,2023-12-31,0.0,0,0.0,0
+Sri Lanka,South-East Asia,2023-01-01,7.0,671891,0.0,16817
+Sri Lanka,South-East Asia,2023-01-02,2.0,671893,0.0,16817
+Sri Lanka,South-East Asia,2023-01-03,5.0,671898,0.0,16817
+Sri Lanka,South-East Asia,2023-01-04,5.0,671903,0.0,16817
+Sri Lanka,South-East Asia,2023-01-05,3.0,671906,1.0,16818
+Sri Lanka,South-East Asia,2023-01-06,10.0,671916,0.0,16818
+Sri Lanka,South-East Asia,2023-01-07,7.0,671923,0.0,16818
+Sri Lanka,South-East Asia,2023-01-08,4.0,671927,0.0,16818
+Sri Lanka,South-East Asia,2023-01-09,2.0,671929,1.0,16819
+Sri Lanka,South-East Asia,2023-01-10,8.0,671937,1.0,16820
+Sri Lanka,South-East Asia,2023-01-11,5.0,671942,0.0,16820
+Sri Lanka,South-East Asia,2023-01-12,6.0,671948,1.0,16821
+Sri Lanka,South-East Asia,2023-01-13,6.0,671954,0.0,16821
+Sri Lanka,South-East Asia,2023-01-14,5.0,671959,1.0,16822
+Sri Lanka,South-East Asia,2023-01-15,4.0,671963,1.0,16823
+Sri Lanka,South-East Asia,2023-01-16,1.0,671964,0.0,16823
+Sri Lanka,South-East Asia,2023-01-17,2.0,671966,1.0,16824
+Sri Lanka,South-East Asia,2023-01-18,2.0,671968,0.0,16824
+Sri Lanka,South-East Asia,2023-01-19,2.0,671970,0.0,16824
+Sri Lanka,South-East Asia,2023-01-20,4.0,671974,0.0,16824
+Sri Lanka,South-East Asia,2023-01-21,2.0,671976,1.0,16825
+Sri Lanka,South-East Asia,2023-01-22,0.0,671976,0.0,16825
+Sri Lanka,South-East Asia,2023-01-23,5.0,671981,0.0,16825
+Sri Lanka,South-East Asia,2023-01-24,2.0,671983,1.0,16826
+Sri Lanka,South-East Asia,2023-01-25,1.0,671984,0.0,16826
+Sri Lanka,South-East Asia,2023-01-26,1.0,671985,0.0,16826
+Sri Lanka,South-East Asia,2023-01-27,1.0,671986,0.0,16826
+Sri Lanka,South-East Asia,2023-01-28,0.0,671986,0.0,16826
+Sri Lanka,South-East Asia,2023-01-29,1.0,671987,1.0,16827
+Sri Lanka,South-East Asia,2023-01-30,0.0,671987,1.0,16828
+Sri Lanka,South-East Asia,2023-01-31,1.0,671988,0.0,16828
+Sri Lanka,South-East Asia,2023-02-01,1.0,671989,0.0,16828
+Sri Lanka,South-East Asia,2023-02-02,2.0,671991,0.0,16828
+Sri Lanka,South-East Asia,2023-02-03,3.0,671994,0.0,16828
+Sri Lanka,South-East Asia,2023-02-04,1.0,671995,0.0,16828
+Sri Lanka,South-East Asia,2023-02-05,5.0,672000,0.0,16828
+Sri Lanka,South-East Asia,2023-02-06,0.0,672000,0.0,16828
+Sri Lanka,South-East Asia,2023-02-07,2.0,672002,0.0,16828
+Sri Lanka,South-East Asia,2023-02-08,1.0,672003,0.0,16828
+Sri Lanka,South-East Asia,2023-02-09,1.0,672004,0.0,16828
+Sri Lanka,South-East Asia,2023-02-10,1.0,672005,0.0,16828
+Sri Lanka,South-East Asia,2023-02-11,2.0,672007,0.0,16828
+Sri Lanka,South-East Asia,2023-02-12,0.0,672007,0.0,16828
+Sri Lanka,South-East Asia,2023-02-13,2.0,672009,1.0,16829
+Sri Lanka,South-East Asia,2023-02-14,3.0,672012,0.0,16829
+Sri Lanka,South-East Asia,2023-02-15,3.0,672015,0.0,16829
+Sri Lanka,South-East Asia,2023-02-16,1.0,672016,0.0,16829
+Sri Lanka,South-East Asia,2023-02-17,1.0,672017,0.0,16829
+Sri Lanka,South-East Asia,2023-02-18,1.0,672018,0.0,16829
+Sri Lanka,South-East Asia,2023-02-19,2.0,672020,0.0,16829
+Sri Lanka,South-East Asia,2023-02-20,1.0,672021,0.0,16829
+Sri Lanka,South-East Asia,2023-02-21,1.0,672022,0.0,16829
+Sri Lanka,South-East Asia,2023-02-22,1.0,672023,0.0,16829
+Sri Lanka,South-East Asia,2023-02-23,1.0,672024,0.0,16829
+Sri Lanka,South-East Asia,2023-02-24,1.0,672025,1.0,16830
+Sri Lanka,South-East Asia,2023-02-25,1.0,672026,0.0,16830
+Sri Lanka,South-East Asia,2023-02-26,0.0,672026,0.0,16830
+Sri Lanka,South-East Asia,2023-02-27,1.0,672027,0.0,16830
+Sri Lanka,South-East Asia,2023-02-28,2.0,672029,0.0,16830
+Sri Lanka,South-East Asia,2023-03-01,1.0,672030,0.0,16830
+Sri Lanka,South-East Asia,2023-03-02,1.0,672031,0.0,16830
+Sri Lanka,South-East Asia,2023-03-03,0.0,672031,0.0,16830
+Sri Lanka,South-East Asia,2023-03-04,1.0,672032,0.0,16830
+Sri Lanka,South-East Asia,2023-03-05,0.0,672032,0.0,16830
+Sri Lanka,South-East Asia,2023-03-06,2.0,672034,0.0,16830
+Sri Lanka,South-East Asia,2023-03-07,0.0,672034,0.0,16830
+Sri Lanka,South-East Asia,2023-03-08,2.0,672036,0.0,16830
+Sri Lanka,South-East Asia,2023-03-09,1.0,672037,0.0,16830
+Sri Lanka,South-East Asia,2023-03-10,2.0,672039,0.0,16830
+Sri Lanka,South-East Asia,2023-03-11,1.0,672040,0.0,16830
+Sri Lanka,South-East Asia,2023-03-12,0.0,672040,0.0,16830
+Sri Lanka,South-East Asia,2023-03-13,1.0,672041,0.0,16830
+Sri Lanka,South-East Asia,2023-03-14,2.0,672043,1.0,16831
+Sri Lanka,South-East Asia,2023-03-15,4.0,672047,0.0,16831
+Sri Lanka,South-East Asia,2023-03-16,1.0,672048,0.0,16831
+Sri Lanka,South-East Asia,2023-03-17,0.0,672048,0.0,16831
+Sri Lanka,South-East Asia,2023-03-18,3.0,672051,0.0,16831
+Sri Lanka,South-East Asia,2023-03-19,1.0,672052,0.0,16831
+Sri Lanka,South-East Asia,2023-03-20,1.0,672053,0.0,16831
+Sri Lanka,South-East Asia,2023-03-21,1.0,672054,1.0,16832
+Sri Lanka,South-East Asia,2023-03-22,4.0,672058,0.0,16832
+Sri Lanka,South-East Asia,2023-03-23,1.0,672059,1.0,16833
+Sri Lanka,South-East Asia,2023-03-24,2.0,672061,0.0,16833
+Sri Lanka,South-East Asia,2023-03-25,2.0,672063,0.0,16833
+Sri Lanka,South-East Asia,2023-03-26,0.0,672063,0.0,16833
+Sri Lanka,South-East Asia,2023-03-27,1.0,672064,0.0,16833
+Sri Lanka,South-East Asia,2023-03-28,4.0,672068,1.0,16834
+Sri Lanka,South-East Asia,2023-03-29,0.0,672068,0.0,16834
+Sri Lanka,South-East Asia,2023-03-30,1.0,672069,0.0,16834
+Sri Lanka,South-East Asia,2023-03-31,0.0,672069,0.0,16834
+Sri Lanka,South-East Asia,2023-04-01,5.0,672074,0.0,16834
+Sri Lanka,South-East Asia,2023-04-02,2.0,672076,0.0,16834
+Sri Lanka,South-East Asia,2023-04-03,1.0,672077,0.0,16834
+Sri Lanka,South-East Asia,2023-04-04,2.0,672079,0.0,16834
+Sri Lanka,South-East Asia,2023-04-05,4.0,672083,0.0,16834
+Sri Lanka,South-East Asia,2023-04-06,1.0,672084,0.0,16834
+Sri Lanka,South-East Asia,2023-04-07,2.0,672086,0.0,16834
+Sri Lanka,South-East Asia,2023-04-08,1.0,672087,0.0,16834
+Sri Lanka,South-East Asia,2023-04-09,2.0,672089,0.0,16834
+Sri Lanka,South-East Asia,2023-04-10,2.0,672091,0.0,16834
+Sri Lanka,South-East Asia,2023-04-11,1.0,672092,1.0,16835
+Sri Lanka,South-East Asia,2023-04-12,2.0,672094,0.0,16835
+Sri Lanka,South-East Asia,2023-04-13,3.0,672097,0.0,16835
+Sri Lanka,South-East Asia,2023-04-14,4.0,672101,0.0,16835
+Sri Lanka,South-East Asia,2023-04-15,2.0,672103,0.0,16835
+Sri Lanka,South-East Asia,2023-04-16,1.0,672104,0.0,16835
+Sri Lanka,South-East Asia,2023-04-17,2.0,672106,0.0,16835
+Sri Lanka,South-East Asia,2023-04-18,4.0,672110,0.0,16835
+Sri Lanka,South-East Asia,2023-04-19,8.0,672118,0.0,16835
+Sri Lanka,South-East Asia,2023-04-20,5.0,672123,0.0,16835
+Sri Lanka,South-East Asia,2023-04-21,4.0,672127,1.0,16836
+Sri Lanka,South-East Asia,2023-04-22,3.0,672130,2.0,16838
+Sri Lanka,South-East Asia,2023-04-23,2.0,672132,0.0,16838
+Sri Lanka,South-East Asia,2023-04-24,4.0,672136,0.0,16838
+Sri Lanka,South-East Asia,2023-04-25,3.0,672139,1.0,16839
+Sri Lanka,South-East Asia,2023-04-26,4.0,672143,2.0,16841
+Sri Lanka,South-East Asia,2023-04-27,7.0,672150,0.0,16841
+Sri Lanka,South-East Asia,2023-04-28,3.0,672153,0.0,16841
+Sri Lanka,South-East Asia,2023-04-29,6.0,672159,1.0,16842
+Sri Lanka,South-East Asia,2023-04-30,5.0,672164,0.0,16842
+Sri Lanka,South-East Asia,2023-05-01,7.0,672171,0.0,16842
+Sri Lanka,South-East Asia,2023-05-02,6.0,672177,1.0,16843
+Sri Lanka,South-East Asia,2023-05-03,6.0,672183,1.0,16844
+Sri Lanka,South-East Asia,2023-05-04,5.0,672188,0.0,16844
+Sri Lanka,South-East Asia,2023-05-05,6.0,672194,0.0,16844
+Sri Lanka,South-East Asia,2023-05-06,13.0,672207,0.0,16844
+Sri Lanka,South-East Asia,2023-05-07,8.0,672215,3.0,16847
+Sri Lanka,South-East Asia,2023-05-08,6.0,672221,0.0,16847
+Sri Lanka,South-East Asia,2023-05-09,6.0,672227,2.0,16849
+Sri Lanka,South-East Asia,2023-05-10,5.0,672232,1.0,16850
+Sri Lanka,South-East Asia,2023-05-11,9.0,672241,1.0,16851
+Sri Lanka,South-East Asia,2023-05-12,24.0,672265,0.0,16851
+Sri Lanka,South-East Asia,2023-05-13,10.0,672275,2.0,16853
+Sri Lanka,South-East Asia,2023-05-14,8.0,672283,2.0,16855
+Sri Lanka,South-East Asia,2023-05-15,10.0,672293,0.0,16855
+Sri Lanka,South-East Asia,2023-05-16,11.0,672304,1.0,16856
+Sri Lanka,South-East Asia,2023-05-17,13.0,672317,0.0,16856
+Sri Lanka,South-East Asia,2023-05-18,5.0,672322,2.0,16858
+Sri Lanka,South-East Asia,2023-05-19,20.0,672342,3.0,16861
+Sri Lanka,South-East Asia,2023-05-20,15.0,672357,3.0,16864
+Sri Lanka,South-East Asia,2023-05-21,9.0,672366,1.0,16865
+Sri Lanka,South-East Asia,2023-05-22,5.0,672371,0.0,16865
+Sri Lanka,South-East Asia,2023-05-23,9.0,672380,3.0,16868
+Sri Lanka,South-East Asia,2023-05-24,13.0,672393,1.0,16869
+Sri Lanka,South-East Asia,2023-05-25,15.0,672408,1.0,16870
+Sri Lanka,South-East Asia,2023-05-26,11.0,672419,0.0,16870
+Sri Lanka,South-East Asia,2023-05-27,11.0,672430,0.0,16870
+Sri Lanka,South-East Asia,2023-05-28,9.0,672439,0.0,16870
+Sri Lanka,South-East Asia,2023-05-29,5.0,672444,0.0,16870
+Sri Lanka,South-East Asia,2023-05-30,5.0,672449,2.0,16872
+Sri Lanka,South-East Asia,2023-05-31,10.0,672459,0.0,16872
+Sri Lanka,South-East Asia,2023-06-01,8.0,672467,1.0,16873
+Sri Lanka,South-East Asia,2023-06-02,8.0,672475,0.0,16873
+Sri Lanka,South-East Asia,2023-06-03,7.0,672482,0.0,16873
+Sri Lanka,South-East Asia,2023-06-04,3.0,672485,2.0,16875
+Sri Lanka,South-East Asia,2023-06-05,2.0,672487,0.0,16875
+Sri Lanka,South-East Asia,2023-06-06,3.0,672490,1.0,16876
+Sri Lanka,South-East Asia,2023-06-07,5.0,672495,0.0,16876
+Sri Lanka,South-East Asia,2023-06-08,5.0,672500,0.0,16876
+Sri Lanka,South-East Asia,2023-06-09,2.0,672502,0.0,16876
+Sri Lanka,South-East Asia,2023-06-10,7.0,672509,0.0,16876
+Sri Lanka,South-East Asia,2023-06-11,5.0,672514,0.0,16876
+Sri Lanka,South-East Asia,2023-06-12,2.0,672516,0.0,16876
+Sri Lanka,South-East Asia,2023-06-13,2.0,672518,0.0,16876
+Sri Lanka,South-East Asia,2023-06-14,2.0,672520,0.0,16876
+Sri Lanka,South-East Asia,2023-06-15,2.0,672522,0.0,16876
+Sri Lanka,South-East Asia,2023-06-16,1.0,672523,1.0,16877
+Sri Lanka,South-East Asia,2023-06-17,2.0,672525,0.0,16877
+Sri Lanka,South-East Asia,2023-06-18,2.0,672527,0.0,16877
+Sri Lanka,South-East Asia,2023-06-19,1.0,672528,0.0,16877
+Sri Lanka,South-East Asia,2023-06-20,1.0,672529,0.0,16877
+Sri Lanka,South-East Asia,2023-06-21,1.0,672530,0.0,16877
+Sri Lanka,South-East Asia,2023-06-22,1.0,672531,0.0,16877
+Sri Lanka,South-East Asia,2023-06-23,1.0,672532,0.0,16877
+Sri Lanka,South-East Asia,2023-06-24,1.0,672533,0.0,16877
+Sri Lanka,South-East Asia,2023-06-25,1.0,672534,0.0,16877
+Sri Lanka,South-East Asia,2023-06-26,1.0,672535,0.0,16877
+Sri Lanka,South-East Asia,2023-06-27,3.0,672538,1.0,16878
+Sri Lanka,South-East Asia,2023-06-28,1.0,672539,1.0,16879
+Sri Lanka,South-East Asia,2023-06-29,0.0,672539,0.0,16879
+Sri Lanka,South-East Asia,2023-06-30,2.0,672541,0.0,16879
+Sri Lanka,South-East Asia,2023-07-01,1.0,672542,0.0,16879
+Sri Lanka,South-East Asia,2023-07-02,0.0,672542,0.0,16879
+Sri Lanka,South-East Asia,2023-07-03,1.0,672543,0.0,16879
+Sri Lanka,South-East Asia,2023-07-04,1.0,672544,0.0,16879
+Sri Lanka,South-East Asia,2023-07-05,1.0,672545,0.0,16879
+Sri Lanka,South-East Asia,2023-07-06,4.0,672549,1.0,16880
+Sri Lanka,South-East Asia,2023-07-07,1.0,672550,0.0,16880
+Sri Lanka,South-East Asia,2023-07-08,1.0,672551,0.0,16880
+Sri Lanka,South-East Asia,2023-07-09,1.0,672552,0.0,16880
+Sri Lanka,South-East Asia,2023-07-10,2.0,672554,0.0,16880
+Sri Lanka,South-East Asia,2023-07-11,0.0,672554,0.0,16880
+Sri Lanka,South-East Asia,2023-07-12,0.0,672554,0.0,16880
+Sri Lanka,South-East Asia,2023-07-13,2.0,672556,0.0,16880
+Sri Lanka,South-East Asia,2023-07-14,2.0,672558,0.0,16880
+Sri Lanka,South-East Asia,2023-07-15,1.0,672559,0.0,16880
+Sri Lanka,South-East Asia,2023-07-16,1.0,672560,0.0,16880
+Sri Lanka,South-East Asia,2023-07-17,1.0,672561,0.0,16880
+Sri Lanka,South-East Asia,2023-07-18,0.0,672561,0.0,16880
+Sri Lanka,South-East Asia,2023-07-19,0.0,672561,0.0,16880
+Sri Lanka,South-East Asia,2023-07-20,0.0,672561,0.0,16880
+Sri Lanka,South-East Asia,2023-07-21,2.0,672563,0.0,16880
+Sri Lanka,South-East Asia,2023-07-22,0.0,672563,0.0,16880
+Sri Lanka,South-East Asia,2023-07-23,0.0,672563,0.0,16880
+Sri Lanka,South-East Asia,2023-07-24,0.0,672563,0.0,16880
+Sri Lanka,South-East Asia,2023-07-25,1.0,672564,0.0,16880
+Sri Lanka,South-East Asia,2023-07-26,0.0,672564,0.0,16880
+Sri Lanka,South-East Asia,2023-07-27,2.0,672566,0.0,16880
+Sri Lanka,South-East Asia,2023-07-28,0.0,672566,0.0,16880
+Sri Lanka,South-East Asia,2023-07-29,1.0,672567,0.0,16880
+Sri Lanka,South-East Asia,2023-07-30,1.0,672568,0.0,16880
+Sri Lanka,South-East Asia,2023-07-31,1.0,672569,0.0,16880
+Sri Lanka,South-East Asia,2023-08-01,0.0,672569,0.0,16880
+Sri Lanka,South-East Asia,2023-08-02,0.0,672569,0.0,16880
+Sri Lanka,South-East Asia,2023-08-03,0.0,672569,0.0,16880
+Sri Lanka,South-East Asia,2023-08-04,0.0,672569,1.0,16881
+Sri Lanka,South-East Asia,2023-08-05,0.0,672569,1.0,16882
+Sri Lanka,South-East Asia,2023-08-06,0.0,672569,0.0,16882
+Sri Lanka,South-East Asia,2023-08-07,0.0,672569,0.0,16882
+Sri Lanka,South-East Asia,2023-08-08,0.0,672569,0.0,16882
+Sri Lanka,South-East Asia,2023-08-09,1.0,672570,0.0,16882
+Sri Lanka,South-East Asia,2023-08-10,2.0,672572,0.0,16882
+Sri Lanka,South-East Asia,2023-08-11,0.0,672572,0.0,16882
+Sri Lanka,South-East Asia,2023-08-12,1.0,672573,0.0,16882
+Sri Lanka,South-East Asia,2023-08-13,0.0,672573,0.0,16882
+Sri Lanka,South-East Asia,2023-08-14,0.0,672573,0.0,16882
+Sri Lanka,South-East Asia,2023-08-15,0.0,672573,0.0,16882
+Sri Lanka,South-East Asia,2023-08-16,1.0,672574,0.0,16882
+Sri Lanka,South-East Asia,2023-08-17,0.0,672574,0.0,16882
+Sri Lanka,South-East Asia,2023-08-18,0.0,672574,0.0,16882
+Sri Lanka,South-East Asia,2023-08-19,1.0,672575,0.0,16882
+Sri Lanka,South-East Asia,2023-08-20,0.0,672575,0.0,16882
+Sri Lanka,South-East Asia,2023-08-21,0.0,672575,0.0,16882
+Sri Lanka,South-East Asia,2023-08-22,1.0,672576,0.0,16882
+Sri Lanka,South-East Asia,2023-08-23,0.0,672576,0.0,16882
+Sri Lanka,South-East Asia,2023-08-24,0.0,672576,0.0,16882
+Sri Lanka,South-East Asia,2023-08-25,1.0,672577,0.0,16882
+Sri Lanka,South-East Asia,2023-08-26,0.0,672577,0.0,16882
+Sri Lanka,South-East Asia,2023-08-27,0.0,672577,0.0,16882
+Sri Lanka,South-East Asia,2023-08-28,1.0,672578,0.0,16882
+Sri Lanka,South-East Asia,2023-08-29,0.0,672578,0.0,16882
+Sri Lanka,South-East Asia,2023-08-30,1.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-08-31,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-01,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-02,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-03,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-04,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-05,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-06,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-07,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-08,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-09,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-10,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-11,0.0,672579,0.0,16882
+Sri Lanka,South-East Asia,2023-09-12,1.0,672580,0.0,16882
+Sri Lanka,South-East Asia,2023-09-13,1.0,672581,0.0,16882
+Sri Lanka,South-East Asia,2023-09-14,1.0,672582,0.0,16882
+Sri Lanka,South-East Asia,2023-09-15,0.0,672582,0.0,16882
+Sri Lanka,South-East Asia,2023-09-16,0.0,672582,0.0,16882
+Sri Lanka,South-East Asia,2023-09-17,1.0,672583,0.0,16882
+Sri Lanka,South-East Asia,2023-09-18,0.0,672583,0.0,16882
+Sri Lanka,South-East Asia,2023-09-19,0.0,672583,0.0,16882
+Sri Lanka,South-East Asia,2023-09-20,1.0,672584,0.0,16882
+Sri Lanka,South-East Asia,2023-09-21,1.0,672585,0.0,16882
+Sri Lanka,South-East Asia,2023-09-22,2.0,672587,0.0,16882
+Sri Lanka,South-East Asia,2023-09-23,0.0,672587,0.0,16882
+Sri Lanka,South-East Asia,2023-09-24,0.0,672587,0.0,16882
+Sri Lanka,South-East Asia,2023-09-25,1.0,672588,0.0,16882
+Sri Lanka,South-East Asia,2023-09-26,0.0,672588,0.0,16882
+Sri Lanka,South-East Asia,2023-09-27,1.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-09-28,0.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-09-29,0.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-09-30,0.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-10-01,0.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-10-02,0.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-10-03,0.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-10-04,0.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-10-05,0.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-10-06,0.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-10-07,0.0,672589,0.0,16882
+Sri Lanka,South-East Asia,2023-10-08,1.0,672590,0.0,16882
+Sri Lanka,South-East Asia,2023-10-09,0.0,672590,0.0,16882
+Sri Lanka,South-East Asia,2023-10-10,1.0,672591,0.0,16882
+Sri Lanka,South-East Asia,2023-10-11,1.0,672592,0.0,16882
+Sri Lanka,South-East Asia,2023-10-12,0.0,672592,0.0,16882
+Sri Lanka,South-East Asia,2023-10-13,0.0,672592,0.0,16882
+Sri Lanka,South-East Asia,2023-10-14,0.0,672592,0.0,16882
+Sri Lanka,South-East Asia,2023-10-15,1.0,672593,0.0,16882
+Sri Lanka,South-East Asia,2023-10-16,0.0,672593,0.0,16882
+Sri Lanka,South-East Asia,2023-10-17,0.0,672593,0.0,16882
+Sri Lanka,South-East Asia,2023-10-18,1.0,672594,0.0,16882
+Sri Lanka,South-East Asia,2023-10-19,0.0,672594,0.0,16882
+Sri Lanka,South-East Asia,2023-10-20,1.0,672595,0.0,16882
+Sri Lanka,South-East Asia,2023-10-21,1.0,672596,0.0,16882
+Sri Lanka,South-East Asia,2023-10-22,1.0,672597,0.0,16882
+Sri Lanka,South-East Asia,2023-10-23,0.0,672597,1.0,16883
+Sri Lanka,South-East Asia,2023-10-24,0.0,672597,0.0,16883
+Sri Lanka,South-East Asia,2023-10-25,0.0,672597,0.0,16883
+Sri Lanka,South-East Asia,2023-10-26,0.0,672597,0.0,16883
+Sri Lanka,South-East Asia,2023-10-27,0.0,672597,0.0,16883
+Sri Lanka,South-East Asia,2023-10-28,1.0,672598,0.0,16883
+Sri Lanka,South-East Asia,2023-10-29,0.0,672598,0.0,16883
+Sri Lanka,South-East Asia,2023-10-30,2.0,672600,0.0,16883
+Sri Lanka,South-East Asia,2023-10-31,2.0,672602,0.0,16883
+Sri Lanka,South-East Asia,2023-11-01,0.0,672602,0.0,16883
+Sri Lanka,South-East Asia,2023-11-02,2.0,672604,0.0,16883
+Sri Lanka,South-East Asia,2023-11-03,0.0,672604,0.0,16883
+Sri Lanka,South-East Asia,2023-11-04,0.0,672604,0.0,16883
+Sri Lanka,South-East Asia,2023-11-05,2.0,672606,0.0,16883
+Sri Lanka,South-East Asia,2023-11-06,2.0,672608,2.0,16885
+Sri Lanka,South-East Asia,2023-11-07,1.0,672609,0.0,16885
+Sri Lanka,South-East Asia,2023-11-08,1.0,672610,0.0,16885
+Sri Lanka,South-East Asia,2023-11-09,0.0,672610,0.0,16885
+Sri Lanka,South-East Asia,2023-11-10,2.0,672612,0.0,16885
+Sri Lanka,South-East Asia,2023-11-11,0.0,672612,0.0,16885
+Sri Lanka,South-East Asia,2023-11-12,0.0,672612,0.0,16885
+Sri Lanka,South-East Asia,2023-11-13,1.0,672613,0.0,16885
+Sri Lanka,South-East Asia,2023-11-14,1.0,672614,0.0,16885
+Sri Lanka,South-East Asia,2023-11-15,2.0,672616,0.0,16885
+Sri Lanka,South-East Asia,2023-11-16,1.0,672617,0.0,16885
+Sri Lanka,South-East Asia,2023-11-17,1.0,672618,0.0,16885
+Sri Lanka,South-East Asia,2023-11-18,0.0,672618,0.0,16885
+Sri Lanka,South-East Asia,2023-11-19,0.0,672618,0.0,16885
+Sri Lanka,South-East Asia,2023-11-20,1.0,672619,1.0,16886
+Sri Lanka,South-East Asia,2023-11-21,0.0,672619,0.0,16886
+Sri Lanka,South-East Asia,2023-11-22,2.0,672621,0.0,16886
+Sri Lanka,South-East Asia,2023-11-23,0.0,672621,0.0,16886
+Sri Lanka,South-East Asia,2023-11-24,4.0,672625,0.0,16886
+Sri Lanka,South-East Asia,2023-11-25,1.0,672626,0.0,16886
+Sri Lanka,South-East Asia,2023-11-26,3.0,672629,0.0,16886
+Sri Lanka,South-East Asia,2023-11-27,0.0,672629,0.0,16886
+Sri Lanka,South-East Asia,2023-11-28,0.0,672629,0.0,16886
+Sri Lanka,South-East Asia,2023-11-29,5.0,672634,0.0,16886
+Sri Lanka,South-East Asia,2023-11-30,0.0,672634,0.0,16886
+Sri Lanka,South-East Asia,2023-12-01,5.0,672639,0.0,16886
+Sri Lanka,South-East Asia,2023-12-02,0.0,672639,0.0,16886
+Sri Lanka,South-East Asia,2023-12-03,0.0,672639,0.0,16886
+Sri Lanka,South-East Asia,2023-12-04,0.0,672639,0.0,16886
+Sri Lanka,South-East Asia,2023-12-05,5.0,672644,0.0,16886
+Sri Lanka,South-East Asia,2023-12-06,0.0,672644,0.0,16886
+Sri Lanka,South-East Asia,2023-12-07,5.0,672649,0.0,16886
+Sri Lanka,South-East Asia,2023-12-08,0.0,672649,0.0,16886
+Sri Lanka,South-East Asia,2023-12-09,4.0,672653,0.0,16886
+Sri Lanka,South-East Asia,2023-12-10,1.0,672654,0.0,16886
+Sri Lanka,South-East Asia,2023-12-11,3.0,672657,0.0,16886
+Sri Lanka,South-East Asia,2023-12-12,0.0,672657,0.0,16886
+Sri Lanka,South-East Asia,2023-12-13,2.0,672659,0.0,16886
+Sri Lanka,South-East Asia,2023-12-14,0.0,672659,0.0,16886
+Sri Lanka,South-East Asia,2023-12-15,2.0,672661,0.0,16886
+Sri Lanka,South-East Asia,2023-12-16,0.0,672661,0.0,16886
+Sri Lanka,South-East Asia,2023-12-17,0.0,672661,0.0,16886
+Sri Lanka,South-East Asia,2023-12-18,0.0,672661,0.0,16886
+Sri Lanka,South-East Asia,2023-12-19,0.0,672661,0.0,16886
+Sri Lanka,South-East Asia,2023-12-20,4.0,672665,0.0,16886
+Sri Lanka,South-East Asia,2023-12-21,0.0,672665,2.0,16888
+Sri Lanka,South-East Asia,2023-12-22,8.0,672673,0.0,16888
+Sri Lanka,South-East Asia,2023-12-23,0.0,672673,0.0,16888
+Sri Lanka,South-East Asia,2023-12-24,6.0,672679,0.0,16888
+Sri Lanka,South-East Asia,2023-12-25,0.0,672679,0.0,16888
+Sri Lanka,South-East Asia,2023-12-26,6.0,672685,0.0,16888
+Sri Lanka,South-East Asia,2023-12-27,0.0,672685,0.0,16888
+Sri Lanka,South-East Asia,2023-12-28,0.0,672685,0.0,16888
+Sri Lanka,South-East Asia,2023-12-29,0.0,672685,2.0,16890
+Sri Lanka,South-East Asia,2023-12-30,17.0,672702,0.0,16890
+Sri Lanka,South-East Asia,2023-12-31,5.0,672707,0.0,16890
+Thailand,South-East Asia,2023-01-01,0.0,4723919,0.0,33669
+Thailand,South-East Asia,2023-01-02,0.0,4723919,0.0,33669
+Thailand,South-East Asia,2023-01-03,0.0,4723919,0.0,33669
+Thailand,South-East Asia,2023-01-04,0.0,4723919,0.0,33669
+Thailand,South-East Asia,2023-01-05,0.0,4723919,0.0,33669
+Thailand,South-East Asia,2023-01-06,0.0,4723919,0.0,33669
+Thailand,South-East Asia,2023-01-07,997.0,4724916,58.0,33727
+Thailand,South-East Asia,2023-01-08,0.0,4724916,0.0,33727
+Thailand,South-East Asia,2023-01-09,0.0,4724916,0.0,33727
+Thailand,South-East Asia,2023-01-10,0.0,4724916,0.0,33727
+Thailand,South-East Asia,2023-01-11,0.0,4724916,0.0,33727
+Thailand,South-East Asia,2023-01-12,0.0,4724916,0.0,33727
+Thailand,South-East Asia,2023-01-13,0.0,4724916,0.0,33727
+Thailand,South-East Asia,2023-01-14,969.0,4725885,65.0,33792
+Thailand,South-East Asia,2023-01-15,0.0,4725885,0.0,33792
+Thailand,South-East Asia,2023-01-16,0.0,4725885,0.0,33792
+Thailand,South-East Asia,2023-01-17,0.0,4725885,0.0,33792
+Thailand,South-East Asia,2023-01-18,0.0,4725885,0.0,33792
+Thailand,South-East Asia,2023-01-19,0.0,4725885,0.0,33792
+Thailand,South-East Asia,2023-01-20,0.0,4725885,0.0,33792
+Thailand,South-East Asia,2023-01-21,627.0,4726512,44.0,33836
+Thailand,South-East Asia,2023-01-22,0.0,4726512,0.0,33836
+Thailand,South-East Asia,2023-01-23,0.0,4726512,0.0,33836
+Thailand,South-East Asia,2023-01-24,0.0,4726512,0.0,33836
+Thailand,South-East Asia,2023-01-25,0.0,4726512,0.0,33836
+Thailand,South-East Asia,2023-01-26,0.0,4726512,0.0,33836
+Thailand,South-East Asia,2023-01-27,0.0,4726512,0.0,33836
+Thailand,South-East Asia,2023-01-28,472.0,4726984,29.0,33865
+Thailand,South-East Asia,2023-01-29,0.0,4726984,0.0,33865
+Thailand,South-East Asia,2023-01-30,0.0,4726984,0.0,33865
+Thailand,South-East Asia,2023-01-31,0.0,4726984,0.0,33865
+Thailand,South-East Asia,2023-02-01,0.0,4726984,0.0,33865
+Thailand,South-East Asia,2023-02-02,0.0,4726984,0.0,33865
+Thailand,South-East Asia,2023-02-03,0.0,4726984,0.0,33865
+Thailand,South-East Asia,2023-02-04,252.0,4727236,17.0,33882
+Thailand,South-East Asia,2023-02-05,0.0,4727236,0.0,33882
+Thailand,South-East Asia,2023-02-06,0.0,4727236,0.0,33882
+Thailand,South-East Asia,2023-02-07,0.0,4727236,0.0,33882
+Thailand,South-East Asia,2023-02-08,0.0,4727236,0.0,33882
+Thailand,South-East Asia,2023-02-09,0.0,4727236,0.0,33882
+Thailand,South-East Asia,2023-02-10,0.0,4727236,0.0,33882
+Thailand,South-East Asia,2023-02-11,392.0,4727628,12.0,33894
+Thailand,South-East Asia,2023-02-12,0.0,4727628,0.0,33894
+Thailand,South-East Asia,2023-02-13,0.0,4727628,0.0,33894
+Thailand,South-East Asia,2023-02-14,0.0,4727628,0.0,33894
+Thailand,South-East Asia,2023-02-15,0.0,4727628,0.0,33894
+Thailand,South-East Asia,2023-02-16,0.0,4727628,0.0,33894
+Thailand,South-East Asia,2023-02-17,0.0,4727628,0.0,33894
+Thailand,South-East Asia,2023-02-18,203.0,4727831,8.0,33902
+Thailand,South-East Asia,2023-02-19,0.0,4727831,0.0,33902
+Thailand,South-East Asia,2023-02-20,0.0,4727831,0.0,33902
+Thailand,South-East Asia,2023-02-21,0.0,4727831,0.0,33902
+Thailand,South-East Asia,2023-02-22,0.0,4727831,0.0,33902
+Thailand,South-East Asia,2023-02-23,0.0,4727831,0.0,33902
+Thailand,South-East Asia,2023-02-24,0.0,4727831,0.0,33902
+Thailand,South-East Asia,2023-02-25,204.0,4728035,9.0,33911
+Thailand,South-East Asia,2023-02-26,0.0,4728035,0.0,33911
+Thailand,South-East Asia,2023-02-27,0.0,4728035,0.0,33911
+Thailand,South-East Asia,2023-02-28,0.0,4728035,0.0,33911
+Thailand,South-East Asia,2023-03-01,0.0,4728035,0.0,33911
+Thailand,South-East Asia,2023-03-02,0.0,4728035,0.0,33911
+Thailand,South-East Asia,2023-03-03,0.0,4728035,0.0,33911
+Thailand,South-East Asia,2023-03-04,147.0,4728182,7.0,33918
+Thailand,South-East Asia,2023-03-05,0.0,4728182,0.0,33918
+Thailand,South-East Asia,2023-03-06,0.0,4728182,0.0,33918
+Thailand,South-East Asia,2023-03-07,0.0,4728182,0.0,33918
+Thailand,South-East Asia,2023-03-08,0.0,4728182,0.0,33918
+Thailand,South-East Asia,2023-03-09,0.0,4728182,0.0,33918
+Thailand,South-East Asia,2023-03-10,0.0,4728182,0.0,33918
+Thailand,South-East Asia,2023-03-11,122.0,4728304,6.0,33924
+Thailand,South-East Asia,2023-03-12,0.0,4728304,0.0,33924
+Thailand,South-East Asia,2023-03-13,0.0,4728304,0.0,33924
+Thailand,South-East Asia,2023-03-14,0.0,4728304,0.0,33924
+Thailand,South-East Asia,2023-03-15,0.0,4728304,0.0,33924
+Thailand,South-East Asia,2023-03-16,0.0,4728304,0.0,33924
+Thailand,South-East Asia,2023-03-17,0.0,4728304,0.0,33924
+Thailand,South-East Asia,2023-03-18,178.0,4728482,5.0,33929
+Thailand,South-East Asia,2023-03-19,0.0,4728482,0.0,33929
+Thailand,South-East Asia,2023-03-20,0.0,4728482,0.0,33929
+Thailand,South-East Asia,2023-03-21,0.0,4728482,0.0,33929
+Thailand,South-East Asia,2023-03-22,0.0,4728482,0.0,33929
+Thailand,South-East Asia,2023-03-23,0.0,4728482,0.0,33929
+Thailand,South-East Asia,2023-03-24,0.0,4728482,0.0,33929
+Thailand,South-East Asia,2023-03-25,150.0,4728632,6.0,33935
+Thailand,South-East Asia,2023-03-26,0.0,4728632,0.0,33935
+Thailand,South-East Asia,2023-03-27,0.0,4728632,0.0,33935
+Thailand,South-East Asia,2023-03-28,0.0,4728632,0.0,33935
+Thailand,South-East Asia,2023-03-29,0.0,4728632,0.0,33935
+Thailand,South-East Asia,2023-03-30,0.0,4728632,0.0,33935
+Thailand,South-East Asia,2023-03-31,0.0,4728632,0.0,33935
+Thailand,South-East Asia,2023-04-01,167.0,4728799,3.0,33938
+Thailand,South-East Asia,2023-04-02,0.0,4728799,0.0,33938
+Thailand,South-East Asia,2023-04-03,0.0,4728799,0.0,33938
+Thailand,South-East Asia,2023-04-04,0.0,4728799,0.0,33938
+Thailand,South-East Asia,2023-04-05,0.0,4728799,0.0,33938
+Thailand,South-East Asia,2023-04-06,0.0,4728799,0.0,33938
+Thailand,South-East Asia,2023-04-07,0.0,4728799,0.0,33938
+Thailand,South-East Asia,2023-04-08,168.0,4728967,2.0,33940
+Thailand,South-East Asia,2023-04-09,0.0,4728967,0.0,33940
+Thailand,South-East Asia,2023-04-10,0.0,4728967,0.0,33940
+Thailand,South-East Asia,2023-04-11,0.0,4728967,0.0,33940
+Thailand,South-East Asia,2023-04-12,0.0,4728967,0.0,33940
+Thailand,South-East Asia,2023-04-13,0.0,4728967,0.0,33940
+Thailand,South-East Asia,2023-04-14,0.0,4728967,0.0,33940
+Thailand,South-East Asia,2023-04-15,435.0,4729402,2.0,33942
+Thailand,South-East Asia,2023-04-16,0.0,4729402,0.0,33942
+Thailand,South-East Asia,2023-04-17,0.0,4729402,0.0,33942
+Thailand,South-East Asia,2023-04-18,0.0,4729402,0.0,33942
+Thailand,South-East Asia,2023-04-19,0.0,4729402,0.0,33942
+Thailand,South-East Asia,2023-04-20,0.0,4729402,0.0,33942
+Thailand,South-East Asia,2023-04-21,0.0,4729402,0.0,33942
+Thailand,South-East Asia,2023-04-22,1088.0,4730490,5.0,33947
+Thailand,South-East Asia,2023-04-23,0.0,4730490,0.0,33947
+Thailand,South-East Asia,2023-04-24,0.0,4730490,0.0,33947
+Thailand,South-East Asia,2023-04-25,0.0,4730490,0.0,33947
+Thailand,South-East Asia,2023-04-26,0.0,4730490,0.0,33947
+Thailand,South-East Asia,2023-04-27,0.0,4730490,0.0,33947
+Thailand,South-East Asia,2023-04-28,0.0,4730490,0.0,33947
+Thailand,South-East Asia,2023-04-29,1811.0,4732301,10.0,33957
+Thailand,South-East Asia,2023-04-30,0.0,4732301,0.0,33957
+Thailand,South-East Asia,2023-05-01,0.0,4732301,0.0,33957
+Thailand,South-East Asia,2023-05-02,0.0,4732301,0.0,33957
+Thailand,South-East Asia,2023-05-03,0.0,4732301,0.0,33957
+Thailand,South-East Asia,2023-05-04,0.0,4732301,0.0,33957
+Thailand,South-East Asia,2023-05-05,0.0,4732301,0.0,33957
+Thailand,South-East Asia,2023-05-06,1699.0,4734000,10.0,33967
+Thailand,South-East Asia,2023-05-07,0.0,4734000,0.0,33967
+Thailand,South-East Asia,2023-05-08,0.0,4734000,0.0,33967
+Thailand,South-East Asia,2023-05-09,0.0,4734000,0.0,33967
+Thailand,South-East Asia,2023-05-10,0.0,4734000,0.0,33967
+Thailand,South-East Asia,2023-05-11,0.0,4734000,0.0,33967
+Thailand,South-East Asia,2023-05-12,0.0,4734000,0.0,33967
+Thailand,South-East Asia,2023-05-13,2356.0,4736356,22.0,33989
+Thailand,South-East Asia,2023-05-14,0.0,4736356,0.0,33989
+Thailand,South-East Asia,2023-05-15,0.0,4736356,0.0,33989
+Thailand,South-East Asia,2023-05-16,0.0,4736356,0.0,33989
+Thailand,South-East Asia,2023-05-17,0.0,4736356,0.0,33989
+Thailand,South-East Asia,2023-05-18,0.0,4736356,0.0,33989
+Thailand,South-East Asia,2023-05-19,0.0,4736356,0.0,33989
+Thailand,South-East Asia,2023-05-20,2632.0,4738988,64.0,34053
+Thailand,South-East Asia,2023-05-21,0.0,4738988,0.0,34053
+Thailand,South-East Asia,2023-05-22,0.0,4738988,0.0,34053
+Thailand,South-East Asia,2023-05-23,0.0,4738988,0.0,34053
+Thailand,South-East Asia,2023-05-24,0.0,4738988,0.0,34053
+Thailand,South-East Asia,2023-05-25,0.0,4738988,0.0,34053
+Thailand,South-East Asia,2023-05-26,0.0,4738988,0.0,34053
+Thailand,South-East Asia,2023-05-27,2970.0,4741958,42.0,34095
+Thailand,South-East Asia,2023-05-28,0.0,4741958,0.0,34095
+Thailand,South-East Asia,2023-05-29,0.0,4741958,0.0,34095
+Thailand,South-East Asia,2023-05-30,0.0,4741958,0.0,34095
+Thailand,South-East Asia,2023-05-31,0.0,4741958,0.0,34095
+Thailand,South-East Asia,2023-06-01,0.0,4741958,0.0,34095
+Thailand,South-East Asia,2023-06-02,0.0,4741958,0.0,34095
+Thailand,South-East Asia,2023-06-03,3085.0,4745043,68.0,34163
+Thailand,South-East Asia,2023-06-04,0.0,4745043,0.0,34163
+Thailand,South-East Asia,2023-06-05,0.0,4745043,0.0,34163
+Thailand,South-East Asia,2023-06-06,0.0,4745043,0.0,34163
+Thailand,South-East Asia,2023-06-07,0.0,4745043,0.0,34163
+Thailand,South-East Asia,2023-06-08,0.0,4745043,0.0,34163
+Thailand,South-East Asia,2023-06-09,0.0,4745043,0.0,34163
+Thailand,South-East Asia,2023-06-10,2709.0,4747752,69.0,34232
+Thailand,South-East Asia,2023-06-11,0.0,4747752,0.0,34232
+Thailand,South-East Asia,2023-06-12,0.0,4747752,0.0,34232
+Thailand,South-East Asia,2023-06-13,0.0,4747752,0.0,34232
+Thailand,South-East Asia,2023-06-14,0.0,4747752,0.0,34232
+Thailand,South-East Asia,2023-06-15,0.0,4747752,0.0,34232
+Thailand,South-East Asia,2023-06-16,0.0,4747752,0.0,34232
+Thailand,South-East Asia,2023-06-17,2158.0,4749910,60.0,34292
+Thailand,South-East Asia,2023-06-18,0.0,4749910,0.0,34292
+Thailand,South-East Asia,2023-06-19,0.0,4749910,0.0,34292
+Thailand,South-East Asia,2023-06-20,0.0,4749910,0.0,34292
+Thailand,South-East Asia,2023-06-21,0.0,4749910,0.0,34292
+Thailand,South-East Asia,2023-06-22,0.0,4749910,0.0,34292
+Thailand,South-East Asia,2023-06-23,0.0,4749910,0.0,34292
+Thailand,South-East Asia,2023-06-24,1653.0,4751563,36.0,34328
+Thailand,South-East Asia,2023-06-25,0.0,4751563,0.0,34328
+Thailand,South-East Asia,2023-06-26,0.0,4751563,0.0,34328
+Thailand,South-East Asia,2023-06-27,0.0,4751563,0.0,34328
+Thailand,South-East Asia,2023-06-28,0.0,4751563,0.0,34328
+Thailand,South-East Asia,2023-06-29,0.0,4751563,0.0,34328
+Thailand,South-East Asia,2023-06-30,0.0,4751563,0.0,34328
+Thailand,South-East Asia,2023-07-01,859.0,4752422,43.0,34371
+Thailand,South-East Asia,2023-07-02,0.0,4752422,0.0,34371
+Thailand,South-East Asia,2023-07-03,0.0,4752422,0.0,34371
+Thailand,South-East Asia,2023-07-04,0.0,4752422,0.0,34371
+Thailand,South-East Asia,2023-07-05,0.0,4752422,0.0,34371
+Thailand,South-East Asia,2023-07-06,0.0,4752422,0.0,34371
+Thailand,South-East Asia,2023-07-07,0.0,4752422,0.0,34371
+Thailand,South-East Asia,2023-07-08,1193.0,4753615,25.0,34396
+Thailand,South-East Asia,2023-07-09,0.0,4753615,0.0,34396
+Thailand,South-East Asia,2023-07-10,0.0,4753615,0.0,34396
+Thailand,South-East Asia,2023-07-11,0.0,4753615,0.0,34396
+Thailand,South-East Asia,2023-07-12,0.0,4753615,0.0,34396
+Thailand,South-East Asia,2023-07-13,0.0,4753615,0.0,34396
+Thailand,South-East Asia,2023-07-14,0.0,4753615,0.0,34396
+Thailand,South-East Asia,2023-07-15,613.0,4754228,14.0,34410
+Thailand,South-East Asia,2023-07-16,0.0,4754228,0.0,34410
+Thailand,South-East Asia,2023-07-17,0.0,4754228,0.0,34410
+Thailand,South-East Asia,2023-07-18,0.0,4754228,0.0,34410
+Thailand,South-East Asia,2023-07-19,0.0,4754228,0.0,34410
+Thailand,South-East Asia,2023-07-20,0.0,4754228,0.0,34410
+Thailand,South-East Asia,2023-07-21,0.0,4754228,0.0,34410
+Thailand,South-East Asia,2023-07-22,556.0,4754784,8.0,34418
+Thailand,South-East Asia,2023-07-23,0.0,4754784,0.0,34418
+Thailand,South-East Asia,2023-07-24,0.0,4754784,0.0,34418
+Thailand,South-East Asia,2023-07-25,0.0,4754784,0.0,34418
+Thailand,South-East Asia,2023-07-26,0.0,4754784,0.0,34418
+Thailand,South-East Asia,2023-07-27,0.0,4754784,0.0,34418
+Thailand,South-East Asia,2023-07-28,0.0,4754784,0.0,34418
+Thailand,South-East Asia,2023-07-29,391.0,4755175,7.0,34425
+Thailand,South-East Asia,2023-07-30,0.0,4755175,0.0,34425
+Thailand,South-East Asia,2023-07-31,0.0,4755175,0.0,34425
+Thailand,South-East Asia,2023-08-01,0.0,4755175,0.0,34425
+Thailand,South-East Asia,2023-08-02,0.0,4755175,0.0,34425
+Thailand,South-East Asia,2023-08-03,0.0,4755175,0.0,34425
+Thailand,South-East Asia,2023-08-04,0.0,4755175,0.0,34425
+Thailand,South-East Asia,2023-08-05,268.0,4755443,12.0,34437
+Thailand,South-East Asia,2023-08-06,0.0,4755443,0.0,34437
+Thailand,South-East Asia,2023-08-07,0.0,4755443,0.0,34437
+Thailand,South-East Asia,2023-08-08,0.0,4755443,0.0,34437
+Thailand,South-East Asia,2023-08-09,0.0,4755443,0.0,34437
+Thailand,South-East Asia,2023-08-10,0.0,4755443,0.0,34437
+Thailand,South-East Asia,2023-08-11,0.0,4755443,0.0,34437
+Thailand,South-East Asia,2023-08-12,318.0,4755761,7.0,34444
+Thailand,South-East Asia,2023-08-13,0.0,4755761,0.0,34444
+Thailand,South-East Asia,2023-08-14,0.0,4755761,0.0,34444
+Thailand,South-East Asia,2023-08-15,0.0,4755761,0.0,34444
+Thailand,South-East Asia,2023-08-16,0.0,4755761,0.0,34444
+Thailand,South-East Asia,2023-08-17,0.0,4755761,0.0,34444
+Thailand,South-East Asia,2023-08-18,0.0,4755761,0.0,34444
+Thailand,South-East Asia,2023-08-19,389.0,4756150,9.0,34453
+Thailand,South-East Asia,2023-08-20,0.0,4756150,0.0,34453
+Thailand,South-East Asia,2023-08-21,0.0,4756150,0.0,34453
+Thailand,South-East Asia,2023-08-22,0.0,4756150,0.0,34453
+Thailand,South-East Asia,2023-08-23,0.0,4756150,0.0,34453
+Thailand,South-East Asia,2023-08-24,0.0,4756150,0.0,34453
+Thailand,South-East Asia,2023-08-25,0.0,4756150,0.0,34453
+Thailand,South-East Asia,2023-08-26,256.0,4756406,6.0,34459
+Thailand,South-East Asia,2023-08-27,0.0,4756406,0.0,34459
+Thailand,South-East Asia,2023-08-28,0.0,4756406,0.0,34459
+Thailand,South-East Asia,2023-08-29,0.0,4756406,0.0,34459
+Thailand,South-East Asia,2023-08-30,0.0,4756406,0.0,34459
+Thailand,South-East Asia,2023-08-31,0.0,4756406,0.0,34459
+Thailand,South-East Asia,2023-09-01,0.0,4756406,0.0,34459
+Thailand,South-East Asia,2023-09-02,187.0,4756593,6.0,34465
+Thailand,South-East Asia,2023-09-03,0.0,4756593,0.0,34465
+Thailand,South-East Asia,2023-09-04,0.0,4756593,0.0,34465
+Thailand,South-East Asia,2023-09-05,0.0,4756593,0.0,34465
+Thailand,South-East Asia,2023-09-06,0.0,4756593,0.0,34465
+Thailand,South-East Asia,2023-09-07,0.0,4756593,0.0,34465
+Thailand,South-East Asia,2023-09-08,0.0,4756593,0.0,34465
+Thailand,South-East Asia,2023-09-09,244.0,4756837,3.0,34468
+Thailand,South-East Asia,2023-09-10,0.0,4756837,0.0,34468
+Thailand,South-East Asia,2023-09-11,0.0,4756837,0.0,34468
+Thailand,South-East Asia,2023-09-12,0.0,4756837,0.0,34468
+Thailand,South-East Asia,2023-09-13,0.0,4756837,0.0,34468
+Thailand,South-East Asia,2023-09-14,0.0,4756837,0.0,34468
+Thailand,South-East Asia,2023-09-15,0.0,4756837,0.0,34468
+Thailand,South-East Asia,2023-09-16,212.0,4757049,3.0,34471
+Thailand,South-East Asia,2023-09-17,0.0,4757049,0.0,34471
+Thailand,South-East Asia,2023-09-18,0.0,4757049,0.0,34471
+Thailand,South-East Asia,2023-09-19,0.0,4757049,0.0,34471
+Thailand,South-East Asia,2023-09-20,0.0,4757049,0.0,34471
+Thailand,South-East Asia,2023-09-21,0.0,4757049,0.0,34471
+Thailand,South-East Asia,2023-09-22,0.0,4757049,0.0,34471
+Thailand,South-East Asia,2023-09-23,234.0,4757283,2.0,34473
+Thailand,South-East Asia,2023-09-24,0.0,4757283,0.0,34473
+Thailand,South-East Asia,2023-09-25,0.0,4757283,0.0,34473
+Thailand,South-East Asia,2023-09-26,0.0,4757283,0.0,34473
+Thailand,South-East Asia,2023-09-27,0.0,4757283,0.0,34473
+Thailand,South-East Asia,2023-09-28,0.0,4757283,0.0,34473
+Thailand,South-East Asia,2023-09-29,0.0,4757283,0.0,34473
+Thailand,South-East Asia,2023-09-30,190.0,4757473,1.0,34474
+Thailand,South-East Asia,2023-10-01,0.0,4757473,0.0,34474
+Thailand,South-East Asia,2023-10-02,0.0,4757473,0.0,34474
+Thailand,South-East Asia,2023-10-03,0.0,4757473,0.0,34474
+Thailand,South-East Asia,2023-10-04,0.0,4757473,0.0,34474
+Thailand,South-East Asia,2023-10-05,0.0,4757473,0.0,34474
+Thailand,South-East Asia,2023-10-06,0.0,4757473,0.0,34474
+Thailand,South-East Asia,2023-10-07,131.0,4757604,5.0,34479
+Thailand,South-East Asia,2023-10-08,0.0,4757604,0.0,34479
+Thailand,South-East Asia,2023-10-09,0.0,4757604,0.0,34479
+Thailand,South-East Asia,2023-10-10,0.0,4757604,0.0,34479
+Thailand,South-East Asia,2023-10-11,0.0,4757604,0.0,34479
+Thailand,South-East Asia,2023-10-12,0.0,4757604,0.0,34479
+Thailand,South-East Asia,2023-10-13,0.0,4757604,0.0,34479
+Thailand,South-East Asia,2023-10-14,124.0,4757728,3.0,34482
+Thailand,South-East Asia,2023-10-15,0.0,4757728,0.0,34482
+Thailand,South-East Asia,2023-10-16,0.0,4757728,0.0,34482
+Thailand,South-East Asia,2023-10-17,0.0,4757728,0.0,34482
+Thailand,South-East Asia,2023-10-18,0.0,4757728,0.0,34482
+Thailand,South-East Asia,2023-10-19,0.0,4757728,0.0,34482
+Thailand,South-East Asia,2023-10-20,0.0,4757728,0.0,34482
+Thailand,South-East Asia,2023-10-21,0.0,4757728,0.0,34482
+Thailand,South-East Asia,2023-10-22,191.0,4757919,3.0,34485
+Thailand,South-East Asia,2023-10-23,0.0,4757919,0.0,34485
+Thailand,South-East Asia,2023-10-24,0.0,4757919,0.0,34485
+Thailand,South-East Asia,2023-10-25,0.0,4757919,0.0,34485
+Thailand,South-East Asia,2023-10-26,0.0,4757919,0.0,34485
+Thailand,South-East Asia,2023-10-27,0.0,4757919,0.0,34485
+Thailand,South-East Asia,2023-10-28,206.0,4758125,2.0,34487
+Thailand,South-East Asia,2023-10-29,0.0,4758125,0.0,34487
+Thailand,South-East Asia,2023-10-30,0.0,4758125,0.0,34487
+Thailand,South-East Asia,2023-10-31,0.0,4758125,0.0,34487
+Thailand,South-East Asia,2023-11-01,0.0,4758125,0.0,34487
+Thailand,South-East Asia,2023-11-02,0.0,4758125,0.0,34487
+Thailand,South-East Asia,2023-11-03,0.0,4758125,0.0,34487
+Thailand,South-East Asia,2023-11-04,304.0,4758429,1.0,34488
+Thailand,South-East Asia,2023-11-05,0.0,4758429,0.0,34488
+Thailand,South-East Asia,2023-11-06,0.0,4758429,0.0,34488
+Thailand,South-East Asia,2023-11-07,0.0,4758429,0.0,34488
+Thailand,South-East Asia,2023-11-08,0.0,4758429,0.0,34488
+Thailand,South-East Asia,2023-11-09,0.0,4758429,0.0,34488
+Thailand,South-East Asia,2023-11-10,0.0,4758429,0.0,34488
+Thailand,South-East Asia,2023-11-11,287.0,4758716,1.0,34489
+Thailand,South-East Asia,2023-11-12,0.0,4758716,0.0,34489
+Thailand,South-East Asia,2023-11-13,0.0,4758716,0.0,34489
+Thailand,South-East Asia,2023-11-14,0.0,4758716,0.0,34489
+Thailand,South-East Asia,2023-11-15,0.0,4758716,0.0,34489
+Thailand,South-East Asia,2023-11-16,0.0,4758716,0.0,34489
+Thailand,South-East Asia,2023-11-17,0.0,4758716,0.0,34489
+Thailand,South-East Asia,2023-11-18,390.0,4759106,1.0,34490
+Thailand,South-East Asia,2023-11-19,0.0,4759106,0.0,34490
+Thailand,South-East Asia,2023-11-20,0.0,4759106,0.0,34490
+Thailand,South-East Asia,2023-11-21,0.0,4759106,0.0,34490
+Thailand,South-East Asia,2023-11-22,0.0,4759106,0.0,34490
+Thailand,South-East Asia,2023-11-23,0.0,4759106,0.0,34490
+Thailand,South-East Asia,2023-11-24,0.0,4759106,0.0,34490
+Thailand,South-East Asia,2023-11-25,480.0,4759586,2.0,34492
+Thailand,South-East Asia,2023-11-26,0.0,4759586,0.0,34492
+Thailand,South-East Asia,2023-11-27,0.0,4759586,0.0,34492
+Thailand,South-East Asia,2023-11-28,0.0,4759586,0.0,34492
+Thailand,South-East Asia,2023-11-29,0.0,4759586,0.0,34492
+Thailand,South-East Asia,2023-11-30,0.0,4759586,0.0,34492
+Thailand,South-East Asia,2023-12-01,0.0,4759586,0.0,34492
+Thailand,South-East Asia,2023-12-02,536.0,4760122,3.0,34495
+Thailand,South-East Asia,2023-12-03,0.0,4760122,0.0,34495
+Thailand,South-East Asia,2023-12-04,0.0,4760122,0.0,34495
+Thailand,South-East Asia,2023-12-05,0.0,4760122,0.0,34495
+Thailand,South-East Asia,2023-12-06,0.0,4760122,0.0,34495
+Thailand,South-East Asia,2023-12-07,0.0,4760122,0.0,34495
+Thailand,South-East Asia,2023-12-08,0.0,4760122,0.0,34495
+Thailand,South-East Asia,2023-12-09,590.0,4760712,5.0,34500
+Thailand,South-East Asia,2023-12-10,0.0,4760712,0.0,34500
+Thailand,South-East Asia,2023-12-11,0.0,4760712,0.0,34500
+Thailand,South-East Asia,2023-12-12,0.0,4760712,0.0,34500
+Thailand,South-East Asia,2023-12-13,0.0,4760712,0.0,34500
+Thailand,South-East Asia,2023-12-14,0.0,4760712,0.0,34500
+Thailand,South-East Asia,2023-12-15,0.0,4760712,0.0,34500
+Thailand,South-East Asia,2023-12-16,514.0,4761226,6.0,34506
+Thailand,South-East Asia,2023-12-17,0.0,4761226,0.0,34506
+Thailand,South-East Asia,2023-12-18,0.0,4761226,0.0,34506
+Thailand,South-East Asia,2023-12-19,0.0,4761226,0.0,34506
+Thailand,South-East Asia,2023-12-20,0.0,4761226,0.0,34506
+Thailand,South-East Asia,2023-12-21,0.0,4761226,0.0,34506
+Thailand,South-East Asia,2023-12-22,0.0,4761226,0.0,34506
+Thailand,South-East Asia,2023-12-23,555.0,4761781,8.0,34514
+Thailand,South-East Asia,2023-12-24,0.0,4761781,0.0,34514
+Thailand,South-East Asia,2023-12-25,0.0,4761781,0.0,34514
+Thailand,South-East Asia,2023-12-26,0.0,4761781,0.0,34514
+Thailand,South-East Asia,2023-12-27,0.0,4761781,0.0,34514
+Thailand,South-East Asia,2023-12-28,0.0,4761781,0.0,34514
+Thailand,South-East Asia,2023-12-29,0.0,4761781,0.0,34514
+Thailand,South-East Asia,2023-12-30,594.0,4762375,3.0,34517
+Thailand,South-East Asia,2023-12-31,0.0,4762375,0.0,34517

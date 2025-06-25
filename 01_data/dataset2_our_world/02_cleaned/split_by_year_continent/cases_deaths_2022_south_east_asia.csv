@@ -1,0 +1,3286 @@
+country,region,date,new_cases,total_cases,new_deaths,total_deaths
+Bangladesh,South-East Asia,2022-01-01,370.0,1585909,4.0,28076
+Bangladesh,South-East Asia,2022-01-02,557.0,1586466,1.0,28077
+Bangladesh,South-East Asia,2022-01-03,674.0,1587140,4.0,28081
+Bangladesh,South-East Asia,2022-01-04,775.0,1587915,6.0,28087
+Bangladesh,South-East Asia,2022-01-05,892.0,1588807,3.0,28090
+Bangladesh,South-East Asia,2022-01-06,1140.0,1589947,7.0,28097
+Bangladesh,South-East Asia,2022-01-07,1146.0,1591093,1.0,28098
+Bangladesh,South-East Asia,2022-01-08,1116.0,1592209,1.0,28099
+Bangladesh,South-East Asia,2022-01-09,1491.0,1593700,3.0,28102
+Bangladesh,South-East Asia,2022-01-10,2231.0,1595931,3.0,28105
+Bangladesh,South-East Asia,2022-01-11,2458.0,1598389,2.0,28107
+Bangladesh,South-East Asia,2022-01-12,2916.0,1601305,4.0,28111
+Bangladesh,South-East Asia,2022-01-13,3359.0,1604664,12.0,28123
+Bangladesh,South-East Asia,2022-01-14,4378.0,1609042,6.0,28129
+Bangladesh,South-East Asia,2022-01-15,3447.0,1612489,7.0,28136
+Bangladesh,South-East Asia,2022-01-16,5222.0,1617711,8.0,28144
+Bangladesh,South-East Asia,2022-01-17,6676.0,1624387,10.0,28154
+Bangladesh,South-East Asia,2022-01-18,8407.0,1632794,10.0,28164
+Bangladesh,South-East Asia,2022-01-19,9500.0,1642294,12.0,28176
+Bangladesh,South-East Asia,2022-01-20,10888.0,1653182,4.0,28180
+Bangladesh,South-East Asia,2022-01-21,11434.0,1664616,12.0,28192
+Bangladesh,South-East Asia,2022-01-22,9614.0,1674230,17.0,28209
+Bangladesh,South-East Asia,2022-01-23,10906.0,1685136,14.0,28223
+Bangladesh,South-East Asia,2022-01-24,14828.0,1699964,15.0,28238
+Bangladesh,South-East Asia,2022-01-25,16033.0,1715997,18.0,28256
+Bangladesh,South-East Asia,2022-01-26,15527.0,1731524,17.0,28273
+Bangladesh,South-East Asia,2022-01-27,15807.0,1747331,15.0,28288
+Bangladesh,South-East Asia,2022-01-28,15440.0,1762771,20.0,28308
+Bangladesh,South-East Asia,2022-01-29,10378.0,1773149,21.0,28329
+Bangladesh,South-East Asia,2022-01-30,12183.0,1785332,34.0,28363
+Bangladesh,South-East Asia,2022-01-31,13501.0,1798833,31.0,28394
+Bangladesh,South-East Asia,2022-02-01,13154.0,1811987,31.0,28425
+Bangladesh,South-East Asia,2022-02-02,12193.0,1824180,36.0,28461
+Bangladesh,South-East Asia,2022-02-03,11596.0,1835776,33.0,28494
+Bangladesh,South-East Asia,2022-02-04,9052.0,1844828,30.0,28524
+Bangladesh,South-East Asia,2022-02-05,8359.0,1853187,36.0,28560
+Bangladesh,South-East Asia,2022-02-06,8345.0,1861532,29.0,28589
+Bangladesh,South-East Asia,2022-02-07,9369.0,1870901,38.0,28627
+Bangladesh,South-East Asia,2022-02-08,8354.0,1879255,43.0,28670
+Bangladesh,South-East Asia,2022-02-09,8016.0,1887271,33.0,28703
+Bangladesh,South-East Asia,2022-02-10,7264.0,1894535,41.0,28744
+Bangladesh,South-East Asia,2022-02-11,5268.0,1899803,27.0,28771
+Bangladesh,South-East Asia,2022-02-12,5023.0,1904826,20.0,28791
+Bangladesh,South-East Asia,2022-02-13,4838.0,1909664,28.0,28819
+Bangladesh,South-East Asia,2022-02-14,4692.0,1914356,19.0,28838
+Bangladesh,South-East Asia,2022-02-15,4746.0,1919102,34.0,28872
+Bangladesh,South-East Asia,2022-02-16,3929.0,1923031,15.0,28887
+Bangladesh,South-East Asia,2022-02-17,3539.0,1926570,20.0,28907
+Bangladesh,South-East Asia,2022-02-18,2584.0,1929154,24.0,28931
+Bangladesh,South-East Asia,2022-02-19,2150.0,1931304,13.0,28944
+Bangladesh,South-East Asia,2022-02-20,1987.0,1933291,21.0,28965
+Bangladesh,South-East Asia,2022-02-21,1951.0,1935242,9.0,28974
+Bangladesh,South-East Asia,2022-02-22,1595.0,1936837,16.0,28990
+Bangladesh,South-East Asia,2022-02-23,1298.0,1938135,5.0,28995
+Bangladesh,South-East Asia,2022-02-24,1516.0,1939651,10.0,29005
+Bangladesh,South-East Asia,2022-02-25,1406.0,1941057,11.0,29016
+Bangladesh,South-East Asia,2022-02-26,759.0,1941816,8.0,29024
+Bangladesh,South-East Asia,2022-02-27,864.0,1942680,9.0,29033
+Bangladesh,South-East Asia,2022-02-28,897.0,1943577,4.0,29037
+Bangladesh,South-East Asia,2022-03-01,799.0,1944376,8.0,29045
+Bangladesh,South-East Asia,2022-03-02,732.0,1945108,8.0,29053
+Bangladesh,South-East Asia,2022-03-03,657.0,1945765,5.0,29058
+Bangladesh,South-East Asia,2022-03-04,604.0,1946369,6.0,29064
+Bangladesh,South-East Asia,2022-03-05,368.0,1946737,13.0,29077
+Bangladesh,South-East Asia,2022-03-06,529.0,1947266,8.0,29085
+Bangladesh,South-East Asia,2022-03-07,436.0,1947702,4.0,29089
+Bangladesh,South-East Asia,2022-03-08,446.0,1948148,7.0,29096
+Bangladesh,South-East Asia,2022-03-09,323.0,1948471,1.0,29097
+Bangladesh,South-East Asia,2022-03-10,327.0,1948798,3.0,29100
+Bangladesh,South-East Asia,2022-03-11,257.0,1949055,5.0,29105
+Bangladesh,South-East Asia,2022-03-12,198.0,1949253,3.0,29108
+Bangladesh,South-East Asia,2022-03-13,233.0,1949486,3.0,29111
+Bangladesh,South-East Asia,2022-03-14,239.0,1949725,1.0,29112
+Bangladesh,South-East Asia,2022-03-15,217.0,1949942,0.0,29112
+Bangladesh,South-East Asia,2022-03-16,182.0,1950124,0.0,29112
+Bangladesh,South-East Asia,2022-03-17,233.0,1950357,0.0,29112
+Bangladesh,South-East Asia,2022-03-18,108.0,1950465,2.0,29114
+Bangladesh,South-East Asia,2022-03-19,62.0,1950527,0.0,29114
+Bangladesh,South-East Asia,2022-03-20,82.0,1950609,3.0,29117
+Bangladesh,South-East Asia,2022-03-21,116.0,1950725,0.0,29117
+Bangladesh,South-East Asia,2022-03-22,121.0,1950846,0.0,29117
+Bangladesh,South-East Asia,2022-03-23,134.0,1950980,1.0,29118
+Bangladesh,South-East Asia,2022-03-24,92.0,1951072,0.0,29118
+Bangladesh,South-East Asia,2022-03-25,102.0,1951174,0.0,29118
+Bangladesh,South-East Asia,2022-03-26,65.0,1951239,0.0,29118
+Bangladesh,South-East Asia,2022-03-27,43.0,1951282,0.0,29118
+Bangladesh,South-East Asia,2022-03-28,81.0,1951363,1.0,29119
+Bangladesh,South-East Asia,2022-03-29,69.0,1951432,1.0,29120
+Bangladesh,South-East Asia,2022-03-30,72.0,1951504,2.0,29122
+Bangladesh,South-East Asia,2022-03-31,73.0,1951577,0.0,29122
+Bangladesh,South-East Asia,2022-04-01,81.0,1951658,0.0,29122
+Bangladesh,South-East Asia,2022-04-02,56.0,1951714,0.0,29122
+Bangladesh,South-East Asia,2022-04-03,56.0,1951770,0.0,29122
+Bangladesh,South-East Asia,2022-04-04,61.0,1951831,1.0,29123
+Bangladesh,South-East Asia,2022-04-05,0.0,1951831,0.0,29123
+Bangladesh,South-East Asia,2022-04-06,36.0,1951867,0.0,29123
+Bangladesh,South-East Asia,2022-04-07,44.0,1951911,0.0,29123
+Bangladesh,South-East Asia,2022-04-08,84.0,1951995,0.0,29123
+Bangladesh,South-East Asia,2022-04-09,28.0,1952023,0.0,29123
+Bangladesh,South-East Asia,2022-04-10,42.0,1952065,0.0,29123
+Bangladesh,South-East Asia,2022-04-11,44.0,1952109,1.0,29124
+Bangladesh,South-East Asia,2022-04-12,22.0,1952131,0.0,29124
+Bangladesh,South-East Asia,2022-04-13,31.0,1952162,0.0,29124
+Bangladesh,South-East Asia,2022-04-14,35.0,1952197,0.0,29124
+Bangladesh,South-East Asia,2022-04-15,27.0,1952224,0.0,29124
+Bangladesh,South-East Asia,2022-04-16,51.0,1952275,0.0,29124
+Bangladesh,South-East Asia,2022-04-17,51.0,1952326,0.0,29124
+Bangladesh,South-East Asia,2022-04-18,36.0,1952362,2.0,29126
+Bangladesh,South-East Asia,2022-04-19,50.0,1952412,0.0,29126
+Bangladesh,South-East Asia,2022-04-20,28.0,1952440,1.0,29127
+Bangladesh,South-East Asia,2022-04-21,45.0,1952485,0.0,29127
+Bangladesh,South-East Asia,2022-04-22,21.0,1952506,0.0,29127
+Bangladesh,South-East Asia,2022-04-23,26.0,1952532,0.0,29127
+Bangladesh,South-East Asia,2022-04-24,24.0,1952556,0.0,29127
+Bangladesh,South-East Asia,2022-04-25,27.0,1952583,0.0,29127
+Bangladesh,South-East Asia,2022-04-26,19.0,1952602,0.0,29127
+Bangladesh,South-East Asia,2022-04-27,23.0,1952625,0.0,29127
+Bangladesh,South-East Asia,2022-04-28,19.0,1952644,0.0,29127
+Bangladesh,South-East Asia,2022-04-29,30.0,1952674,0.0,29127
+Bangladesh,South-East Asia,2022-04-30,17.0,1952691,0.0,29127
+Bangladesh,South-East Asia,2022-05-01,25.0,1952716,0.0,29127
+Bangladesh,South-East Asia,2022-05-02,10.0,1952726,0.0,29127
+Bangladesh,South-East Asia,2022-05-03,7.0,1952733,0.0,29127
+Bangladesh,South-East Asia,2022-05-04,10.0,1952743,0.0,29127
+Bangladesh,South-East Asia,2022-05-05,4.0,1952747,0.0,29127
+Bangladesh,South-East Asia,2022-05-06,19.0,1952766,0.0,29127
+Bangladesh,South-East Asia,2022-05-07,10.0,1952776,0.0,29127
+Bangladesh,South-East Asia,2022-05-08,23.0,1952799,0.0,29127
+Bangladesh,South-East Asia,2022-05-09,30.0,1952829,0.0,29127
+Bangladesh,South-East Asia,2022-05-10,26.0,1952855,0.0,29127
+Bangladesh,South-East Asia,2022-05-11,33.0,1952888,0.0,29127
+Bangladesh,South-East Asia,2022-05-12,51.0,1952939,0.0,29127
+Bangladesh,South-East Asia,2022-05-13,18.0,1952957,0.0,29127
+Bangladesh,South-East Asia,2022-05-14,22.0,1952979,0.0,29127
+Bangladesh,South-East Asia,2022-05-15,33.0,1953012,0.0,29127
+Bangladesh,South-East Asia,2022-05-16,37.0,1953049,0.0,29127
+Bangladesh,South-East Asia,2022-05-17,32.0,1953081,0.0,29127
+Bangladesh,South-East Asia,2022-05-18,22.0,1953103,0.0,29127
+Bangladesh,South-East Asia,2022-05-19,35.0,1953138,0.0,29127
+Bangladesh,South-East Asia,2022-05-20,50.0,1953188,0.0,29127
+Bangladesh,South-East Asia,2022-05-21,0.0,1953188,0.0,29127
+Bangladesh,South-East Asia,2022-05-22,16.0,1953204,1.0,29128
+Bangladesh,South-East Asia,2022-05-23,29.0,1953233,0.0,29128
+Bangladesh,South-East Asia,2022-05-24,31.0,1953264,2.0,29130
+Bangladesh,South-East Asia,2022-05-25,34.0,1953298,0.0,29130
+Bangladesh,South-East Asia,2022-05-26,30.0,1953328,0.0,29130
+Bangladesh,South-East Asia,2022-05-27,28.0,1953356,0.0,29130
+Bangladesh,South-East Asia,2022-05-28,23.0,1953379,0.0,29130
+Bangladesh,South-East Asia,2022-05-29,28.0,1953407,0.0,29130
+Bangladesh,South-East Asia,2022-05-30,40.0,1953447,0.0,29130
+Bangladesh,South-East Asia,2022-05-31,34.0,1953481,1.0,29131
+Bangladesh,South-East Asia,2022-06-01,26.0,1953507,0.0,29131
+Bangladesh,South-East Asia,2022-06-02,34.0,1953541,0.0,29131
+Bangladesh,South-East Asia,2022-06-03,22.0,1953563,0.0,29131
+Bangladesh,South-East Asia,2022-06-04,29.0,1953592,0.0,29131
+Bangladesh,South-East Asia,2022-06-05,31.0,1953623,0.0,29131
+Bangladesh,South-East Asia,2022-06-06,34.0,1953657,0.0,29131
+Bangladesh,South-East Asia,2022-06-07,43.0,1953700,0.0,29131
+Bangladesh,South-East Asia,2022-06-08,54.0,1953754,0.0,29131
+Bangladesh,South-East Asia,2022-06-09,58.0,1953812,0.0,29131
+Bangladesh,South-East Asia,2022-06-10,123.0,1953935,0.0,29131
+Bangladesh,South-East Asia,2022-06-11,71.0,1954006,0.0,29131
+Bangladesh,South-East Asia,2022-06-12,109.0,1954115,0.0,29131
+Bangladesh,South-East Asia,2022-06-13,128.0,1954243,0.0,29131
+Bangladesh,South-East Asia,2022-06-14,162.0,1954405,0.0,29131
+Bangladesh,South-East Asia,2022-06-15,232.0,1954637,0.0,29131
+Bangladesh,South-East Asia,2022-06-16,357.0,1954994,0.0,29131
+Bangladesh,South-East Asia,2022-06-17,433.0,1955427,0.0,29131
+Bangladesh,South-East Asia,2022-06-18,304.0,1955731,0.0,29131
+Bangladesh,South-East Asia,2022-06-19,596.0,1956327,0.0,29131
+Bangladesh,South-East Asia,2022-06-20,873.0,1957200,1.0,29132
+Bangladesh,South-East Asia,2022-06-21,874.0,1958074,1.0,29133
+Bangladesh,South-East Asia,2022-06-22,1135.0,1959209,1.0,29134
+Bangladesh,South-East Asia,2022-06-23,1319.0,1960528,1.0,29135
+Bangladesh,South-East Asia,2022-06-24,1685.0,1962213,0.0,29135
+Bangladesh,South-East Asia,2022-06-25,1280.0,1963493,3.0,29138
+Bangladesh,South-East Asia,2022-06-26,1680.0,1965173,2.0,29140
+Bangladesh,South-East Asia,2022-06-27,2101.0,1967274,2.0,29142
+Bangladesh,South-East Asia,2022-06-28,2087.0,1969361,3.0,29145
+Bangladesh,South-East Asia,2022-06-29,2241.0,1971602,0.0,29145
+Bangladesh,South-East Asia,2022-06-30,2183.0,1973785,4.0,29149
+Bangladesh,South-East Asia,2022-07-01,1897.0,1975682,5.0,29154
+Bangladesh,South-East Asia,2022-07-02,1105.0,1976787,6.0,29160
+Bangladesh,South-East Asia,2022-07-03,1902.0,1978689,2.0,29162
+Bangladesh,South-East Asia,2022-07-04,2285.0,1980974,12.0,29174
+Bangladesh,South-East Asia,2022-07-05,1998.0,1982972,7.0,29181
+Bangladesh,South-East Asia,2022-07-06,1728.0,1984700,4.0,29185
+Bangladesh,South-East Asia,2022-07-07,1790.0,1986490,3.0,29188
+Bangladesh,South-East Asia,2022-07-08,1611.0,1988101,7.0,29195
+Bangladesh,South-East Asia,2022-07-09,939.0,1989040,3.0,29198
+Bangladesh,South-East Asia,2022-07-10,814.0,1989854,2.0,29200
+Bangladesh,South-East Asia,2022-07-11,521.0,1990375,3.0,29203
+Bangladesh,South-East Asia,2022-07-12,656.0,1991031,9.0,29212
+Bangladesh,South-East Asia,2022-07-13,1027.0,1992058,5.0,29217
+Bangladesh,South-East Asia,2022-07-14,1324.0,1993382,6.0,29223
+Bangladesh,South-East Asia,2022-07-15,1051.0,1994433,2.0,29225
+Bangladesh,South-East Asia,2022-07-16,1007.0,1995440,5.0,29230
+Bangladesh,South-East Asia,2022-07-17,900.0,1996340,4.0,29234
+Bangladesh,South-East Asia,2022-07-18,1072.0,1997412,7.0,29241
+Bangladesh,South-East Asia,2022-07-19,879.0,1998291,8.0,29249
+Bangladesh,South-East Asia,2022-07-20,1104.0,1999395,1.0,29250
+Bangladesh,South-East Asia,2022-07-21,884.0,2000279,6.0,29256
+Bangladesh,South-East Asia,2022-07-22,620.0,2000899,2.0,29258
+Bangladesh,South-East Asia,2022-07-23,446.0,2001345,4.0,29262
+Bangladesh,South-East Asia,2022-07-24,430.0,2001775,4.0,29266
+Bangladesh,South-East Asia,2022-07-25,548.0,2002323,5.0,29271
+Bangladesh,South-East Asia,2022-07-26,621.0,2002944,4.0,29275
+Bangladesh,South-East Asia,2022-07-27,626.0,2003570,5.0,29280
+Bangladesh,South-East Asia,2022-07-28,618.0,2004188,4.0,29284
+Bangladesh,South-East Asia,2022-07-29,355.0,2004543,1.0,29285
+Bangladesh,South-East Asia,2022-07-30,349.0,2004892,3.0,29288
+Bangladesh,South-East Asia,2022-07-31,365.0,2005257,3.0,29291
+Bangladesh,South-East Asia,2022-08-01,349.0,2005606,1.0,29292
+Bangladesh,South-East Asia,2022-08-02,387.0,2005993,3.0,29295
+Bangladesh,South-East Asia,2022-08-03,375.0,2006368,3.0,29298
+Bangladesh,South-East Asia,2022-08-04,278.0,2006646,2.0,29300
+Bangladesh,South-East Asia,2022-08-05,253.0,2006899,2.0,29302
+Bangladesh,South-East Asia,2022-08-06,220.0,2007119,2.0,29304
+Bangladesh,South-East Asia,2022-08-07,216.0,2007335,0.0,29304
+Bangladesh,South-East Asia,2022-08-08,296.0,2007631,3.0,29307
+Bangladesh,South-East Asia,2022-08-09,239.0,2007870,1.0,29308
+Bangladesh,South-East Asia,2022-08-10,198.0,2008068,1.0,29309
+Bangladesh,South-East Asia,2022-08-11,214.0,2008282,1.0,29310
+Bangladesh,South-East Asia,2022-08-12,218.0,2008500,2.0,29312
+Bangladesh,South-East Asia,2022-08-13,144.0,2008644,0.0,29312
+Bangladesh,South-East Asia,2022-08-14,226.0,2008870,1.0,29313
+Bangladesh,South-East Asia,2022-08-15,259.0,2009129,1.0,29314
+Bangladesh,South-East Asia,2022-08-16,93.0,2009222,0.0,29314
+Bangladesh,South-East Asia,2022-08-17,212.0,2009434,0.0,29314
+Bangladesh,South-East Asia,2022-08-18,170.0,2009604,1.0,29315
+Bangladesh,South-East Asia,2022-08-19,93.0,2009697,0.0,29315
+Bangladesh,South-East Asia,2022-08-20,100.0,2009797,0.0,29315
+Bangladesh,South-East Asia,2022-08-21,173.0,2009970,0.0,29315
+Bangladesh,South-East Asia,2022-08-22,178.0,2010148,1.0,29316
+Bangladesh,South-East Asia,2022-08-23,175.0,2010323,0.0,29316
+Bangladesh,South-East Asia,2022-08-24,167.0,2010490,3.0,29319
+Bangladesh,South-East Asia,2022-08-25,258.0,2010748,1.0,29320
+Bangladesh,South-East Asia,2022-08-26,196.0,2010944,1.0,29321
+Bangladesh,South-East Asia,2022-08-27,156.0,2011100,2.0,29323
+Bangladesh,South-East Asia,2022-08-28,217.0,2011317,0.0,29323
+Bangladesh,South-East Asia,2022-08-29,243.0,2011560,0.0,29323
+Bangladesh,South-East Asia,2022-08-30,172.0,2011732,0.0,29323
+Bangladesh,South-East Asia,2022-08-31,214.0,2011946,0.0,29323
+Bangladesh,South-East Asia,2022-09-01,216.0,2012162,2.0,29325
+Bangladesh,South-East Asia,2022-09-02,214.0,2012376,1.0,29326
+Bangladesh,South-East Asia,2022-09-03,155.0,2012531,1.0,29327
+Bangladesh,South-East Asia,2022-09-04,230.0,2012761,1.0,29328
+Bangladesh,South-East Asia,2022-09-05,333.0,2013094,0.0,29328
+Bangladesh,South-East Asia,2022-09-06,313.0,2013407,1.0,29329
+Bangladesh,South-East Asia,2022-09-07,282.0,2013689,0.0,29329
+Bangladesh,South-East Asia,2022-09-08,388.0,2014077,1.0,29330
+Bangladesh,South-East Asia,2022-09-09,278.0,2014355,1.0,29331
+Bangladesh,South-East Asia,2022-09-10,222.0,2014577,1.0,29332
+Bangladesh,South-East Asia,2022-09-11,310.0,2014887,2.0,29334
+Bangladesh,South-East Asia,2022-09-12,421.0,2015308,0.0,29334
+Bangladesh,South-East Asia,2022-09-13,435.0,2015743,1.0,29335
+Bangladesh,South-East Asia,2022-09-14,402.0,2016145,1.0,29336
+Bangladesh,South-East Asia,2022-09-15,438.0,2016583,1.0,29337
+Bangladesh,South-East Asia,2022-09-16,363.0,2016946,2.0,29339
+Bangladesh,South-East Asia,2022-09-17,141.0,2017087,0.0,29339
+Bangladesh,South-East Asia,2022-09-18,527.0,2017614,0.0,29339
+Bangladesh,South-East Asia,2022-09-19,601.0,2018215,1.0,29340
+Bangladesh,South-East Asia,2022-09-20,614.0,2018829,5.0,29345
+Bangladesh,South-East Asia,2022-09-21,641.0,2019470,0.0,29345
+Bangladesh,South-East Asia,2022-09-22,678.0,2020148,1.0,29346
+Bangladesh,South-East Asia,2022-09-23,620.0,2020768,1.0,29347
+Bangladesh,South-East Asia,2022-09-24,350.0,2021118,4.0,29351
+Bangladesh,South-East Asia,2022-09-25,572.0,2021690,2.0,29353
+Bangladesh,South-East Asia,2022-09-26,718.0,2022408,6.0,29359
+Bangladesh,South-East Asia,2022-09-27,737.0,2023145,1.0,29360
+Bangladesh,South-East Asia,2022-09-28,665.0,2023810,0.0,29360
+Bangladesh,South-East Asia,2022-09-29,679.0,2024489,2.0,29362
+Bangladesh,South-East Asia,2022-09-30,708.0,2025197,1.0,29363
+Bangladesh,South-East Asia,2022-10-01,480.0,2025677,5.0,29368
+Bangladesh,South-East Asia,2022-10-02,535.0,2026212,1.0,29369
+Bangladesh,South-East Asia,2022-10-03,696.0,2026908,2.0,29371
+Bangladesh,South-East Asia,2022-10-04,657.0,2027565,1.0,29372
+Bangladesh,South-East Asia,2022-10-05,549.0,2028114,2.0,29374
+Bangladesh,South-East Asia,2022-10-06,410.0,2028524,1.0,29375
+Bangladesh,South-East Asia,2022-10-07,491.0,2029015,5.0,29380
+Bangladesh,South-East Asia,2022-10-08,299.0,2029314,0.0,29380
+Bangladesh,South-East Asia,2022-10-09,409.0,2029723,1.0,29381
+Bangladesh,South-East Asia,2022-10-10,367.0,2030090,3.0,29384
+Bangladesh,South-East Asia,2022-10-11,460.0,2030550,2.0,29386
+Bangladesh,South-East Asia,2022-10-12,456.0,2031006,2.0,29388
+Bangladesh,South-East Asia,2022-10-13,445.0,2031451,1.0,29389
+Bangladesh,South-East Asia,2022-10-14,346.0,2031797,4.0,29393
+Bangladesh,South-East Asia,2022-10-15,295.0,2032092,2.0,29395
+Bangladesh,South-East Asia,2022-10-16,351.0,2032443,6.0,29401
+Bangladesh,South-East Asia,2022-10-17,389.0,2032832,1.0,29402
+Bangladesh,South-East Asia,2022-10-18,287.0,2033119,6.0,29408
+Bangladesh,South-East Asia,2022-10-19,300.0,2033419,2.0,29410
+Bangladesh,South-East Asia,2022-10-20,243.0,2033662,1.0,29411
+Bangladesh,South-East Asia,2022-10-21,216.0,2033878,0.0,29411
+Bangladesh,South-East Asia,2022-10-22,124.0,2034002,1.0,29412
+Bangladesh,South-East Asia,2022-10-23,139.0,2034141,1.0,29413
+Bangladesh,South-East Asia,2022-10-24,207.0,2034348,2.0,29415
+Bangladesh,South-East Asia,2022-10-25,185.0,2034533,1.0,29416
+Bangladesh,South-East Asia,2022-10-26,196.0,2034729,0.0,29416
+Bangladesh,South-East Asia,2022-10-27,137.0,2034866,1.0,29417
+Bangladesh,South-East Asia,2022-10-28,102.0,2034968,1.0,29418
+Bangladesh,South-East Asia,2022-10-29,69.0,2035037,1.0,29419
+Bangladesh,South-East Asia,2022-10-30,115.0,2035152,4.0,29423
+Bangladesh,South-East Asia,2022-10-31,88.0,2035240,0.0,29423
+Bangladesh,South-East Asia,2022-11-01,94.0,2035334,1.0,29424
+Bangladesh,South-East Asia,2022-11-02,183.0,2035517,0.0,29424
+Bangladesh,South-East Asia,2022-11-03,140.0,2035657,1.0,29425
+Bangladesh,South-East Asia,2022-11-04,88.0,2035745,0.0,29425
+Bangladesh,South-East Asia,2022-11-05,37.0,2035782,0.0,29425
+Bangladesh,South-East Asia,2022-11-06,46.0,2035828,1.0,29426
+Bangladesh,South-East Asia,2022-11-07,54.0,2035882,0.0,29426
+Bangladesh,South-East Asia,2022-11-08,48.0,2035930,0.0,29426
+Bangladesh,South-East Asia,2022-11-09,62.0,2035992,0.0,29426
+Bangladesh,South-East Asia,2022-11-10,69.0,2036061,0.0,29426
+Bangladesh,South-East Asia,2022-11-11,48.0,2036109,0.0,29426
+Bangladesh,South-East Asia,2022-11-12,22.0,2036131,0.0,29426
+Bangladesh,South-East Asia,2022-11-13,35.0,2036166,1.0,29427
+Bangladesh,South-East Asia,2022-11-14,38.0,2036204,2.0,29429
+Bangladesh,South-East Asia,2022-11-15,29.0,2036233,0.0,29429
+Bangladesh,South-East Asia,2022-11-16,35.0,2036268,1.0,29430
+Bangladesh,South-East Asia,2022-11-17,38.0,2036306,0.0,29430
+Bangladesh,South-East Asia,2022-11-18,19.0,2036325,0.0,29430
+Bangladesh,South-East Asia,2022-11-19,18.0,2036343,0.0,29430
+Bangladesh,South-East Asia,2022-11-20,24.0,2036367,0.0,29430
+Bangladesh,South-East Asia,2022-11-21,26.0,2036393,1.0,29431
+Bangladesh,South-East Asia,2022-11-22,23.0,2036416,0.0,29431
+Bangladesh,South-East Asia,2022-11-23,33.0,2036449,0.0,29431
+Bangladesh,South-East Asia,2022-11-24,20.0,2036469,0.0,29431
+Bangladesh,South-East Asia,2022-11-25,19.0,2036488,0.0,29431
+Bangladesh,South-East Asia,2022-11-26,23.0,2036511,0.0,29431
+Bangladesh,South-East Asia,2022-11-27,16.0,2036527,0.0,29431
+Bangladesh,South-East Asia,2022-11-28,29.0,2036556,1.0,29432
+Bangladesh,South-East Asia,2022-11-29,11.0,2036567,1.0,29433
+Bangladesh,South-East Asia,2022-11-30,18.0,2036585,0.0,29433
+Bangladesh,South-East Asia,2022-12-01,12.0,2036597,0.0,29433
+Bangladesh,South-East Asia,2022-12-02,15.0,2036612,1.0,29434
+Bangladesh,South-East Asia,2022-12-03,10.0,2036622,0.0,29434
+Bangladesh,South-East Asia,2022-12-04,15.0,2036637,0.0,29434
+Bangladesh,South-East Asia,2022-12-05,26.0,2036663,1.0,29435
+Bangladesh,South-East Asia,2022-12-06,22.0,2036685,0.0,29435
+Bangladesh,South-East Asia,2022-12-07,32.0,2036717,1.0,29436
+Bangladesh,South-East Asia,2022-12-08,13.0,2036730,0.0,29436
+Bangladesh,South-East Asia,2022-12-09,30.0,2036760,0.0,29436
+Bangladesh,South-East Asia,2022-12-10,17.0,2036777,0.0,29436
+Bangladesh,South-East Asia,2022-12-11,29.0,2036806,0.0,29436
+Bangladesh,South-East Asia,2022-12-12,19.0,2036825,1.0,29437
+Bangladesh,South-East Asia,2022-12-13,20.0,2036845,0.0,29437
+Bangladesh,South-East Asia,2022-12-14,21.0,2036866,0.0,29437
+Bangladesh,South-East Asia,2022-12-15,15.0,2036881,0.0,29437
+Bangladesh,South-East Asia,2022-12-16,16.0,2036897,0.0,29437
+Bangladesh,South-East Asia,2022-12-17,14.0,2036911,1.0,29438
+Bangladesh,South-East Asia,2022-12-18,17.0,2036928,0.0,29438
+Bangladesh,South-East Asia,2022-12-19,20.0,2036948,0.0,29438
+Bangladesh,South-East Asia,2022-12-20,19.0,2036967,0.0,29438
+Bangladesh,South-East Asia,2022-12-21,20.0,2036987,0.0,29438
+Bangladesh,South-East Asia,2022-12-22,16.0,2037003,0.0,29438
+Bangladesh,South-East Asia,2022-12-23,8.0,2037011,0.0,29438
+Bangladesh,South-East Asia,2022-12-24,7.0,2037018,0.0,29438
+Bangladesh,South-East Asia,2022-12-25,6.0,2037024,1.0,29439
+Bangladesh,South-East Asia,2022-12-26,7.0,2037031,0.0,29439
+Bangladesh,South-East Asia,2022-12-27,15.0,2037046,0.0,29439
+Bangladesh,South-East Asia,2022-12-28,21.0,2037067,0.0,29439
+Bangladesh,South-East Asia,2022-12-29,22.0,2037089,0.0,29439
+Bangladesh,South-East Asia,2022-12-30,13.0,2037102,0.0,29439
+Bangladesh,South-East Asia,2022-12-31,23.0,2037125,1.0,29440
+Bhutan,South-East Asia,2022-01-01,0.0,2660,0.0,3
+Bhutan,South-East Asia,2022-01-02,0.0,2660,0.0,3
+Bhutan,South-East Asia,2022-01-03,4.0,2664,0.0,3
+Bhutan,South-East Asia,2022-01-04,2.0,2666,0.0,3
+Bhutan,South-East Asia,2022-01-05,3.0,2669,0.0,3
+Bhutan,South-East Asia,2022-01-06,2.0,2671,0.0,3
+Bhutan,South-East Asia,2022-01-07,82.0,2753,0.0,3
+Bhutan,South-East Asia,2022-01-08,7.0,2760,0.0,3
+Bhutan,South-East Asia,2022-01-09,21.0,2781,0.0,3
+Bhutan,South-East Asia,2022-01-10,21.0,2802,0.0,3
+Bhutan,South-East Asia,2022-01-11,28.0,2830,0.0,3
+Bhutan,South-East Asia,2022-01-12,7.0,2837,0.0,3
+Bhutan,South-East Asia,2022-01-13,36.0,2873,0.0,3
+Bhutan,South-East Asia,2022-01-14,13.0,2886,0.0,3
+Bhutan,South-East Asia,2022-01-15,18.0,2904,0.0,3
+Bhutan,South-East Asia,2022-01-16,24.0,2928,0.0,3
+Bhutan,South-East Asia,2022-01-17,141.0,3069,0.0,3
+Bhutan,South-East Asia,2022-01-18,101.0,3170,0.0,3
+Bhutan,South-East Asia,2022-01-19,59.0,3229,0.0,3
+Bhutan,South-East Asia,2022-01-20,88.0,3317,0.0,3
+Bhutan,South-East Asia,2022-01-21,141.0,3458,0.0,3
+Bhutan,South-East Asia,2022-01-22,99.0,3557,0.0,3
+Bhutan,South-East Asia,2022-01-23,92.0,3649,0.0,3
+Bhutan,South-East Asia,2022-01-24,162.0,3811,0.0,3
+Bhutan,South-East Asia,2022-01-25,140.0,3951,0.0,3
+Bhutan,South-East Asia,2022-01-26,138.0,4089,0.0,3
+Bhutan,South-East Asia,2022-01-27,136.0,4225,0.0,3
+Bhutan,South-East Asia,2022-01-28,205.0,4430,1.0,4
+Bhutan,South-East Asia,2022-01-29,136.0,4566,0.0,4
+Bhutan,South-East Asia,2022-01-30,119.0,4685,0.0,4
+Bhutan,South-East Asia,2022-01-31,206.0,4891,0.0,4
+Bhutan,South-East Asia,2022-02-01,312.0,5203,0.0,4
+Bhutan,South-East Asia,2022-02-02,190.0,5393,0.0,4
+Bhutan,South-East Asia,2022-02-03,139.0,5532,0.0,4
+Bhutan,South-East Asia,2022-02-04,188.0,5720,0.0,4
+Bhutan,South-East Asia,2022-02-05,214.0,5934,0.0,4
+Bhutan,South-East Asia,2022-02-06,158.0,6092,0.0,4
+Bhutan,South-East Asia,2022-02-07,208.0,6300,0.0,4
+Bhutan,South-East Asia,2022-02-08,159.0,6459,0.0,4
+Bhutan,South-East Asia,2022-02-09,189.0,6648,0.0,4
+Bhutan,South-East Asia,2022-02-10,131.0,6779,1.0,5
+Bhutan,South-East Asia,2022-02-11,185.0,6964,0.0,5
+Bhutan,South-East Asia,2022-02-12,235.0,7199,0.0,5
+Bhutan,South-East Asia,2022-02-13,230.0,7429,0.0,5
+Bhutan,South-East Asia,2022-02-14,237.0,7666,0.0,5
+Bhutan,South-East Asia,2022-02-15,250.0,7916,0.0,5
+Bhutan,South-East Asia,2022-02-16,381.0,8297,0.0,5
+Bhutan,South-East Asia,2022-02-17,386.0,8683,0.0,5
+Bhutan,South-East Asia,2022-02-18,527.0,9210,0.0,5
+Bhutan,South-East Asia,2022-02-19,347.0,9557,0.0,5
+Bhutan,South-East Asia,2022-02-20,521.0,10078,1.0,6
+Bhutan,South-East Asia,2022-02-21,34.0,10112,0.0,6
+Bhutan,South-East Asia,2022-02-22,84.0,10196,0.0,6
+Bhutan,South-East Asia,2022-02-23,318.0,10514,0.0,6
+Bhutan,South-East Asia,2022-02-24,496.0,11010,0.0,6
+Bhutan,South-East Asia,2022-02-25,359.0,11369,0.0,6
+Bhutan,South-East Asia,2022-02-26,451.0,11820,0.0,6
+Bhutan,South-East Asia,2022-02-27,374.0,12194,0.0,6
+Bhutan,South-East Asia,2022-02-28,508.0,12702,0.0,6
+Bhutan,South-East Asia,2022-03-01,435.0,13137,0.0,6
+Bhutan,South-East Asia,2022-03-02,398.0,13535,0.0,6
+Bhutan,South-East Asia,2022-03-03,311.0,13846,0.0,6
+Bhutan,South-East Asia,2022-03-04,274.0,14120,0.0,6
+Bhutan,South-East Asia,2022-03-05,331.0,14451,0.0,6
+Bhutan,South-East Asia,2022-03-06,347.0,14798,1.0,7
+Bhutan,South-East Asia,2022-03-07,321.0,15119,0.0,7
+Bhutan,South-East Asia,2022-03-08,441.0,15560,0.0,7
+Bhutan,South-East Asia,2022-03-09,386.0,15946,0.0,7
+Bhutan,South-East Asia,2022-03-10,331.0,16277,0.0,7
+Bhutan,South-East Asia,2022-03-11,389.0,16666,0.0,7
+Bhutan,South-East Asia,2022-03-12,484.0,17150,0.0,7
+Bhutan,South-East Asia,2022-03-13,470.0,17620,0.0,7
+Bhutan,South-East Asia,2022-03-14,1032.0,18652,0.0,7
+Bhutan,South-East Asia,2022-03-15,783.0,19435,0.0,7
+Bhutan,South-East Asia,2022-03-16,681.0,20116,0.0,7
+Bhutan,South-East Asia,2022-03-17,606.0,20722,2.0,9
+Bhutan,South-East Asia,2022-03-18,588.0,21310,0.0,9
+Bhutan,South-East Asia,2022-03-19,350.0,21660,0.0,9
+Bhutan,South-East Asia,2022-03-20,344.0,22004,0.0,9
+Bhutan,South-East Asia,2022-03-21,381.0,22385,0.0,9
+Bhutan,South-East Asia,2022-03-22,240.0,22625,0.0,9
+Bhutan,South-East Asia,2022-03-23,530.0,23155,0.0,9
+Bhutan,South-East Asia,2022-03-24,659.0,23814,0.0,9
+Bhutan,South-East Asia,2022-03-25,502.0,24316,0.0,9
+Bhutan,South-East Asia,2022-03-26,445.0,24761,0.0,9
+Bhutan,South-East Asia,2022-03-27,319.0,25080,0.0,9
+Bhutan,South-East Asia,2022-03-28,780.0,25860,1.0,10
+Bhutan,South-East Asia,2022-03-29,16.0,25876,0.0,10
+Bhutan,South-East Asia,2022-03-30,1087.0,26963,0.0,10
+Bhutan,South-East Asia,2022-03-31,1138.0,28101,0.0,10
+Bhutan,South-East Asia,2022-04-01,1038.0,29139,1.0,11
+Bhutan,South-East Asia,2022-04-02,914.0,30053,1.0,12
+Bhutan,South-East Asia,2022-04-03,1384.0,31437,0.0,12
+Bhutan,South-East Asia,2022-04-04,490.0,31927,0.0,12
+Bhutan,South-East Asia,2022-04-05,1219.0,33146,0.0,12
+Bhutan,South-East Asia,2022-04-06,2291.0,35437,0.0,12
+Bhutan,South-East Asia,2022-04-07,1612.0,37049,0.0,12
+Bhutan,South-East Asia,2022-04-08,1872.0,38921,1.0,13
+Bhutan,South-East Asia,2022-04-09,1708.0,40629,1.0,14
+Bhutan,South-East Asia,2022-04-10,1593.0,42222,0.0,14
+Bhutan,South-East Asia,2022-04-11,634.0,42856,0.0,14
+Bhutan,South-East Asia,2022-04-12,2200.0,45056,0.0,14
+Bhutan,South-East Asia,2022-04-13,2131.0,47187,0.0,14
+Bhutan,South-East Asia,2022-04-14,1879.0,49066,1.0,15
+Bhutan,South-East Asia,2022-04-15,1367.0,50433,1.0,16
+Bhutan,South-East Asia,2022-04-16,1367.0,51800,0.0,16
+Bhutan,South-East Asia,2022-04-17,996.0,52796,2.0,18
+Bhutan,South-East Asia,2022-04-18,308.0,53104,0.0,18
+Bhutan,South-East Asia,2022-04-19,1488.0,54592,1.0,19
+Bhutan,South-East Asia,2022-04-20,1014.0,55606,0.0,19
+Bhutan,South-East Asia,2022-04-21,695.0,56301,0.0,19
+Bhutan,South-East Asia,2022-04-22,302.0,56603,1.0,20
+Bhutan,South-East Asia,2022-04-23,737.0,57340,0.0,20
+Bhutan,South-East Asia,2022-04-24,431.0,57771,0.0,20
+Bhutan,South-East Asia,2022-04-25,138.0,57909,0.0,20
+Bhutan,South-East Asia,2022-04-26,464.0,58373,0.0,20
+Bhutan,South-East Asia,2022-04-27,270.0,58643,0.0,20
+Bhutan,South-East Asia,2022-04-28,233.0,58876,0.0,20
+Bhutan,South-East Asia,2022-04-29,178.0,59054,1.0,21
+Bhutan,South-East Asia,2022-04-30,109.0,59163,0.0,21
+Bhutan,South-East Asia,2022-05-01,56.0,59219,0.0,21
+Bhutan,South-East Asia,2022-05-02,28.0,59247,0.0,21
+Bhutan,South-East Asia,2022-05-03,27.0,59274,0.0,21
+Bhutan,South-East Asia,2022-05-04,84.0,59358,0.0,21
+Bhutan,South-East Asia,2022-05-05,64.0,59422,0.0,21
+Bhutan,South-East Asia,2022-05-06,28.0,59450,0.0,21
+Bhutan,South-East Asia,2022-05-07,33.0,59483,0.0,21
+Bhutan,South-East Asia,2022-05-08,14.0,59497,0.0,21
+Bhutan,South-East Asia,2022-05-09,15.0,59512,0.0,21
+Bhutan,South-East Asia,2022-05-10,18.0,59530,0.0,21
+Bhutan,South-East Asia,2022-05-11,10.0,59540,0.0,21
+Bhutan,South-East Asia,2022-05-12,12.0,59552,0.0,21
+Bhutan,South-East Asia,2022-05-13,12.0,59564,0.0,21
+Bhutan,South-East Asia,2022-05-14,2.0,59566,0.0,21
+Bhutan,South-East Asia,2022-05-15,4.0,59570,0.0,21
+Bhutan,South-East Asia,2022-05-16,4.0,59574,0.0,21
+Bhutan,South-East Asia,2022-05-17,11.0,59585,0.0,21
+Bhutan,South-East Asia,2022-05-18,8.0,59593,0.0,21
+Bhutan,South-East Asia,2022-05-19,10.0,59603,0.0,21
+Bhutan,South-East Asia,2022-05-20,3.0,59606,0.0,21
+Bhutan,South-East Asia,2022-05-21,2.0,59608,0.0,21
+Bhutan,South-East Asia,2022-05-22,4.0,59612,0.0,21
+Bhutan,South-East Asia,2022-05-23,2.0,59614,0.0,21
+Bhutan,South-East Asia,2022-05-24,3.0,59617,0.0,21
+Bhutan,South-East Asia,2022-05-25,2.0,59619,0.0,21
+Bhutan,South-East Asia,2022-05-26,0.0,59619,0.0,21
+Bhutan,South-East Asia,2022-05-27,2.0,59621,0.0,21
+Bhutan,South-East Asia,2022-05-28,3.0,59624,0.0,21
+Bhutan,South-East Asia,2022-05-29,1.0,59625,0.0,21
+Bhutan,South-East Asia,2022-05-30,3.0,59628,0.0,21
+Bhutan,South-East Asia,2022-05-31,0.0,59628,0.0,21
+Bhutan,South-East Asia,2022-06-01,2.0,59630,0.0,21
+Bhutan,South-East Asia,2022-06-02,0.0,59630,0.0,21
+Bhutan,South-East Asia,2022-06-03,1.0,59631,0.0,21
+Bhutan,South-East Asia,2022-06-04,2.0,59633,0.0,21
+Bhutan,South-East Asia,2022-06-05,3.0,59636,0.0,21
+Bhutan,South-East Asia,2022-06-06,0.0,59636,0.0,21
+Bhutan,South-East Asia,2022-06-07,1.0,59637,0.0,21
+Bhutan,South-East Asia,2022-06-08,2.0,59639,0.0,21
+Bhutan,South-East Asia,2022-06-09,0.0,59639,0.0,21
+Bhutan,South-East Asia,2022-06-10,3.0,59642,0.0,21
+Bhutan,South-East Asia,2022-06-11,1.0,59643,0.0,21
+Bhutan,South-East Asia,2022-06-12,0.0,59643,0.0,21
+Bhutan,South-East Asia,2022-06-13,1.0,59644,0.0,21
+Bhutan,South-East Asia,2022-06-14,4.0,59648,0.0,21
+Bhutan,South-East Asia,2022-06-15,0.0,59648,0.0,21
+Bhutan,South-East Asia,2022-06-16,2.0,59650,0.0,21
+Bhutan,South-East Asia,2022-06-17,5.0,59655,0.0,21
+Bhutan,South-East Asia,2022-06-18,0.0,59655,0.0,21
+Bhutan,South-East Asia,2022-06-19,6.0,59661,0.0,21
+Bhutan,South-East Asia,2022-06-20,13.0,59674,0.0,21
+Bhutan,South-East Asia,2022-06-21,4.0,59678,0.0,21
+Bhutan,South-East Asia,2022-06-22,7.0,59685,0.0,21
+Bhutan,South-East Asia,2022-06-23,5.0,59690,0.0,21
+Bhutan,South-East Asia,2022-06-24,6.0,59696,0.0,21
+Bhutan,South-East Asia,2022-06-25,3.0,59699,0.0,21
+Bhutan,South-East Asia,2022-06-26,10.0,59709,0.0,21
+Bhutan,South-East Asia,2022-06-27,20.0,59729,0.0,21
+Bhutan,South-East Asia,2022-06-28,22.0,59751,0.0,21
+Bhutan,South-East Asia,2022-06-29,8.0,59759,0.0,21
+Bhutan,South-East Asia,2022-06-30,12.0,59771,0.0,21
+Bhutan,South-East Asia,2022-07-01,16.0,59787,0.0,21
+Bhutan,South-East Asia,2022-07-02,14.0,59801,0.0,21
+Bhutan,South-East Asia,2022-07-03,11.0,59812,0.0,21
+Bhutan,South-East Asia,2022-07-04,12.0,59824,0.0,21
+Bhutan,South-East Asia,2022-07-05,12.0,59836,0.0,21
+Bhutan,South-East Asia,2022-07-06,8.0,59844,0.0,21
+Bhutan,South-East Asia,2022-07-07,22.0,59866,0.0,21
+Bhutan,South-East Asia,2022-07-08,24.0,59890,0.0,21
+Bhutan,South-East Asia,2022-07-09,23.0,59913,0.0,21
+Bhutan,South-East Asia,2022-07-10,27.0,59940,0.0,21
+Bhutan,South-East Asia,2022-07-11,16.0,59956,0.0,21
+Bhutan,South-East Asia,2022-07-12,9.0,59965,0.0,21
+Bhutan,South-East Asia,2022-07-13,17.0,59982,0.0,21
+Bhutan,South-East Asia,2022-07-14,14.0,59996,0.0,21
+Bhutan,South-East Asia,2022-07-15,38.0,60034,0.0,21
+Bhutan,South-East Asia,2022-07-16,28.0,60062,0.0,21
+Bhutan,South-East Asia,2022-07-17,45.0,60107,0.0,21
+Bhutan,South-East Asia,2022-07-18,19.0,60126,0.0,21
+Bhutan,South-East Asia,2022-07-19,35.0,60161,0.0,21
+Bhutan,South-East Asia,2022-07-20,29.0,60190,0.0,21
+Bhutan,South-East Asia,2022-07-21,61.0,60251,0.0,21
+Bhutan,South-East Asia,2022-07-22,41.0,60292,0.0,21
+Bhutan,South-East Asia,2022-07-23,43.0,60335,0.0,21
+Bhutan,South-East Asia,2022-07-24,33.0,60368,0.0,21
+Bhutan,South-East Asia,2022-07-25,17.0,60385,0.0,21
+Bhutan,South-East Asia,2022-07-26,24.0,60409,0.0,21
+Bhutan,South-East Asia,2022-07-27,34.0,60443,0.0,21
+Bhutan,South-East Asia,2022-07-28,29.0,60472,0.0,21
+Bhutan,South-East Asia,2022-07-29,28.0,60500,0.0,21
+Bhutan,South-East Asia,2022-07-30,28.0,60528,0.0,21
+Bhutan,South-East Asia,2022-07-31,2.0,60530,0.0,21
+Bhutan,South-East Asia,2022-08-01,17.0,60547,0.0,21
+Bhutan,South-East Asia,2022-08-02,12.0,60559,0.0,21
+Bhutan,South-East Asia,2022-08-03,13.0,60572,0.0,21
+Bhutan,South-East Asia,2022-08-04,18.0,60590,0.0,21
+Bhutan,South-East Asia,2022-08-05,38.0,60628,0.0,21
+Bhutan,South-East Asia,2022-08-06,19.0,60647,0.0,21
+Bhutan,South-East Asia,2022-08-07,16.0,60663,0.0,21
+Bhutan,South-East Asia,2022-08-08,15.0,60678,0.0,21
+Bhutan,South-East Asia,2022-08-09,8.0,60686,0.0,21
+Bhutan,South-East Asia,2022-08-10,16.0,60702,0.0,21
+Bhutan,South-East Asia,2022-08-11,33.0,60735,0.0,21
+Bhutan,South-East Asia,2022-08-12,24.0,60759,0.0,21
+Bhutan,South-East Asia,2022-08-13,16.0,60775,0.0,21
+Bhutan,South-East Asia,2022-08-14,4.0,60779,0.0,21
+Bhutan,South-East Asia,2022-08-15,12.0,60791,0.0,21
+Bhutan,South-East Asia,2022-08-16,21.0,60812,0.0,21
+Bhutan,South-East Asia,2022-08-17,15.0,60827,0.0,21
+Bhutan,South-East Asia,2022-08-18,24.0,60851,0.0,21
+Bhutan,South-East Asia,2022-08-19,22.0,60873,0.0,21
+Bhutan,South-East Asia,2022-08-20,14.0,60887,0.0,21
+Bhutan,South-East Asia,2022-08-21,11.0,60898,0.0,21
+Bhutan,South-East Asia,2022-08-22,10.0,60908,0.0,21
+Bhutan,South-East Asia,2022-08-23,31.0,60939,0.0,21
+Bhutan,South-East Asia,2022-08-24,35.0,60974,0.0,21
+Bhutan,South-East Asia,2022-08-25,18.0,60992,0.0,21
+Bhutan,South-East Asia,2022-08-26,33.0,61025,0.0,21
+Bhutan,South-East Asia,2022-08-27,34.0,61059,0.0,21
+Bhutan,South-East Asia,2022-08-28,17.0,61076,0.0,21
+Bhutan,South-East Asia,2022-08-29,10.0,61086,0.0,21
+Bhutan,South-East Asia,2022-08-30,29.0,61115,0.0,21
+Bhutan,South-East Asia,2022-08-31,28.0,61143,0.0,21
+Bhutan,South-East Asia,2022-09-01,33.0,61176,0.0,21
+Bhutan,South-East Asia,2022-09-02,13.0,61189,0.0,21
+Bhutan,South-East Asia,2022-09-03,20.0,61209,0.0,21
+Bhutan,South-East Asia,2022-09-04,24.0,61233,0.0,21
+Bhutan,South-East Asia,2022-09-05,15.0,61248,0.0,21
+Bhutan,South-East Asia,2022-09-06,24.0,61272,0.0,21
+Bhutan,South-East Asia,2022-09-07,48.0,61320,0.0,21
+Bhutan,South-East Asia,2022-09-08,29.0,61349,0.0,21
+Bhutan,South-East Asia,2022-09-09,23.0,61372,0.0,21
+Bhutan,South-East Asia,2022-09-10,28.0,61400,0.0,21
+Bhutan,South-East Asia,2022-09-11,19.0,61419,0.0,21
+Bhutan,South-East Asia,2022-09-12,10.0,61429,0.0,21
+Bhutan,South-East Asia,2022-09-13,44.0,61473,0.0,21
+Bhutan,South-East Asia,2022-09-14,46.0,61519,0.0,21
+Bhutan,South-East Asia,2022-09-15,76.0,61595,0.0,21
+Bhutan,South-East Asia,2022-09-16,54.0,61649,0.0,21
+Bhutan,South-East Asia,2022-09-17,43.0,61692,0.0,21
+Bhutan,South-East Asia,2022-09-18,38.0,61730,0.0,21
+Bhutan,South-East Asia,2022-09-19,18.0,61748,0.0,21
+Bhutan,South-East Asia,2022-09-20,62.0,61810,0.0,21
+Bhutan,South-East Asia,2022-09-21,45.0,61855,0.0,21
+Bhutan,South-East Asia,2022-09-22,55.0,61910,0.0,21
+Bhutan,South-East Asia,2022-09-23,36.0,61946,0.0,21
+Bhutan,South-East Asia,2022-09-24,4.0,61950,0.0,21
+Bhutan,South-East Asia,2022-09-25,19.0,61969,0.0,21
+Bhutan,South-East Asia,2022-09-26,0.0,61969,0.0,21
+Bhutan,South-East Asia,2022-09-27,34.0,62003,0.0,21
+Bhutan,South-East Asia,2022-09-28,26.0,62029,0.0,21
+Bhutan,South-East Asia,2022-09-29,20.0,62049,0.0,21
+Bhutan,South-East Asia,2022-09-30,26.0,62075,0.0,21
+Bhutan,South-East Asia,2022-10-01,11.0,62086,0.0,21
+Bhutan,South-East Asia,2022-10-02,9.0,62095,0.0,21
+Bhutan,South-East Asia,2022-10-03,4.0,62099,0.0,21
+Bhutan,South-East Asia,2022-10-04,34.0,62133,0.0,21
+Bhutan,South-East Asia,2022-10-05,7.0,62140,0.0,21
+Bhutan,South-East Asia,2022-10-06,1.0,62141,0.0,21
+Bhutan,South-East Asia,2022-10-07,21.0,62162,0.0,21
+Bhutan,South-East Asia,2022-10-08,31.0,62193,0.0,21
+Bhutan,South-East Asia,2022-10-09,7.0,62200,0.0,21
+Bhutan,South-East Asia,2022-10-10,2.0,62202,0.0,21
+Bhutan,South-East Asia,2022-10-11,17.0,62219,0.0,21
+Bhutan,South-East Asia,2022-10-12,29.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-13,0.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-14,0.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-15,0.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-16,0.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-17,0.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-18,0.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-19,0.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-20,0.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-21,0.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-22,0.0,62248,0.0,21
+Bhutan,South-East Asia,2022-10-23,83.0,62331,0.0,21
+Bhutan,South-East Asia,2022-10-24,0.0,62331,0.0,21
+Bhutan,South-East Asia,2022-10-25,0.0,62331,0.0,21
+Bhutan,South-East Asia,2022-10-26,0.0,62331,0.0,21
+Bhutan,South-East Asia,2022-10-27,0.0,62331,0.0,21
+Bhutan,South-East Asia,2022-10-28,0.0,62331,0.0,21
+Bhutan,South-East Asia,2022-10-29,0.0,62331,0.0,21
+Bhutan,South-East Asia,2022-10-30,49.0,62380,0.0,21
+Bhutan,South-East Asia,2022-10-31,0.0,62380,0.0,21
+Bhutan,South-East Asia,2022-11-01,0.0,62380,0.0,21
+Bhutan,South-East Asia,2022-11-02,0.0,62380,0.0,21
+Bhutan,South-East Asia,2022-11-03,0.0,62380,0.0,21
+Bhutan,South-East Asia,2022-11-04,0.0,62380,0.0,21
+Bhutan,South-East Asia,2022-11-05,0.0,62380,0.0,21
+Bhutan,South-East Asia,2022-11-06,50.0,62430,0.0,21
+Bhutan,South-East Asia,2022-11-07,0.0,62430,0.0,21
+Bhutan,South-East Asia,2022-11-08,0.0,62430,0.0,21
+Bhutan,South-East Asia,2022-11-09,0.0,62430,0.0,21
+Bhutan,South-East Asia,2022-11-10,0.0,62430,0.0,21
+Bhutan,South-East Asia,2022-11-11,0.0,62430,0.0,21
+Bhutan,South-East Asia,2022-11-12,0.0,62430,0.0,21
+Bhutan,South-East Asia,2022-11-13,30.0,62460,0.0,21
+Bhutan,South-East Asia,2022-11-14,0.0,62460,0.0,21
+Bhutan,South-East Asia,2022-11-15,0.0,62460,0.0,21
+Bhutan,South-East Asia,2022-11-16,0.0,62460,0.0,21
+Bhutan,South-East Asia,2022-11-17,0.0,62460,0.0,21
+Bhutan,South-East Asia,2022-11-18,0.0,62460,0.0,21
+Bhutan,South-East Asia,2022-11-19,0.0,62460,0.0,21
+Bhutan,South-East Asia,2022-11-20,28.0,62488,0.0,21
+Bhutan,South-East Asia,2022-11-21,0.0,62488,0.0,21
+Bhutan,South-East Asia,2022-11-22,0.0,62488,0.0,21
+Bhutan,South-East Asia,2022-11-23,0.0,62488,0.0,21
+Bhutan,South-East Asia,2022-11-24,0.0,62488,0.0,21
+Bhutan,South-East Asia,2022-11-25,0.0,62488,0.0,21
+Bhutan,South-East Asia,2022-11-26,0.0,62488,0.0,21
+Bhutan,South-East Asia,2022-11-27,15.0,62503,0.0,21
+Bhutan,South-East Asia,2022-11-28,0.0,62503,0.0,21
+Bhutan,South-East Asia,2022-11-29,0.0,62503,0.0,21
+Bhutan,South-East Asia,2022-11-30,0.0,62503,0.0,21
+Bhutan,South-East Asia,2022-12-01,0.0,62503,0.0,21
+Bhutan,South-East Asia,2022-12-02,0.0,62503,0.0,21
+Bhutan,South-East Asia,2022-12-03,0.0,62503,0.0,21
+Bhutan,South-East Asia,2022-12-04,9.0,62512,0.0,21
+Bhutan,South-East Asia,2022-12-05,0.0,62512,0.0,21
+Bhutan,South-East Asia,2022-12-06,0.0,62512,0.0,21
+Bhutan,South-East Asia,2022-12-07,0.0,62512,0.0,21
+Bhutan,South-East Asia,2022-12-08,0.0,62512,0.0,21
+Bhutan,South-East Asia,2022-12-09,0.0,62512,0.0,21
+Bhutan,South-East Asia,2022-12-10,0.0,62512,0.0,21
+Bhutan,South-East Asia,2022-12-11,9.0,62521,0.0,21
+Bhutan,South-East Asia,2022-12-12,0.0,62521,0.0,21
+Bhutan,South-East Asia,2022-12-13,0.0,62521,0.0,21
+Bhutan,South-East Asia,2022-12-14,0.0,62521,0.0,21
+Bhutan,South-East Asia,2022-12-15,0.0,62521,0.0,21
+Bhutan,South-East Asia,2022-12-16,0.0,62521,0.0,21
+Bhutan,South-East Asia,2022-12-17,0.0,62521,0.0,21
+Bhutan,South-East Asia,2022-12-18,3.0,62524,0.0,21
+Bhutan,South-East Asia,2022-12-19,0.0,62524,0.0,21
+Bhutan,South-East Asia,2022-12-20,0.0,62524,0.0,21
+Bhutan,South-East Asia,2022-12-21,0.0,62524,0.0,21
+Bhutan,South-East Asia,2022-12-22,0.0,62524,0.0,21
+Bhutan,South-East Asia,2022-12-23,0.0,62524,0.0,21
+Bhutan,South-East Asia,2022-12-24,0.0,62524,0.0,21
+Bhutan,South-East Asia,2022-12-25,7.0,62531,0.0,21
+Bhutan,South-East Asia,2022-12-26,0.0,62531,0.0,21
+Bhutan,South-East Asia,2022-12-27,0.0,62531,0.0,21
+Bhutan,South-East Asia,2022-12-28,0.0,62531,0.0,21
+Bhutan,South-East Asia,2022-12-29,0.0,62531,0.0,21
+Bhutan,South-East Asia,2022-12-30,0.0,62531,0.0,21
+Bhutan,South-East Asia,2022-12-31,0.0,62531,0.0,21
+India,South-East Asia,2022-01-01,22775.0,34861579,406.0,481486
+India,South-East Asia,2022-01-02,27553.0,34889132,284.0,481770
+India,South-East Asia,2022-01-03,33750.0,34922882,123.0,481893
+India,South-East Asia,2022-01-04,37379.0,34960261,124.0,482017
+India,South-East Asia,2022-01-05,58097.0,35018358,534.0,482551
+India,South-East Asia,2022-01-06,90928.0,35109286,325.0,482876
+India,South-East Asia,2022-01-07,117100.0,35226386,302.0,483178
+India,South-East Asia,2022-01-08,141986.0,35368372,285.0,483463
+India,South-East Asia,2022-01-09,159632.0,35528004,327.0,483790
+India,South-East Asia,2022-01-10,179723.0,35707727,146.0,483936
+India,South-East Asia,2022-01-11,168063.0,35875790,277.0,484213
+India,South-East Asia,2022-01-12,194720.0,36070510,442.0,484655
+India,South-East Asia,2022-01-13,247417.0,36317927,380.0,485035
+India,South-East Asia,2022-01-14,264202.0,36582129,315.0,485350
+India,South-East Asia,2022-01-15,268833.0,36850962,402.0,485752
+India,South-East Asia,2022-01-16,271202.0,37122164,314.0,486066
+India,South-East Asia,2022-01-17,258089.0,37380253,385.0,486451
+India,South-East Asia,2022-01-18,238018.0,37618271,310.0,486761
+India,South-East Asia,2022-01-19,282970.0,37901241,441.0,487202
+India,South-East Asia,2022-01-20,317532.0,38218773,491.0,487693
+India,South-East Asia,2022-01-21,347254.0,38566027,703.0,488396
+India,South-East Asia,2022-01-22,337704.0,38903731,488.0,488884
+India,South-East Asia,2022-01-23,333533.0,39237264,525.0,489409
+India,South-East Asia,2022-01-24,306064.0,39543328,439.0,489848
+India,South-East Asia,2022-01-25,255874.0,39799202,614.0,490462
+India,South-East Asia,2022-01-26,285914.0,40085116,665.0,491127
+India,South-East Asia,2022-01-27,286384.0,40371500,573.0,491700
+India,South-East Asia,2022-01-28,251209.0,40622709,627.0,492327
+India,South-East Asia,2022-01-29,235532.0,40858241,871.0,493198
+India,South-East Asia,2022-01-30,234281.0,41092522,893.0,494091
+India,South-East Asia,2022-01-31,209918.0,41302440,959.0,495050
+India,South-East Asia,2022-02-01,167059.0,41469499,1192.0,496242
+India,South-East Asia,2022-02-02,161386.0,41630885,1733.0,497975
+India,South-East Asia,2022-02-03,172433.0,41803318,1008.0,498983
+India,South-East Asia,2022-02-04,149394.0,41952712,1072.0,500055
+India,South-East Asia,2022-02-05,127952.0,42080664,1059.0,501114
+India,South-East Asia,2022-02-06,107474.0,42188138,865.0,501979
+India,South-East Asia,2022-02-07,83876.0,42272014,895.0,502874
+India,South-East Asia,2022-02-08,67597.0,42339611,1188.0,504062
+India,South-East Asia,2022-02-09,71365.0,42410976,1217.0,505279
+India,South-East Asia,2022-02-10,67084.0,42478060,1241.0,506520
+India,South-East Asia,2022-02-11,58077.0,42536137,657.0,507177
+India,South-East Asia,2022-02-12,50407.0,42586544,804.0,507981
+India,South-East Asia,2022-02-13,44877.0,42631421,684.0,508665
+India,South-East Asia,2022-02-14,34113.0,42665534,346.0,509011
+India,South-East Asia,2022-02-15,27409.0,42692943,347.0,509358
+India,South-East Asia,2022-02-16,30615.0,42723558,514.0,509872
+India,South-East Asia,2022-02-17,30757.0,42754315,541.0,510413
+India,South-East Asia,2022-02-18,25920.0,42780235,492.0,510905
+India,South-East Asia,2022-02-19,22270.0,42802505,325.0,511230
+India,South-East Asia,2022-02-20,19968.0,42822473,673.0,511903
+India,South-East Asia,2022-02-21,16051.0,42838524,206.0,512109
+India,South-East Asia,2022-02-22,13405.0,42851929,235.0,512344
+India,South-East Asia,2022-02-23,15102.0,42867031,278.0,512622
+India,South-East Asia,2022-02-24,14148.0,42881179,302.0,512924
+India,South-East Asia,2022-02-25,13166.0,42894345,302.0,513226
+India,South-East Asia,2022-02-26,11499.0,42905844,255.0,513481
+India,South-East Asia,2022-02-27,10273.0,42916117,243.0,513724
+India,South-East Asia,2022-02-28,8013.0,42924130,119.0,513843
+India,South-East Asia,2022-03-01,6915.0,42931045,180.0,514023
+India,South-East Asia,2022-03-02,7554.0,42938599,223.0,514246
+India,South-East Asia,2022-03-03,6561.0,42945160,142.0,514388
+India,South-East Asia,2022-03-04,6396.0,42951556,201.0,514589
+India,South-East Asia,2022-03-05,5921.0,42957477,289.0,514878
+India,South-East Asia,2022-03-06,5476.0,42962953,158.0,515036
+India,South-East Asia,2022-03-07,4362.0,42967315,66.0,515102
+India,South-East Asia,2022-03-08,3993.0,42971308,108.0,515210
+India,South-East Asia,2022-03-09,4575.0,42975883,145.0,515355
+India,South-East Asia,2022-03-10,4184.0,42980067,104.0,515459
+India,South-East Asia,2022-03-11,4194.0,42984261,255.0,515714
+India,South-East Asia,2022-03-12,3614.0,42987875,89.0,515803
+India,South-East Asia,2022-03-13,3116.0,42990991,47.0,515850
+India,South-East Asia,2022-03-14,2503.0,42993494,27.0,515877
+India,South-East Asia,2022-03-15,2568.0,42996062,97.0,515974
+India,South-East Asia,2022-03-16,2876.0,42998938,98.0,516072
+India,South-East Asia,2022-03-17,2539.0,43001477,60.0,516132
+India,South-East Asia,2022-03-18,2528.0,43004005,149.0,516281
+India,South-East Asia,2022-03-19,2075.0,43006080,71.0,516352
+India,South-East Asia,2022-03-20,1761.0,43007841,127.0,516479
+India,South-East Asia,2022-03-21,1549.0,43009390,31.0,516510
+India,South-East Asia,2022-03-22,1581.0,43010971,33.0,516543
+India,South-East Asia,2022-03-23,1778.0,43012749,62.0,516605
+India,South-East Asia,2022-03-24,1938.0,43014687,67.0,516672
+India,South-East Asia,2022-03-25,1685.0,43016372,83.0,516755
+India,South-East Asia,2022-03-26,1660.0,43018032,4100.0,520855
+India,South-East Asia,2022-03-27,1421.0,43019453,149.0,521004
+India,South-East Asia,2022-03-28,1270.0,43020723,31.0,521035
+India,South-East Asia,2022-03-29,1259.0,43021982,35.0,521070
+India,South-East Asia,2022-03-30,1233.0,43023215,31.0,521101
+India,South-East Asia,2022-03-31,1225.0,43024440,28.0,521129
+India,South-East Asia,2022-04-01,1335.0,43025775,52.0,521181
+India,South-East Asia,2022-04-02,1260.0,43027035,83.0,521264
+India,South-East Asia,2022-04-03,1096.0,43028131,81.0,521345
+India,South-East Asia,2022-04-04,913.0,43029044,13.0,521358
+India,South-East Asia,2022-04-05,795.0,43029839,58.0,521416
+India,South-East Asia,2022-04-06,1086.0,43030925,71.0,521487
+India,South-East Asia,2022-04-07,1033.0,43031958,43.0,521530
+India,South-East Asia,2022-04-08,1109.0,43033067,43.0,521573
+India,South-East Asia,2022-04-09,1150.0,43034217,83.0,521656
+India,South-East Asia,2022-04-10,1054.0,43035271,29.0,521685
+India,South-East Asia,2022-04-11,861.0,43036132,6.0,521691
+India,South-East Asia,2022-04-12,796.0,43036928,19.0,521710
+India,South-East Asia,2022-04-13,1088.0,43038016,26.0,521736
+India,South-East Asia,2022-04-14,1007.0,43039023,1.0,521737
+India,South-East Asia,2022-04-15,949.0,43039972,6.0,521743
+India,South-East Asia,2022-04-16,975.0,43040947,4.0,521747
+India,South-East Asia,2022-04-17,1150.0,43042097,4.0,521751
+India,South-East Asia,2022-04-18,2183.0,43044280,214.0,521965
+India,South-East Asia,2022-04-19,1247.0,43045527,1.0,521966
+India,South-East Asia,2022-04-20,2067.0,43047594,40.0,522006
+India,South-East Asia,2022-04-21,2380.0,43049974,56.0,522062
+India,South-East Asia,2022-04-22,2451.0,43052425,54.0,522116
+India,South-East Asia,2022-04-23,2527.0,43054952,33.0,522149
+India,South-East Asia,2022-04-24,2593.0,43057545,44.0,522193
+India,South-East Asia,2022-04-25,2541.0,43060086,30.0,522223
+India,South-East Asia,2022-04-26,2483.0,43062569,1399.0,523622
+India,South-East Asia,2022-04-27,2927.0,43065496,32.0,523654
+India,South-East Asia,2022-04-28,3303.0,43068799,39.0,523693
+India,South-East Asia,2022-04-29,3377.0,43072176,60.0,523753
+India,South-East Asia,2022-04-30,3688.0,43075864,50.0,523803
+India,South-East Asia,2022-05-01,3324.0,43079188,40.0,523843
+India,South-East Asia,2022-05-02,3157.0,43082345,26.0,523869
+India,South-East Asia,2022-05-03,2568.0,43084913,20.0,523889
+India,South-East Asia,2022-05-04,3205.0,43088118,31.0,523920
+India,South-East Asia,2022-05-05,3275.0,43091393,55.0,523975
+India,South-East Asia,2022-05-06,3545.0,43094938,27.0,524002
+India,South-East Asia,2022-05-07,3805.0,43098743,22.0,524024
+India,South-East Asia,2022-05-08,3451.0,43102194,40.0,524064
+India,South-East Asia,2022-05-09,3207.0,43105401,29.0,524093
+India,South-East Asia,2022-05-10,2288.0,43107689,10.0,524103
+India,South-East Asia,2022-05-11,2897.0,43110586,54.0,524157
+India,South-East Asia,2022-05-12,2827.0,43113413,24.0,524181
+India,South-East Asia,2022-05-13,2841.0,43116254,9.0,524190
+India,South-East Asia,2022-05-14,2858.0,43119112,11.0,524201
+India,South-East Asia,2022-05-15,2487.0,43121599,13.0,524214
+India,South-East Asia,2022-05-16,2202.0,43123801,27.0,524241
+India,South-East Asia,2022-05-17,1569.0,43125370,19.0,524260
+India,South-East Asia,2022-05-18,1829.0,43127199,33.0,524293
+India,South-East Asia,2022-05-19,2364.0,43129563,10.0,524303
+India,South-East Asia,2022-05-20,2259.0,43131822,20.0,524323
+India,South-East Asia,2022-05-21,2323.0,43134145,25.0,524348
+India,South-East Asia,2022-05-22,2226.0,43136371,65.0,524413
+India,South-East Asia,2022-05-23,2022.0,43138393,46.0,524459
+India,South-East Asia,2022-05-24,1675.0,43140068,31.0,524490
+India,South-East Asia,2022-05-25,2124.0,43142192,17.0,524507
+India,South-East Asia,2022-05-26,2628.0,43144820,18.0,524525
+India,South-East Asia,2022-05-27,2710.0,43147530,14.0,524539
+India,South-East Asia,2022-05-28,2685.0,43150215,33.0,524572
+India,South-East Asia,2022-05-29,2828.0,43153043,14.0,524586
+India,South-East Asia,2022-05-30,2706.0,43155749,25.0,524611
+India,South-East Asia,2022-05-31,2338.0,43158087,19.0,524630
+India,South-East Asia,2022-06-01,2745.0,43160832,6.0,524636
+India,South-East Asia,2022-06-02,3712.0,43164544,5.0,524641
+India,South-East Asia,2022-06-03,4041.0,43168585,10.0,524651
+India,South-East Asia,2022-06-04,3962.0,43172547,26.0,524677
+India,South-East Asia,2022-06-05,4270.0,43176817,15.0,524692
+India,South-East Asia,2022-06-06,4518.0,43181335,9.0,524701
+India,South-East Asia,2022-06-07,3714.0,43185049,7.0,524708
+India,South-East Asia,2022-06-08,5233.0,43190282,7.0,524715
+India,South-East Asia,2022-06-09,7240.0,43197522,8.0,524723
+India,South-East Asia,2022-06-10,7584.0,43205106,24.0,524747
+India,South-East Asia,2022-06-11,8329.0,43213435,10.0,524757
+India,South-East Asia,2022-06-12,8582.0,43222017,4.0,524761
+India,South-East Asia,2022-06-13,8084.0,43230101,10.0,524771
+India,South-East Asia,2022-06-14,6594.0,43236695,6.0,524777
+India,South-East Asia,2022-06-15,8822.0,43245517,15.0,524792
+India,South-East Asia,2022-06-16,12213.0,43257730,11.0,524803
+India,South-East Asia,2022-06-17,12847.0,43270577,14.0,524817
+India,South-East Asia,2022-06-18,13216.0,43283793,23.0,524840
+India,South-East Asia,2022-06-19,12899.0,43296692,15.0,524855
+India,South-East Asia,2022-06-20,12781.0,43309473,18.0,524873
+India,South-East Asia,2022-06-21,9923.0,43319396,17.0,524890
+India,South-East Asia,2022-06-22,12249.0,43331645,13.0,524903
+India,South-East Asia,2022-06-23,13313.0,43344958,38.0,524941
+India,South-East Asia,2022-06-24,17336.0,43362294,13.0,524954
+India,South-East Asia,2022-06-25,15940.0,43378234,20.0,524974
+India,South-East Asia,2022-06-26,11739.0,43389973,25.0,524999
+India,South-East Asia,2022-06-27,17073.0,43407046,21.0,525020
+India,South-East Asia,2022-06-28,11793.0,43418839,27.0,525047
+India,South-East Asia,2022-06-29,14506.0,43433345,30.0,525077
+India,South-East Asia,2022-06-30,18819.0,43452164,39.0,525116
+India,South-East Asia,2022-07-01,17070.0,43469234,23.0,525139
+India,South-East Asia,2022-07-02,17092.0,43486326,29.0,525168
+India,South-East Asia,2022-07-03,16103.0,43502429,31.0,525199
+India,South-East Asia,2022-07-04,16135.0,43518564,24.0,525223
+India,South-East Asia,2022-07-05,13086.0,43531650,19.0,525242
+India,South-East Asia,2022-07-06,16159.0,43547809,28.0,525270
+India,South-East Asia,2022-07-07,18930.0,43566739,35.0,525305
+India,South-East Asia,2022-07-08,18815.0,43585554,38.0,525343
+India,South-East Asia,2022-07-09,18840.0,43604394,43.0,525386
+India,South-East Asia,2022-07-10,18257.0,43622651,42.0,525428
+India,South-East Asia,2022-07-11,16678.0,43639329,26.0,525454
+India,South-East Asia,2022-07-12,13615.0,43652944,20.0,525474
+India,South-East Asia,2022-07-13,16906.0,43669850,45.0,525519
+India,South-East Asia,2022-07-14,20139.0,43689989,38.0,525557
+India,South-East Asia,2022-07-15,20038.0,43710027,47.0,525604
+India,South-East Asia,2022-07-16,20044.0,43730071,56.0,525660
+India,South-East Asia,2022-07-17,20528.0,43750599,49.0,525709
+India,South-East Asia,2022-07-18,16935.0,43767534,51.0,525760
+India,South-East Asia,2022-07-19,15528.0,43783062,25.0,525785
+India,South-East Asia,2022-07-20,20557.0,43803619,40.0,525825
+India,South-East Asia,2022-07-21,21566.0,43825185,45.0,525870
+India,South-East Asia,2022-07-22,21880.0,43847065,60.0,525930
+India,South-East Asia,2022-07-23,21411.0,43868476,67.0,525997
+India,South-East Asia,2022-07-24,20279.0,43888755,36.0,526033
+India,South-East Asia,2022-07-25,16866.0,43905621,41.0,526074
+India,South-East Asia,2022-07-26,14830.0,43920451,36.0,526110
+India,South-East Asia,2022-07-27,18313.0,43938764,57.0,526167
+India,South-East Asia,2022-07-28,20557.0,43959321,45.0,526212
+India,South-East Asia,2022-07-29,20409.0,43979730,46.0,526258
+India,South-East Asia,2022-07-30,20408.0,44000138,54.0,526312
+India,South-East Asia,2022-07-31,19673.0,44019811,45.0,526357
+India,South-East Asia,2022-08-01,16464.0,44036275,39.0,526396
+India,South-East Asia,2022-08-02,13734.0,44050009,34.0,526430
+India,South-East Asia,2022-08-03,17135.0,44067144,47.0,526477
+India,South-East Asia,2022-08-04,19893.0,44087037,53.0,526530
+India,South-East Asia,2022-08-05,20551.0,44107588,70.0,526600
+India,South-East Asia,2022-08-06,19406.0,44126994,49.0,526649
+India,South-East Asia,2022-08-07,18738.0,44145732,40.0,526689
+India,South-East Asia,2022-08-08,16167.0,44161899,41.0,526730
+India,South-East Asia,2022-08-09,12751.0,44174650,42.0,526772
+India,South-East Asia,2022-08-10,16047.0,44190697,54.0,526826
+India,South-East Asia,2022-08-11,16299.0,44206996,53.0,526879
+India,South-East Asia,2022-08-12,16561.0,44223557,49.0,526928
+India,South-East Asia,2022-08-13,15815.0,44239372,68.0,526996
+India,South-East Asia,2022-08-14,14092.0,44253464,41.0,527037
+India,South-East Asia,2022-08-15,14917.0,44268381,32.0,527069
+India,South-East Asia,2022-08-16,8813.0,44277194,29.0,527098
+India,South-East Asia,2022-08-17,9062.0,44286256,36.0,527134
+India,South-East Asia,2022-08-18,12608.0,44298864,72.0,527206
+India,South-East Asia,2022-08-19,15754.0,44314618,47.0,527253
+India,South-East Asia,2022-08-20,13272.0,44327890,36.0,527289
+India,South-East Asia,2022-08-21,11539.0,44339429,43.0,527332
+India,South-East Asia,2022-08-22,9531.0,44348960,36.0,527368
+India,South-East Asia,2022-08-23,8586.0,44357546,48.0,527416
+India,South-East Asia,2022-08-24,10649.0,44368195,36.0,527452
+India,South-East Asia,2022-08-25,10725.0,44378920,36.0,527488
+India,South-East Asia,2022-08-26,10256.0,44389176,68.0,527556
+India,South-East Asia,2022-08-27,9520.0,44398696,41.0,527597
+India,South-East Asia,2022-08-28,9436.0,44408132,157.0,527754
+India,South-East Asia,2022-08-29,7591.0,44415723,45.0,527799
+India,South-East Asia,2022-08-30,5439.0,44421162,30.0,527829
+India,South-East Asia,2022-08-31,7231.0,44428393,45.0,527874
+India,South-East Asia,2022-09-01,7946.0,44436339,37.0,527911
+India,South-East Asia,2022-09-02,6168.0,44442507,21.0,527932
+India,South-East Asia,2022-09-03,7211.0,44449718,25.0,527957
+India,South-East Asia,2022-09-04,6817.0,44456535,34.0,527991
+India,South-East Asia,2022-09-05,5910.0,44462445,16.0,528007
+India,South-East Asia,2022-09-06,4417.0,44466862,23.0,528030
+India,South-East Asia,2022-09-07,5379.0,44472241,27.0,528057
+India,South-East Asia,2022-09-08,6395.0,44478636,33.0,528090
+India,South-East Asia,2022-09-09,6093.0,44484729,31.0,528121
+India,South-East Asia,2022-09-10,5554.0,44490283,18.0,528139
+India,South-East Asia,2022-09-11,5076.0,44495359,11.0,528150
+India,South-East Asia,2022-09-12,5221.0,44500580,15.0,528165
+India,South-East Asia,2022-09-13,4369.0,44504949,20.0,528185
+India,South-East Asia,2022-09-14,5108.0,44510057,31.0,528216
+India,South-East Asia,2022-09-15,6422.0,44516479,34.0,528250
+India,South-East Asia,2022-09-16,6298.0,44522777,23.0,528273
+India,South-East Asia,2022-09-17,5747.0,44528524,29.0,528302
+India,South-East Asia,2022-09-18,5664.0,44534188,35.0,528337
+India,South-East Asia,2022-09-19,4858.0,44539046,18.0,528355
+India,South-East Asia,2022-09-20,4043.0,44543089,15.0,528370
+India,South-East Asia,2022-09-21,4510.0,44547599,33.0,528403
+India,South-East Asia,2022-09-22,5443.0,44553042,26.0,528429
+India,South-East Asia,2022-09-23,5383.0,44558425,20.0,528449
+India,South-East Asia,2022-09-24,4912.0,44563337,38.0,528487
+India,South-East Asia,2022-09-25,4777.0,44568114,23.0,528510
+India,South-East Asia,2022-09-26,4129.0,44572243,20.0,528530
+India,South-East Asia,2022-09-27,3230.0,44575473,32.0,528562
+India,South-East Asia,2022-09-28,3615.0,44579088,22.0,528584
+India,South-East Asia,2022-09-29,4272.0,44583360,27.0,528611
+India,South-East Asia,2022-09-30,3947.0,44587307,18.0,528629
+India,South-East Asia,2022-10-01,3805.0,44591112,26.0,528655
+India,South-East Asia,2022-10-02,3375.0,44594487,18.0,528673
+India,South-East Asia,2022-10-03,3011.0,44597498,28.0,528701
+India,South-East Asia,2022-10-04,1968.0,44599466,15.0,528716
+India,South-East Asia,2022-10-05,2468.0,44601934,17.0,528733
+India,South-East Asia,2022-10-06,2529.0,44604463,12.0,528745
+India,South-East Asia,2022-10-07,1997.0,44606460,9.0,528754
+India,South-East Asia,2022-10-08,2797.0,44609257,24.0,528778
+India,South-East Asia,2022-10-09,2756.0,44612013,21.0,528799
+India,South-East Asia,2022-10-10,2424.0,44614437,15.0,528814
+India,South-East Asia,2022-10-11,1957.0,44616394,8.0,528822
+India,South-East Asia,2022-10-12,2139.0,44618533,13.0,528835
+India,South-East Asia,2022-10-13,2786.0,44621319,12.0,528847
+India,South-East Asia,2022-10-14,2678.0,44623997,10.0,528857
+India,South-East Asia,2022-10-15,2430.0,44626427,17.0,528874
+India,South-East Asia,2022-10-16,2401.0,44628828,21.0,528895
+India,South-East Asia,2022-10-17,2060.0,44630888,10.0,528905
+India,South-East Asia,2022-10-18,1542.0,44632430,8.0,528913
+India,South-East Asia,2022-10-19,1946.0,44634376,10.0,528923
+India,South-East Asia,2022-10-20,2141.0,44636517,20.0,528943
+India,South-East Asia,2022-10-21,2119.0,44638636,10.0,528953
+India,South-East Asia,2022-10-22,2112.0,44640748,4.0,528957
+India,South-East Asia,2022-10-23,1994.0,44642742,4.0,528961
+India,South-East Asia,2022-10-24,1334.0,44644076,16.0,528977
+India,South-East Asia,2022-10-25,862.0,44644938,3.0,528980
+India,South-East Asia,2022-10-26,830.0,44645768,1.0,528981
+India,South-East Asia,2022-10-27,1112.0,44646880,6.0,528987
+India,South-East Asia,2022-10-28,2208.0,44649088,12.0,528999
+India,South-East Asia,2022-10-29,1574.0,44650662,9.0,529008
+India,South-East Asia,2022-10-30,1604.0,44652266,8.0,529016
+India,South-East Asia,2022-10-31,1326.0,44653592,8.0,529024
+India,South-East Asia,2022-11-01,1046.0,44654638,53.0,529077
+India,South-East Asia,2022-11-02,1190.0,44655828,1375.0,530452
+India,South-East Asia,2022-11-03,1321.0,44657149,9.0,530461
+India,South-East Asia,2022-11-04,1216.0,44658365,18.0,530479
+India,South-East Asia,2022-11-05,1082.0,44659447,7.0,530486
+India,South-East Asia,2022-11-06,1132.0,44660579,14.0,530500
+India,South-East Asia,2022-11-07,937.0,44661516,9.0,530509
+India,South-East Asia,2022-11-08,625.0,44662141,0.0,530509
+India,South-East Asia,2022-11-09,811.0,44662952,2.0,530511
+India,South-East Asia,2022-11-10,1016.0,44663968,3.0,530514
+India,South-East Asia,2022-11-11,842.0,44664810,6.0,530520
+India,South-East Asia,2022-11-12,833.0,44665643,8.0,530528
+India,South-East Asia,2022-11-13,734.0,44666377,3.0,530531
+India,South-East Asia,2022-11-14,547.0,44666924,1.0,530532
+India,South-East Asia,2022-11-15,,44666175,1.0,530533
+India,South-East Asia,2022-11-16,501.0,44666676,2.0,530535
+India,South-East Asia,2022-11-17,635.0,44667311,11.0,530546
+India,South-East Asia,2022-11-18,656.0,44667967,7.0,530553
+India,South-East Asia,2022-11-19,556.0,44668523,17.0,530570
+India,South-East Asia,2022-11-20,492.0,44669015,4.0,530574
+India,South-East Asia,2022-11-21,406.0,44669421,12.0,530586
+India,South-East Asia,2022-11-22,294.0,44669715,5.0,530591
+India,South-East Asia,2022-11-23,360.0,44670075,5.0,530596
+India,South-East Asia,2022-11-24,408.0,44670483,5.0,530601
+India,South-East Asia,2022-11-25,347.0,44670830,3.0,530604
+India,South-East Asia,2022-11-26,389.0,44671219,4.0,530608
+India,South-East Asia,2022-11-27,343.0,44671562,4.0,530612
+India,South-East Asia,2022-11-28,291.0,44671853,2.0,530614
+India,South-East Asia,2022-11-29,215.0,44672068,1.0,530615
+India,South-East Asia,2022-11-30,279.0,44672347,5.0,530620
+India,South-East Asia,2022-12-01,291.0,44672638,2.0,530622
+India,South-East Asia,2022-12-02,275.0,44672913,2.0,530624
+India,South-East Asia,2022-12-03,253.0,44673166,3.0,530627
+India,South-East Asia,2022-12-04,226.0,44673392,1.0,530628
+India,South-East Asia,2022-12-05,226.0,44673618,2.0,530630
+India,South-East Asia,2022-12-06,165.0,44673783,3.0,530633
+India,South-East Asia,2022-12-07,166.0,44673949,5.0,530638
+India,South-East Asia,2022-12-08,241.0,44674190,9.0,530647
+India,South-East Asia,2022-12-09,249.0,44674439,6.0,530653
+India,South-East Asia,2022-12-10,210.0,44674649,1.0,530654
+India,South-East Asia,2022-12-11,173.0,44674822,4.0,530658
+India,South-East Asia,2022-12-12,159.0,44674981,0.0,530658
+India,South-East Asia,2022-12-13,114.0,44675095,0.0,530658
+India,South-East Asia,2022-12-14,152.0,44675247,0.0,530658
+India,South-East Asia,2022-12-15,200.0,44675447,5.0,530663
+India,South-East Asia,2022-12-16,162.0,44675609,0.0,530663
+India,South-East Asia,2022-12-17,167.0,44675776,4.0,530667
+India,South-East Asia,2022-12-18,176.0,44675952,5.0,530672
+India,South-East Asia,2022-12-19,135.0,44676087,2.0,530674
+India,South-East Asia,2022-12-20,112.0,44676199,3.0,530677
+India,South-East Asia,2022-12-21,131.0,44676330,3.0,530680
+India,South-East Asia,2022-12-22,185.0,44676515,1.0,530681
+India,South-East Asia,2022-12-23,163.0,44676678,9.0,530690
+India,South-East Asia,2022-12-24,201.0,44676879,1.0,530691
+India,South-East Asia,2022-12-25,227.0,44677106,2.0,530693
+India,South-East Asia,2022-12-26,196.0,44677302,2.0,530695
+India,South-East Asia,2022-12-27,157.0,44677459,1.0,530696
+India,South-East Asia,2022-12-28,188.0,44677647,0.0,530696
+India,South-East Asia,2022-12-29,268.0,44677915,2.0,530698
+India,South-East Asia,2022-12-30,243.0,44678158,1.0,530699
+India,South-East Asia,2022-12-31,226.0,44678384,3.0,530702
+Indonesia,South-East Asia,2022-01-01,274.0,4262994,2.0,144096
+Indonesia,South-East Asia,2022-01-02,174.0,4263168,1.0,144097
+Indonesia,South-East Asia,2022-01-03,265.0,4263433,5.0,144102
+Indonesia,South-East Asia,2022-01-04,299.0,4263732,3.0,144105
+Indonesia,South-East Asia,2022-01-05,404.0,4264136,4.0,144109
+Indonesia,South-East Asia,2022-01-06,533.0,4264669,7.0,144116
+Indonesia,South-East Asia,2022-01-07,518.0,4265187,5.0,144121
+Indonesia,South-East Asia,2022-01-08,479.0,4265666,6.0,144127
+Indonesia,South-East Asia,2022-01-09,529.0,4266195,2.0,144129
+Indonesia,South-East Asia,2022-01-10,454.0,4266649,7.0,144136
+Indonesia,South-East Asia,2022-01-11,802.0,4267451,8.0,144144
+Indonesia,South-East Asia,2022-01-12,646.0,4268097,6.0,144150
+Indonesia,South-East Asia,2022-01-13,793.0,4268890,5.0,144155
+Indonesia,South-East Asia,2022-01-14,850.0,4269740,8.0,144163
+Indonesia,South-East Asia,2022-01-15,1054.0,4270794,4.0,144167
+Indonesia,South-East Asia,2022-01-16,855.0,4271649,3.0,144170
+Indonesia,South-East Asia,2022-01-17,772.0,4272421,4.0,144174
+Indonesia,South-East Asia,2022-01-18,1362.0,4273783,9.0,144183
+Indonesia,South-East Asia,2022-01-19,1745.0,4275528,9.0,144192
+Indonesia,South-East Asia,2022-01-20,2116.0,4277644,7.0,144199
+Indonesia,South-East Asia,2022-01-21,2604.0,4280248,2.0,144201
+Indonesia,South-East Asia,2022-01-22,3205.0,4283453,5.0,144206
+Indonesia,South-East Asia,2022-01-23,2925.0,4286378,14.0,144220
+Indonesia,South-East Asia,2022-01-24,2927.0,4289305,7.0,144227
+Indonesia,South-East Asia,2022-01-25,4878.0,4294183,20.0,144247
+Indonesia,South-East Asia,2022-01-26,7010.0,4301193,7.0,144254
+Indonesia,South-East Asia,2022-01-27,8077.0,4309270,7.0,144261
+Indonesia,South-East Asia,2022-01-28,9905.0,4319175,7.0,144268
+Indonesia,South-East Asia,2022-01-29,11588.0,4330763,17.0,144285
+Indonesia,South-East Asia,2022-01-30,12422.0,4343185,18.0,144303
+Indonesia,South-East Asia,2022-01-31,10185.0,4353370,17.0,144320
+Indonesia,South-East Asia,2022-02-01,16021.0,4369391,28.0,144348
+Indonesia,South-East Asia,2022-02-02,17895.0,4387286,25.0,144373
+Indonesia,South-East Asia,2022-02-03,27197.0,4414483,38.0,144411
+Indonesia,South-East Asia,2022-02-04,32211.0,4446694,42.0,144453
+Indonesia,South-East Asia,2022-02-05,33729.0,4480423,44.0,144497
+Indonesia,South-East Asia,2022-02-06,36057.0,4516480,57.0,144554
+Indonesia,South-East Asia,2022-02-07,26121.0,4542601,82.0,144636
+Indonesia,South-East Asia,2022-02-08,37492.0,4580093,83.0,144719
+Indonesia,South-East Asia,2022-02-09,46843.0,4626936,65.0,144784
+Indonesia,South-East Asia,2022-02-10,40618.0,4667554,74.0,144858
+Indonesia,South-East Asia,2022-02-11,40489.0,4708043,100.0,144958
+Indonesia,South-East Asia,2022-02-12,55209.0,4763252,107.0,145065
+Indonesia,South-East Asia,2022-02-13,44526.0,4807778,111.0,145176
+Indonesia,South-East Asia,2022-02-14,36501.0,4844279,145.0,145321
+Indonesia,South-East Asia,2022-02-15,57049.0,4901328,134.0,145455
+Indonesia,South-East Asia,2022-02-16,64718.0,4966046,167.0,145622
+Indonesia,South-East Asia,2022-02-17,63956.0,5030002,206.0,145828
+Indonesia,South-East Asia,2022-02-18,59635.0,5089637,216.0,146044
+Indonesia,South-East Asia,2022-02-19,59384.0,5149021,158.0,146202
+Indonesia,South-East Asia,2022-02-20,48484.0,5197505,163.0,146365
+Indonesia,South-East Asia,2022-02-21,34418.0,5231923,176.0,146541
+Indonesia,South-East Asia,2022-02-22,57491.0,5289414,257.0,146798
+Indonesia,South-East Asia,2022-02-23,61488.0,5350902,227.0,147025
+Indonesia,South-East Asia,2022-02-24,57426.0,5408328,317.0,147342
+Indonesia,South-East Asia,2022-02-25,49447.0,5457775,244.0,147586
+Indonesia,South-East Asia,2022-02-26,46643.0,5504418,258.0,147844
+Indonesia,South-East Asia,2022-02-27,34976.0,5539394,229.0,148073
+Indonesia,South-East Asia,2022-02-28,25054.0,5564448,262.0,148335
+Indonesia,South-East Asia,2022-03-01,24728.0,5589176,325.0,148660
+Indonesia,South-East Asia,2022-03-02,40920.0,5630096,376.0,149036
+Indonesia,South-East Asia,2022-03-03,37259.0,5667355,232.0,149268
+Indonesia,South-East Asia,2022-03-04,26347.0,5693702,328.0,149596
+Indonesia,South-East Asia,2022-03-05,30156.0,5723858,322.0,149918
+Indonesia,South-East Asia,2022-03-06,24867.0,5748725,254.0,150172
+Indonesia,South-East Asia,2022-03-07,21380.0,5770105,258.0,150430
+Indonesia,South-East Asia,2022-03-08,30148.0,5800253,401.0,150831
+Indonesia,South-East Asia,2022-03-09,26336.0,5826589,304.0,151135
+Indonesia,South-East Asia,2022-03-10,21311.0,5847900,278.0,151413
+Indonesia,South-East Asia,2022-03-11,16110.0,5864010,290.0,151703
+Indonesia,South-East Asia,2022-03-12,14900.0,5878910,248.0,151951
+Indonesia,South-East Asia,2022-03-13,11585.0,5890495,215.0,152166
+Indonesia,South-East Asia,2022-03-14,9629.0,5900124,271.0,152437
+Indonesia,South-East Asia,2022-03-15,14408.0,5914532,308.0,152745
+Indonesia,South-East Asia,2022-03-16,13018.0,5927550,230.0,152975
+Indonesia,South-East Asia,2022-03-17,11532.0,5939082,237.0,153212
+Indonesia,South-East Asia,2022-03-18,9528.0,5948610,199.0,153411
+Indonesia,South-East Asia,2022-03-19,7951.0,5956561,188.0,153599
+Indonesia,South-East Asia,2022-03-20,5922.0,5962483,139.0,153738
+Indonesia,South-East Asia,2022-03-21,4699.0,5967182,154.0,153892
+Indonesia,South-East Asia,2022-03-22,7464.0,5974646,170.0,154062
+Indonesia,South-East Asia,2022-03-23,6376.0,5981022,159.0,154221
+Indonesia,South-East Asia,2022-03-24,5808.0,5986830,122.0,154343
+Indonesia,South-East Asia,2022-03-25,4857.0,5991687,120.0,154463
+Indonesia,South-East Asia,2022-03-26,4189.0,5995876,107.0,154570
+Indonesia,South-East Asia,2022-03-27,3077.0,5998953,100.0,154670
+Indonesia,South-East Asia,2022-03-28,2798.0,6001751,104.0,154774
+Indonesia,South-East Asia,2022-03-29,3895.0,6005646,108.0,154882
+Indonesia,South-East Asia,2022-03-30,3840.0,6009486,118.0,155000
+Indonesia,South-East Asia,2022-03-31,3332.0,6012818,89.0,155089
+Indonesia,South-East Asia,2022-04-01,2930.0,6015748,75.0,155164
+Indonesia,South-East Asia,2022-04-02,2300.0,6018048,77.0,155241
+Indonesia,South-East Asia,2022-04-03,1933.0,6019981,47.0,155288
+Indonesia,South-East Asia,2022-04-04,1661.0,6021642,61.0,155349
+Indonesia,South-East Asia,2022-04-05,2282.0,6023924,72.0,155421
+Indonesia,South-East Asia,2022-04-06,2400.0,6026324,43.0,155464
+Indonesia,South-East Asia,2022-04-07,2089.0,6028413,45.0,155509
+Indonesia,South-East Asia,2022-04-08,1755.0,6030168,47.0,155556
+Indonesia,South-East Asia,2022-04-09,1468.0,6031636,41.0,155597
+Indonesia,South-East Asia,2022-04-10,1071.0,6032707,29.0,155626
+Indonesia,South-East Asia,2022-04-11,1196.0,6033903,48.0,155674
+Indonesia,South-East Asia,2022-04-12,1455.0,6035358,43.0,155717
+Indonesia,South-East Asia,2022-04-13,1551.0,6036909,29.0,155746
+Indonesia,South-East Asia,2022-04-14,833.0,6037742,48.0,155794
+Indonesia,South-East Asia,2022-04-15,922.0,6038664,26.0,155820
+Indonesia,South-East Asia,2022-04-16,602.0,6039266,24.0,155844
+Indonesia,South-East Asia,2022-04-17,607.0,6039873,22.0,155866
+Indonesia,South-East Asia,2022-04-18,559.0,6040432,37.0,155903
+Indonesia,South-East Asia,2022-04-19,837.0,6041269,34.0,155937
+Indonesia,South-East Asia,2022-04-20,741.0,6042010,37.0,155974
+Indonesia,South-East Asia,2022-04-21,585.0,6042595,41.0,156015
+Indonesia,South-East Asia,2022-04-22,651.0,6043246,25.0,156040
+Indonesia,South-East Asia,2022-04-23,522.0,6043768,27.0,156067
+Indonesia,South-East Asia,2022-04-24,382.0,6044150,33.0,156100
+Indonesia,South-East Asia,2022-04-25,317.0,6044467,33.0,156133
+Indonesia,South-East Asia,2022-04-26,576.0,6045043,30.0,156163
+Indonesia,South-East Asia,2022-04-27,617.0,6045660,36.0,156199
+Indonesia,South-East Asia,2022-04-28,412.0,6046072,18.0,156217
+Indonesia,South-East Asia,2022-04-29,395.0,6046467,23.0,156240
+Indonesia,South-East Asia,2022-04-30,329.0,6046796,17.0,156257
+Indonesia,South-East Asia,2022-05-01,244.0,6047040,16.0,156273
+Indonesia,South-East Asia,2022-05-02,168.0,6047208,14.0,156287
+Indonesia,South-East Asia,2022-05-03,107.0,6047315,18.0,156305
+Indonesia,South-East Asia,2022-05-04,176.0,6047491,16.0,156321
+Indonesia,South-East Asia,2022-05-05,250.0,6047741,19.0,156340
+Indonesia,South-East Asia,2022-05-06,245.0,6047986,17.0,156357
+Indonesia,South-East Asia,2022-05-07,218.0,6048204,14.0,156371
+Indonesia,South-East Asia,2022-05-08,227.0,6048431,10.0,156381
+Indonesia,South-East Asia,2022-05-09,254.0,6048685,15.0,156396
+Indonesia,South-East Asia,2022-05-10,456.0,6049141,20.0,156416
+Indonesia,South-East Asia,2022-05-11,400.0,6049541,8.0,156424
+Indonesia,South-East Asia,2022-05-12,335.0,6049876,14.0,156438
+Indonesia,South-East Asia,2022-05-13,335.0,6050211,10.0,156448
+Indonesia,South-East Asia,2022-05-14,308.0,6050519,5.0,156453
+Indonesia,South-East Asia,2022-05-15,257.0,6050776,5.0,156458
+Indonesia,South-East Asia,2022-05-16,182.0,6050958,6.0,156464
+Indonesia,South-East Asia,2022-05-17,247.0,6051205,17.0,156481
+Indonesia,South-East Asia,2022-05-18,327.0,6051532,17.0,156498
+Indonesia,South-East Asia,2022-05-19,318.0,6051850,12.0,156510
+Indonesia,South-East Asia,2022-05-20,250.0,6052100,3.0,156513
+Indonesia,South-East Asia,2022-05-21,263.0,6052363,6.0,156519
+Indonesia,South-East Asia,2022-05-22,227.0,6052590,3.0,156522
+Indonesia,South-East Asia,2022-05-23,174.0,6052764,12.0,156534
+Indonesia,South-East Asia,2022-05-24,345.0,6053109,14.0,156548
+Indonesia,South-East Asia,2022-05-25,315.0,6053424,5.0,156553
+Indonesia,South-East Asia,2022-05-26,246.0,6053670,3.0,156556
+Indonesia,South-East Asia,2022-05-27,224.0,6053894,9.0,156565
+Indonesia,South-East Asia,2022-05-28,279.0,6054173,8.0,156573
+Indonesia,South-East Asia,2022-05-29,242.0,6054415,1.0,156574
+Indonesia,South-East Asia,2022-05-30,218.0,6054633,12.0,156586
+Indonesia,South-East Asia,2022-05-31,340.0,6054973,5.0,156591
+Indonesia,South-East Asia,2022-06-01,368.0,6055341,3.0,156594
+Indonesia,South-East Asia,2022-06-02,304.0,6055645,6.0,156600
+Indonesia,South-East Asia,2022-06-03,372.0,6056017,4.0,156604
+Indonesia,South-East Asia,2022-06-04,395.0,6056412,6.0,156610
+Indonesia,South-East Asia,2022-06-05,388.0,6056800,5.0,156615
+Indonesia,South-East Asia,2022-06-06,342.0,6057142,7.0,156622
+Indonesia,South-East Asia,2022-06-07,518.0,6057660,2.0,156624
+Indonesia,South-East Asia,2022-06-08,520.0,6058180,4.0,156628
+Indonesia,South-East Asia,2022-06-09,556.0,6058736,7.0,156635
+Indonesia,South-East Asia,2022-06-10,627.0,6059363,3.0,156638
+Indonesia,South-East Asia,2022-06-11,574.0,6059937,3.0,156641
+Indonesia,South-East Asia,2022-06-12,551.0,6060488,2.0,156643
+Indonesia,South-East Asia,2022-06-13,591.0,6061079,9.0,156652
+Indonesia,South-East Asia,2022-06-14,930.0,6062009,10.0,156662
+Indonesia,South-East Asia,2022-06-15,1242.0,6063251,8.0,156670
+Indonesia,South-East Asia,2022-06-16,1173.0,6064424,3.0,156673
+Indonesia,South-East Asia,2022-06-17,1220.0,6065644,6.0,156679
+Indonesia,South-East Asia,2022-06-18,1264.0,6066908,5.0,156684
+Indonesia,South-East Asia,2022-06-19,1167.0,6068075,3.0,156687
+Indonesia,South-East Asia,2022-06-20,1180.0,6069255,8.0,156695
+Indonesia,South-East Asia,2022-06-21,1678.0,6070933,5.0,156700
+Indonesia,South-East Asia,2022-06-22,1985.0,6072918,2.0,156702
+Indonesia,South-East Asia,2022-06-23,1907.0,6074825,4.0,156706
+Indonesia,South-East Asia,2022-06-24,2069.0,6076894,5.0,156711
+Indonesia,South-East Asia,2022-06-25,1831.0,6078725,3.0,156714
+Indonesia,South-East Asia,2022-06-26,1726.0,6080451,3.0,156717
+Indonesia,South-East Asia,2022-06-27,1445.0,6081896,9.0,156726
+Indonesia,South-East Asia,2022-06-28,2167.0,6084063,2.0,156728
+Indonesia,South-East Asia,2022-06-29,2149.0,6086212,3.0,156731
+Indonesia,South-East Asia,2022-06-30,2248.0,6088460,6.0,156737
+Indonesia,South-East Asia,2022-07-01,2049.0,6090509,3.0,156740
+Indonesia,South-East Asia,2022-07-02,1794.0,6092303,5.0,156745
+Indonesia,South-East Asia,2022-07-03,1614.0,6093917,4.0,156749
+Indonesia,South-East Asia,2022-07-04,1434.0,6095351,9.0,156758
+Indonesia,South-East Asia,2022-07-05,2577.0,6097928,8.0,156766
+Indonesia,South-East Asia,2022-07-06,2743.0,6100671,4.0,156770
+Indonesia,South-East Asia,2022-07-07,2881.0,6103552,6.0,156776
+Indonesia,South-East Asia,2022-07-08,2472.0,6106024,5.0,156781
+Indonesia,South-East Asia,2022-07-09,2705.0,6108729,4.0,156785
+Indonesia,South-East Asia,2022-07-10,2576.0,6111305,6.0,156791
+Indonesia,South-East Asia,2022-07-11,1681.0,6112986,7.0,156798
+Indonesia,South-East Asia,2022-07-12,3361.0,6116347,8.0,156806
+Indonesia,South-East Asia,2022-07-13,3822.0,6120169,12.0,156818
+Indonesia,South-East Asia,2022-07-14,3584.0,6123753,9.0,156827
+Indonesia,South-East Asia,2022-07-15,3331.0,6127084,6.0,156833
+Indonesia,South-East Asia,2022-07-16,4329.0,6131413,6.0,156839
+Indonesia,South-East Asia,2022-07-17,3540.0,6134953,10.0,156849
+Indonesia,South-East Asia,2022-07-18,3393.0,6138346,10.0,156859
+Indonesia,South-East Asia,2022-07-19,5085.0,6143431,6.0,156865
+Indonesia,South-East Asia,2022-07-20,5653.0,6149084,10.0,156875
+Indonesia,South-East Asia,2022-07-21,5410.0,6154494,5.0,156880
+Indonesia,South-East Asia,2022-07-22,4834.0,6159328,13.0,156893
+Indonesia,South-East Asia,2022-07-23,4943.0,6164271,9.0,156902
+Indonesia,South-East Asia,2022-07-24,4071.0,6168342,0.0,156902
+Indonesia,South-East Asia,2022-07-25,4048.0,6172390,14.0,156916
+Indonesia,South-East Asia,2022-07-26,6483.0,6178873,13.0,156929
+Indonesia,South-East Asia,2022-07-27,6438.0,6185311,11.0,156940
+Indonesia,South-East Asia,2022-07-28,6353.0,6191664,17.0,156957
+Indonesia,South-East Asia,2022-07-29,5831.0,6197495,13.0,156970
+Indonesia,South-East Asia,2022-07-30,5398.0,6202893,13.0,156983
+Indonesia,South-East Asia,2022-07-31,4205.0,6207098,10.0,156993
+Indonesia,South-East Asia,2022-08-01,3696.0,6210794,11.0,157004
+Indonesia,South-East Asia,2022-08-02,5827.0,6216621,24.0,157028
+Indonesia,South-East Asia,2022-08-03,6167.0,6222788,18.0,157046
+Indonesia,South-East Asia,2022-08-04,6527.0,6229315,14.0,157060
+Indonesia,South-East Asia,2022-08-05,5929.0,6235244,12.0,157072
+Indonesia,South-East Asia,2022-08-06,5455.0,6240699,10.0,157082
+Indonesia,South-East Asia,2022-08-07,4279.0,6244978,13.0,157095
+Indonesia,South-East Asia,2022-08-08,4425.0,6249403,18.0,157113
+Indonesia,South-East Asia,2022-08-09,6276.0,6255679,18.0,157131
+Indonesia,South-East Asia,2022-08-10,5926.0,6261605,18.0,157149
+Indonesia,South-East Asia,2022-08-11,5532.0,6267137,22.0,157171
+Indonesia,South-East Asia,2022-08-12,6091.0,6273228,18.0,157189
+Indonesia,South-East Asia,2022-08-13,5104.0,6278332,19.0,157208
+Indonesia,South-East Asia,2022-08-14,4442.0,6282774,18.0,157226
+Indonesia,South-East Asia,2022-08-15,3588.0,6286362,26.0,157252
+Indonesia,South-East Asia,2022-08-16,5869.0,6292231,25.0,157277
+Indonesia,South-East Asia,2022-08-17,5253.0,6297484,19.0,157296
+Indonesia,South-East Asia,2022-08-18,4039.0,6301523,21.0,157317
+Indonesia,South-East Asia,2022-08-19,5163.0,6306686,26.0,157343
+Indonesia,South-East Asia,2022-08-20,4922.0,6311608,22.0,157365
+Indonesia,South-East Asia,2022-08-21,3949.0,6315557,12.0,157377
+Indonesia,South-East Asia,2022-08-22,3300.0,6318857,19.0,157396
+Indonesia,South-East Asia,2022-08-23,4858.0,6323715,24.0,157420
+Indonesia,South-East Asia,2022-08-24,5428.0,6329143,18.0,157438
+Indonesia,South-East Asia,2022-08-25,5214.0,6334357,19.0,157457
+Indonesia,South-East Asia,2022-08-26,4549.0,6338906,21.0,157478
+Indonesia,South-East Asia,2022-08-27,4170.0,6343076,15.0,157493
+Indonesia,South-East Asia,2022-08-28,3228.0,6346304,7.0,157500
+Indonesia,South-East Asia,2022-08-29,2871.0,6349175,21.0,157521
+Indonesia,South-East Asia,2022-08-30,5070.0,6354245,20.0,157541
+Indonesia,South-East Asia,2022-08-31,4563.0,6358808,25.0,157566
+Indonesia,South-East Asia,2022-09-01,4094.0,6362902,25.0,157591
+Indonesia,South-East Asia,2022-09-02,3616.0,6366518,17.0,157608
+Indonesia,South-East Asia,2022-09-03,3260.0,6369778,23.0,157631
+Indonesia,South-East Asia,2022-09-04,2764.0,6372542,16.0,157647
+Indonesia,South-East Asia,2022-09-05,2340.0,6374882,21.0,157668
+Indonesia,South-East Asia,2022-09-06,3607.0,6378489,28.0,157696
+Indonesia,South-East Asia,2022-09-07,3513.0,6382002,21.0,157717
+Indonesia,South-East Asia,2022-09-08,3138.0,6385140,12.0,157729
+Indonesia,South-East Asia,2022-09-09,2804.0,6387944,12.0,157741
+Indonesia,South-East Asia,2022-09-10,2609.0,6390553,16.0,157757
+Indonesia,South-East Asia,2022-09-11,1939.0,6392492,13.0,157770
+Indonesia,South-East Asia,2022-09-12,1848.0,6394340,17.0,157787
+Indonesia,South-East Asia,2022-09-13,2896.0,6397236,20.0,157807
+Indonesia,South-East Asia,2022-09-14,2799.0,6400035,21.0,157828
+Indonesia,South-East Asia,2022-09-15,2651.0,6402686,21.0,157849
+Indonesia,South-East Asia,2022-09-16,2358.0,6405044,27.0,157876
+Indonesia,South-East Asia,2022-09-17,2079.0,6407123,8.0,157884
+Indonesia,South-East Asia,2022-09-18,1683.0,6408806,8.0,157892
+Indonesia,South-East Asia,2022-09-19,1620.0,6410426,23.0,157915
+Indonesia,South-East Asia,2022-09-20,2518.0,6412944,15.0,157930
+Indonesia,South-East Asia,2022-09-21,2384.0,6415328,18.0,157948
+Indonesia,South-East Asia,2022-09-22,2162.0,6417490,18.0,157966
+Indonesia,South-East Asia,2022-09-23,1904.0,6419394,20.0,157986
+Indonesia,South-East Asia,2022-09-24,1724.0,6421118,12.0,157998
+Indonesia,South-East Asia,2022-09-25,1411.0,6422529,16.0,158014
+Indonesia,South-East Asia,2022-09-26,1344.0,6423873,22.0,158036
+Indonesia,South-East Asia,2022-09-27,1976.0,6425849,21.0,158057
+Indonesia,South-East Asia,2022-09-28,1915.0,6427764,19.0,158076
+Indonesia,South-East Asia,2022-09-29,2003.0,6429767,17.0,158093
+Indonesia,South-East Asia,2022-09-30,1857.0,6431624,19.0,158112
+Indonesia,South-East Asia,2022-10-01,1639.0,6433263,10.0,158122
+Indonesia,South-East Asia,2022-10-02,1322.0,6434585,10.0,158132
+Indonesia,South-East Asia,2022-10-03,1134.0,6435719,11.0,158143
+Indonesia,South-East Asia,2022-10-04,1851.0,6437570,13.0,158156
+Indonesia,South-East Asia,2022-10-05,1722.0,6439292,9.0,158165
+Indonesia,South-East Asia,2022-10-06,1831.0,6441123,12.0,158177
+Indonesia,South-East Asia,2022-10-07,1501.0,6442624,15.0,158192
+Indonesia,South-East Asia,2022-10-08,0.0,6442624,0.0,158192
+Indonesia,South-East Asia,2022-10-09,2324.0,6444948,13.0,158205
+Indonesia,South-East Asia,2022-10-10,1195.0,6446143,14.0,158219
+Indonesia,South-East Asia,2022-10-11,2077.0,6448220,16.0,158235
+Indonesia,South-East Asia,2022-10-12,2028.0,6450248,14.0,158249
+Indonesia,South-East Asia,2022-10-13,1830.0,6452078,14.0,158263
+Indonesia,South-East Asia,2022-10-14,1786.0,6453864,18.0,158281
+Indonesia,South-East Asia,2022-10-15,1678.0,6455542,20.0,158301
+Indonesia,South-East Asia,2022-10-16,1326.0,6456868,12.0,158313
+Indonesia,South-East Asia,2022-10-17,1233.0,6458101,14.0,158327
+Indonesia,South-East Asia,2022-10-18,2164.0,6460265,18.0,158345
+Indonesia,South-East Asia,2022-10-19,2390.0,6462655,16.0,158361
+Indonesia,South-East Asia,2022-10-20,2307.0,6464962,19.0,158380
+Indonesia,South-East Asia,2022-10-21,2227.0,6467189,18.0,158398
+Indonesia,South-East Asia,2022-10-22,2087.0,6469276,18.0,158416
+Indonesia,South-East Asia,2022-10-23,1685.0,6470961,13.0,158429
+Indonesia,South-East Asia,2022-10-24,1703.0,6472664,25.0,158454
+Indonesia,South-East Asia,2022-10-25,3008.0,6475672,21.0,158475
+Indonesia,South-East Asia,2022-10-26,3048.0,6478720,24.0,158499
+Indonesia,South-East Asia,2022-10-27,3029.0,6481749,23.0,158522
+Indonesia,South-East Asia,2022-10-28,3015.0,6484764,22.0,158544
+Indonesia,South-East Asia,2022-10-29,3141.0,6487905,27.0,158571
+Indonesia,South-East Asia,2022-10-30,2717.0,6490622,26.0,158597
+Indonesia,South-East Asia,2022-10-31,2457.0,6493079,34.0,158631
+Indonesia,South-East Asia,2022-11-01,4707.0,6497786,32.0,158663
+Indonesia,South-East Asia,2022-11-02,4873.0,6502659,32.0,158695
+Indonesia,South-East Asia,2022-11-03,4951.0,6507610,42.0,158737
+Indonesia,South-East Asia,2022-11-04,5303.0,6512913,31.0,158768
+Indonesia,South-East Asia,2022-11-05,4717.0,6517630,39.0,158807
+Indonesia,South-East Asia,2022-11-06,3662.0,6521292,22.0,158829
+Indonesia,South-East Asia,2022-11-07,3828.0,6525120,42.0,158871
+Indonesia,South-East Asia,2022-11-08,6601.0,6531721,38.0,158909
+Indonesia,South-East Asia,2022-11-09,6186.0,6537907,43.0,158952
+Indonesia,South-East Asia,2022-11-10,6294.0,6544201,37.0,158989
+Indonesia,South-East Asia,2022-11-11,6247.0,6550448,46.0,159035
+Indonesia,South-East Asia,2022-11-12,6179.0,6556627,33.0,159068
+Indonesia,South-East Asia,2022-11-13,4877.0,6561504,36.0,159104
+Indonesia,South-East Asia,2022-11-14,4408.0,6565912,54.0,159158
+Indonesia,South-East Asia,2022-11-15,7893.0,6573805,41.0,159199
+Indonesia,South-East Asia,2022-11-16,8486.0,6582291,54.0,159253
+Indonesia,South-East Asia,2022-11-17,7822.0,6590113,38.0,159291
+Indonesia,South-East Asia,2022-11-18,6699.0,6596812,32.0,159323
+Indonesia,South-East Asia,2022-11-19,6383.0,6603195,25.0,159348
+Indonesia,South-East Asia,2022-11-20,5172.0,6608367,31.0,159379
+Indonesia,South-East Asia,2022-11-21,4306.0,6612673,43.0,159422
+Indonesia,South-East Asia,2022-11-22,7644.0,6620317,51.0,159473
+Indonesia,South-East Asia,2022-11-23,7221.0,6627538,51.0,159524
+Indonesia,South-East Asia,2022-11-24,7110.0,6634648,41.0,159565
+Indonesia,South-East Asia,2022-11-25,5976.0,6640624,35.0,159600
+Indonesia,South-East Asia,2022-11-26,5469.0,6646093,41.0,159641
+Indonesia,South-East Asia,2022-11-27,4151.0,6650244,35.0,159676
+Indonesia,South-East Asia,2022-11-28,3225.0,6653469,59.0,159735
+Indonesia,South-East Asia,2022-11-29,5766.0,6659235,54.0,159789
+Indonesia,South-East Asia,2022-11-30,5609.0,6664844,41.0,159830
+Indonesia,South-East Asia,2022-12-01,4977.0,6669821,54.0,159884
+Indonesia,South-East Asia,2022-12-02,4179.0,6674000,37.0,159921
+Indonesia,South-East Asia,2022-12-03,3655.0,6677655,32.0,159953
+Indonesia,South-East Asia,2022-12-04,2548.0,6680203,25.0,159978
+Indonesia,South-East Asia,2022-12-05,2234.0,6682437,48.0,160026
+Indonesia,South-East Asia,2022-12-06,3744.0,6686181,45.0,160071
+Indonesia,South-East Asia,2022-12-07,3351.0,6689532,41.0,160112
+Indonesia,South-East Asia,2022-12-08,2977.0,6692509,27.0,160139
+Indonesia,South-East Asia,2022-12-09,2501.0,6695010,36.0,160175
+Indonesia,South-East Asia,2022-12-10,2191.0,6697201,23.0,160198
+Indonesia,South-East Asia,2022-12-11,1589.0,6698790,26.0,160224
+Indonesia,South-East Asia,2022-12-12,1225.0,6700015,31.0,160255
+Indonesia,South-East Asia,2022-12-13,2117.0,6702132,32.0,160287
+Indonesia,South-East Asia,2022-12-14,2136.0,6704268,24.0,160311
+Indonesia,South-East Asia,2022-12-15,1785.0,6706053,24.0,160335
+Indonesia,South-East Asia,2022-12-16,1451.0,6707504,27.0,160362
+Indonesia,South-East Asia,2022-12-17,1233.0,6708737,22.0,160384
+Indonesia,South-East Asia,2022-12-18,860.0,6709597,14.0,160398
+Indonesia,South-East Asia,2022-12-19,809.0,6710406,26.0,160424
+Indonesia,South-East Asia,2022-12-20,1297.0,6711703,27.0,160451
+Indonesia,South-East Asia,2022-12-21,1123.0,6712826,15.0,160466
+Indonesia,South-East Asia,2022-12-22,1053.0,6713879,22.0,160488
+Indonesia,South-East Asia,2022-12-23,923.0,6714802,19.0,160507
+Indonesia,South-East Asia,2022-12-24,784.0,6715586,17.0,160524
+Indonesia,South-East Asia,2022-12-25,538.0,6716124,13.0,160537
+Indonesia,South-East Asia,2022-12-26,468.0,6716592,14.0,160551
+Indonesia,South-East Asia,2022-12-27,803.0,6717395,9.0,160560
+Indonesia,South-East Asia,2022-12-28,695.0,6718090,14.0,160574
+Indonesia,South-East Asia,2022-12-29,685.0,6718775,9.0,160583
+Indonesia,South-East Asia,2022-12-30,552.0,6719327,10.0,160593
+Indonesia,South-East Asia,2022-12-31,488.0,6719815,19.0,160612
+Maldives,South-East Asia,2022-01-01,191.0,95891,0.0,262
+Maldives,South-East Asia,2022-01-02,161.0,96052,0.0,262
+Maldives,South-East Asia,2022-01-03,242.0,96294,0.0,262
+Maldives,South-East Asia,2022-01-04,228.0,96522,1.0,263
+Maldives,South-East Asia,2022-01-05,224.0,96746,0.0,263
+Maldives,South-East Asia,2022-01-06,304.0,97050,1.0,264
+Maldives,South-East Asia,2022-01-07,281.0,97331,0.0,264
+Maldives,South-East Asia,2022-01-08,337.0,97668,0.0,264
+Maldives,South-East Asia,2022-01-09,384.0,98052,0.0,264
+Maldives,South-East Asia,2022-01-10,454.0,98506,0.0,264
+Maldives,South-East Asia,2022-01-11,593.0,99099,0.0,264
+Maldives,South-East Asia,2022-01-12,536.0,99635,0.0,264
+Maldives,South-East Asia,2022-01-13,816.0,100451,0.0,264
+Maldives,South-East Asia,2022-01-14,967.0,101418,1.0,265
+Maldives,South-East Asia,2022-01-15,954.0,102372,0.0,265
+Maldives,South-East Asia,2022-01-16,1209.0,103581,0.0,265
+Maldives,South-East Asia,2022-01-17,1420.0,105001,0.0,265
+Maldives,South-East Asia,2022-01-18,1594.0,106595,0.0,265
+Maldives,South-East Asia,2022-01-19,2137.0,108732,0.0,265
+Maldives,South-East Asia,2022-01-20,2199.0,110931,4.0,269
+Maldives,South-East Asia,2022-01-21,1697.0,112628,0.0,269
+Maldives,South-East Asia,2022-01-22,2349.0,114977,0.0,269
+Maldives,South-East Asia,2022-01-23,2484.0,117461,1.0,270
+Maldives,South-East Asia,2022-01-24,2707.0,120168,0.0,270
+Maldives,South-East Asia,2022-01-25,2609.0,122777,1.0,271
+Maldives,South-East Asia,2022-01-26,2813.0,125590,1.0,272
+Maldives,South-East Asia,2022-01-27,2499.0,128089,2.0,274
+Maldives,South-East Asia,2022-01-28,2510.0,130599,0.0,274
+Maldives,South-East Asia,2022-01-29,2689.0,133288,0.0,274
+Maldives,South-East Asia,2022-01-30,2838.0,136126,1.0,275
+Maldives,South-East Asia,2022-01-31,2754.0,138880,1.0,276
+Maldives,South-East Asia,2022-02-01,2180.0,141060,1.0,277
+Maldives,South-East Asia,2022-02-02,2142.0,143202,1.0,278
+Maldives,South-East Asia,2022-02-03,1834.0,145036,2.0,280
+Maldives,South-East Asia,2022-02-04,1955.0,146991,0.0,280
+Maldives,South-East Asia,2022-02-05,1589.0,148580,1.0,281
+Maldives,South-East Asia,2022-02-06,1757.0,150337,2.0,283
+Maldives,South-East Asia,2022-02-07,1576.0,151913,1.0,284
+Maldives,South-East Asia,2022-02-08,1502.0,153415,1.0,285
+Maldives,South-East Asia,2022-02-09,1096.0,154511,1.0,286
+Maldives,South-East Asia,2022-02-10,1406.0,155917,1.0,287
+Maldives,South-East Asia,2022-02-11,986.0,156903,0.0,287
+Maldives,South-East Asia,2022-02-12,1128.0,158031,1.0,288
+Maldives,South-East Asia,2022-02-13,1030.0,159061,1.0,289
+Maldives,South-East Asia,2022-02-14,1015.0,160076,0.0,289
+Maldives,South-East Asia,2022-02-15,1037.0,161113,0.0,289
+Maldives,South-East Asia,2022-02-16,1056.0,162169,0.0,289
+Maldives,South-East Asia,2022-02-17,805.0,162974,1.0,290
+Maldives,South-East Asia,2022-02-18,607.0,163581,0.0,290
+Maldives,South-East Asia,2022-02-19,648.0,164229,0.0,290
+Maldives,South-East Asia,2022-02-20,844.0,165073,1.0,291
+Maldives,South-East Asia,2022-02-21,656.0,165729,1.0,292
+Maldives,South-East Asia,2022-02-22,796.0,166525,0.0,292
+Maldives,South-East Asia,2022-02-23,971.0,167496,1.0,293
+Maldives,South-East Asia,2022-02-24,628.0,168124,1.0,294
+Maldives,South-East Asia,2022-02-25,507.0,168631,0.0,294
+Maldives,South-East Asia,2022-02-26,517.0,169148,2.0,296
+Maldives,South-East Asia,2022-02-27,484.0,169632,1.0,297
+Maldives,South-East Asia,2022-02-28,560.0,170192,0.0,297
+Maldives,South-East Asia,2022-03-01,463.0,170655,0.0,297
+Maldives,South-East Asia,2022-03-02,459.0,171114,0.0,297
+Maldives,South-East Asia,2022-03-03,535.0,171649,0.0,297
+Maldives,South-East Asia,2022-03-04,298.0,171947,0.0,297
+Maldives,South-East Asia,2022-03-05,323.0,172270,0.0,297
+Maldives,South-East Asia,2022-03-06,306.0,172576,0.0,297
+Maldives,South-East Asia,2022-03-07,488.0,173064,0.0,297
+Maldives,South-East Asia,2022-03-08,273.0,173337,0.0,297
+Maldives,South-East Asia,2022-03-09,329.0,173666,0.0,297
+Maldives,South-East Asia,2022-03-10,325.0,173991,0.0,297
+Maldives,South-East Asia,2022-03-11,172.0,174163,0.0,297
+Maldives,South-East Asia,2022-03-12,204.0,174367,0.0,297
+Maldives,South-East Asia,2022-03-13,291.0,174658,0.0,297
+Maldives,South-East Asia,2022-03-14,196.0,174854,0.0,297
+Maldives,South-East Asia,2022-03-15,265.0,175119,0.0,297
+Maldives,South-East Asia,2022-03-16,234.0,175353,0.0,297
+Maldives,South-East Asia,2022-03-17,175.0,175528,0.0,297
+Maldives,South-East Asia,2022-03-18,107.0,175635,0.0,297
+Maldives,South-East Asia,2022-03-19,203.0,175838,0.0,297
+Maldives,South-East Asia,2022-03-20,161.0,175999,0.0,297
+Maldives,South-East Asia,2022-03-21,199.0,176198,0.0,297
+Maldives,South-East Asia,2022-03-22,215.0,176413,0.0,297
+Maldives,South-East Asia,2022-03-23,171.0,176584,0.0,297
+Maldives,South-East Asia,2022-03-24,160.0,176744,0.0,297
+Maldives,South-East Asia,2022-03-25,78.0,176822,0.0,297
+Maldives,South-East Asia,2022-03-26,178.0,177000,1.0,298
+Maldives,South-East Asia,2022-03-27,103.0,177103,0.0,298
+Maldives,South-East Asia,2022-03-28,125.0,177228,0.0,298
+Maldives,South-East Asia,2022-03-29,144.0,177372,0.0,298
+Maldives,South-East Asia,2022-03-30,73.0,177445,0.0,298
+Maldives,South-East Asia,2022-03-31,83.0,177528,0.0,298
+Maldives,South-East Asia,2022-04-01,97.0,177625,0.0,298
+Maldives,South-East Asia,2022-04-02,40.0,177665,0.0,298
+Maldives,South-East Asia,2022-04-03,94.0,177759,0.0,298
+Maldives,South-East Asia,2022-04-04,87.0,177846,0.0,298
+Maldives,South-East Asia,2022-04-05,105.0,177951,0.0,298
+Maldives,South-East Asia,2022-04-06,126.0,178077,0.0,298
+Maldives,South-East Asia,2022-04-07,80.0,178157,0.0,298
+Maldives,South-East Asia,2022-04-08,40.0,178197,0.0,298
+Maldives,South-East Asia,2022-04-09,116.0,178313,0.0,298
+Maldives,South-East Asia,2022-04-10,164.0,178477,0.0,298
+Maldives,South-East Asia,2022-04-11,121.0,178598,0.0,298
+Maldives,South-East Asia,2022-04-12,95.0,178693,0.0,298
+Maldives,South-East Asia,2022-04-13,34.0,178727,0.0,298
+Maldives,South-East Asia,2022-04-14,73.0,178800,0.0,298
+Maldives,South-East Asia,2022-04-15,20.0,178820,0.0,298
+Maldives,South-East Asia,2022-04-16,63.0,178883,0.0,298
+Maldives,South-East Asia,2022-04-17,35.0,178918,0.0,298
+Maldives,South-East Asia,2022-04-18,38.0,178956,0.0,298
+Maldives,South-East Asia,2022-04-19,84.0,179040,0.0,298
+Maldives,South-East Asia,2022-04-20,36.0,179076,0.0,298
+Maldives,South-East Asia,2022-04-21,29.0,179105,0.0,298
+Maldives,South-East Asia,2022-04-22,24.0,179129,0.0,298
+Maldives,South-East Asia,2022-04-23,42.0,179171,0.0,298
+Maldives,South-East Asia,2022-04-24,29.0,179200,0.0,298
+Maldives,South-East Asia,2022-04-25,32.0,179232,0.0,298
+Maldives,South-East Asia,2022-04-26,35.0,179267,0.0,298
+Maldives,South-East Asia,2022-04-27,15.0,179282,0.0,298
+Maldives,South-East Asia,2022-04-28,26.0,179308,0.0,298
+Maldives,South-East Asia,2022-04-29,23.0,179331,0.0,298
+Maldives,South-East Asia,2022-04-30,32.0,179363,0.0,298
+Maldives,South-East Asia,2022-05-01,16.0,179379,0.0,298
+Maldives,South-East Asia,2022-05-02,12.0,179391,0.0,298
+Maldives,South-East Asia,2022-05-03,23.0,179414,0.0,298
+Maldives,South-East Asia,2022-05-04,14.0,179428,0.0,298
+Maldives,South-East Asia,2022-05-05,29.0,179457,0.0,298
+Maldives,South-East Asia,2022-05-06,11.0,179468,0.0,298
+Maldives,South-East Asia,2022-05-07,15.0,179483,0.0,298
+Maldives,South-East Asia,2022-05-08,19.0,179502,0.0,298
+Maldives,South-East Asia,2022-05-09,13.0,179515,0.0,298
+Maldives,South-East Asia,2022-05-10,6.0,179521,0.0,298
+Maldives,South-East Asia,2022-05-11,19.0,179540,0.0,298
+Maldives,South-East Asia,2022-05-12,7.0,179547,0.0,298
+Maldives,South-East Asia,2022-05-13,9.0,179556,0.0,298
+Maldives,South-East Asia,2022-05-14,4.0,179560,0.0,298
+Maldives,South-East Asia,2022-05-15,9.0,179569,0.0,298
+Maldives,South-East Asia,2022-05-16,12.0,179581,0.0,298
+Maldives,South-East Asia,2022-05-17,13.0,179594,0.0,298
+Maldives,South-East Asia,2022-05-18,12.0,179606,0.0,298
+Maldives,South-East Asia,2022-05-19,29.0,179635,0.0,298
+Maldives,South-East Asia,2022-05-20,8.0,179643,0.0,298
+Maldives,South-East Asia,2022-05-21,19.0,179662,0.0,298
+Maldives,South-East Asia,2022-05-22,8.0,179670,0.0,298
+Maldives,South-East Asia,2022-05-23,8.0,179678,0.0,298
+Maldives,South-East Asia,2022-05-24,23.0,179701,0.0,298
+Maldives,South-East Asia,2022-05-25,13.0,179714,0.0,298
+Maldives,South-East Asia,2022-05-26,16.0,179730,0.0,298
+Maldives,South-East Asia,2022-05-27,10.0,179740,0.0,298
+Maldives,South-East Asia,2022-05-28,13.0,179753,0.0,298
+Maldives,South-East Asia,2022-05-29,12.0,179765,0.0,298
+Maldives,South-East Asia,2022-05-30,7.0,179772,0.0,298
+Maldives,South-East Asia,2022-05-31,15.0,179787,0.0,298
+Maldives,South-East Asia,2022-06-01,10.0,179797,0.0,298
+Maldives,South-East Asia,2022-06-02,18.0,179815,0.0,298
+Maldives,South-East Asia,2022-06-03,8.0,179823,0.0,298
+Maldives,South-East Asia,2022-06-04,14.0,179837,1.0,299
+Maldives,South-East Asia,2022-06-05,18.0,179855,0.0,299
+Maldives,South-East Asia,2022-06-06,19.0,179874,0.0,299
+Maldives,South-East Asia,2022-06-07,23.0,179897,0.0,299
+Maldives,South-East Asia,2022-06-08,20.0,179917,0.0,299
+Maldives,South-East Asia,2022-06-09,24.0,179941,0.0,299
+Maldives,South-East Asia,2022-06-10,25.0,179966,0.0,299
+Maldives,South-East Asia,2022-06-11,13.0,179979,0.0,299
+Maldives,South-East Asia,2022-06-12,36.0,180015,0.0,299
+Maldives,South-East Asia,2022-06-13,26.0,180041,0.0,299
+Maldives,South-East Asia,2022-06-14,63.0,180104,0.0,299
+Maldives,South-East Asia,2022-06-15,72.0,180176,0.0,299
+Maldives,South-East Asia,2022-06-16,77.0,180253,0.0,299
+Maldives,South-East Asia,2022-06-17,70.0,180323,0.0,299
+Maldives,South-East Asia,2022-06-18,61.0,180384,1.0,300
+Maldives,South-East Asia,2022-06-19,159.0,180543,0.0,300
+Maldives,South-East Asia,2022-06-20,179.0,180722,0.0,300
+Maldives,South-East Asia,2022-06-21,120.0,180842,0.0,300
+Maldives,South-East Asia,2022-06-22,237.0,181079,0.0,300
+Maldives,South-East Asia,2022-06-23,192.0,181271,0.0,300
+Maldives,South-East Asia,2022-06-24,134.0,181405,0.0,300
+Maldives,South-East Asia,2022-06-25,181.0,181586,5.0,305
+Maldives,South-East Asia,2022-06-26,0.0,181586,0.0,305
+Maldives,South-East Asia,2022-06-27,0.0,181586,0.0,305
+Maldives,South-East Asia,2022-06-28,0.0,181586,0.0,305
+Maldives,South-East Asia,2022-06-29,0.0,181586,0.0,305
+Maldives,South-East Asia,2022-06-30,0.0,181586,0.0,305
+Maldives,South-East Asia,2022-07-01,0.0,181586,0.0,305
+Maldives,South-East Asia,2022-07-02,1134.0,182720,1.0,306
+Maldives,South-East Asia,2022-07-03,0.0,182720,0.0,306
+Maldives,South-East Asia,2022-07-04,0.0,182720,0.0,306
+Maldives,South-East Asia,2022-07-05,0.0,182720,0.0,306
+Maldives,South-East Asia,2022-07-06,0.0,182720,0.0,306
+Maldives,South-East Asia,2022-07-07,0.0,182720,0.0,306
+Maldives,South-East Asia,2022-07-08,0.0,182720,0.0,306
+Maldives,South-East Asia,2022-07-09,771.0,183491,1.0,307
+Maldives,South-East Asia,2022-07-10,0.0,183491,0.0,307
+Maldives,South-East Asia,2022-07-11,0.0,183491,0.0,307
+Maldives,South-East Asia,2022-07-12,0.0,183491,0.0,307
+Maldives,South-East Asia,2022-07-13,0.0,183491,0.0,307
+Maldives,South-East Asia,2022-07-14,0.0,183491,0.0,307
+Maldives,South-East Asia,2022-07-15,0.0,183491,0.0,307
+Maldives,South-East Asia,2022-07-16,417.0,183908,0.0,307
+Maldives,South-East Asia,2022-07-17,0.0,183908,0.0,307
+Maldives,South-East Asia,2022-07-18,0.0,183908,0.0,307
+Maldives,South-East Asia,2022-07-19,0.0,183908,0.0,307
+Maldives,South-East Asia,2022-07-20,0.0,183908,0.0,307
+Maldives,South-East Asia,2022-07-21,0.0,183908,0.0,307
+Maldives,South-East Asia,2022-07-22,0.0,183908,0.0,307
+Maldives,South-East Asia,2022-07-23,394.0,184302,0.0,307
+Maldives,South-East Asia,2022-07-24,0.0,184302,0.0,307
+Maldives,South-East Asia,2022-07-25,0.0,184302,0.0,307
+Maldives,South-East Asia,2022-07-26,0.0,184302,0.0,307
+Maldives,South-East Asia,2022-07-27,0.0,184302,0.0,307
+Maldives,South-East Asia,2022-07-28,0.0,184302,0.0,307
+Maldives,South-East Asia,2022-07-29,0.0,184302,0.0,307
+Maldives,South-East Asia,2022-07-30,183.0,184485,0.0,307
+Maldives,South-East Asia,2022-07-31,0.0,184485,0.0,307
+Maldives,South-East Asia,2022-08-01,0.0,184485,0.0,307
+Maldives,South-East Asia,2022-08-02,0.0,184485,0.0,307
+Maldives,South-East Asia,2022-08-03,0.0,184485,0.0,307
+Maldives,South-East Asia,2022-08-04,0.0,184485,0.0,307
+Maldives,South-East Asia,2022-08-05,0.0,184485,0.0,307
+Maldives,South-East Asia,2022-08-06,106.0,184591,0.0,307
+Maldives,South-East Asia,2022-08-07,0.0,184591,0.0,307
+Maldives,South-East Asia,2022-08-08,0.0,184591,0.0,307
+Maldives,South-East Asia,2022-08-09,0.0,184591,0.0,307
+Maldives,South-East Asia,2022-08-10,0.0,184591,0.0,307
+Maldives,South-East Asia,2022-08-11,0.0,184591,0.0,307
+Maldives,South-East Asia,2022-08-12,0.0,184591,0.0,307
+Maldives,South-East Asia,2022-08-13,98.0,184689,0.0,307
+Maldives,South-East Asia,2022-08-14,0.0,184689,0.0,307
+Maldives,South-East Asia,2022-08-15,0.0,184689,0.0,307
+Maldives,South-East Asia,2022-08-16,0.0,184689,0.0,307
+Maldives,South-East Asia,2022-08-17,0.0,184689,0.0,307
+Maldives,South-East Asia,2022-08-18,0.0,184689,0.0,307
+Maldives,South-East Asia,2022-08-19,0.0,184689,0.0,307
+Maldives,South-East Asia,2022-08-20,99.0,184788,0.0,307
+Maldives,South-East Asia,2022-08-21,0.0,184788,0.0,307
+Maldives,South-East Asia,2022-08-22,0.0,184788,0.0,307
+Maldives,South-East Asia,2022-08-23,0.0,184788,0.0,307
+Maldives,South-East Asia,2022-08-24,0.0,184788,0.0,307
+Maldives,South-East Asia,2022-08-25,0.0,184788,0.0,307
+Maldives,South-East Asia,2022-08-26,0.0,184788,0.0,307
+Maldives,South-East Asia,2022-08-27,68.0,184856,1.0,308
+Maldives,South-East Asia,2022-08-28,0.0,184856,0.0,308
+Maldives,South-East Asia,2022-08-29,0.0,184856,0.0,308
+Maldives,South-East Asia,2022-08-30,0.0,184856,0.0,308
+Maldives,South-East Asia,2022-08-31,0.0,184856,0.0,308
+Maldives,South-East Asia,2022-09-01,0.0,184856,0.0,308
+Maldives,South-East Asia,2022-09-02,0.0,184856,0.0,308
+Maldives,South-East Asia,2022-09-03,68.0,184924,0.0,308
+Maldives,South-East Asia,2022-09-04,0.0,184924,0.0,308
+Maldives,South-East Asia,2022-09-05,0.0,184924,0.0,308
+Maldives,South-East Asia,2022-09-06,0.0,184924,0.0,308
+Maldives,South-East Asia,2022-09-07,0.0,184924,0.0,308
+Maldives,South-East Asia,2022-09-08,0.0,184924,0.0,308
+Maldives,South-East Asia,2022-09-09,0.0,184924,0.0,308
+Maldives,South-East Asia,2022-09-10,42.0,184966,0.0,308
+Maldives,South-East Asia,2022-09-11,0.0,184966,0.0,308
+Maldives,South-East Asia,2022-09-12,0.0,184966,0.0,308
+Maldives,South-East Asia,2022-09-13,0.0,184966,0.0,308
+Maldives,South-East Asia,2022-09-14,0.0,184966,0.0,308
+Maldives,South-East Asia,2022-09-15,0.0,184966,0.0,308
+Maldives,South-East Asia,2022-09-16,0.0,184966,0.0,308
+Maldives,South-East Asia,2022-09-17,38.0,185004,0.0,308
+Maldives,South-East Asia,2022-09-18,0.0,185004,0.0,308
+Maldives,South-East Asia,2022-09-19,0.0,185004,0.0,308
+Maldives,South-East Asia,2022-09-20,0.0,185004,0.0,308
+Maldives,South-East Asia,2022-09-21,0.0,185004,0.0,308
+Maldives,South-East Asia,2022-09-22,0.0,185004,0.0,308
+Maldives,South-East Asia,2022-09-23,0.0,185004,0.0,308
+Maldives,South-East Asia,2022-09-24,38.0,185042,0.0,308
+Maldives,South-East Asia,2022-09-25,0.0,185042,0.0,308
+Maldives,South-East Asia,2022-09-26,0.0,185042,0.0,308
+Maldives,South-East Asia,2022-09-27,0.0,185042,0.0,308
+Maldives,South-East Asia,2022-09-28,0.0,185042,0.0,308
+Maldives,South-East Asia,2022-09-29,0.0,185042,0.0,308
+Maldives,South-East Asia,2022-09-30,0.0,185042,0.0,308
+Maldives,South-East Asia,2022-10-01,40.0,185082,0.0,308
+Maldives,South-East Asia,2022-10-02,0.0,185082,0.0,308
+Maldives,South-East Asia,2022-10-03,0.0,185082,0.0,308
+Maldives,South-East Asia,2022-10-04,0.0,185082,0.0,308
+Maldives,South-East Asia,2022-10-05,0.0,185082,0.0,308
+Maldives,South-East Asia,2022-10-06,0.0,185082,0.0,308
+Maldives,South-East Asia,2022-10-07,0.0,185082,0.0,308
+Maldives,South-East Asia,2022-10-08,43.0,185125,0.0,308
+Maldives,South-East Asia,2022-10-09,0.0,185125,0.0,308
+Maldives,South-East Asia,2022-10-10,0.0,185125,0.0,308
+Maldives,South-East Asia,2022-10-11,0.0,185125,0.0,308
+Maldives,South-East Asia,2022-10-12,0.0,185125,0.0,308
+Maldives,South-East Asia,2022-10-13,0.0,185125,0.0,308
+Maldives,South-East Asia,2022-10-14,0.0,185125,0.0,308
+Maldives,South-East Asia,2022-10-15,69.0,185194,0.0,308
+Maldives,South-East Asia,2022-10-16,0.0,185194,0.0,308
+Maldives,South-East Asia,2022-10-17,0.0,185194,0.0,308
+Maldives,South-East Asia,2022-10-18,0.0,185194,0.0,308
+Maldives,South-East Asia,2022-10-19,0.0,185194,0.0,308
+Maldives,South-East Asia,2022-10-20,0.0,185194,0.0,308
+Maldives,South-East Asia,2022-10-21,0.0,185194,0.0,308
+Maldives,South-East Asia,2022-10-22,86.0,185280,0.0,308
+Maldives,South-East Asia,2022-10-23,0.0,185280,0.0,308
+Maldives,South-East Asia,2022-10-24,0.0,185280,0.0,308
+Maldives,South-East Asia,2022-10-25,0.0,185280,0.0,308
+Maldives,South-East Asia,2022-10-26,0.0,185280,0.0,308
+Maldives,South-East Asia,2022-10-27,0.0,185280,0.0,308
+Maldives,South-East Asia,2022-10-28,0.0,185280,0.0,308
+Maldives,South-East Asia,2022-10-29,84.0,185364,0.0,308
+Maldives,South-East Asia,2022-10-30,0.0,185364,0.0,308
+Maldives,South-East Asia,2022-10-31,0.0,185364,0.0,308
+Maldives,South-East Asia,2022-11-01,0.0,185364,0.0,308
+Maldives,South-East Asia,2022-11-02,0.0,185364,0.0,308
+Maldives,South-East Asia,2022-11-03,0.0,185364,0.0,308
+Maldives,South-East Asia,2022-11-04,0.0,185364,0.0,308
+Maldives,South-East Asia,2022-11-05,90.0,185454,1.0,309
+Maldives,South-East Asia,2022-11-06,0.0,185454,0.0,309
+Maldives,South-East Asia,2022-11-07,0.0,185454,0.0,309
+Maldives,South-East Asia,2022-11-08,0.0,185454,0.0,309
+Maldives,South-East Asia,2022-11-09,0.0,185454,0.0,309
+Maldives,South-East Asia,2022-11-10,0.0,185454,0.0,309
+Maldives,South-East Asia,2022-11-11,0.0,185454,0.0,309
+Maldives,South-East Asia,2022-11-12,95.0,185549,1.0,310
+Maldives,South-East Asia,2022-11-13,0.0,185549,0.0,310
+Maldives,South-East Asia,2022-11-14,0.0,185549,0.0,310
+Maldives,South-East Asia,2022-11-15,0.0,185549,0.0,310
+Maldives,South-East Asia,2022-11-16,0.0,185549,0.0,310
+Maldives,South-East Asia,2022-11-17,0.0,185549,0.0,310
+Maldives,South-East Asia,2022-11-18,0.0,185549,0.0,310
+Maldives,South-East Asia,2022-11-19,35.0,185584,1.0,311
+Maldives,South-East Asia,2022-11-20,0.0,185584,0.0,311
+Maldives,South-East Asia,2022-11-21,0.0,185584,0.0,311
+Maldives,South-East Asia,2022-11-22,0.0,185584,0.0,311
+Maldives,South-East Asia,2022-11-23,0.0,185584,0.0,311
+Maldives,South-East Asia,2022-11-24,0.0,185584,0.0,311
+Maldives,South-East Asia,2022-11-25,0.0,185584,0.0,311
+Maldives,South-East Asia,2022-11-26,34.0,185618,0.0,311
+Maldives,South-East Asia,2022-11-27,0.0,185618,0.0,311
+Maldives,South-East Asia,2022-11-28,0.0,185618,0.0,311
+Maldives,South-East Asia,2022-11-29,0.0,185618,0.0,311
+Maldives,South-East Asia,2022-11-30,0.0,185618,0.0,311
+Maldives,South-East Asia,2022-12-01,0.0,185618,0.0,311
+Maldives,South-East Asia,2022-12-02,0.0,185618,0.0,311
+Maldives,South-East Asia,2022-12-03,14.0,185632,0.0,311
+Maldives,South-East Asia,2022-12-04,0.0,185632,0.0,311
+Maldives,South-East Asia,2022-12-05,0.0,185632,0.0,311
+Maldives,South-East Asia,2022-12-06,0.0,185632,0.0,311
+Maldives,South-East Asia,2022-12-07,0.0,185632,0.0,311
+Maldives,South-East Asia,2022-12-08,0.0,185632,0.0,311
+Maldives,South-East Asia,2022-12-09,0.0,185632,0.0,311
+Maldives,South-East Asia,2022-12-10,19.0,185651,0.0,311
+Maldives,South-East Asia,2022-12-11,0.0,185651,0.0,311
+Maldives,South-East Asia,2022-12-12,0.0,185651,0.0,311
+Maldives,South-East Asia,2022-12-13,0.0,185651,0.0,311
+Maldives,South-East Asia,2022-12-14,0.0,185651,0.0,311
+Maldives,South-East Asia,2022-12-15,0.0,185651,0.0,311
+Maldives,South-East Asia,2022-12-16,0.0,185651,0.0,311
+Maldives,South-East Asia,2022-12-17,15.0,185666,0.0,311
+Maldives,South-East Asia,2022-12-18,0.0,185666,0.0,311
+Maldives,South-East Asia,2022-12-19,0.0,185666,0.0,311
+Maldives,South-East Asia,2022-12-20,0.0,185666,0.0,311
+Maldives,South-East Asia,2022-12-21,0.0,185666,0.0,311
+Maldives,South-East Asia,2022-12-22,0.0,185666,0.0,311
+Maldives,South-East Asia,2022-12-23,0.0,185666,0.0,311
+Maldives,South-East Asia,2022-12-24,12.0,185678,0.0,311
+Maldives,South-East Asia,2022-12-25,0.0,185678,0.0,311
+Maldives,South-East Asia,2022-12-26,0.0,185678,0.0,311
+Maldives,South-East Asia,2022-12-27,0.0,185678,0.0,311
+Maldives,South-East Asia,2022-12-28,0.0,185678,0.0,311
+Maldives,South-East Asia,2022-12-29,0.0,185678,0.0,311
+Maldives,South-East Asia,2022-12-30,0.0,185678,0.0,311
+Maldives,South-East Asia,2022-12-31,15.0,185693,0.0,311
+Nepal,South-East Asia,2022-01-01,342.0,828773,0.0,11594
+Nepal,South-East Asia,2022-01-02,213.0,828986,2.0,11596
+Nepal,South-East Asia,2022-01-03,291.0,829277,2.0,11598
+Nepal,South-East Asia,2022-01-04,355.0,829632,3.0,11601
+Nepal,South-East Asia,2022-01-05,370.0,830002,0.0,11601
+Nepal,South-East Asia,2022-01-06,478.0,830480,1.0,11602
+Nepal,South-East Asia,2022-01-07,572.0,831052,0.0,11602
+Nepal,South-East Asia,2022-01-08,696.0,831748,0.0,11602
+Nepal,South-East Asia,2022-01-09,841.0,832589,2.0,11604
+Nepal,South-East Asia,2022-01-10,1357.0,833946,2.0,11606
+Nepal,South-East Asia,2022-01-11,1981.0,835927,1.0,11607
+Nepal,South-East Asia,2022-01-12,2448.0,838375,2.0,11609
+Nepal,South-East Asia,2022-01-13,2922.0,841297,1.0,11610
+Nepal,South-East Asia,2022-01-14,4204.0,845501,3.0,11613
+Nepal,South-East Asia,2022-01-15,3703.0,849204,4.0,11617
+Nepal,South-East Asia,2022-01-16,4534.0,853738,3.0,11620
+Nepal,South-East Asia,2022-01-17,5747.0,859485,3.0,11623
+Nepal,South-East Asia,2022-01-18,8730.0,868215,1.0,11624
+Nepal,South-East Asia,2022-01-19,9502.0,877717,4.0,11628
+Nepal,South-East Asia,2022-01-20,10052.0,887769,4.0,11632
+Nepal,South-East Asia,2022-01-21,8815.0,896584,3.0,11635
+Nepal,South-East Asia,2022-01-22,8212.0,904796,16.0,11651
+Nepal,South-East Asia,2022-01-23,5598.0,910394,4.0,11655
+Nepal,South-East Asia,2022-01-24,8054.0,918448,4.0,11659
+Nepal,South-East Asia,2022-01-25,9432.0,927880,8.0,11667
+Nepal,South-East Asia,2022-01-26,5571.0,933451,5.0,11672
+Nepal,South-East Asia,2022-01-27,5816.0,939267,15.0,11687
+Nepal,South-East Asia,2022-01-28,4807.0,944074,10.0,11697
+Nepal,South-East Asia,2022-01-29,3318.0,947392,6.0,11703
+Nepal,South-East Asia,2022-01-30,3049.0,950441,32.0,11735
+Nepal,South-East Asia,2022-01-31,3472.0,953913,8.0,11743
+Nepal,South-East Asia,2022-02-01,3657.0,957570,9.0,11752
+Nepal,South-East Asia,2022-02-02,2205.0,959775,12.0,11764
+Nepal,South-East Asia,2022-02-03,2742.0,962517,14.0,11778
+Nepal,South-East Asia,2022-02-04,1602.0,964119,16.0,11794
+Nepal,South-East Asia,2022-02-05,1103.0,965222,9.0,11803
+Nepal,South-East Asia,2022-02-06,1183.0,966405,11.0,11814
+Nepal,South-East Asia,2022-02-07,1022.0,967427,13.0,11827
+Nepal,South-East Asia,2022-02-08,1184.0,968611,11.0,11838
+Nepal,South-East Asia,2022-02-09,1851.0,970462,14.0,11852
+Nepal,South-East Asia,2022-02-10,1013.0,971475,12.0,11864
+Nepal,South-East Asia,2022-02-11,666.0,972141,14.0,11878
+Nepal,South-East Asia,2022-02-12,491.0,972632,4.0,11882
+Nepal,South-East Asia,2022-02-13,427.0,973059,10.0,11892
+Nepal,South-East Asia,2022-02-14,482.0,973541,8.0,11900
+Nepal,South-East Asia,2022-02-15,498.0,974039,2.0,11902
+Nepal,South-East Asia,2022-02-16,454.0,974493,3.0,11905
+Nepal,South-East Asia,2022-02-17,364.0,974857,6.0,11911
+Nepal,South-East Asia,2022-02-18,275.0,975132,2.0,11913
+Nepal,South-East Asia,2022-02-19,198.0,975330,4.0,11917
+Nepal,South-East Asia,2022-02-20,229.0,975559,4.0,11921
+Nepal,South-East Asia,2022-02-21,247.0,975806,4.0,11925
+Nepal,South-East Asia,2022-02-22,299.0,976105,3.0,11928
+Nepal,South-East Asia,2022-02-23,256.0,976361,2.0,11930
+Nepal,South-East Asia,2022-02-24,151.0,976512,1.0,11931
+Nepal,South-East Asia,2022-02-25,158.0,976670,1.0,11932
+Nepal,South-East Asia,2022-02-26,101.0,976771,2.0,11934
+Nepal,South-East Asia,2022-02-27,94.0,976865,1.0,11935
+Nepal,South-East Asia,2022-02-28,119.0,976984,1.0,11936
+Nepal,South-East Asia,2022-03-01,92.0,977076,2.0,11938
+Nepal,South-East Asia,2022-03-02,123.0,977199,3.0,11941
+Nepal,South-East Asia,2022-03-03,70.0,977269,3.0,11944
+Nepal,South-East Asia,2022-03-04,111.0,977380,1.0,11945
+Nepal,South-East Asia,2022-03-05,67.0,977447,0.0,11945
+Nepal,South-East Asia,2022-03-06,54.0,977501,2.0,11947
+Nepal,South-East Asia,2022-03-07,66.0,977567,1.0,11948
+Nepal,South-East Asia,2022-03-08,74.0,977641,1.0,11949
+Nepal,South-East Asia,2022-03-09,68.0,977709,0.0,11949
+Nepal,South-East Asia,2022-03-10,77.0,977786,0.0,11949
+Nepal,South-East Asia,2022-03-11,62.0,977848,1.0,11950
+Nepal,South-East Asia,2022-03-12,30.0,977878,0.0,11950
+Nepal,South-East Asia,2022-03-13,59.0,977937,0.0,11950
+Nepal,South-East Asia,2022-03-14,50.0,977987,0.0,11950
+Nepal,South-East Asia,2022-03-15,57.0,978044,0.0,11950
+Nepal,South-East Asia,2022-03-16,41.0,978085,0.0,11950
+Nepal,South-East Asia,2022-03-17,22.0,978107,0.0,11950
+Nepal,South-East Asia,2022-03-18,12.0,978119,0.0,11950
+Nepal,South-East Asia,2022-03-19,8.0,978127,0.0,11950
+Nepal,South-East Asia,2022-03-20,28.0,978155,0.0,11950
+Nepal,South-East Asia,2022-03-21,41.0,978196,0.0,11950
+Nepal,South-East Asia,2022-03-22,35.0,978231,1.0,11951
+Nepal,South-East Asia,2022-03-23,34.0,978265,0.0,11951
+Nepal,South-East Asia,2022-03-24,32.0,978297,0.0,11951
+Nepal,South-East Asia,2022-03-25,12.0,978309,0.0,11951
+Nepal,South-East Asia,2022-03-26,8.0,978317,0.0,11951
+Nepal,South-East Asia,2022-03-27,15.0,978332,0.0,11951
+Nepal,South-East Asia,2022-03-28,15.0,978347,0.0,11951
+Nepal,South-East Asia,2022-03-29,30.0,978377,0.0,11951
+Nepal,South-East Asia,2022-03-30,25.0,978402,0.0,11951
+Nepal,South-East Asia,2022-03-31,24.0,978426,0.0,11951
+Nepal,South-East Asia,2022-04-01,16.0,978442,0.0,11951
+Nepal,South-East Asia,2022-04-02,10.0,978452,0.0,11951
+Nepal,South-East Asia,2022-04-03,23.0,978475,0.0,11951
+Nepal,South-East Asia,2022-04-04,32.0,978507,0.0,11951
+Nepal,South-East Asia,2022-04-05,21.0,978528,0.0,11951
+Nepal,South-East Asia,2022-04-06,10.0,978538,0.0,11951
+Nepal,South-East Asia,2022-04-07,7.0,978545,0.0,11951
+Nepal,South-East Asia,2022-04-08,11.0,978556,0.0,11951
+Nepal,South-East Asia,2022-04-09,12.0,978568,0.0,11951
+Nepal,South-East Asia,2022-04-10,3.0,978571,0.0,11951
+Nepal,South-East Asia,2022-04-11,22.0,978593,0.0,11951
+Nepal,South-East Asia,2022-04-12,23.0,978616,0.0,11951
+Nepal,South-East Asia,2022-04-13,15.0,978631,0.0,11951
+Nepal,South-East Asia,2022-04-14,3.0,978634,0.0,11951
+Nepal,South-East Asia,2022-04-15,14.0,978648,0.0,11951
+Nepal,South-East Asia,2022-04-16,6.0,978654,0.0,11951
+Nepal,South-East Asia,2022-04-17,11.0,978665,0.0,11951
+Nepal,South-East Asia,2022-04-18,9.0,978674,0.0,11951
+Nepal,South-East Asia,2022-04-19,10.0,978684,0.0,11951
+Nepal,South-East Asia,2022-04-20,9.0,978693,0.0,11951
+Nepal,South-East Asia,2022-04-21,12.0,978705,0.0,11951
+Nepal,South-East Asia,2022-04-22,9.0,978714,0.0,11951
+Nepal,South-East Asia,2022-04-23,18.0,978732,0.0,11951
+Nepal,South-East Asia,2022-04-24,11.0,978743,0.0,11951
+Nepal,South-East Asia,2022-04-25,19.0,978762,0.0,11951
+Nepal,South-East Asia,2022-04-26,8.0,978770,0.0,11951
+Nepal,South-East Asia,2022-04-27,8.0,978778,0.0,11951
+Nepal,South-East Asia,2022-04-28,15.0,978793,0.0,11951
+Nepal,South-East Asia,2022-04-29,13.0,978806,0.0,11951
+Nepal,South-East Asia,2022-04-30,4.0,978810,0.0,11951
+Nepal,South-East Asia,2022-05-01,18.0,978828,0.0,11951
+Nepal,South-East Asia,2022-05-02,8.0,978836,0.0,11951
+Nepal,South-East Asia,2022-05-03,29.0,978865,0.0,11951
+Nepal,South-East Asia,2022-05-04,19.0,978884,1.0,11952
+Nepal,South-East Asia,2022-05-05,15.0,978899,0.0,11952
+Nepal,South-East Asia,2022-05-06,15.0,978914,0.0,11952
+Nepal,South-East Asia,2022-05-07,11.0,978925,0.0,11952
+Nepal,South-East Asia,2022-05-08,17.0,978942,0.0,11952
+Nepal,South-East Asia,2022-05-09,6.0,978948,0.0,11952
+Nepal,South-East Asia,2022-05-10,12.0,978960,0.0,11952
+Nepal,South-East Asia,2022-05-11,18.0,978978,0.0,11952
+Nepal,South-East Asia,2022-05-12,4.0,978982,0.0,11952
+Nepal,South-East Asia,2022-05-13,7.0,978989,0.0,11952
+Nepal,South-East Asia,2022-05-14,2.0,978991,0.0,11952
+Nepal,South-East Asia,2022-05-15,7.0,978998,0.0,11952
+Nepal,South-East Asia,2022-05-16,6.0,979004,0.0,11952
+Nepal,South-East Asia,2022-05-17,18.0,979022,0.0,11952
+Nepal,South-East Asia,2022-05-18,6.0,979028,0.0,11952
+Nepal,South-East Asia,2022-05-19,12.0,979040,0.0,11952
+Nepal,South-East Asia,2022-05-20,11.0,979051,0.0,11952
+Nepal,South-East Asia,2022-05-21,11.0,979062,0.0,11952
+Nepal,South-East Asia,2022-05-22,6.0,979068,0.0,11952
+Nepal,South-East Asia,2022-05-23,8.0,979076,0.0,11952
+Nepal,South-East Asia,2022-05-24,11.0,979087,0.0,11952
+Nepal,South-East Asia,2022-05-25,4.0,979091,0.0,11952
+Nepal,South-East Asia,2022-05-26,14.0,979105,0.0,11952
+Nepal,South-East Asia,2022-05-27,8.0,979113,0.0,11952
+Nepal,South-East Asia,2022-05-28,5.0,979118,0.0,11952
+Nepal,South-East Asia,2022-05-29,9.0,979127,0.0,11952
+Nepal,South-East Asia,2022-05-30,5.0,979132,0.0,11952
+Nepal,South-East Asia,2022-05-31,8.0,979140,0.0,11952
+Nepal,South-East Asia,2022-06-01,12.0,979152,0.0,11952
+Nepal,South-East Asia,2022-06-02,11.0,979163,0.0,11952
+Nepal,South-East Asia,2022-06-03,19.0,979182,0.0,11952
+Nepal,South-East Asia,2022-06-04,8.0,979190,0.0,11952
+Nepal,South-East Asia,2022-06-05,9.0,979199,0.0,11952
+Nepal,South-East Asia,2022-06-06,7.0,979206,0.0,11952
+Nepal,South-East Asia,2022-06-07,7.0,979213,0.0,11952
+Nepal,South-East Asia,2022-06-08,10.0,979223,0.0,11952
+Nepal,South-East Asia,2022-06-09,12.0,979235,0.0,11952
+Nepal,South-East Asia,2022-06-10,7.0,979242,0.0,11952
+Nepal,South-East Asia,2022-06-11,9.0,979251,0.0,11952
+Nepal,South-East Asia,2022-06-12,11.0,979262,0.0,11952
+Nepal,South-East Asia,2022-06-13,9.0,979271,0.0,11952
+Nepal,South-East Asia,2022-06-14,7.0,979278,0.0,11952
+Nepal,South-East Asia,2022-06-15,19.0,979297,0.0,11952
+Nepal,South-East Asia,2022-06-16,12.0,979309,0.0,11952
+Nepal,South-East Asia,2022-06-17,24.0,979333,0.0,11952
+Nepal,South-East Asia,2022-06-18,11.0,979344,0.0,11952
+Nepal,South-East Asia,2022-06-19,18.0,979362,0.0,11952
+Nepal,South-East Asia,2022-06-20,20.0,979382,0.0,11952
+Nepal,South-East Asia,2022-06-21,14.0,979396,0.0,11952
+Nepal,South-East Asia,2022-06-22,28.0,979424,0.0,11952
+Nepal,South-East Asia,2022-06-23,33.0,979457,0.0,11952
+Nepal,South-East Asia,2022-06-24,32.0,979489,0.0,11952
+Nepal,South-East Asia,2022-06-25,23.0,979512,0.0,11952
+Nepal,South-East Asia,2022-06-26,21.0,979533,0.0,11952
+Nepal,South-East Asia,2022-06-27,36.0,979569,0.0,11952
+Nepal,South-East Asia,2022-06-28,38.0,979607,0.0,11952
+Nepal,South-East Asia,2022-06-29,51.0,979658,0.0,11952
+Nepal,South-East Asia,2022-06-30,36.0,979694,0.0,11952
+Nepal,South-East Asia,2022-07-01,35.0,979729,0.0,11952
+Nepal,South-East Asia,2022-07-02,33.0,979762,0.0,11952
+Nepal,South-East Asia,2022-07-03,39.0,979801,0.0,11952
+Nepal,South-East Asia,2022-07-04,34.0,979835,0.0,11952
+Nepal,South-East Asia,2022-07-05,73.0,979908,0.0,11952
+Nepal,South-East Asia,2022-07-06,90.0,979998,0.0,11952
+Nepal,South-East Asia,2022-07-07,60.0,980058,0.0,11952
+Nepal,South-East Asia,2022-07-08,83.0,980141,0.0,11952
+Nepal,South-East Asia,2022-07-09,72.0,980213,0.0,11952
+Nepal,South-East Asia,2022-07-10,104.0,980317,0.0,11952
+Nepal,South-East Asia,2022-07-11,129.0,980446,0.0,11952
+Nepal,South-East Asia,2022-07-12,144.0,980590,0.0,11952
+Nepal,South-East Asia,2022-07-13,177.0,980767,0.0,11952
+Nepal,South-East Asia,2022-07-14,214.0,980981,0.0,11952
+Nepal,South-East Asia,2022-07-15,161.0,981142,0.0,11952
+Nepal,South-East Asia,2022-07-16,150.0,981292,0.0,11952
+Nepal,South-East Asia,2022-07-17,116.0,981408,1.0,11953
+Nepal,South-East Asia,2022-07-18,386.0,981794,1.0,11954
+Nepal,South-East Asia,2022-07-19,268.0,982062,0.0,11954
+Nepal,South-East Asia,2022-07-20,340.0,982402,0.0,11954
+Nepal,South-East Asia,2022-07-21,317.0,982719,0.0,11954
+Nepal,South-East Asia,2022-07-22,384.0,983103,0.0,11954
+Nepal,South-East Asia,2022-07-23,216.0,983319,0.0,11954
+Nepal,South-East Asia,2022-07-24,303.0,983622,2.0,11956
+Nepal,South-East Asia,2022-07-25,453.0,984075,1.0,11957
+Nepal,South-East Asia,2022-07-26,400.0,984475,2.0,11959
+Nepal,South-East Asia,2022-07-27,418.0,984893,1.0,11960
+Nepal,South-East Asia,2022-07-28,524.0,985417,2.0,11962
+Nepal,South-East Asia,2022-07-29,391.0,985808,2.0,11964
+Nepal,South-East Asia,2022-07-30,292.0,986100,2.0,11966
+Nepal,South-East Asia,2022-07-31,496.0,986596,1.0,11967
+Nepal,South-East Asia,2022-08-01,632.0,987228,1.0,11968
+Nepal,South-East Asia,2022-08-02,509.0,987737,0.0,11968
+Nepal,South-East Asia,2022-08-03,590.0,988327,0.0,11968
+Nepal,South-East Asia,2022-08-04,494.0,988821,1.0,11969
+Nepal,South-East Asia,2022-08-05,529.0,989350,1.0,11970
+Nepal,South-East Asia,2022-08-06,326.0,989676,1.0,11971
+Nepal,South-East Asia,2022-08-07,451.0,990127,0.0,11971
+Nepal,South-East Asia,2022-08-08,498.0,990625,1.0,11972
+Nepal,South-East Asia,2022-08-09,560.0,991185,2.0,11974
+Nepal,South-East Asia,2022-08-10,496.0,991681,3.0,11977
+Nepal,South-East Asia,2022-08-11,465.0,992146,5.0,11982
+Nepal,South-East Asia,2022-08-12,419.0,992565,2.0,11984
+Nepal,South-East Asia,2022-08-13,162.0,992727,2.0,11986
+Nepal,South-East Asia,2022-08-14,305.0,993032,2.0,11988
+Nepal,South-East Asia,2022-08-15,427.0,993459,1.0,11989
+Nepal,South-East Asia,2022-08-16,399.0,993858,1.0,11990
+Nepal,South-East Asia,2022-08-17,531.0,994389,0.0,11990
+Nepal,South-East Asia,2022-08-18,224.0,994613,0.0,11990
+Nepal,South-East Asia,2022-08-19,246.0,994859,0.0,11990
+Nepal,South-East Asia,2022-08-20,180.0,995039,2.0,11992
+Nepal,South-East Asia,2022-08-21,202.0,995241,0.0,11992
+Nepal,South-East Asia,2022-08-22,405.0,995646,1.0,11993
+Nepal,South-East Asia,2022-08-23,343.0,995989,1.0,11994
+Nepal,South-East Asia,2022-08-24,242.0,996231,1.0,11995
+Nepal,South-East Asia,2022-08-25,211.0,996442,3.0,11998
+Nepal,South-East Asia,2022-08-26,163.0,996605,1.0,11999
+Nepal,South-East Asia,2022-08-27,65.0,996670,0.0,11999
+Nepal,South-East Asia,2022-08-28,164.0,996834,1.0,12000
+Nepal,South-East Asia,2022-08-29,145.0,996979,0.0,12000
+Nepal,South-East Asia,2022-08-30,143.0,997122,0.0,12000
+Nepal,South-East Asia,2022-08-31,224.0,997346,1.0,12001
+Nepal,South-East Asia,2022-09-01,180.0,997526,1.0,12002
+Nepal,South-East Asia,2022-09-02,134.0,997660,3.0,12005
+Nepal,South-East Asia,2022-09-03,92.0,997752,2.0,12007
+Nepal,South-East Asia,2022-09-04,116.0,997868,0.0,12007
+Nepal,South-East Asia,2022-09-05,122.0,997990,0.0,12007
+Nepal,South-East Asia,2022-09-06,177.0,998167,0.0,12007
+Nepal,South-East Asia,2022-09-07,128.0,998295,2.0,12009
+Nepal,South-East Asia,2022-09-08,137.0,998432,1.0,12010
+Nepal,South-East Asia,2022-09-09,110.0,998542,2.0,12012
+Nepal,South-East Asia,2022-09-10,112.0,998654,0.0,12012
+Nepal,South-East Asia,2022-09-11,89.0,998743,2.0,12014
+Nepal,South-East Asia,2022-09-12,127.0,998870,1.0,12015
+Nepal,South-East Asia,2022-09-13,87.0,998957,0.0,12015
+Nepal,South-East Asia,2022-09-14,89.0,999046,0.0,12015
+Nepal,South-East Asia,2022-09-15,75.0,999121,0.0,12015
+Nepal,South-East Asia,2022-09-16,60.0,999181,1.0,12016
+Nepal,South-East Asia,2022-09-17,35.0,999216,0.0,12016
+Nepal,South-East Asia,2022-09-18,25.0,999241,0.0,12016
+Nepal,South-East Asia,2022-09-19,75.0,999316,0.0,12016
+Nepal,South-East Asia,2022-09-20,39.0,999355,0.0,12016
+Nepal,South-East Asia,2022-09-21,39.0,999394,0.0,12016
+Nepal,South-East Asia,2022-09-22,59.0,999453,0.0,12016
+Nepal,South-East Asia,2022-09-23,53.0,999506,0.0,12016
+Nepal,South-East Asia,2022-09-24,29.0,999535,1.0,12017
+Nepal,South-East Asia,2022-09-25,40.0,999575,0.0,12017
+Nepal,South-East Asia,2022-09-26,39.0,999614,0.0,12017
+Nepal,South-East Asia,2022-09-27,42.0,999656,0.0,12017
+Nepal,South-East Asia,2022-09-28,31.0,999687,1.0,12018
+Nepal,South-East Asia,2022-09-29,25.0,999712,0.0,12018
+Nepal,South-East Asia,2022-09-30,30.0,999742,0.0,12018
+Nepal,South-East Asia,2022-10-01,17.0,999759,0.0,12018
+Nepal,South-East Asia,2022-10-02,30.0,999789,0.0,12018
+Nepal,South-East Asia,2022-10-03,26.0,999815,0.0,12018
+Nepal,South-East Asia,2022-10-04,14.0,999829,0.0,12018
+Nepal,South-East Asia,2022-10-05,10.0,999839,0.0,12018
+Nepal,South-East Asia,2022-10-06,10.0,999849,0.0,12018
+Nepal,South-East Asia,2022-10-07,11.0,999860,0.0,12018
+Nepal,South-East Asia,2022-10-08,6.0,999866,0.0,12018
+Nepal,South-East Asia,2022-10-09,20.0,999886,0.0,12018
+Nepal,South-East Asia,2022-10-10,25.0,999911,0.0,12018
+Nepal,South-East Asia,2022-10-11,35.0,999946,0.0,12018
+Nepal,South-East Asia,2022-10-12,45.0,999991,0.0,12018
+Nepal,South-East Asia,2022-10-13,45.0,1000036,0.0,12018
+Nepal,South-East Asia,2022-10-14,42.0,1000078,0.0,12018
+Nepal,South-East Asia,2022-10-15,45.0,1000123,0.0,12018
+Nepal,South-East Asia,2022-10-16,28.0,1000151,0.0,12018
+Nepal,South-East Asia,2022-10-17,40.0,1000191,0.0,12018
+Nepal,South-East Asia,2022-10-18,42.0,1000233,0.0,12018
+Nepal,South-East Asia,2022-10-19,42.0,1000275,0.0,12018
+Nepal,South-East Asia,2022-10-20,50.0,1000325,0.0,12018
+Nepal,South-East Asia,2022-10-21,48.0,1000373,0.0,12018
+Nepal,South-East Asia,2022-10-22,43.0,1000416,0.0,12018
+Nepal,South-East Asia,2022-10-23,39.0,1000455,0.0,12018
+Nepal,South-East Asia,2022-10-24,40.0,1000495,1.0,12019
+Nepal,South-East Asia,2022-10-25,14.0,1000509,0.0,12019
+Nepal,South-East Asia,2022-10-26,14.0,1000523,0.0,12019
+Nepal,South-East Asia,2022-10-27,3.0,1000526,0.0,12019
+Nepal,South-East Asia,2022-10-28,12.0,1000538,0.0,12019
+Nepal,South-East Asia,2022-10-29,3.0,1000541,0.0,12019
+Nepal,South-East Asia,2022-10-30,9.0,1000550,0.0,12019
+Nepal,South-East Asia,2022-10-31,6.0,1000556,0.0,12019
+Nepal,South-East Asia,2022-11-01,29.0,1000585,0.0,12019
+Nepal,South-East Asia,2022-11-02,46.0,1000631,0.0,12019
+Nepal,South-East Asia,2022-11-03,45.0,1000676,0.0,12019
+Nepal,South-East Asia,2022-11-04,22.0,1000698,0.0,12019
+Nepal,South-East Asia,2022-11-05,10.0,1000708,0.0,12019
+Nepal,South-East Asia,2022-11-06,26.0,1000734,0.0,12019
+Nepal,South-East Asia,2022-11-07,15.0,1000749,0.0,12019
+Nepal,South-East Asia,2022-11-08,10.0,1000759,0.0,12019
+Nepal,South-East Asia,2022-11-09,7.0,1000766,0.0,12019
+Nepal,South-East Asia,2022-11-10,9.0,1000775,0.0,12019
+Nepal,South-East Asia,2022-11-11,9.0,1000784,0.0,12019
+Nepal,South-East Asia,2022-11-12,8.0,1000792,0.0,12019
+Nepal,South-East Asia,2022-11-13,14.0,1000806,0.0,12019
+Nepal,South-East Asia,2022-11-14,8.0,1000814,0.0,12019
+Nepal,South-East Asia,2022-11-15,12.0,1000826,0.0,12019
+Nepal,South-East Asia,2022-11-16,8.0,1000834,0.0,12019
+Nepal,South-East Asia,2022-11-17,4.0,1000838,0.0,12019
+Nepal,South-East Asia,2022-11-18,8.0,1000846,0.0,12019
+Nepal,South-East Asia,2022-11-19,3.0,1000849,0.0,12019
+Nepal,South-East Asia,2022-11-20,2.0,1000851,0.0,12019
+Nepal,South-East Asia,2022-11-21,4.0,1000855,0.0,12019
+Nepal,South-East Asia,2022-11-22,4.0,1000859,0.0,12019
+Nepal,South-East Asia,2022-11-23,4.0,1000863,0.0,12019
+Nepal,South-East Asia,2022-11-24,2.0,1000865,0.0,12019
+Nepal,South-East Asia,2022-11-25,10.0,1000875,0.0,12019
+Nepal,South-East Asia,2022-11-26,0.0,1000875,0.0,12019
+Nepal,South-East Asia,2022-11-27,3.0,1000878,0.0,12019
+Nepal,South-East Asia,2022-11-28,6.0,1000884,0.0,12019
+Nepal,South-East Asia,2022-11-29,1.0,1000885,0.0,12019
+Nepal,South-East Asia,2022-11-30,4.0,1000889,0.0,12019
+Nepal,South-East Asia,2022-12-01,5.0,1000894,0.0,12019
+Nepal,South-East Asia,2022-12-02,6.0,1000900,0.0,12019
+Nepal,South-East Asia,2022-12-03,3.0,1000903,0.0,12019
+Nepal,South-East Asia,2022-12-04,6.0,1000909,0.0,12019
+Nepal,South-East Asia,2022-12-05,2.0,1000911,0.0,12019
+Nepal,South-East Asia,2022-12-06,1.0,1000912,0.0,12019
+Nepal,South-East Asia,2022-12-07,9.0,1000921,0.0,12019
+Nepal,South-East Asia,2022-12-08,3.0,1000924,0.0,12019
+Nepal,South-East Asia,2022-12-09,5.0,1000929,0.0,12019
+Nepal,South-East Asia,2022-12-10,1.0,1000930,0.0,12019
+Nepal,South-East Asia,2022-12-11,2.0,1000932,0.0,12019
+Nepal,South-East Asia,2022-12-12,7.0,1000939,0.0,12019
+Nepal,South-East Asia,2022-12-13,2.0,1000941,0.0,12019
+Nepal,South-East Asia,2022-12-14,1.0,1000942,0.0,12019
+Nepal,South-East Asia,2022-12-15,3.0,1000945,0.0,12019
+Nepal,South-East Asia,2022-12-16,0.0,1000945,0.0,12019
+Nepal,South-East Asia,2022-12-17,1.0,1000946,0.0,12019
+Nepal,South-East Asia,2022-12-18,0.0,1000946,0.0,12019
+Nepal,South-East Asia,2022-12-19,7.0,1000953,0.0,12019
+Nepal,South-East Asia,2022-12-20,6.0,1000959,0.0,12019
+Nepal,South-East Asia,2022-12-21,2.0,1000961,0.0,12019
+Nepal,South-East Asia,2022-12-22,1.0,1000962,0.0,12019
+Nepal,South-East Asia,2022-12-23,3.0,1000965,0.0,12019
+Nepal,South-East Asia,2022-12-24,0.0,1000965,0.0,12019
+Nepal,South-East Asia,2022-12-25,1.0,1000966,0.0,12019
+Nepal,South-East Asia,2022-12-26,1.0,1000967,0.0,12019
+Nepal,South-East Asia,2022-12-27,8.0,1000975,0.0,12019
+Nepal,South-East Asia,2022-12-28,2.0,1000977,0.0,12019
+Nepal,South-East Asia,2022-12-29,14.0,1000991,0.0,12019
+Nepal,South-East Asia,2022-12-30,4.0,1000995,0.0,12019
+Nepal,South-East Asia,2022-12-31,5.0,1001000,0.0,12019
+North Korea,South-East Asia,2022-01-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-01-31,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-02-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-03-31,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-04-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-05-31,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-06-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-07-31,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-08-31,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-09-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-10-31,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-11-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-01,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-02,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-03,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-04,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-05,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-06,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-07,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-08,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-09,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-10,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-11,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-12,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-13,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-14,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-15,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-16,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-17,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-18,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-19,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-20,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-21,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-22,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-23,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-24,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-25,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-26,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-27,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-28,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-29,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-30,0.0,0,0.0,0
+North Korea,South-East Asia,2022-12-31,0.0,0,0.0,0
+Sri Lanka,South-East Asia,2022-01-01,351.0,587596,16.0,14995
+Sri Lanka,South-East Asia,2022-01-02,339.0,587935,24.0,15019
+Sri Lanka,South-East Asia,2022-01-03,365.0,588300,18.0,15037
+Sri Lanka,South-East Asia,2022-01-04,629.0,588929,18.0,15055
+Sri Lanka,South-East Asia,2022-01-05,550.0,589479,10.0,15065
+Sri Lanka,South-East Asia,2022-01-06,584.0,590063,18.0,15083
+Sri Lanka,South-East Asia,2022-01-07,588.0,590651,16.0,15099
+Sri Lanka,South-East Asia,2022-01-08,580.0,591231,13.0,15112
+Sri Lanka,South-East Asia,2022-01-09,436.0,591667,7.0,15119
+Sri Lanka,South-East Asia,2022-01-10,461.0,592128,15.0,15134
+Sri Lanka,South-East Asia,2022-01-11,944.0,593072,15.0,15149
+Sri Lanka,South-East Asia,2022-01-12,653.0,593725,14.0,15163
+Sri Lanka,South-East Asia,2022-01-13,594.0,594319,11.0,15174
+Sri Lanka,South-East Asia,2022-01-14,677.0,594996,16.0,15190
+Sri Lanka,South-East Asia,2022-01-15,661.0,595657,7.0,15197
+Sri Lanka,South-East Asia,2022-01-16,690.0,596347,14.0,15211
+Sri Lanka,South-East Asia,2022-01-17,688.0,597035,7.0,15218
+Sri Lanka,South-East Asia,2022-01-18,672.0,597707,13.0,15231
+Sri Lanka,South-East Asia,2022-01-19,829.0,598536,12.0,15243
+Sri Lanka,South-East Asia,2022-01-20,827.0,599363,12.0,15255
+Sri Lanka,South-East Asia,2022-01-21,840.0,600203,17.0,15272
+Sri Lanka,South-East Asia,2022-01-22,845.0,601048,12.0,15284
+Sri Lanka,South-East Asia,2022-01-23,838.0,601886,15.0,15299
+Sri Lanka,South-East Asia,2022-01-24,877.0,602763,14.0,15313
+Sri Lanka,South-East Asia,2022-01-25,891.0,603654,17.0,15330
+Sri Lanka,South-East Asia,2022-01-26,927.0,604581,16.0,15346
+Sri Lanka,South-East Asia,2022-01-27,2523.0,607104,23.0,15369
+Sri Lanka,South-East Asia,2022-01-28,961.0,608065,17.0,15386
+Sri Lanka,South-East Asia,2022-01-29,982.0,609047,14.0,15400
+Sri Lanka,South-East Asia,2022-01-30,1056.0,610103,20.0,15420
+Sri Lanka,South-East Asia,2022-01-31,1082.0,611185,21.0,15441
+Sri Lanka,South-East Asia,2022-02-01,1137.0,612322,32.0,15473
+Sri Lanka,South-East Asia,2022-02-02,1156.0,613478,19.0,15492
+Sri Lanka,South-East Asia,2022-02-03,1181.0,614659,23.0,15515
+Sri Lanka,South-East Asia,2022-02-04,1243.0,615902,29.0,15544
+Sri Lanka,South-East Asia,2022-02-05,1287.0,617189,28.0,15572
+Sri Lanka,South-East Asia,2022-02-06,1331.0,618520,23.0,15595
+Sri Lanka,South-East Asia,2022-02-07,2212.0,620732,26.0,15621
+Sri Lanka,South-East Asia,2022-02-08,1253.0,621985,35.0,15656
+Sri Lanka,South-East Asia,2022-02-09,1263.0,623248,36.0,15692
+Sri Lanka,South-East Asia,2022-02-10,1297.0,624545,31.0,15723
+Sri Lanka,South-East Asia,2022-02-11,1259.0,625804,0.0,15723
+Sri Lanka,South-East Asia,2022-02-12,1162.0,626966,54.0,15777
+Sri Lanka,South-East Asia,2022-02-13,1150.0,628116,31.0,15808
+Sri Lanka,South-East Asia,2022-02-14,1231.0,629347,36.0,15844
+Sri Lanka,South-East Asia,2022-02-15,1252.0,630599,30.0,15874
+Sri Lanka,South-East Asia,2022-02-16,1217.0,631816,25.0,15899
+Sri Lanka,South-East Asia,2022-02-17,1235.0,633051,27.0,15926
+Sri Lanka,South-East Asia,2022-02-18,1282.0,634333,23.0,15949
+Sri Lanka,South-East Asia,2022-02-19,1273.0,635606,20.0,15969
+Sri Lanka,South-East Asia,2022-02-20,1231.0,636837,25.0,15994
+Sri Lanka,South-East Asia,2022-02-21,1206.0,638043,30.0,16024
+Sri Lanka,South-East Asia,2022-02-22,1254.0,639297,31.0,16055
+Sri Lanka,South-East Asia,2022-02-23,1281.0,640578,31.0,16086
+Sri Lanka,South-East Asia,2022-02-24,1208.0,641786,30.0,16116
+Sri Lanka,South-East Asia,2022-02-25,1286.0,643072,26.0,16142
+Sri Lanka,South-East Asia,2022-02-26,988.0,644060,24.0,16166
+Sri Lanka,South-East Asia,2022-02-27,977.0,645037,24.0,16190
+Sri Lanka,South-East Asia,2022-02-28,997.0,646034,32.0,16222
+Sri Lanka,South-East Asia,2022-03-01,914.0,646948,22.0,16244
+Sri Lanka,South-East Asia,2022-03-02,751.0,647699,23.0,16267
+Sri Lanka,South-East Asia,2022-03-03,711.0,648410,20.0,16287
+Sri Lanka,South-East Asia,2022-03-04,583.0,648993,20.0,16307
+Sri Lanka,South-East Asia,2022-03-05,639.0,649632,14.0,16321
+Sri Lanka,South-East Asia,2022-03-06,508.0,650140,10.0,16331
+Sri Lanka,South-East Asia,2022-03-07,662.0,650802,8.0,16339
+Sri Lanka,South-East Asia,2022-03-08,2859.0,653661,11.0,16350
+Sri Lanka,South-East Asia,2022-03-09,675.0,654336,11.0,16361
+Sri Lanka,South-East Asia,2022-03-10,580.0,654916,13.0,16374
+Sri Lanka,South-East Asia,2022-03-11,467.0,655383,7.0,16381
+Sri Lanka,South-East Asia,2022-03-12,347.0,655730,9.0,16390
+Sri Lanka,South-East Asia,2022-03-13,311.0,656041,7.0,16397
+Sri Lanka,South-East Asia,2022-03-14,345.0,656386,10.0,16407
+Sri Lanka,South-East Asia,2022-03-15,428.0,656814,8.0,16415
+Sri Lanka,South-East Asia,2022-03-16,320.0,657134,1.0,16416
+Sri Lanka,South-East Asia,2022-03-17,301.0,657435,3.0,16419
+Sri Lanka,South-East Asia,2022-03-18,288.0,657723,3.0,16422
+Sri Lanka,South-East Asia,2022-03-19,238.0,657961,4.0,16426
+Sri Lanka,South-East Asia,2022-03-20,236.0,658197,5.0,16431
+Sri Lanka,South-East Asia,2022-03-21,296.0,658493,5.0,16436
+Sri Lanka,South-East Asia,2022-03-22,1096.0,659589,4.0,16440
+Sri Lanka,South-East Asia,2022-03-23,562.0,660151,5.0,16445
+Sri Lanka,South-East Asia,2022-03-24,248.0,660399,5.0,16450
+Sri Lanka,South-East Asia,2022-03-25,234.0,660633,2.0,16452
+Sri Lanka,South-East Asia,2022-03-26,164.0,660797,2.0,16454
+Sri Lanka,South-East Asia,2022-03-27,93.0,660890,5.0,16459
+Sri Lanka,South-East Asia,2022-03-28,163.0,661053,6.0,16465
+Sri Lanka,South-East Asia,2022-03-29,232.0,661285,4.0,16469
+Sri Lanka,South-East Asia,2022-03-30,168.0,661453,4.0,16473
+Sri Lanka,South-East Asia,2022-03-31,178.0,661631,4.0,16477
+Sri Lanka,South-East Asia,2022-04-01,150.0,661781,2.0,16479
+Sri Lanka,South-East Asia,2022-04-02,104.0,661885,1.0,16480
+Sri Lanka,South-East Asia,2022-04-03,106.0,661991,1.0,16481
+Sri Lanka,South-East Asia,2022-04-04,112.0,662103,4.0,16485
+Sri Lanka,South-East Asia,2022-04-05,113.0,662216,0.0,16485
+Sri Lanka,South-East Asia,2022-04-06,126.0,662342,1.0,16486
+Sri Lanka,South-East Asia,2022-04-07,83.0,662425,2.0,16488
+Sri Lanka,South-East Asia,2022-04-08,80.0,662505,1.0,16489
+Sri Lanka,South-East Asia,2022-04-09,54.0,662559,0.0,16489
+Sri Lanka,South-East Asia,2022-04-10,33.0,662592,0.0,16489
+Sri Lanka,South-East Asia,2022-04-11,65.0,662657,3.0,16492
+Sri Lanka,South-East Asia,2022-04-12,60.0,662717,0.0,16492
+Sri Lanka,South-East Asia,2022-04-13,31.0,662748,2.0,16494
+Sri Lanka,South-East Asia,2022-04-14,27.0,662775,1.0,16495
+Sri Lanka,South-East Asia,2022-04-15,19.0,662794,0.0,16495
+Sri Lanka,South-East Asia,2022-04-16,33.0,662827,0.0,16495
+Sri Lanka,South-East Asia,2022-04-17,37.0,662864,1.0,16496
+Sri Lanka,South-East Asia,2022-04-18,48.0,662912,0.0,16496
+Sri Lanka,South-East Asia,2022-04-19,33.0,662945,1.0,16497
+Sri Lanka,South-East Asia,2022-04-20,61.0,663006,0.0,16497
+Sri Lanka,South-East Asia,2022-04-21,35.0,663041,2.0,16499
+Sri Lanka,South-East Asia,2022-04-22,50.0,663091,1.0,16500
+Sri Lanka,South-East Asia,2022-04-23,40.0,663131,2.0,16502
+Sri Lanka,South-East Asia,2022-04-24,29.0,663160,0.0,16502
+Sri Lanka,South-East Asia,2022-04-25,35.0,663195,0.0,16502
+Sri Lanka,South-East Asia,2022-04-26,44.0,663239,1.0,16503
+Sri Lanka,South-East Asia,2022-04-27,33.0,663272,1.0,16504
+Sri Lanka,South-East Asia,2022-04-28,29.0,663301,0.0,16504
+Sri Lanka,South-East Asia,2022-04-29,28.0,663329,0.0,16504
+Sri Lanka,South-East Asia,2022-04-30,33.0,663362,0.0,16504
+Sri Lanka,South-East Asia,2022-05-01,11.0,663373,1.0,16505
+Sri Lanka,South-East Asia,2022-05-02,35.0,663408,0.0,16505
+Sri Lanka,South-East Asia,2022-05-03,18.0,663426,1.0,16506
+Sri Lanka,South-East Asia,2022-05-04,43.0,663469,1.0,16507
+Sri Lanka,South-East Asia,2022-05-05,34.0,663503,0.0,16507
+Sri Lanka,South-East Asia,2022-05-06,17.0,663520,1.0,16508
+Sri Lanka,South-East Asia,2022-05-07,13.0,663533,1.0,16509
+Sri Lanka,South-East Asia,2022-05-08,28.0,663561,0.0,16509
+Sri Lanka,South-East Asia,2022-05-09,19.0,663580,0.0,16509
+Sri Lanka,South-East Asia,2022-05-10,17.0,663597,0.0,16509
+Sri Lanka,South-East Asia,2022-05-11,17.0,663614,1.0,16510
+Sri Lanka,South-East Asia,2022-05-12,18.0,663632,0.0,16510
+Sri Lanka,South-East Asia,2022-05-13,23.0,663655,1.0,16511
+Sri Lanka,South-East Asia,2022-05-14,8.0,663663,0.0,16511
+Sri Lanka,South-East Asia,2022-05-15,8.0,663671,0.0,16511
+Sri Lanka,South-East Asia,2022-05-16,7.0,663678,0.0,16511
+Sri Lanka,South-East Asia,2022-05-17,11.0,663689,0.0,16511
+Sri Lanka,South-East Asia,2022-05-18,31.0,663720,0.0,16511
+Sri Lanka,South-East Asia,2022-05-19,15.0,663735,1.0,16512
+Sri Lanka,South-East Asia,2022-05-20,6.0,663741,0.0,16512
+Sri Lanka,South-East Asia,2022-05-21,8.0,663749,0.0,16512
+Sri Lanka,South-East Asia,2022-05-22,9.0,663758,0.0,16512
+Sri Lanka,South-East Asia,2022-05-23,7.0,663765,0.0,16512
+Sri Lanka,South-East Asia,2022-05-24,14.0,663779,1.0,16513
+Sri Lanka,South-East Asia,2022-05-25,7.0,663786,0.0,16513
+Sri Lanka,South-East Asia,2022-05-26,14.0,663800,0.0,16513
+Sri Lanka,South-East Asia,2022-05-27,4.0,663804,1.0,16514
+Sri Lanka,South-East Asia,2022-05-28,8.0,663812,1.0,16515
+Sri Lanka,South-East Asia,2022-05-29,4.0,663816,1.0,16516
+Sri Lanka,South-East Asia,2022-05-30,7.0,663823,1.0,16517
+Sri Lanka,South-East Asia,2022-05-31,11.0,663834,0.0,16517
+Sri Lanka,South-East Asia,2022-06-01,4.0,663838,1.0,16518
+Sri Lanka,South-East Asia,2022-06-02,7.0,663845,0.0,16518
+Sri Lanka,South-East Asia,2022-06-03,8.0,663853,0.0,16518
+Sri Lanka,South-East Asia,2022-06-04,9.0,663862,0.0,16518
+Sri Lanka,South-East Asia,2022-06-05,7.0,663869,0.0,16518
+Sri Lanka,South-East Asia,2022-06-06,15.0,663884,0.0,16518
+Sri Lanka,South-East Asia,2022-06-07,11.0,663895,0.0,16518
+Sri Lanka,South-East Asia,2022-06-08,6.0,663901,0.0,16518
+Sri Lanka,South-East Asia,2022-06-09,16.0,663917,0.0,16518
+Sri Lanka,South-East Asia,2022-06-10,5.0,663922,0.0,16518
+Sri Lanka,South-East Asia,2022-06-11,15.0,663937,1.0,16519
+Sri Lanka,South-East Asia,2022-06-12,13.0,663950,0.0,16519
+Sri Lanka,South-East Asia,2022-06-13,10.0,663960,0.0,16519
+Sri Lanka,South-East Asia,2022-06-14,5.0,663965,0.0,16519
+Sri Lanka,South-East Asia,2022-06-15,7.0,663972,0.0,16519
+Sri Lanka,South-East Asia,2022-06-16,3.0,663975,0.0,16519
+Sri Lanka,South-East Asia,2022-06-17,9.0,663984,1.0,16520
+Sri Lanka,South-East Asia,2022-06-18,5.0,663989,0.0,16520
+Sri Lanka,South-East Asia,2022-06-19,8.0,663997,0.0,16520
+Sri Lanka,South-East Asia,2022-06-20,13.0,664010,0.0,16520
+Sri Lanka,South-East Asia,2022-06-21,8.0,664018,0.0,16520
+Sri Lanka,South-East Asia,2022-06-22,18.0,664036,0.0,16520
+Sri Lanka,South-East Asia,2022-06-23,11.0,664047,0.0,16520
+Sri Lanka,South-East Asia,2022-06-24,5.0,664052,1.0,16521
+Sri Lanka,South-East Asia,2022-06-25,13.0,664065,0.0,16521
+Sri Lanka,South-East Asia,2022-06-26,15.0,664080,0.0,16521
+Sri Lanka,South-East Asia,2022-06-27,10.0,664090,0.0,16521
+Sri Lanka,South-East Asia,2022-06-28,8.0,664098,0.0,16521
+Sri Lanka,South-East Asia,2022-06-29,12.0,664110,0.0,16521
+Sri Lanka,South-East Asia,2022-06-30,13.0,664123,0.0,16521
+Sri Lanka,South-East Asia,2022-07-01,15.0,664138,0.0,16521
+Sri Lanka,South-East Asia,2022-07-02,12.0,664150,0.0,16521
+Sri Lanka,South-East Asia,2022-07-03,17.0,664167,1.0,16522
+Sri Lanka,South-East Asia,2022-07-04,14.0,664181,0.0,16522
+Sri Lanka,South-East Asia,2022-07-05,13.0,664194,1.0,16523
+Sri Lanka,South-East Asia,2022-07-06,3.0,664197,1.0,16524
+Sri Lanka,South-East Asia,2022-07-07,20.0,664217,1.0,16525
+Sri Lanka,South-East Asia,2022-07-08,18.0,664235,0.0,16525
+Sri Lanka,South-East Asia,2022-07-09,21.0,664256,0.0,16525
+Sri Lanka,South-East Asia,2022-07-10,17.0,664273,0.0,16525
+Sri Lanka,South-East Asia,2022-07-11,19.0,664292,1.0,16526
+Sri Lanka,South-East Asia,2022-07-12,23.0,664315,0.0,16526
+Sri Lanka,South-East Asia,2022-07-13,30.0,664345,0.0,16526
+Sri Lanka,South-East Asia,2022-07-14,19.0,664364,0.0,16526
+Sri Lanka,South-East Asia,2022-07-15,25.0,664389,0.0,16526
+Sri Lanka,South-East Asia,2022-07-16,25.0,664414,2.0,16528
+Sri Lanka,South-East Asia,2022-07-17,34.0,664448,0.0,16528
+Sri Lanka,South-East Asia,2022-07-18,62.0,664510,0.0,16528
+Sri Lanka,South-East Asia,2022-07-19,62.0,664572,3.0,16531
+Sri Lanka,South-East Asia,2022-07-20,75.0,664647,2.0,16533
+Sri Lanka,South-East Asia,2022-07-21,57.0,664704,2.0,16535
+Sri Lanka,South-East Asia,2022-07-22,68.0,664772,1.0,16536
+Sri Lanka,South-East Asia,2022-07-23,72.0,664844,1.0,16537
+Sri Lanka,South-East Asia,2022-07-24,56.0,664900,0.0,16537
+Sri Lanka,South-East Asia,2022-07-25,75.0,664975,2.0,16539
+Sri Lanka,South-East Asia,2022-07-26,119.0,665094,5.0,16544
+Sri Lanka,South-East Asia,2022-07-27,154.0,665248,4.0,16548
+Sri Lanka,South-East Asia,2022-07-28,131.0,665379,0.0,16548
+Sri Lanka,South-East Asia,2022-07-29,164.0,665543,5.0,16553
+Sri Lanka,South-East Asia,2022-07-30,83.0,665626,3.0,16556
+Sri Lanka,South-East Asia,2022-07-31,113.0,665739,0.0,16556
+Sri Lanka,South-East Asia,2022-08-01,135.0,665874,3.0,16559
+Sri Lanka,South-East Asia,2022-08-02,90.0,665964,7.0,16566
+Sri Lanka,South-East Asia,2022-08-03,122.0,666086,8.0,16574
+Sri Lanka,South-East Asia,2022-08-04,146.0,666232,0.0,16574
+Sri Lanka,South-East Asia,2022-08-05,181.0,666413,4.0,16578
+Sri Lanka,South-East Asia,2022-08-06,167.0,666580,5.0,16583
+Sri Lanka,South-East Asia,2022-08-07,184.0,666764,3.0,16586
+Sri Lanka,South-East Asia,2022-08-08,180.0,666944,2.0,16588
+Sri Lanka,South-East Asia,2022-08-09,214.0,667158,6.0,16594
+Sri Lanka,South-East Asia,2022-08-10,227.0,667385,9.0,16603
+Sri Lanka,South-East Asia,2022-08-11,188.0,667573,2.0,16605
+Sri Lanka,South-East Asia,2022-08-12,162.0,667735,9.0,16614
+Sri Lanka,South-East Asia,2022-08-13,181.0,667916,5.0,16619
+Sri Lanka,South-East Asia,2022-08-14,96.0,668012,2.0,16621
+Sri Lanka,South-East Asia,2022-08-15,129.0,668141,3.0,16624
+Sri Lanka,South-East Asia,2022-08-16,195.0,668336,6.0,16630
+Sri Lanka,South-East Asia,2022-08-17,161.0,668497,5.0,16635
+Sri Lanka,South-East Asia,2022-08-18,166.0,668663,5.0,16640
+Sri Lanka,South-East Asia,2022-08-19,164.0,668827,6.0,16646
+Sri Lanka,South-East Asia,2022-08-20,140.0,668967,4.0,16650
+Sri Lanka,South-East Asia,2022-08-21,66.0,669033,4.0,16654
+Sri Lanka,South-East Asia,2022-08-22,103.0,669136,6.0,16660
+Sri Lanka,South-East Asia,2022-08-23,226.0,669362,4.0,16664
+Sri Lanka,South-East Asia,2022-08-24,105.0,669467,5.0,16669
+Sri Lanka,South-East Asia,2022-08-25,114.0,669581,6.0,16675
+Sri Lanka,South-East Asia,2022-08-26,58.0,669639,4.0,16679
+Sri Lanka,South-East Asia,2022-08-27,54.0,669693,6.0,16685
+Sri Lanka,South-East Asia,2022-08-28,56.0,669749,2.0,16687
+Sri Lanka,South-East Asia,2022-08-29,70.0,669819,5.0,16692
+Sri Lanka,South-East Asia,2022-08-30,74.0,669893,3.0,16695
+Sri Lanka,South-East Asia,2022-08-31,64.0,669957,3.0,16698
+Sri Lanka,South-East Asia,2022-09-01,61.0,670018,1.0,16699
+Sri Lanka,South-East Asia,2022-09-02,59.0,670077,4.0,16703
+Sri Lanka,South-East Asia,2022-09-03,50.0,670127,4.0,16707
+Sri Lanka,South-East Asia,2022-09-04,49.0,670176,4.0,16711
+Sri Lanka,South-East Asia,2022-09-05,42.0,670218,1.0,16712
+Sri Lanka,South-East Asia,2022-09-06,33.0,670251,4.0,16716
+Sri Lanka,South-East Asia,2022-09-07,46.0,670297,3.0,16719
+Sri Lanka,South-East Asia,2022-09-08,44.0,670341,5.0,16724
+Sri Lanka,South-East Asia,2022-09-09,35.0,670376,1.0,16725
+Sri Lanka,South-East Asia,2022-09-10,32.0,670408,2.0,16727
+Sri Lanka,South-East Asia,2022-09-11,36.0,670444,1.0,16728
+Sri Lanka,South-East Asia,2022-09-12,27.0,670471,3.0,16731
+Sri Lanka,South-East Asia,2022-09-13,30.0,670501,5.0,16736
+Sri Lanka,South-East Asia,2022-09-14,18.0,670519,1.0,16737
+Sri Lanka,South-East Asia,2022-09-15,22.0,670541,1.0,16738
+Sri Lanka,South-East Asia,2022-09-16,29.0,670570,4.0,16742
+Sri Lanka,South-East Asia,2022-09-17,13.0,670583,2.0,16744
+Sri Lanka,South-East Asia,2022-09-18,13.0,670596,3.0,16747
+Sri Lanka,South-East Asia,2022-09-19,21.0,670617,1.0,16748
+Sri Lanka,South-East Asia,2022-09-20,24.0,670641,0.0,16748
+Sri Lanka,South-East Asia,2022-09-21,14.0,670655,3.0,16751
+Sri Lanka,South-East Asia,2022-09-22,13.0,670668,1.0,16752
+Sri Lanka,South-East Asia,2022-09-23,17.0,670685,1.0,16753
+Sri Lanka,South-East Asia,2022-09-24,9.0,670694,1.0,16754
+Sri Lanka,South-East Asia,2022-09-25,15.0,670709,1.0,16755
+Sri Lanka,South-East Asia,2022-09-26,9.0,670718,1.0,16756
+Sri Lanka,South-East Asia,2022-09-27,14.0,670732,1.0,16757
+Sri Lanka,South-East Asia,2022-09-28,17.0,670749,2.0,16759
+Sri Lanka,South-East Asia,2022-09-29,14.0,670763,2.0,16761
+Sri Lanka,South-East Asia,2022-09-30,10.0,670773,0.0,16761
+Sri Lanka,South-East Asia,2022-10-01,7.0,670780,1.0,16762
+Sri Lanka,South-East Asia,2022-10-02,10.0,670790,0.0,16762
+Sri Lanka,South-East Asia,2022-10-03,15.0,670805,1.0,16763
+Sri Lanka,South-East Asia,2022-10-04,8.0,670813,1.0,16764
+Sri Lanka,South-East Asia,2022-10-05,7.0,670820,2.0,16766
+Sri Lanka,South-East Asia,2022-10-06,18.0,670838,0.0,16766
+Sri Lanka,South-East Asia,2022-10-07,6.0,670844,1.0,16767
+Sri Lanka,South-East Asia,2022-10-08,13.0,670857,0.0,16767
+Sri Lanka,South-East Asia,2022-10-09,12.0,670869,1.0,16768
+Sri Lanka,South-East Asia,2022-10-10,4.0,670873,0.0,16768
+Sri Lanka,South-East Asia,2022-10-11,11.0,670884,0.0,16768
+Sri Lanka,South-East Asia,2022-10-12,12.0,670896,0.0,16768
+Sri Lanka,South-East Asia,2022-10-13,3.0,670899,0.0,16768
+Sri Lanka,South-East Asia,2022-10-14,4.0,670903,0.0,16768
+Sri Lanka,South-East Asia,2022-10-15,15.0,670918,1.0,16769
+Sri Lanka,South-East Asia,2022-10-16,3.0,670921,0.0,16769
+Sri Lanka,South-East Asia,2022-10-17,8.0,670929,0.0,16769
+Sri Lanka,South-East Asia,2022-10-18,13.0,670942,1.0,16770
+Sri Lanka,South-East Asia,2022-10-19,10.0,670952,2.0,16772
+Sri Lanka,South-East Asia,2022-10-20,14.0,670966,1.0,16773
+Sri Lanka,South-East Asia,2022-10-21,11.0,670977,1.0,16774
+Sri Lanka,South-East Asia,2022-10-22,12.0,670989,0.0,16774
+Sri Lanka,South-East Asia,2022-10-23,5.0,670994,0.0,16774
+Sri Lanka,South-East Asia,2022-10-24,9.0,671003,0.0,16774
+Sri Lanka,South-East Asia,2022-10-25,12.0,671015,0.0,16774
+Sri Lanka,South-East Asia,2022-10-26,15.0,671030,2.0,16776
+Sri Lanka,South-East Asia,2022-10-27,7.0,671037,1.0,16777
+Sri Lanka,South-East Asia,2022-10-28,14.0,671051,2.0,16779
+Sri Lanka,South-East Asia,2022-10-29,8.0,671059,0.0,16779
+Sri Lanka,South-East Asia,2022-10-30,11.0,671070,0.0,16779
+Sri Lanka,South-East Asia,2022-10-31,17.0,671087,1.0,16780
+Sri Lanka,South-East Asia,2022-11-01,23.0,671110,1.0,16781
+Sri Lanka,South-East Asia,2022-11-02,15.0,671125,0.0,16781
+Sri Lanka,South-East Asia,2022-11-03,177.0,671302,1.0,16782
+Sri Lanka,South-East Asia,2022-11-04,8.0,671310,0.0,16782
+Sri Lanka,South-East Asia,2022-11-05,10.0,671320,0.0,16782
+Sri Lanka,South-East Asia,2022-11-06,8.0,671328,0.0,16782
+Sri Lanka,South-East Asia,2022-11-07,6.0,671334,0.0,16782
+Sri Lanka,South-East Asia,2022-11-08,16.0,671350,0.0,16782
+Sri Lanka,South-East Asia,2022-11-09,4.0,671354,1.0,16783
+Sri Lanka,South-East Asia,2022-11-10,15.0,671369,0.0,16783
+Sri Lanka,South-East Asia,2022-11-11,15.0,671384,1.0,16784
+Sri Lanka,South-East Asia,2022-11-12,22.0,671406,0.0,16784
+Sri Lanka,South-East Asia,2022-11-13,11.0,671417,0.0,16784
+Sri Lanka,South-East Asia,2022-11-14,14.0,671431,0.0,16784
+Sri Lanka,South-East Asia,2022-11-15,24.0,671455,0.0,16784
+Sri Lanka,South-East Asia,2022-11-16,0.0,671455,0.0,16784
+Sri Lanka,South-East Asia,2022-11-17,10.0,671465,1.0,16785
+Sri Lanka,South-East Asia,2022-11-18,16.0,671481,3.0,16788
+Sri Lanka,South-East Asia,2022-11-19,16.0,671497,3.0,16791
+Sri Lanka,South-East Asia,2022-11-20,8.0,671505,0.0,16791
+Sri Lanka,South-East Asia,2022-11-21,17.0,671522,2.0,16793
+Sri Lanka,South-East Asia,2022-11-22,24.0,671546,2.0,16795
+Sri Lanka,South-East Asia,2022-11-23,17.0,671563,0.0,16795
+Sri Lanka,South-East Asia,2022-11-24,23.0,671586,1.0,16796
+Sri Lanka,South-East Asia,2022-11-25,24.0,671610,1.0,16797
+Sri Lanka,South-East Asia,2022-11-26,16.0,671626,2.0,16799
+Sri Lanka,South-East Asia,2022-11-27,12.0,671638,1.0,16800
+Sri Lanka,South-East Asia,2022-11-28,4.0,671642,0.0,16800
+Sri Lanka,South-East Asia,2022-11-29,9.0,671651,2.0,16802
+Sri Lanka,South-East Asia,2022-11-30,20.0,671671,0.0,16802
+Sri Lanka,South-East Asia,2022-12-01,11.0,671682,1.0,16803
+Sri Lanka,South-East Asia,2022-12-02,5.0,671687,2.0,16805
+Sri Lanka,South-East Asia,2022-12-03,8.0,671695,0.0,16805
+Sri Lanka,South-East Asia,2022-12-04,8.0,671703,0.0,16805
+Sri Lanka,South-East Asia,2022-12-05,8.0,671711,0.0,16805
+Sri Lanka,South-East Asia,2022-12-06,3.0,671714,0.0,16805
+Sri Lanka,South-East Asia,2022-12-07,5.0,671719,1.0,16806
+Sri Lanka,South-East Asia,2022-12-08,3.0,671722,0.0,16806
+Sri Lanka,South-East Asia,2022-12-09,20.0,671742,1.0,16807
+Sri Lanka,South-East Asia,2022-12-10,3.0,671745,1.0,16808
+Sri Lanka,South-East Asia,2022-12-11,7.0,671752,0.0,16808
+Sri Lanka,South-East Asia,2022-12-12,4.0,671756,0.0,16808
+Sri Lanka,South-East Asia,2022-12-13,5.0,671761,0.0,16808
+Sri Lanka,South-East Asia,2022-12-14,9.0,671770,1.0,16809
+Sri Lanka,South-East Asia,2022-12-15,6.0,671776,2.0,16811
+Sri Lanka,South-East Asia,2022-12-16,17.0,671793,1.0,16812
+Sri Lanka,South-East Asia,2022-12-17,4.0,671797,1.0,16813
+Sri Lanka,South-East Asia,2022-12-18,11.0,671808,1.0,16814
+Sri Lanka,South-East Asia,2022-12-19,5.0,671813,0.0,16814
+Sri Lanka,South-East Asia,2022-12-20,4.0,671817,0.0,16814
+Sri Lanka,South-East Asia,2022-12-21,4.0,671821,0.0,16814
+Sri Lanka,South-East Asia,2022-12-22,10.0,671831,0.0,16814
+Sri Lanka,South-East Asia,2022-12-23,7.0,671838,0.0,16814
+Sri Lanka,South-East Asia,2022-12-24,5.0,671843,0.0,16814
+Sri Lanka,South-East Asia,2022-12-25,8.0,671851,1.0,16815
+Sri Lanka,South-East Asia,2022-12-26,4.0,671855,0.0,16815
+Sri Lanka,South-East Asia,2022-12-27,4.0,671859,0.0,16815
+Sri Lanka,South-East Asia,2022-12-28,4.0,671863,2.0,16817
+Sri Lanka,South-East Asia,2022-12-29,12.0,671875,0.0,16817
+Sri Lanka,South-East Asia,2022-12-30,4.0,671879,0.0,16817
+Sri Lanka,South-East Asia,2022-12-31,5.0,671884,0.0,16817
+Thailand,South-East Asia,2022-01-01,3011.0,2226446,10.0,21708
+Thailand,South-East Asia,2022-01-02,3112.0,2229558,12.0,21720
+Thailand,South-East Asia,2022-01-03,2927.0,2232485,18.0,21738
+Thailand,South-East Asia,2022-01-04,3091.0,2235576,12.0,21750
+Thailand,South-East Asia,2022-01-05,3899.0,2239475,19.0,21769
+Thailand,South-East Asia,2022-01-06,5775.0,2245250,11.0,21780
+Thailand,South-East Asia,2022-01-07,7526.0,2252776,19.0,21799
+Thailand,South-East Asia,2022-01-08,8263.0,2261039,14.0,21813
+Thailand,South-East Asia,2022-01-09,8511.0,2269550,12.0,21825
+Thailand,South-East Asia,2022-01-10,7926.0,2277476,13.0,21838
+Thailand,South-East Asia,2022-01-11,7133.0,2284609,12.0,21850
+Thailand,South-East Asia,2022-01-12,7681.0,2292290,19.0,21869
+Thailand,South-East Asia,2022-01-13,8167.0,2300457,14.0,21883
+Thailand,South-East Asia,2022-01-14,8158.0,2308615,15.0,21898
+Thailand,South-East Asia,2022-01-15,7793.0,2316408,18.0,21916
+Thailand,South-East Asia,2022-01-16,8077.0,2324485,9.0,21925
+Thailand,South-East Asia,2022-01-17,6929.0,2331414,13.0,21938
+Thailand,South-East Asia,2022-01-18,6397.0,2337811,18.0,21956
+Thailand,South-East Asia,2022-01-19,7122.0,2344933,12.0,21968
+Thailand,South-East Asia,2022-01-20,8129.0,2353062,19.0,21987
+Thailand,South-East Asia,2022-01-21,8640.0,2361702,13.0,22000
+Thailand,South-East Asia,2022-01-22,8112.0,2369814,19.0,22019
+Thailand,South-East Asia,2022-01-23,7686.0,2377500,13.0,22032
+Thailand,South-East Asia,2022-01-24,7139.0,2384639,13.0,22045
+Thailand,South-East Asia,2022-01-25,6718.0,2391357,12.0,22057
+Thailand,South-East Asia,2022-01-26,7587.0,2398944,19.0,22076
+Thailand,South-East Asia,2022-01-27,8078.0,2407022,22.0,22098
+Thailand,South-East Asia,2022-01-28,8450.0,2415472,28.0,22126
+Thailand,South-East Asia,2022-01-29,8618.0,2424090,19.0,22145
+Thailand,South-East Asia,2022-01-30,8444.0,2432534,12.0,22157
+Thailand,South-East Asia,2022-01-31,8008.0,2440542,16.0,22173
+Thailand,South-East Asia,2022-02-01,7422.0,2447964,12.0,22185
+Thailand,South-East Asia,2022-02-02,8587.0,2456551,22.0,22207
+Thailand,South-East Asia,2022-02-03,9172.0,2465723,21.0,22228
+Thailand,South-East Asia,2022-02-04,9909.0,2475632,22.0,22250
+Thailand,South-East Asia,2022-02-05,10490.0,2486122,21.0,22271
+Thailand,South-East Asia,2022-02-06,10879.0,2497001,20.0,22291
+Thailand,South-East Asia,2022-02-07,10470.0,2507471,12.0,22303
+Thailand,South-East Asia,2022-02-08,10398.0,2517869,17.0,22320
+Thailand,South-East Asia,2022-02-09,13182.0,2531051,24.0,22344
+Thailand,South-East Asia,2022-02-10,14822.0,2545873,20.0,22364
+Thailand,South-East Asia,2022-02-11,15242.0,2561115,23.0,22387
+Thailand,South-East Asia,2022-02-12,16330.0,2577445,25.0,22412
+Thailand,South-East Asia,2022-02-13,15882.0,2593327,24.0,22436
+Thailand,South-East Asia,2022-02-14,14900.0,2608227,26.0,22462
+Thailand,South-East Asia,2022-02-15,14373.0,2622600,27.0,22489
+Thailand,South-East Asia,2022-02-16,16462.0,2639062,27.0,22516
+Thailand,South-East Asia,2022-02-17,17349.0,2656411,22.0,22538
+Thailand,South-East Asia,2022-02-18,18066.0,2674477,27.0,22565
+Thailand,South-East Asia,2022-02-19,18885.0,2693362,29.0,22594
+Thailand,South-East Asia,2022-02-20,18953.0,2712315,30.0,22624
+Thailand,South-East Asia,2022-02-21,18883.0,2731198,32.0,22656
+Thailand,South-East Asia,2022-02-22,18363.0,2749561,35.0,22691
+Thailand,South-East Asia,2022-02-23,21232.0,2770793,39.0,22730
+Thailand,South-East Asia,2022-02-24,23557.0,2794350,38.0,22768
+Thailand,South-East Asia,2022-02-25,24932.0,2819282,41.0,22809
+Thailand,South-East Asia,2022-02-26,25615.0,2844897,40.0,22849
+Thailand,South-East Asia,2022-02-27,24719.0,2869616,42.0,22891
+Thailand,South-East Asia,2022-02-28,22311.0,2891927,42.0,22933
+Thailand,South-East Asia,2022-03-01,20420.0,2912347,43.0,22976
+Thailand,South-East Asia,2022-03-02,22197.0,2934544,45.0,23021
+Thailand,South-East Asia,2022-03-03,23618.0,2958162,49.0,23070
+Thailand,South-East Asia,2022-03-04,23834.0,2981996,54.0,23124
+Thailand,South-East Asia,2022-03-05,22818.0,3004814,52.0,23176
+Thailand,South-East Asia,2022-03-06,21881.0,3026695,59.0,23235
+Thailand,South-East Asia,2022-03-07,21162.0,3047857,65.0,23300
+Thailand,South-East Asia,2022-03-08,18943.0,3066800,69.0,23369
+Thailand,South-East Asia,2022-03-09,22073.0,3088873,69.0,23438
+Thailand,South-East Asia,2022-03-10,22984.0,3111857,74.0,23512
+Thailand,South-East Asia,2022-03-11,24792.0,3136649,63.0,23575
+Thailand,South-East Asia,2022-03-12,24592.0,3161241,68.0,23643
+Thailand,South-East Asia,2022-03-13,23584.0,3184825,66.0,23709
+Thailand,South-East Asia,2022-03-14,22130.0,3206955,69.0,23778
+Thailand,South-East Asia,2022-03-15,19742.0,3226697,70.0,23848
+Thailand,South-East Asia,2022-03-16,23945.0,3250642,70.0,23918
+Thailand,South-East Asia,2022-03-17,25456.0,3276098,77.0,23995
+Thailand,South-East Asia,2022-03-18,27071.0,3303169,80.0,24075
+Thailand,South-East Asia,2022-03-19,25804.0,3328973,87.0,24162
+Thailand,South-East Asia,2022-03-20,24996.0,3353969,84.0,24246
+Thailand,South-East Asia,2022-03-21,23441.0,3377410,88.0,24334
+Thailand,South-East Asia,2022-03-22,21382.0,3398792,83.0,24417
+Thailand,South-East Asia,2022-03-23,25164.0,3423956,80.0,24497
+Thailand,South-East Asia,2022-03-24,27024.0,3450980,82.0,24579
+Thailand,South-East Asia,2022-03-25,26050.0,3477030,69.0,24648
+Thailand,South-East Asia,2022-03-26,26234.0,3503264,67.0,24715
+Thailand,South-East Asia,2022-03-27,25821.0,3529085,84.0,24799
+Thailand,South-East Asia,2022-03-28,24635.0,3553720,81.0,24880
+Thailand,South-East Asia,2022-03-29,21678.0,3575398,78.0,24958
+Thailand,South-East Asia,2022-03-30,25389.0,3600787,87.0,25045
+Thailand,South-East Asia,2022-03-31,27560.0,3628347,85.0,25130
+Thailand,South-East Asia,2022-04-01,28379.0,3656726,92.0,25222
+Thailand,South-East Asia,2022-04-02,28029.0,3684755,96.0,25318
+Thailand,South-East Asia,2022-04-03,26840.0,3711595,97.0,25415
+Thailand,South-East Asia,2022-04-04,24892.0,3736487,97.0,25512
+Thailand,South-East Asia,2022-04-05,21088.0,3757575,91.0,25603
+Thailand,South-East Asia,2022-04-06,24252.0,3781827,94.0,25697
+Thailand,South-East Asia,2022-04-07,26081.0,3807908,91.0,25788
+Thailand,South-East Asia,2022-04-08,25140.0,3833048,89.0,25877
+Thailand,South-East Asia,2022-04-09,25298.0,3858346,98.0,25975
+Thailand,South-East Asia,2022-04-10,25139.0,3883485,108.0,26083
+Thailand,South-East Asia,2022-04-11,22387.0,3905872,105.0,26188
+Thailand,South-East Asia,2022-04-12,19982.0,3925854,101.0,26289
+Thailand,South-East Asia,2022-04-13,23015.0,3948869,106.0,26395
+Thailand,South-East Asia,2022-04-14,24134.0,3973003,115.0,26510
+Thailand,South-East Asia,2022-04-15,20289.0,3993292,119.0,26629
+Thailand,South-East Asia,2022-04-16,18892.0,4012184,125.0,26754
+Thailand,South-East Asia,2022-04-17,17775.0,4029959,128.0,26882
+Thailand,South-East Asia,2022-04-18,16994.0,4046953,124.0,27006
+Thailand,South-East Asia,2022-04-19,16891.0,4063844,129.0,27135
+Thailand,South-East Asia,2022-04-20,20455.0,4084299,128.0,27263
+Thailand,South-East Asia,2022-04-21,21931.0,4106230,129.0,27392
+Thailand,South-East Asia,2022-04-22,21808.0,4128038,128.0,27520
+Thailand,South-East Asia,2022-04-23,20052.0,4148090,129.0,27649
+Thailand,South-East Asia,2022-04-24,17784.0,4165874,126.0,27775
+Thailand,South-East Asia,2022-04-25,14994.0,4180868,124.0,27899
+Thailand,South-East Asia,2022-04-26,13816.0,4194684,120.0,28019
+Thailand,South-East Asia,2022-04-27,14887.0,4209571,125.0,28144
+Thailand,South-East Asia,2022-04-28,14437.0,4224008,127.0,28271
+Thailand,South-East Asia,2022-04-29,14053.0,4238061,129.0,28400
+Thailand,South-East Asia,2022-04-30,12888.0,4250949,126.0,28526
+Thailand,South-East Asia,2022-05-01,11535.0,4262484,91.0,28617
+Thailand,South-East Asia,2022-05-02,9331.0,4271815,84.0,28701
+Thailand,South-East Asia,2022-05-03,9721.0,4281536,77.0,28778
+Thailand,South-East Asia,2022-05-04,9288.0,4290824,82.0,28860
+Thailand,South-East Asia,2022-05-05,9790.0,4300614,54.0,28914
+Thailand,South-East Asia,2022-05-06,7705.0,4308319,62.0,28976
+Thailand,South-East Asia,2022-05-07,8450.0,4316769,58.0,29034
+Thailand,South-East Asia,2022-05-08,8081.0,4324850,54.0,29088
+Thailand,South-East Asia,2022-05-09,6488.0,4331338,55.0,29143
+Thailand,South-East Asia,2022-05-10,6230.0,4337568,53.0,29196
+Thailand,South-East Asia,2022-05-11,7650.0,4345218,56.0,29252
+Thailand,South-East Asia,2022-05-12,6019.0,4351237,59.0,29311
+Thailand,South-East Asia,2022-05-13,9779.0,4361016,56.0,29367
+Thailand,South-East Asia,2022-05-14,6736.0,4367752,54.0,29421
+Thailand,South-East Asia,2022-05-15,6094.0,4373846,51.0,29472
+Thailand,South-East Asia,2022-05-16,5238.0,4379084,40.0,29512
+Thailand,South-East Asia,2022-05-17,3893.0,4382977,38.0,29550
+Thailand,South-East Asia,2022-05-18,5633.0,4388610,45.0,29595
+Thailand,South-East Asia,2022-05-19,6305.0,4394915,42.0,29637
+Thailand,South-East Asia,2022-05-20,6463.0,4401378,41.0,29678
+Thailand,South-East Asia,2022-05-21,5377.0,4406755,37.0,29715
+Thailand,South-East Asia,2022-05-22,4739.0,4411494,31.0,29746
+Thailand,South-East Asia,2022-05-23,4099.0,4415593,29.0,29775
+Thailand,South-East Asia,2022-05-24,4144.0,4419737,36.0,29811
+Thailand,South-East Asia,2022-05-25,5013.0,4424750,33.0,29844
+Thailand,South-East Asia,2022-05-26,4924.0,4429674,37.0,29881
+Thailand,South-East Asia,2022-05-27,4837.0,4434511,29.0,29910
+Thailand,South-East Asia,2022-05-28,4488.0,4438999,38.0,29948
+Thailand,South-East Asia,2022-05-29,3649.0,4442648,24.0,29972
+Thailand,South-East Asia,2022-05-30,3854.0,4446502,26.0,29998
+Thailand,South-East Asia,2022-05-31,3955.0,4450457,21.0,30019
+Thailand,South-East Asia,2022-06-01,4563.0,4455020,28.0,30047
+Thailand,South-East Asia,2022-06-02,2560.0,4457580,34.0,30081
+Thailand,South-East Asia,2022-06-03,2976.0,4460556,32.0,30113
+Thailand,South-East Asia,2022-06-04,3001.0,4463557,30.0,30143
+Thailand,South-East Asia,2022-06-05,3236.0,4466793,28.0,30171
+Thailand,South-East Asia,2022-06-06,2162.0,4468955,27.0,30198
+Thailand,South-East Asia,2022-06-07,2224.0,4471179,20.0,30218
+Thailand,South-East Asia,2022-06-08,2688.0,4473867,21.0,30239
+Thailand,South-East Asia,2022-06-09,3185.0,4477052,23.0,30262
+Thailand,South-East Asia,2022-06-10,2836.0,4479888,24.0,30286
+Thailand,South-East Asia,2022-06-11,2501.0,4482389,28.0,30314
+Thailand,South-East Asia,2022-06-12,2474.0,4484863,20.0,30334
+Thailand,South-East Asia,2022-06-13,1801.0,4486664,15.0,30349
+Thailand,South-East Asia,2022-06-14,1833.0,4488497,19.0,30368
+Thailand,South-East Asia,2022-06-15,2263.0,4490760,18.0,30386
+Thailand,South-East Asia,2022-06-16,2153.0,4492913,17.0,30403
+Thailand,South-East Asia,2022-06-17,1967.0,4494880,19.0,30422
+Thailand,South-East Asia,2022-06-18,2272.0,4497152,23.0,30445
+Thailand,South-East Asia,2022-06-19,1892.0,4499044,22.0,30467
+Thailand,South-East Asia,2022-06-20,1784.0,4500828,18.0,30485
+Thailand,South-East Asia,2022-06-21,1714.0,4502542,21.0,30506
+Thailand,South-East Asia,2022-06-22,2387.0,4504929,19.0,30525
+Thailand,South-East Asia,2022-06-23,2299.0,4507228,18.0,30543
+Thailand,South-East Asia,2022-06-24,2313.0,4509541,16.0,30559
+Thailand,South-East Asia,2022-06-25,2236.0,4511777,16.0,30575
+Thailand,South-East Asia,2022-06-26,2378.0,4514155,17.0,30592
+Thailand,South-East Asia,2022-06-27,1735.0,4515890,15.0,30607
+Thailand,South-East Asia,2022-06-28,1761.0,4517651,13.0,30620
+Thailand,South-East Asia,2022-06-29,2569.0,4520220,14.0,30634
+Thailand,South-East Asia,2022-06-30,2695.0,4522915,14.0,30648
+Thailand,South-East Asia,2022-07-01,2354.0,4525269,16.0,30664
+Thailand,South-East Asia,2022-07-02,2508.0,4527777,17.0,30681
+Thailand,South-East Asia,2022-07-03,2328.0,4530105,19.0,30700
+Thailand,South-East Asia,2022-07-04,1995.0,4532100,18.0,30718
+Thailand,South-East Asia,2022-07-05,1917.0,4534017,18.0,30736
+Thailand,South-East Asia,2022-07-06,2428.0,4536445,22.0,30758
+Thailand,South-East Asia,2022-07-07,2366.0,4538811,20.0,30778
+Thailand,South-East Asia,2022-07-08,2144.0,4540955,20.0,30798
+Thailand,South-East Asia,2022-07-09,2084.0,4543039,15.0,30813
+Thailand,South-East Asia,2022-07-10,2004.0,4545043,22.0,30835
+Thailand,South-East Asia,2022-07-11,1811.0,4546854,24.0,30859
+Thailand,South-East Asia,2022-07-12,1679.0,4548533,23.0,30882
+Thailand,South-East Asia,2022-07-13,2391.0,4550924,25.0,30907
+Thailand,South-East Asia,2022-07-14,2257.0,4553181,28.0,30935
+Thailand,South-East Asia,2022-07-15,1795.0,4554976,23.0,30958
+Thailand,South-East Asia,2022-07-16,2025.0,4557001,20.0,30978
+Thailand,South-East Asia,2022-07-17,2028.0,4559029,18.0,30996
+Thailand,South-East Asia,2022-07-18,1814.0,4560843,17.0,31013
+Thailand,South-East Asia,2022-07-19,2125.0,4562968,18.0,31031
+Thailand,South-East Asia,2022-07-20,2886.0,4565854,19.0,31050
+Thailand,South-East Asia,2022-07-21,2607.0,4568461,23.0,31073
+Thailand,South-East Asia,2022-07-22,2424.0,4570885,25.0,31098
+Thailand,South-East Asia,2022-07-23,2578.0,4573463,29.0,31127
+Thailand,South-East Asia,2022-07-24,2390.0,4575853,30.0,31157
+Thailand,South-East Asia,2022-07-25,1740.0,4577593,32.0,31189
+Thailand,South-East Asia,2022-07-26,1828.0,4579421,35.0,31224
+Thailand,South-East Asia,2022-07-27,2747.0,4582168,34.0,31258
+Thailand,South-East Asia,2022-07-28,1902.0,4584070,32.0,31290
+Thailand,South-East Asia,2022-07-29,2480.0,4586550,37.0,31327
+Thailand,South-East Asia,2022-07-30,1962.0,4588512,32.0,31359
+Thailand,South-East Asia,2022-07-31,1664.0,4590176,26.0,31385
+Thailand,South-East Asia,2022-08-01,2108.0,4592284,19.0,31404
+Thailand,South-East Asia,2022-08-02,1843.0,4594127,27.0,31431
+Thailand,South-East Asia,2022-08-03,2432.0,4596559,32.0,31463
+Thailand,South-East Asia,2022-08-04,2166.0,4598725,29.0,31492
+Thailand,South-East Asia,2022-08-05,2253.0,4600978,34.0,31526
+Thailand,South-East Asia,2022-08-06,2381.0,4603359,35.0,31561
+Thailand,South-East Asia,2022-08-07,2250.0,4605609,35.0,31596
+Thailand,South-East Asia,2022-08-08,1842.0,4607451,34.0,31630
+Thailand,South-East Asia,2022-08-09,1955.0,4609406,33.0,31663
+Thailand,South-East Asia,2022-08-10,2335.0,4611741,32.0,31695
+Thailand,South-East Asia,2022-08-11,2316.0,4614057,35.0,31730
+Thailand,South-East Asia,2022-08-12,2455.0,4616512,33.0,31763
+Thailand,South-East Asia,2022-08-13,2140.0,4618652,35.0,31798
+Thailand,South-East Asia,2022-08-14,1773.0,4620425,30.0,31828
+Thailand,South-East Asia,2022-08-15,1663.0,4622088,30.0,31858
+Thailand,South-East Asia,2022-08-16,1508.0,4623596,29.0,31887
+Thailand,South-East Asia,2022-08-17,2461.0,4626057,28.0,31915
+Thailand,South-East Asia,2022-08-18,2143.0,4628200,29.0,31944
+Thailand,South-East Asia,2022-08-19,2110.0,4630310,27.0,31971
+Thailand,South-East Asia,2022-08-20,1902.0,4632212,29.0,32000
+Thailand,South-East Asia,2022-08-21,1968.0,4634180,27.0,32027
+Thailand,South-East Asia,2022-08-22,1531.0,4635711,28.0,32055
+Thailand,South-East Asia,2022-08-23,1488.0,4637199,26.0,32081
+Thailand,South-East Asia,2022-08-24,2062.0,4639261,28.0,32109
+Thailand,South-East Asia,2022-08-25,2002.0,4641263,29.0,32138
+Thailand,South-East Asia,2022-08-26,1749.0,4643012,28.0,32166
+Thailand,South-East Asia,2022-08-27,1631.0,4644643,29.0,32195
+Thailand,South-East Asia,2022-08-28,1769.0,4646412,27.0,32222
+Thailand,South-East Asia,2022-08-29,1273.0,4647685,26.0,32248
+Thailand,South-East Asia,2022-08-30,994.0,4648679,27.0,32275
+Thailand,South-East Asia,2022-08-31,2240.0,4650919,28.0,32303
+Thailand,South-East Asia,2022-09-01,2004.0,4652923,25.0,32328
+Thailand,South-East Asia,2022-09-02,2046.0,4654969,24.0,32352
+Thailand,South-East Asia,2022-09-03,1942.0,4656911,23.0,32375
+Thailand,South-East Asia,2022-09-04,1631.0,4658542,25.0,32400
+Thailand,South-East Asia,2022-09-05,1360.0,4659902,22.0,32422
+Thailand,South-East Asia,2022-09-06,1062.0,4660964,22.0,32444
+Thailand,South-East Asia,2022-09-07,1605.0,4662569,20.0,32464
+Thailand,South-East Asia,2022-09-08,1587.0,4664156,19.0,32483
+Thailand,South-East Asia,2022-09-09,1191.0,4665347,20.0,32503
+Thailand,South-East Asia,2022-09-10,1106.0,4666453,17.0,32520
+Thailand,South-East Asia,2022-09-11,1093.0,4667546,19.0,32539
+Thailand,South-East Asia,2022-09-12,698.0,4668244,15.0,32554
+Thailand,South-East Asia,2022-09-13,619.0,4668863,10.0,32564
+Thailand,South-East Asia,2022-09-14,1321.0,4670184,14.0,32578
+Thailand,South-East Asia,2022-09-15,1125.0,4671309,13.0,32591
+Thailand,South-East Asia,2022-09-16,837.0,4672146,12.0,32603
+Thailand,South-East Asia,2022-09-17,764.0,4672910,14.0,32617
+Thailand,South-East Asia,2022-09-18,477.0,4673387,12.0,32629
+Thailand,South-East Asia,2022-09-19,242.0,4673629,11.0,32640
+Thailand,South-East Asia,2022-09-20,774.0,4674403,15.0,32655
+Thailand,South-East Asia,2022-09-21,1129.0,4675532,13.0,32668
+Thailand,South-East Asia,2022-09-22,806.0,4676338,15.0,32683
+Thailand,South-East Asia,2022-09-23,752.0,4677090,9.0,32692
+Thailand,South-East Asia,2022-09-24,607.0,4677697,14.0,32706
+Thailand,South-East Asia,2022-09-25,655.0,4678352,12.0,32718
+Thailand,South-East Asia,2022-09-26,319.0,4678671,8.0,32726
+Thailand,South-East Asia,2022-09-27,351.0,4679022,10.0,32736
+Thailand,South-East Asia,2022-09-28,811.0,4679833,9.0,32745
+Thailand,South-East Asia,2022-09-29,637.0,4680470,10.0,32755
+Thailand,South-East Asia,2022-09-30,839.0,4681309,9.0,32764
+Thailand,South-East Asia,2022-10-01,823.0,4682132,7.0,32771
+Thailand,South-East Asia,2022-10-02,0.0,4682132,0.0,32771
+Thailand,South-East Asia,2022-10-03,0.0,4682132,0.0,32771
+Thailand,South-East Asia,2022-10-04,0.0,4682132,0.0,32771
+Thailand,South-East Asia,2022-10-05,0.0,4682132,0.0,32771
+Thailand,South-East Asia,2022-10-06,0.0,4682132,0.0,32771
+Thailand,South-East Asia,2022-10-07,0.0,4682132,0.0,32771
+Thailand,South-East Asia,2022-10-08,2915.0,4685047,58.0,32829
+Thailand,South-East Asia,2022-10-09,0.0,4685047,0.0,32829
+Thailand,South-East Asia,2022-10-10,0.0,4685047,0.0,32829
+Thailand,South-East Asia,2022-10-11,0.0,4685047,0.0,32829
+Thailand,South-East Asia,2022-10-12,0.0,4685047,0.0,32829
+Thailand,South-East Asia,2022-10-13,0.0,4685047,0.0,32829
+Thailand,South-East Asia,2022-10-14,0.0,4685047,0.0,32829
+Thailand,South-East Asia,2022-10-15,2234.0,4687281,53.0,32882
+Thailand,South-East Asia,2022-10-16,0.0,4687281,0.0,32882
+Thailand,South-East Asia,2022-10-17,0.0,4687281,0.0,32882
+Thailand,South-East Asia,2022-10-18,0.0,4687281,0.0,32882
+Thailand,South-East Asia,2022-10-19,0.0,4687281,0.0,32882
+Thailand,South-East Asia,2022-10-20,0.0,4687281,0.0,32882
+Thailand,South-East Asia,2022-10-21,0.0,4687281,0.0,32882
+Thailand,South-East Asia,2022-10-22,2616.0,4689897,40.0,32922
+Thailand,South-East Asia,2022-10-23,0.0,4689897,0.0,32922
+Thailand,South-East Asia,2022-10-24,0.0,4689897,0.0,32922
+Thailand,South-East Asia,2022-10-25,0.0,4689897,0.0,32922
+Thailand,South-East Asia,2022-10-26,0.0,4689897,0.0,32922
+Thailand,South-East Asia,2022-10-27,0.0,4689897,0.0,32922
+Thailand,South-East Asia,2022-10-28,0.0,4689897,0.0,32922
+Thailand,South-East Asia,2022-10-29,2551.0,4692448,33.0,32955
+Thailand,South-East Asia,2022-10-30,0.0,4692448,0.0,32955
+Thailand,South-East Asia,2022-10-31,0.0,4692448,0.0,32955
+Thailand,South-East Asia,2022-11-01,0.0,4692448,0.0,32955
+Thailand,South-East Asia,2022-11-02,0.0,4692448,0.0,32955
+Thailand,South-East Asia,2022-11-03,0.0,4692448,0.0,32955
+Thailand,South-East Asia,2022-11-04,0.0,4692448,0.0,32955
+Thailand,South-East Asia,2022-11-05,2759.0,4695207,40.0,32995
+Thailand,South-East Asia,2022-11-06,0.0,4695207,0.0,32995
+Thailand,South-East Asia,2022-11-07,0.0,4695207,0.0,32995
+Thailand,South-East Asia,2022-11-08,0.0,4695207,0.0,32995
+Thailand,South-East Asia,2022-11-09,0.0,4695207,0.0,32995
+Thailand,South-East Asia,2022-11-10,0.0,4695207,0.0,32995
+Thailand,South-East Asia,2022-11-11,0.0,4695207,0.0,32995
+Thailand,South-East Asia,2022-11-12,3166.0,4698373,42.0,33037
+Thailand,South-East Asia,2022-11-13,0.0,4698373,0.0,33037
+Thailand,South-East Asia,2022-11-14,0.0,4698373,0.0,33037
+Thailand,South-East Asia,2022-11-15,0.0,4698373,0.0,33037
+Thailand,South-East Asia,2022-11-16,0.0,4698373,0.0,33037
+Thailand,South-East Asia,2022-11-17,0.0,4698373,0.0,33037
+Thailand,South-East Asia,2022-11-18,0.0,4698373,0.0,33037
+Thailand,South-East Asia,2022-11-19,3957.0,4702330,69.0,33106
+Thailand,South-East Asia,2022-11-20,0.0,4702330,0.0,33106
+Thailand,South-East Asia,2022-11-21,0.0,4702330,0.0,33106
+Thailand,South-East Asia,2022-11-22,0.0,4702330,0.0,33106
+Thailand,South-East Asia,2022-11-23,0.0,4702330,0.0,33106
+Thailand,South-East Asia,2022-11-24,0.0,4702330,0.0,33106
+Thailand,South-East Asia,2022-11-25,0.0,4702330,0.0,33106
+Thailand,South-East Asia,2022-11-26,4914.0,4707244,74.0,33180
+Thailand,South-East Asia,2022-11-27,0.0,4707244,0.0,33180
+Thailand,South-East Asia,2022-11-28,0.0,4707244,0.0,33180
+Thailand,South-East Asia,2022-11-29,0.0,4707244,0.0,33180
+Thailand,South-East Asia,2022-11-30,0.0,4707244,0.0,33180
+Thailand,South-East Asia,2022-12-01,0.0,4707244,0.0,33180
+Thailand,South-East Asia,2022-12-02,0.0,4707244,0.0,33180
+Thailand,South-East Asia,2022-12-03,4284.0,4711528,105.0,33285
+Thailand,South-East Asia,2022-12-04,0.0,4711528,0.0,33285
+Thailand,South-East Asia,2022-12-05,0.0,4711528,0.0,33285
+Thailand,South-East Asia,2022-12-06,0.0,4711528,0.0,33285
+Thailand,South-East Asia,2022-12-07,0.0,4711528,0.0,33285
+Thailand,South-East Asia,2022-12-08,0.0,4711528,0.0,33285
+Thailand,South-East Asia,2022-12-09,0.0,4711528,0.0,33285
+Thailand,South-East Asia,2022-12-10,3961.0,4715489,107.0,33392
+Thailand,South-East Asia,2022-12-11,0.0,4715489,0.0,33392
+Thailand,South-East Asia,2022-12-12,0.0,4715489,0.0,33392
+Thailand,South-East Asia,2022-12-13,0.0,4715489,0.0,33392
+Thailand,South-East Asia,2022-12-14,0.0,4715489,0.0,33392
+Thailand,South-East Asia,2022-12-15,0.0,4715489,0.0,33392
+Thailand,South-East Asia,2022-12-16,0.0,4715489,0.0,33392
+Thailand,South-East Asia,2022-12-17,3419.0,4718908,113.0,33505
+Thailand,South-East Asia,2022-12-18,0.0,4718908,0.0,33505
+Thailand,South-East Asia,2022-12-19,0.0,4718908,0.0,33505
+Thailand,South-East Asia,2022-12-20,0.0,4718908,0.0,33505
+Thailand,South-East Asia,2022-12-21,0.0,4718908,0.0,33505
+Thailand,South-East Asia,2022-12-22,0.0,4718908,0.0,33505
+Thailand,South-East Asia,2022-12-23,0.0,4718908,0.0,33505
+Thailand,South-East Asia,2022-12-24,2900.0,4721808,89.0,33594
+Thailand,South-East Asia,2022-12-25,0.0,4721808,0.0,33594
+Thailand,South-East Asia,2022-12-26,0.0,4721808,0.0,33594
+Thailand,South-East Asia,2022-12-27,0.0,4721808,0.0,33594
+Thailand,South-East Asia,2022-12-28,0.0,4721808,0.0,33594
+Thailand,South-East Asia,2022-12-29,0.0,4721808,0.0,33594
+Thailand,South-East Asia,2022-12-30,0.0,4721808,0.0,33594
+Thailand,South-East Asia,2022-12-31,2111.0,4723919,75.0,33669

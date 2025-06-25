@@ -16,6 +16,8 @@ __pycache__/
 #*.csv
 *.zip
 01_data/dataset2_our_world/00_raw/cases_deaths_v0.csv
+01_data/dataset2_our_world/00_raw/cases_deaths_v0_part1.csv 
+01_data/dataset2_our_world/00_raw/cases_deaths_v0_part2.csv 
 
 # OS
 .DS_Store

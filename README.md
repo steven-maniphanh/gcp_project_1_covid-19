@@ -6,4 +6,6 @@ The goal of this project is to make a Data Analysis of Covid-19 data from 2020 t
 This project will be based on data from different sources.
 The ouput will be different KPIs on Covid-19 including : Geo-Maps, Charts, ...
 
-### References
+## References Sources 
+
+Dataset 2 - Our World : [!ourworldindata.org/covid-cases](https://ourworldindata.org/covid-cases)

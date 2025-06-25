@@ -8,4 +8,4 @@ The ouput will be different KPIs on Covid-19 including : Geo-Maps, Charts, ...
 
 ## References Sources 
 
-Dataset 2 - Our World : [!ourworldindata.org/covid-cases](https://ourworldindata.org/covid-cases)
+Dataset 2 - Our World : [ourworldindata.org/covid-cases](https://ourworldindata.org/covid-cases)

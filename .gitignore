@@ -15,6 +15,7 @@ __pycache__/
 #data/cleaned/
 #*.csv
 *.zip
+01_data/dataset2_our_world/00_raw/cases_deaths_v0.csv
 
 # OS
 .DS_Store

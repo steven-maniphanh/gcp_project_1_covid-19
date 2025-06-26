@@ -1,3 +1,5 @@
+#v0_3
+
 #INPUT VARIABLES
 FUNCTION_NAME="gcs-to-bq-v03"
 RUNTIME="python310"

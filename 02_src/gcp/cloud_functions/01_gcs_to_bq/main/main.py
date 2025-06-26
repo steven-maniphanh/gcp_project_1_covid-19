@@ -1,3 +1,5 @@
+#v0.4
+
 import os
 import pandas as pd
 from pandas_gbq import to_gbq

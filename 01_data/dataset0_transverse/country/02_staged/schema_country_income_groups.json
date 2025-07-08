@@ -1,0 +1,7 @@
+[
+  { "name": "country_code","type": "STRING",  "mode": "NULLABLE" },
+  { "name": "region", "type": "STRING",  "mode": "NULLABLE" },
+  { "name": "income_group", "type": "STRING",  "mode": "NULLABLE" },
+  { "name": "special_notes","type": "STRING",  "mode": "NULLABLE" },
+  { "name": "table_name", "type": "STRING", "mode": "NULLABLE" }
+]

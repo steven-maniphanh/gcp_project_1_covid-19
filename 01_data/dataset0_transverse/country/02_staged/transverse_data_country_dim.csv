@@ -1,0 +1,257 @@
+country_name,country_code,region,continent,area_km2,income_group
+Afghanistan,AFG,Asia,Asia,652230,Low income
+Albania,ALB,Europe,Europe,28748,Upper middle income
+Algeria,DZA,Africa,Africa,2381741,Upper middle income
+American Samoa,ASM,Oceania,Oceania,199,High income
+Andorra,AND,Europe,Europe,468,High income
+Angola,AGO,Africa,Africa,1246700,Lower middle income
+Anguilla,AIA,America,North America,91,
+Antarctica,ATA,Antarctica,Antarctica,14000000,
+Antigua and Barbuda,ATG,America,North America,442,High income
+Argentina,ARG,America,South America,2780400,Upper middle income
+Armenia,ARM,Asia,Asia,29743,Upper middle income
+Aruba,ABW,America,North America,180,High income
+Australia,AUS,Oceania,Oceania,7692024,High income
+Austria,AUT,Europe,Europe,83871,High income
+Azerbaijan,AZE,Asia,Asia,86600,Upper middle income
+Bahamas,BHS,America,North America,13943,High income
+Bahrain,BHR,Asia,Asia,765,High income
+Bangladesh,BGD,Asia,Asia,148460,Lower middle income
+Barbados,BRB,America,North America,430,High income
+Belarus,BLR,Europe,Europe,207600,Upper middle income
+Belgium,BEL,Europe,Europe,30528,High income
+Belize,BLZ,America,North America,22966,Upper middle income
+Benin,BEN,Africa,Africa,112622,Lower middle income
+Bermuda,BMU,America,North America,54,High income
+Bhutan,BTN,Asia,Asia,38394,Lower middle income
+Bolivia,BOL,America,South America,1098581,Lower middle income
+Bonaire,BES,America,North America,328,
+Bosnia and Herzegovina,BIH,Europe,Europe,51197,Upper middle income
+Botswana,BWA,Africa,Africa,581730,Upper middle income
+Bouvet Island,BVT,Antarctica,Antarctica,49,
+Brazil,BRA,America,South America,8515767,Upper middle income
+British Indian Ocean Territory,IOT,Africa,Africa,60,
+British Virgin Islands,VGB,America,North America,151,High income
+British Virgin Islands,VGB,America,North America,151,High income
+Brunei,BRN,Asia,Asia,5765,High income
+Bulgaria,BGR,Europe,Europe,110879,High income
+Burkina Faso,BFA,Africa,Africa,272967,Low income
+Burundi,BDI,Africa,Africa,27834,Low income
+Cabo Verde,CPV,Africa,Africa,4033,Upper middle income
+Cabo Verde,CPV,Africa,Africa,4033,Upper middle income
+Cambodia,KHM,Asia,Asia,181035,Lower middle income
+Cameroon,CMR,Africa,Africa,475442,Lower middle income
+Canada,CAN,America,North America,9984670,High income
+Cape Verde,CPV,Africa,Africa,4033,Upper middle income
+Cape Verde,CPV,Africa,Africa,4033,Upper middle income
+Cayman Islands,CYM,America,North America,264,High income
+Central African Republic,CAF,Africa,Africa,622984,Low income
+Chad,TCD,Africa,Africa,1284000,Low income
+Chile,CHL,America,South America,756102,High income
+China,CHN,Asia,Asia,9596961,Upper middle income
+Christmas Island,CXR,Oceania,Oceania,135,
+Cocos (Keeling) Islands,CCK,Oceania,Oceania,14,
+Colombia,COL,America,South America,1141748,Upper middle income
+Comoros,COM,Africa,Africa,2235,Lower middle income
+Congo,COG,Africa,Africa,342000,Lower middle income
+Congo (the Democratic Republic of the),COD,Africa,Africa,2344858,Low income
+Cook Islands,COK,Oceania,Oceania,236,
+Costa Rica,CRI,America,North America,51100,High income
+Croatia,HRV,Europe,Europe,56594,High income
+Cuba,CUB,America,North America,109884,Upper middle income
+Curaçao,CUW,America,North America,444,High income
+Cyprus,CYP,Asia,Asia,9251,High income
+Czechia,CZE,Europe,Europe,78865,High income
+Côte d'Ivoire,CIV,Africa,Africa,322463,Lower middle income
+Denmark,DNK,Europe,Europe,43094,High income
+Djibouti,DJI,Africa,Africa,23200,Lower middle income
+Dominica,DMA,America,North America,751,Upper middle income
+Dominican Republic,DOM,America,North America,48671,Upper middle income
+Ecuador,ECU,America,South America,283561,Upper middle income
+Egypt,EGY,Africa,Africa,1002450,Lower middle income
+El Salvador,SLV,America,North America,21041,Upper middle income
+Equatorial Guinea,GNQ,Africa,Africa,28051,Upper middle income
+Eritrea,ERI,Africa,Africa,117600,Low income
+Estonia,EST,Europe,Europe,45227,High income
+Eswatini,SWZ,Africa,Africa,17364,Lower middle income
+Ethiopia,ETH,Africa,Africa,1104300,
+Falkland Islands [Malvinas],FLK,America,South America,12173,
+Faroe Islands,FRO,Europe,Europe,1393,High income
+Fiji,FJI,Oceania,Oceania,18274,Upper middle income
+Finland,FIN,Europe,Europe,338424,High income
+France,FRA,Europe,Europe,551695,High income
+French Guiana,GUF,America,South America,83534,
+French Polynesia,PYF,Oceania,Oceania,4167,High income
+French Southern Territories,ATF,Antarctica,Antarctica,7747,
+Gabon,GAB,Africa,Africa,267668,Upper middle income
+Gambia,GMB,Africa,Africa,11295,Low income
+Georgia,GEO,Asia,Asia,69700,Upper middle income
+Germany,DEU,Europe,Europe,357114,High income
+Ghana,GHA,Africa,Africa,238533,Lower middle income
+Gibraltar,GIB,Europe,Europe,6.8,High income
+Greece,GRC,Europe,Europe,131957,High income
+Greenland,GRL,America,North America,2166086,High income
+Grenada,GRD,America,North America,344,Upper middle income
+Guadeloupe,GLP,America,North America,1628,
+Guam,GUM,Oceania,Oceania,549,High income
+Guatemala,GTM,America,North America,108889,Upper middle income
+Guernsey,GGY,Europe,Europe,78,
+Guinea,GIN,Africa,Africa,245857,Lower middle income
+Guinea-Bissau,GNB,Africa,Africa,36125,Low income
+Guyana,GUY,America,South America,214969,High income
+Haiti,HTI,America,North America,27750,Lower middle income
+Heard Island and McDonald Islands,HMD,Antarctica,Antarctica,368,
+Holy See,VAT,Europe,Europe,0.44,
+Honduras,HND,America,North America,112492,Lower middle income
+Hong Kong,HKG,Asia,Asia,1106,High income
+Hungary,HUN,Europe,Europe,93028,High income
+Iceland,ISL,Europe,Europe,103000,High income
+India,IND,Asia,Asia,3287263,Lower middle income
+Indonesia,IDN,Asia,Asia,1904569,Upper middle income
+Iran,IRN,Asia,Asia,1648195,Upper middle income
+Iraq,IRQ,Asia,Asia,438317,Upper middle income
+Ireland,IRL,Europe,Europe,70273,High income
+Isle of Man,IMN,Europe,Europe,572,High income
+Israel,ISR,Asia,Asia,22072,High income
+Italy,ITA,Europe,Europe,301340,High income
+Jamaica,JAM,America,North America,10991,Upper middle income
+Japan,JPN,Asia,Asia,377930,High income
+Jersey,JEY,Europe,Europe,116,
+Jordan,JOR,Asia,Asia,89342,Lower middle income
+Kazakhstan,KAZ,Asia,Asia,2724900,Upper middle income
+Kenya,KEN,Africa,Africa,580367,Lower middle income
+Kiribati,KIR,Oceania,Oceania,811,Lower middle income
+Kosovo,XXK,Europe,Europe,10887,
+Kuwait,KWT,Asia,Asia,17818,High income
+Kyrgyzstan,KGZ,Asia,Asia,199951,Lower middle income
+Laos,LAO,Asia,Asia,236800,Lower middle income
+Latvia,LVA,Europe,Europe,64559,High income
+Lebanon,LBN,Asia,Asia,10452,Lower middle income
+Lesotho,LSO,Africa,Africa,30355,Lower middle income
+Liberia,LBR,Africa,Africa,111369,Low income
+Libya,LBY,Africa,Africa,1759540,Upper middle income
+Liechtenstein,LIE,Europe,Europe,160,High income
+Lithuania,LTU,Europe,Europe,65300,High income
+Luxembourg,LUX,Europe,Europe,2586,High income
+Macao,MAC,Asia,Asia,30,High income
+Madagascar,MDG,Africa,Africa,587041,Low income
+Malawi,MWI,Africa,Africa,118484,Low income
+Malaysia,MYS,Asia,Asia,330803,Upper middle income
+Maldives,MDV,Asia,Asia,300,Upper middle income
+Mali,MLI,Africa,Africa,1240192,Low income
+Malta,MLT,Europe,Europe,316,High income
+Marshall Islands,MHL,Oceania,Oceania,181,Upper middle income
+Martinique,MTQ,America,North America,1128,
+Mauritania,MRT,Africa,Africa,1030700,Lower middle income
+Mauritius,MUS,Africa,Africa,2040,Upper middle income
+Mayotte,MYT,Africa,Africa,374,
+Mexico,MEX,America,North America,1964375,Upper middle income
+Micronesia (Federated States of),FSM,Oceania,Oceania,702,Lower middle income
+Moldova,MDA,Europe,Europe,33846,Upper middle income
+Monaco,MCO,Europe,Europe,2.02,High income
+Mongolia,MNG,Asia,Asia,1564110,Upper middle income
+Montenegro,MNE,Europe,Europe,13812,Upper middle income
+Montserrat,MSR,America,North America,102,
+Morocco,MAR,Africa,Africa,446550,Lower middle income
+Mozambique,MOZ,Africa,Africa,801590,Low income
+Myanmar,MMR,Asia,Asia,676578,Lower middle income
+Namibia,NAM,Africa,Africa,825615,Lower middle income
+Nauru,NRU,Oceania,Oceania,21,High income
+Nepal,NPL,Asia,Asia,147516,Lower middle income
+Netherlands,NLD,Europe,Europe,41543,High income
+New Caledonia,NCL,Oceania,Oceania,18575,High income
+New Zealand,NZL,Oceania,Oceania,268838,High income
+Nicaragua,NIC,America,North America,130373,Lower middle income
+Niger,NER,Africa,Africa,1267000,Low income
+Nigeria,NGA,Africa,Africa,923768,Lower middle income
+Niue,NIU,Oceania,Oceania,261,
+Norfolk Island,NFK,Oceania,Oceania,36,
+North Korea,PRK,Asia,Asia,120538,Low income
+Northern Mariana Islands,MNP,Oceania,Oceania,464,High income
+Norway,NOR,Europe,Europe,385207,High income
+Oman,OMN,Asia,Asia,309500,High income
+Pakistan,PAK,Asia,Asia,881912,Lower middle income
+Palau,PLW,Oceania,Oceania,459,High income
+Palestine,PSE,Asia,Asia,6220,Lower middle income
+Panama,PAN,America,North America,75417,High income
+Papua New Guinea,PNG,Oceania,Oceania,462840,Lower middle income
+Paraguay,PRY,America,South America,406752,Upper middle income
+Peru,PER,America,South America,1285216,Upper middle income
+Philippines,PHL,Asia,Asia,300000,Lower middle income
+Pitcairn,PCN,Oceania,Oceania,47,
+Poland,POL,Europe,Europe,312679,High income
+Portugal,PRT,Europe,Europe,92212,High income
+Puerto Rico,PRI,America,North America,9104,High income
+Qatar,QAT,Asia,Asia,11586,High income
+Republic of North Macedonia,MKD,Europe,Europe,25713,Upper middle income
+Romania,ROU,Europe,Europe,238397,High income
+Russia,RUS,Europe,Europe,17098242,High income
+Rwanda,RWA,Africa,Africa,26338,Low income
+Réunion,REU,Africa,Africa,2512,
+Saint Barthélemy,BLM,America,North America,25,
+Saint Helena,SHN,Africa,Africa,394,
+Saint Kitts and Nevis,KNA,America,North America,261,High income
+Saint Lucia,LCA,America,North America,616,Upper middle income
+Saint Martin (French part),MAF,America,North America,53,High income
+Saint Pierre and Miquelon,SPM,America,North America,242,
+Saint Vincent and the Grenadines,VCT,America,North America,389,Upper middle income
+Samoa,WSM,Oceania,Oceania,2842,Upper middle income
+San Marino,SMR,Europe,Europe,61,High income
+Sao Tome and Principe,STP,Africa,Africa,964,Lower middle income
+Saudi Arabia,SAU,Asia,Asia,2149690,High income
+Senegal,SEN,Africa,Africa,196722,Lower middle income
+Serbia,SRB,Europe,Europe,88361,Upper middle income
+Seychelles,SYC,Africa,Africa,455,High income
+Sierra Leone,SLE,Africa,Africa,71740,Low income
+Singapore,SGP,Asia,Asia,728,High income
+Sint Maarten (Dutch part),SXM,America,North America,34,High income
+Slovakia,SVK,Europe,Europe,49035,High income
+Slovenia,SVN,Europe,Europe,20273,High income
+Solomon Islands,SLB,Oceania,Oceania,28896,Lower middle income
+Somalia,SOM,Africa,Africa,637657,Low income
+South Africa,ZAF,Africa,Africa,1219090,Upper middle income
+South Georgia and the South Sandwich Islands,SGS,America,South America,3903,
+South Korea,KOR,Asia,Asia,100210,High income
+South Sudan,SSD,Africa,Africa,619745,Low income
+Spain,ESP,Europe,Europe,505992,High income
+Sri Lanka,LKA,Asia,Asia,65610,Lower middle income
+Sudan,SDN,Africa,Africa,1861484,Low income
+Suriname,SUR,America,South America,163820,Upper middle income
+Svalbard and Jan Mayen,SJM,Europe,Europe,61399,
+Sweden,SWE,Europe,Europe,450295,High income
+Switzerland,CHE,Europe,Europe,41284,High income
+Syria,SYR,Asia,Asia,185180,Low income
+Taiwan (Province of China),TWN,Asia,Asia,36197,
+Tajikistan,TJK,Asia,Asia,143100,Lower middle income
+Tanzania,TZA,Africa,Africa,945087,Lower middle income
+Thailand,THA,Asia,Asia,513120,Upper middle income
+Timor-Leste,TLS,Asia,Asia,14874,Lower middle income
+Togo,TGO,Africa,Africa,56785,Low income
+Tokelau,TKL,Oceania,Oceania,12,
+Tonga,TON,Oceania,Oceania,747,Upper middle income
+Trinidad and Tobago,TTO,America,North America,5130,High income
+Tunisia,TUN,Africa,Africa,163610,Lower middle income
+Turkey,TUR,Asia,Asia,783356,Upper middle income
+Turkmenistan,TKM,Asia,Asia,488100,Upper middle income
+Turks and Caicos Islands,TCA,America,North America,948,High income
+Tuvalu,TUV,Oceania,Oceania,26,Upper middle income
+Uganda,UGA,Africa,Africa,241038,Low income
+Ukraine,UKR,Europe,Europe,603500,Upper middle income
+United Arab Emirates,ARE,Asia,Asia,83600,High income
+United Kingdom,GBR,Europe,Europe,243610,High income
+United States,USA,America,North America,9372610,High income
+United States Minor Outlying Islands,UMI,Oceania,Oceania,34.2,
+Uruguay,URY,America,South America,181034,High income
+Uzbekistan,UZB,Asia,Asia,447400,Lower middle income
+Vanuatu,VUT,Oceania,Oceania,12189,Lower middle income
+Venezuela,VEN,America,South America,916445,
+Vietnam,VNM,Asia,Asia,331212,Lower middle income
+Virgin Islands (British),VGB,America,North America,151,High income
+Virgin Islands (British),VGB,America,North America,151,High income
+Virgin Islands (U.S.),VIR,America,North America,347,High income
+Wallis and Futuna,WLF,Oceania,Oceania,142,
+Western Sahara,ESH,Africa,Africa,266000,
+Yemen,YEM,Asia,Asia,527968,Low income
+Zambia,ZMB,Africa,Africa,752612,Lower middle income
+Zimbabwe,ZWE,Africa,Africa,390757,Lower middle income
+Åland Islands,ALA,Europe,Europe,1580,

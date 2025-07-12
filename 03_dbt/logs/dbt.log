@@ -1,0 +1,51 @@
+[0m18:51:06.232331 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10508b320>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x105236420>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1052ab110>]}
+
+
+============================== 18:51:06.235120 | 10a86c95-6705-41c0-a542-4203d30ec34e ==============================
+[0m18:51:06.235120 [info ] [MainThread]: Running with dbt=1.10.2
+[0m18:51:06.235411 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'profiles_dir': '/Users/steven/.dbt', 'log_path': 'logs', 'debug': 'False', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'invocation_command': 'dbt init covid19_analytics', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'send_anonymous_usage_stats': 'True'}
+[0m18:51:06.244662 [debug] [MainThread]: Starter project path: /Users/steven/.pyenv/versions/3.12.2/envs/gcp_env/lib/python3.12/site-packages/dbt/include/starter_project
+[0m18:51:06.248126 [info ] [MainThread]: 
+Your new dbt project "covid19_analytics" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m18:51:06.248330 [info ] [MainThread]: Setting up your profile.
+[0m18:52:45.364316 [info ] [MainThread]: Profile covid19_analytics written to /Users/steven/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m18:52:45.372120 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 99.179184, "process_in_blocks": "0", "process_kernel_time": 0.33912, "process_mem_max_rss": "369524736", "process_out_blocks": "0", "process_user_time": 1.661131}
+[0m18:52:45.372963 [debug] [MainThread]: Command `dbt init` succeeded at 18:52:45.372800 after 99.18 seconds
+[0m18:52:45.373743 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x104d84a40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x104f2a090>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1218e0ec0>]}
+[0m18:52:45.374212 [debug] [MainThread]: Flushing usage events
+[0m18:52:45.818760 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m18:53:42.822888 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1071497c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10a4975f0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10a4970b0>]}
+
+
+============================== 18:53:42.825921 | da8d0757-55ea-4417-b35c-5c8e8cdf131a ==============================
+[0m18:53:42.825921 [info ] [MainThread]: Running with dbt=1.10.2
+[0m18:53:42.826212 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/steven/.dbt', 'fail_fast': 'False', 'version_check': 'True', 'log_path': 'logs', 'debug': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'introspect': 'True', 'invocation_command': 'dbt debug', 'static_parser': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m18:53:42.835867 [info ] [MainThread]: dbt version: 1.10.2
+[0m18:53:42.836110 [info ] [MainThread]: python version: 3.12.2
+[0m18:53:42.836258 [info ] [MainThread]: python path: /Users/steven/.pyenv/versions/3.12.2/envs/gcp_env/bin/python
+[0m18:53:42.836393 [info ] [MainThread]: os info: macOS-15.5-arm64-arm-64bit
+[0m18:53:44.712384 [info ] [MainThread]: Using profiles dir at /Users/steven/.dbt
+[0m18:53:44.712680 [info ] [MainThread]: Using profiles.yml file at /Users/steven/.dbt/profiles.yml
+[0m18:53:44.712832 [info ] [MainThread]: Using dbt_project.yml file at /Users/steven/Documents/00_DATA LEARNING/006_GCP_Project/PROJECT1_COVID-19_LOCAL_GIT_REPO/03_dbt/dbt_project.yml
+[0m18:53:44.713019 [error] [MainThread]: Encountered an error:
+Internal Error
+  Profile should not be None if loading profile completed
+[0m18:53:44.715614 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_success": false, "command_wall_clock_time": 1.933561, "process_in_blocks": "0", "process_kernel_time": 0.306421, "process_mem_max_rss": "381468672", "process_out_blocks": "0", "process_user_time": 1.821364}
+[0m18:53:44.715834 [debug] [MainThread]: Command `dbt debug` failed at 18:53:44.715791 after 1.93 seconds
+[0m18:53:44.716006 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10a0e20f0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10a0726c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x16a6231d0>]}
+[0m18:53:44.716179 [debug] [MainThread]: Flushing usage events
+[0m18:53:45.067081 [debug] [MainThread]: An error was encountered while trying to flush usage events

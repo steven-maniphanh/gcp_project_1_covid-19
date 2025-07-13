@@ -1,0 +1,87 @@
+{{ config(
+    materialized='table',
+    partition_by={
+        "field": "date",             
+        "data_type": "date"           
+    },
+    cluster_by=['country']
+) }}
+
+WITH cases_deaths_2020 AS(
+  SELECT *
+  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  WHERE _TABLE_SUFFIX IN (
+    '2020_africa', 
+    '2020_americas', 
+    '2020_eastern_mediterranean', 
+    '2020_europe', 
+    '2020_south_east_asia', 
+    '2020_western_pacific')
+  )
+  ,cases_deaths_2021 AS(
+  SELECT *
+  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  WHERE _TABLE_SUFFIX IN (
+    '2021_africa', 
+    '2021_americas', 
+    '2021_eastern_mediterranean', 
+    '2021_europe', 
+    '2021_south_east_asia', 
+    '2021_western_pacific')
+  )
+  , cases_deaths_2022 AS(
+  SELECT *
+  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  WHERE _TABLE_SUFFIX IN (
+    '2022_africa', 
+    '2022_americas', 
+    '2022_eastern_mediterranean', 
+    '2022_europe', 
+    '2022_south_east_asia', 
+    '2022_western_pacific')
+  )
+  , cases_deaths_2023 AS(
+  SELECT *
+  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  WHERE _TABLE_SUFFIX IN (
+    '2023_africa', 
+    '2023_americas', 
+    '2023_eastern_mediterranean', 
+    '2023_europe', 
+    '2023_south_east_asia', 
+    '2023_western_pacific')
+  )
+  , cases_deaths_2024 AS(
+  SELECT *
+  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  WHERE _TABLE_SUFFIX IN (
+    '2024_africa', 
+    '2024_americas', 
+    '2024_eastern_mediterranean', 
+    '2024_europe', 
+    '2024_south_east_asia', 
+    '2024_western_pacific')
+  )
+  , cases_deaths_2025 AS(
+  SELECT *
+  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  WHERE _TABLE_SUFFIX IN (
+    '2025_africa', 
+    '2025_americas', 
+    '2025_eastern_mediterranean', 
+    '2025_europe', 
+    '2025_south_east_asia', 
+    '2025_western_pacific')
+  )
+
+SELECT * FROM cases_deaths_2020
+UNION ALL
+SELECT * FROM cases_deaths_2021
+UNION ALL
+SELECT * FROM cases_deaths_2022
+UNION ALL
+SELECT * FROM cases_deaths_2023
+UNION ALL
+SELECT * FROM cases_deaths_2024
+UNION ALL
+SELECT * FROM cases_deaths_2025

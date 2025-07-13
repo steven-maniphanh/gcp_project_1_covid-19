@@ -49,3 +49,12 @@ models:
 
     country_staging:
       +schema: country_staging
+
+# seeds:
+#   covid19_analytics:
+#     cases_deaths_2020_africa:
+#       column_types:
+#         new_cases: FLOAT64
+#         total_cases: INT64
+#         new_deaths: FLOAT64
+#         total_deaths: INT64

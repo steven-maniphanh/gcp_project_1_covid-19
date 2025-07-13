@@ -10,8 +10,8 @@ WITH full_data AS (
         w1.2023 AS pop_2023,
         w1.2024 AS pop_2024,
         c1.area_km2
-    FROM `covid19-dbt-analytics-1.dev_country_raw.world_population` as w1
-    INNER JOIN `covid19-dbt-analytics-1.dev_country_raw.country_geography` as c1
+    FROM {{ref('world_population')}} as w1
+    INNER JOIN {{ref('country_geography')}} as c1
     ON w1.country_code = c1.country_code
     ORDER BY country_name)
 

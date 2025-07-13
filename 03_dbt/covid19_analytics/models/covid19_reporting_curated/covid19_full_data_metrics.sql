@@ -22,8 +22,8 @@ WITH CT1 AS (
     c1.total_cases,
     c1.new_deaths,
     c1.total_deaths
-  FROM `covid19-dbt-analytics-1.dev_covid19_staging.covid19_cases_deaths_all_years_region` as c1
-  LEFT JOIN `covid19-1-463112.staging_tranverse_dataset.country_dim` as c2
+  FROM {{ref('covid19_cases_deaths_all_years_region')}} as c1
+  LEFT JOIN {{ref('country_dim')}} as c2
   ON c1.country = c2.country_name
 )
 
@@ -57,7 +57,7 @@ WITH CT1 AS (
     AVG(c1.new_cases) OVER (PARTITION BY c1.country ORDER BY c1.date ROWS BETWEEN 29 PRECEDING AND CURRENT ROW) AS monthly_avg_new_cases,
     AVG(c1.new_deaths) OVER (PARTITION BY c1.country ORDER BY c1.date ROWS BETWEEN 29 PRECEDING AND CURRENT ROW) AS monthly_avg_new_deaths
   FROM CT1 AS c1
-  LEFT JOIN `covid19-dbt-analytics-1.dev_country_staging.country_population_facts` AS c2
+  LEFT JOIN {{ref('country_population_facts')}} AS c2
     ON c1.country_code = c2.country_code
   WHERE c2.year = EXTRACT(YEAR FROM date)
 )

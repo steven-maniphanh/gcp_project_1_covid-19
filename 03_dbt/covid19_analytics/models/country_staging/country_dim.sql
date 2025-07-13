@@ -7,8 +7,8 @@ SELECT
     c2.continent,
     c2.area_km2,
     c3.income_group
-FROM covid19-dbt-analytics-1.dev_country_raw.country_codes AS c1
+FROM {{ref('country_codes')}} AS c1
 LEFT JOIN covid19-dbt-analytics-1.dev.country_geography as c2
 ON c1.alpha_3_code = c2.country_code
-LEFT JOIN covid19-dbt-analytics-1.dev_country_raw.country_income_groups as c3
+LEFT JOIN {{ref('country_income_groups')}} as c3
 ON c1.alpha_3_code = c3.country_code

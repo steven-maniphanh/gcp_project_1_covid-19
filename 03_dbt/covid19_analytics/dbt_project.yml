@@ -17,7 +17,7 @@ test-paths: ["tests"]
 seed-paths: ["seeds"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
-
+target-path : target
 clean-targets:         # directories to be removed by `dbt clean`
   - "target"
   - "dbt_packages"
@@ -34,3 +34,18 @@ models:
     # Config indicated by + and applies to all files under models/example/
     example:
       +materialized: view
+    
+    covid19_raw:
+      +schema: covid19_raw   # models/staging/ go to covid19_raw
+
+    covid19_staging:
+      +schema: covid19_staging   
+
+    covid19_reporting_curated:
+      +schema: covid19_reporting_curated  
+
+    country_raw:
+      +schema: country_raw       
+
+    country_staging:
+      +schema: country_staging

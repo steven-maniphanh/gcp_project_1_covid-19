@@ -5,7 +5,7 @@ covid19_analytics:
       type: bigquery
       method: oauth
       project: covid19-dbt-analytics-1
-      dataset: covid19_staging_dev
+      dataset: dev
       threads: 4
       location: EU
       timeout_seconds: 300

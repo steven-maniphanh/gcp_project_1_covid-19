@@ -1,0 +1,73 @@
+config-version: 2
+
+name: wholesalesalesplan
+version: 0.1.0
+profile: data_product
+require-dbt-version: [">=1.8.0", "<1.9.0"]
+
+model-paths:
+  - "dbt/models"
+macro-paths:
+  - "dbt/macros"
+analysis-paths:
+  - "dbt/analyses"
+seed-paths:
+  - "dbt/seeds"
+test-paths:
+  - "dbt/tests"
+target-path: "target"
+packages-install-path: "dbt/dbt_packages"
+
+models:
+  wholesalesalesplan:
+    flash:
+      wrk:
+        +dbt-osmosis: model.yml
+        +schema: flash_wrk
+        +persist_docs:
+          columns: true
+          relation: true
+        +labels:
+          brand: sl
+          domain: finance
+          environment: "{{ target.name }}"
+      pub:
+        +schema: flash
+        +tags:
+          - public
+        +persist_docs:
+          columns: true
+          relation: true
+        +labels:
+          brand: sl
+          domain: finance
+          environment: "{{ target.name }}"
+        +meta:
+          output_port: "true"
+          brand_content: sl
+    planning:
+      wrk:
+        +dbt-osmosis: model.yml
+        +schema: planning_wrk
+        +persist_docs:
+          columns: true
+          relation: true
+        +labels:
+          brand: sl
+          domain: finance
+          environment: "{{ target.name }}"
+      pub:
+        +schema: planning
+        +tags:
+          - public
+        +persist_docs:
+          columns: true
+          relation: true
+        +labels:
+          brand: sl
+          domain: finance
+          environment: "{{ target.name }}"
+        +meta:
+          output_port: "true"
+          brand_content: sl
+          

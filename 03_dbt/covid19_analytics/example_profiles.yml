@@ -1,0 +1,27 @@
+data_product:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: sl-wholesalesalesplan-dev
+      dataset: finance_wholesalesalesplan
+      location: EU
+      threads: 5
+    test:
+      type: bigquery
+      method: oauth
+      project: sl-wholesalesalesplan-dev
+      dataset: "{{env_var('GITHUB_REF_NAME', default='noref') | replace('/', '_') | replace('-', '_')}}_finance_wholesalesalesplan"
+      location: EU
+      threads: 5
+    prod:
+      type: bigquery
+      method: oauth
+      project: sl-wholesalesalesplan-prod
+      dataset: finance_wholesalesalesplan
+      location: EU
+      threads: 5
+
+config:
+  send_anonymous_usage_stats: false

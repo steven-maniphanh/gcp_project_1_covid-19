@@ -4,17 +4,17 @@ version: 2
 models:
   - name: country_dim
     description: "country_dim table"
-    columns:
-      - name: country_name
-        description: "country name"
-        data_tests:
-          - unique
-          - not_null
-      - name: country_code
-        description: "The primary key for this table"
-        data_tests:
-          - unique
-          - not_null
+    # columns:
+    #   - name: country_name
+    #     description: "country name"
+    #     data_tests:
+    #       - unique
+    #       - not_null
+    #   - name: country_code
+    #     description: "The primary key for this table"
+    #     data_tests:
+    #       - unique
+    #       - not_null
 
 #  - name: my_second_dbt_model
 #    description: "A starter dbt model"

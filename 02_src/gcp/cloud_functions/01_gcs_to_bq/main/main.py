@@ -73,9 +73,9 @@ def create_partitioned_clustered_table(client, dataset_id, table_name, schema, p
 
     try:
         client.create_table(table, exists_ok=True)
-        print(f"✅ Table {table_id} created or already exists.")
+        print(f"Table {table_id} created or already exists.")
     except Exception as e:
-        print(f"❌ Error creating table {table_id}: {e}")
+        print(f"Error creating table {table_id}: {e}")
 
 
 def gcs_to_bq(event, context):

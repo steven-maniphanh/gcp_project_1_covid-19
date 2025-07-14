@@ -1,0 +1,60 @@
+# dbt_project.yml
+
+name: gcp_dbt_project
+version: '1.0'
+config-version: 2
+
+# 🔗 This points to your connection profile defined in ~/.dbt/profiles.yml
+profile: my_bigquery_profile
+
+# 📁 Paths to your dbt artifacts
+model-paths: ["models"]
+seed-paths: ["seeds"]
+snapshot-paths: ["snapshots"]
+analysis-paths: ["analyses"]
+macro-paths: ["macros"]
+test-paths: ["tests"]
+clean-targets:         # directories to be removed by `dbt clean`
+  - "target"
+  - "dbt_packages"
+
+# 🧱 Default configurations for all models in this project
+models:
+  gcp_dbt_project:  # 👈 This must match the `name:` above
+
+    # 🌍 Global defaults (can be overridden in subfolders)
+    +materialized: view       # Default materialization (view/table/incremental)
+    +project: my-gcp-project-id  # GCP Project ID (override if needed)
+    +dataset: analytics_default  # Default BigQuery dataset (aka schema)
+    +persist_docs:
+      relation: true
+      columns: true
+
+    # 📂 Folder-based configurations (maps to datasets in BigQuery)
+    staging:
+      +schema: analytics_staging   # BigQuery dataset = analytics_staging
+      +materialized: view
+
+    marts:
+      +schema: analytics_marts     # BigQuery dataset = analytics_marts
+      +materialized: table
+
+    finance:
+      +schema: analytics_finance   # BigQuery dataset = analytics_finance
+      +materialized: incremental
+
+# 🔧 Optional vars for use in your models (e.g. dynamic configs)
+vars:
+  default_start_date: '2020-01-01'
+  env: 'dev'  # Can use this for dynamic schema/env logic in models
+
+# 📦 Config for seeds (CSV files loaded into BigQuery)
+seeds:
+  gcp_dbt_project:
+    +schema: analytics_seeds
+    +materialized: table
+
+# 🔄 Optional snapshots setup
+snapshots:
+  gcp_dbt_project:
+    +schema: analytics_snapshots

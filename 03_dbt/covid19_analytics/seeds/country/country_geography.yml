@@ -1,0 +1,27 @@
+
+version: 2
+
+seeds:
+  - name: country_geography
+    description: "country_geography table"
+    columns:
+      - name: country_name
+        description: "country name column"
+        tests:
+          - unique
+          - not_null
+      - name: country_code
+        description: "country_code in alpha_3_code format"
+        tests:
+          - unique
+          - not_null
+      - name: region
+        description: "region column"
+        tests:
+          - not_null
+      - name: continent
+        description: "continent column"
+        tests:
+          - not_null
+          - accepted_values :
+              values: ['Asia', 'Europe', 'Africa', 'Oceania', 'North America', 'South America', 'Antarctica']

@@ -1,0 +1,29 @@
+# ~/.dbt/profiles.yml
+
+my_bigquery_profile:  # 👈 Must match `profile:` in dbt_project.yml
+  target: dev
+  outputs:
+
+    dev:
+      type: bigquery
+      method: service-account  # or "oauth" for local development
+      project: my-gcp-project-id         # 🔹 GCP Project ID
+      dataset: analytics_default         # 🔹 Default dataset (can be overridden in dbt_project.yml)
+      threads: 4                         # Number of threads for parallel execution
+      keyfile: /path/to/your/service-account-key.json  # 🔐 Path to service account key
+      timeout_seconds: 300
+      location: EU                       # or US or your regional dataset location
+      priority: interactive              # or batch
+      retries: 1
+
+    prod:
+      type: bigquery
+      method: service-account
+      project: my-gcp-prod-project-id    # Production GCP project
+      dataset: analytics_default
+      threads: 8
+      keyfile: /path/to/prod-service-account-key.json
+      timeout_seconds: 300
+      location: EU
+      priority: batch
+      retries: 3

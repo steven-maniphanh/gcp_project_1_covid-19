@@ -1,0 +1,17 @@
+
+version: 2
+
+seeds:
+  - name: world_population
+    description: "world_population table from 1960 to 2024"
+    columns:
+      - name: country_name
+        description: "country name column"
+        tests:
+          - unique
+          - not_null    
+      - name: country_code
+        description: "country_code in alpha_3_code format"
+        tests:
+          - unique
+          - not_null

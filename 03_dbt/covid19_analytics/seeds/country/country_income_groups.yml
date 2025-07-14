@@ -1,0 +1,17 @@
+
+version: 2
+
+seeds:
+  - name: country_income_groups
+    description: "Income groups for countries"
+    columns:
+      - name: country_code
+        description: "country_code in alpha_3_code format"
+        tests:
+          - unique
+          - not_null
+      - name: income_group
+        description: "Country income classification"
+        tests:
+          - accepted_values:
+              values: ['Low income', 'Lower middle income', 'Upper middle income', 'High income']

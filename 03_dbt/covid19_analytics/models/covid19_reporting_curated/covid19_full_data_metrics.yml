@@ -1,0 +1,40 @@
+
+version: 2
+
+models:
+  - name: covid19_full_data_metrics
+    description: "country population facts table"
+    columns:
+      - name: country
+        description: "country name column"
+        tests:
+          - not_null
+      - name: region
+        description: "region of the country"
+        tests:
+          - not_null
+          - accepted_values :
+              values: ['Europe', 'Americas', 'Africa', 'Western Pacific', 'Eastern Mediterranean', 'South-East Asia']
+      - name: date
+        description: "date of data in YYYY-MM-DD format"
+        tests:
+          - not_null
+      - name: area_km2
+        description: "area_km2 of the country"
+        tests:
+          - not_null
+      - name: density_km2
+        description: "density_km2 of the country = population/area_km2"
+        tests:
+          - not_null
+      - name: year
+        description: "year of data"
+        tests:
+          - not_null
+          - accepted_values:
+              values: [2020, 2021, 2022, 2023, 2024]
+              quote: false #The key quote: false tells dbt not to wrap the values in quotes when generating SQL --> So not treated as Strings but as INT.
+      - name: population
+        description: "population of the year"
+        tests:
+          - not_null

@@ -1,9 +1,9 @@
 
 version: 2
 
-seeds:
-  - name: country_geography
-    description: "country_geography table"
+models:
+  - name: country_dim
+    description: "country dimension table"
     columns:
       - name: country_name
         description: "country name column"
@@ -28,4 +28,9 @@ seeds:
       - name: area_km2
         description: "area_km2 of the country"
         tests:
-          - not_null 
+          - not_null      
+      - name: income_group
+        description: "Country income classification"
+        tests:
+          - accepted_values:
+              values: ['Low income', 'Lower middle income', 'Upper middle income', 'High income']

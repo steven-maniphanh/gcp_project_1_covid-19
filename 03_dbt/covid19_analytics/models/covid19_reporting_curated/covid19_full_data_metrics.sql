@@ -76,6 +76,8 @@ SELECT
   new_deaths AS daily_new_deaths,
   total_deaths,
   population,
+  area_km2,
+  density_km2,
   -- Metrics
   weekly_new_cases,
   weekly_new_deaths,

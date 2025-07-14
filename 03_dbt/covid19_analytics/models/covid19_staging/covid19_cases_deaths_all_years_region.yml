@@ -1,0 +1,21 @@
+
+version: 2
+
+models:
+  - name: covid19_cases_deaths_all_years_region
+    description: "country population facts table"
+    columns:
+      - name: country
+        description: "country name column"
+        tests:
+          - not_null
+      - name: region
+        description: "region of the country"
+        tests:
+          - not_null
+          - accepted_values :
+              values: ['Europe', 'Americas', 'Africa', 'Western Pacific', 'Eastern Mediterranean', 'South-East Asia']
+      - name: date
+        description: "date of data in YYYY-MM-DD format"
+        tests:
+          - not_null

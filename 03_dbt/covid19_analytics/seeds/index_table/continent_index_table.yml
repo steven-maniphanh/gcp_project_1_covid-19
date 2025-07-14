@@ -1,0 +1,16 @@
+version: 2
+
+seeds:
+  - name: continent_index_table
+    description: "top_index for countries and continents"
+    columns:
+      - name: continent_top_index
+        description: "top_index for countries and continents"
+        tests:
+          - unique
+          - not_null
+      - name: continent
+        description: "continent"
+        tests:
+          - unique
+          - not_null

@@ -14,6 +14,7 @@ WITH CT1 AS (
     c2.country_code,
     c1.region,
     c2.continent,
+    c3.continent_top_index,
     c2.income_group, 
     EXTRACT(YEAR FROM date) AS year,
     FORMAT_DATE('%Y-%m', date) AS year_month,
@@ -25,14 +26,18 @@ WITH CT1 AS (
   FROM {{ref('covid19_cases_deaths_all_years_region')}} as c1
   LEFT JOIN {{ref('country_dim')}} as c2
   ON c1.country = c2.country_name
+  LEFT JOIN {{ref('continent_index_table')}} as c3
+  ON c2.continent = c3.continent
 )
 
+--Adding weekly/beweekly/monthly new_cases and new_deaths
  ,CTE2 AS (
   SELECT
     c1.country,
     c1.country_code,
     c1.region,
     c1.continent,
+    c1.continent_top_index,
     c1.income_group,
     c1.date,
     EXTRACT(YEAR FROM date) AS year,
@@ -62,11 +67,13 @@ WITH CT1 AS (
   WHERE c2.year = EXTRACT(YEAR FROM date)
 )
 
+--Calculating covid metrics
 SELECT 
   country,
   country_code,
   region,
   continent,
+  continent_top_index,
   income_group,
   year,
   year_month,

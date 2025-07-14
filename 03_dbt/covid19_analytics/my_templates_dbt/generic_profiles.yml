@@ -1,0 +1,43 @@
+<profile_name>:      # 🔹 Must match the "profile:" key in dbt_project.yml
+  target: <target>   # 🔹 Default target to run (e.g., dev)
+  outputs:
+    <target>:        # 🔹 Target = environment (e.g., dev, prod)
+      type: bigquery
+      method: service-account | oauth
+      project: <your-gcp-project-id>
+      dataset: <default-dataset>   # Fallback; overridden by +schema in dbt_project.yml
+      threads: 4
+      keyfile: /path/to/key.json   # For service-account only
+      location: EU | US | asia-northeast1
+      priority: interactive | batch
+      timeout_seconds: 300
+      retries: 1
+
+--------
+#GENERIC
+<profile_name>:           # 👈 Must match the "profile:" key in dbt_project.yml
+  target: <default_target>  # 👈 The default environment to use when running dbt (e.g. dev, prod)
+  outputs:
+
+    <target_name>:         # 👈 Environment name (e.g. dev, staging, prod)
+      type: bigquery       # ✅ Required: Use 'bigquery' for GCP
+      method: <method>     # ✅ 'service-account' or 'oauth'
+
+      # 🧩 GCP project and dataset
+      project: <gcp_project_id>       # GCP project ID where your datasets live
+      dataset: <default_dataset>      # Default dataset (can be overridden in dbt_project.yml using +schema)
+
+      # 🔐 Authentication
+      keyfile: <path_to_service_account_keyfile.json>  # Required if method = service-account
+      # keyfile: null        # Use null or omit if using method: oauth
+
+      # ⚙️ Runtime settings
+      threads: <number_of_threads>     # Number of models to run in parallel (e.g. 4)
+      timeout_seconds: <timeout_in_seconds>  # Timeout per job (e.g. 300)
+      location: <bigquery_location>    # Region of your BQ datasets (e.g. US, EU, asia-southeast1)
+      priority: <query_priority>       # interactive (low-latency) or batch (cost-efficient)
+      retries: <retry_count>           # Number of times to retry a failed job
+
+      # Optional advanced settings
+      maximum_bytes_billed: <max_bytes>       # Limit the amount of data processed (useful for dev/testing)
+      job_execution_timeout_seconds: <timeout> # Optional max time to allow for a job execution

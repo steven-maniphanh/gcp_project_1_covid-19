@@ -1,0 +1,50 @@
+name: <project_name>             # 🏷️ Name of your dbt project (also used in target paths)
+version: '1.0'                   # 🔢 Version of your dbt project
+config-version: 2               # 🛠️ Required: Must be 2 for current dbt versions
+
+profile: <profile_name>         # 🔗 Must match the key in profiles.yml
+
+# 📁 Define model folder structure and settings
+model-paths: ["models"]         # 📂 Folder where your dbt models live
+analysis-paths: ["analysis"]    # 📂 Optional: dbt analyses
+test-paths: ["tests"]           # 📂 Folder for schema/data tests
+seed-paths: ["seeds"]
+data-paths: ["data"]            # 📂 Folder for CSV seeds
+macro-paths: ["macros"]         # 📂 Folder for custom Jinja macros
+
+# 📦 Define model materializations and schema naming
+models:
+  <project_name>:               # Must match the project name above
+    +materialized: <default_materialization>  # e.g. view, table, incremental
+
+    # 📁 Optional: Different folders mapped to different schemas (datasets)
+    staging:
+      +schema: <staging_dataset>        # Maps "models/staging" to BQ dataset
+      +materialized: view
+
+    marts:
+      +schema: <marts_dataset>          # Maps "models/marts" to a different BQ dataset
+      +materialized: table
+
+    intermediate:
+      +schema: <intermediate_dataset>   # Optional: for logic-breaking steps
+      +materialized: ephemeral
+
+# 📂 Define where dbt stores compiled SQL & artifacts
+target-path: "target"           # 🗂️ Compiled SQL, logs
+clean-targets:                  # 🧹 dbt clean will delete these
+  - "target"
+  - "dbt_modules"
+
+# 🧪 Optional testing settings
+tests:
+  +store_failures: false        # Store test failures in BQ? (default: false)
+
+# 🧩 Optional: Declare dbt packages if used
+# packages:
+#   - package: dbt-labs/dbt_utils
+#     version: [">=0.8.0", "<1.0.0"]
+
+# 🧪 Optional: Project-wide vars
+# vars:
+#   my_var: "value"

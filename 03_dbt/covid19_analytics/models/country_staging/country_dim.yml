@@ -1,0 +1,36 @@
+
+version: 2
+
+models:
+  - name: country_dim
+    description: "country dimension table"
+    columns:
+      - name: country_name
+        description: "country name column"
+        tests:
+          - unique
+          - not_null
+      - name: country_code
+        description: "country_code in alpha_3_code format"
+        tests:
+          - unique
+          - not_null
+      - name: region
+        description: "region column"
+        tests:
+          - not_null
+      - name: continent
+        description: "continent column"
+        tests:
+          - not_null
+          - accepted_values :
+              values: ['Asia', 'Europe', 'Africa', 'Oceania', 'North America', 'South America', 'Antarctica']
+      - name: area_km2
+        description: "area_km2 of the country"
+        tests:
+          - not_null      
+      - name: income_group
+        description: "Country income classification"
+        tests:
+          - accepted_values:
+              values: ['Low income', 'Lower middle income', 'Upper middle income', 'High income']

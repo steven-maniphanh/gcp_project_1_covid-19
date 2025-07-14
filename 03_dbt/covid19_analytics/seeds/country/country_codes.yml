@@ -1,0 +1,21 @@
+version: 2
+
+seeds:
+  - name: country_codes
+    description: "country_codes table"
+    columns:
+      - name: country_name
+        description: "country name column"
+        tests:
+          - unique
+          - not_null
+      - name: alpha_2_code
+        description: "alpha_2_code column"
+        tests:
+          - unique
+          - not_null
+      - name: alpha_3_code
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null

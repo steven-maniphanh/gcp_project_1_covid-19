@@ -12,29 +12,30 @@ Dataset 2 - Our World : [ourworldindata.org/covid-cases](https://ourworldindata.
 
 ## DATA Architecture
 
-![1752780676341](image/README/1752780676341.png)
+![1752780909162](image/README/1752780909162.png)
 
 ## Data Schema
 
-<img width="2010" height="1945" alt="image" src="https://github.com/user-attachments/assets/0dcaf25e-d494-404c-99de-7b6c82135646" />
+![1752780676341](image/README/1752780676341.png)
 
 ## Screenshots of Reports on Looker
 
 ### WORLD GEO MAP
 
-<img width="3308" height="1617" alt="image" src="https://github.com/user-attachments/assets/fceab856-a32e-4082-905c-0ce88178dbed" />
+![1752780976226](image/README/1752780976226.png)
 
 ### Country Reports
 
-<img width="3296" height="1629" alt="image" src="https://github.com/user-attachments/assets/6c9980b0-0a4b-4228-9cbf-ca1e6a691ddc" />
+![1752781042831](image/README/1752781042831.png)
 
-<img width="3308" height="1617" alt="image" src="https://github.com/user-attachments/assets/33e98a9d-02a5-4550-8088-452a75283bf7" />
+![1752781070084](image/README/1752781070084.png)
 
 ### Continent Reports
 
-<img width="3294" height="1607" alt="image" src="https://github.com/user-attachments/assets/5edf8e1d-7afa-4eea-985b-2905a33e9fca" />
+![1752781096909](image/README/1752781096909.png)
 
-<img width="3290" height="1615" alt="image" src="https://github.com/user-attachments/assets/8492f247-e9a9-4c32-a9c2-f6f903bc4f27" />
+![1752781116761](image/README/1752781116761.png)
+
 
 ### Global Charts
 

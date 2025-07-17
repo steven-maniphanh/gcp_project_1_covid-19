@@ -36,7 +36,6 @@ Dataset 2 - Our World : [ourworldindata.org/covid-cases](https://ourworldindata.
 
 ![1752781116761](image/README/1752781116761.png)
 
-
 ### Global Charts
 
-<img width="3294" height="1629" alt="image" src="https://github.com/user-attachments/assets/6d627e5b-271a-4703-8a42-d460d2b48fee" />
+![1752781323647](image/README/1752781323647.png)

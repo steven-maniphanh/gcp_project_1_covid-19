@@ -10,17 +10,18 @@ The ouput will be different KPIs on Covid-19 including : Geo-Maps, Charts, ...
 
 Dataset 2 - Our World : [ourworldindata.org/covid-cases](https://ourworldindata.org/covid-cases)
 
-## DATA Architecture 
+## DATA Architecture
 
-<img width="2947" height="1103" alt="image" src="https://github.com/user-attachments/assets/4a0650d2-5816-432d-9bb9-fc7ae02c8814" />
+![1752780676341](image/README/1752780676341.png)
 
-## Data Schema 
+## Data Schema
 
 <img width="2010" height="1945" alt="image" src="https://github.com/user-attachments/assets/0dcaf25e-d494-404c-99de-7b6c82135646" />
 
-## Screenshots of Reports on Looker 
+## Screenshots of Reports on Looker
 
 ### WORLD GEO MAP
+
 <img width="3308" height="1617" alt="image" src="https://github.com/user-attachments/assets/fceab856-a32e-4082-905c-0ce88178dbed" />
 
 ### Country Reports
@@ -38,5 +39,3 @@ Dataset 2 - Our World : [ourworldindata.org/covid-cases](https://ourworldindata.
 ### Global Charts
 
 <img width="3294" height="1629" alt="image" src="https://github.com/user-attachments/assets/6d627e5b-271a-4703-8a42-d460d2b48fee" />
-
-

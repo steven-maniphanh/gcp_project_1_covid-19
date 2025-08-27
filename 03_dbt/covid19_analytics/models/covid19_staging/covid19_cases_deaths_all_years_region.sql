@@ -9,7 +9,7 @@
 
 WITH cases_deaths_2020 AS(
   SELECT *
-  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  FROM `covid19-dbt-analytics-2.dev_covid19_raw.cases_deaths_*`
   WHERE _TABLE_SUFFIX IN (
     '2020_africa', 
     '2020_americas', 
@@ -20,7 +20,7 @@ WITH cases_deaths_2020 AS(
   )
   ,cases_deaths_2021 AS(
   SELECT *
-  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  FROM `covid19-dbt-analytics-2.dev_covid19_raw.cases_deaths_*`
   WHERE _TABLE_SUFFIX IN (
     '2021_africa', 
     '2021_americas', 
@@ -31,7 +31,7 @@ WITH cases_deaths_2020 AS(
   )
   , cases_deaths_2022 AS(
   SELECT *
-  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  FROM `covid19-dbt-analytics-2.dev_covid19_raw.cases_deaths_*`
   WHERE _TABLE_SUFFIX IN (
     '2022_africa', 
     '2022_americas', 
@@ -42,7 +42,7 @@ WITH cases_deaths_2020 AS(
   )
   , cases_deaths_2023 AS(
   SELECT *
-  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  FROM `covid19-dbt-analytics-2.dev_covid19_raw.cases_deaths_*`
   WHERE _TABLE_SUFFIX IN (
     '2023_africa', 
     '2023_americas', 
@@ -53,7 +53,7 @@ WITH cases_deaths_2020 AS(
   )
   , cases_deaths_2024 AS(
   SELECT *
-  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  FROM `covid19-dbt-analytics-2.dev_covid19_raw.cases_deaths_*`
   WHERE _TABLE_SUFFIX IN (
     '2024_africa', 
     '2024_americas', 
@@ -64,7 +64,7 @@ WITH cases_deaths_2020 AS(
   )
   , cases_deaths_2025 AS(
   SELECT *
-  FROM `covid19-dbt-analytics-1.dev_covid19_raw.cases_deaths_*`
+  FROM `covid19-dbt-analytics-2.dev_covid19_raw.cases_deaths_*`
   WHERE _TABLE_SUFFIX IN (
     '2025_africa', 
     '2025_americas', 

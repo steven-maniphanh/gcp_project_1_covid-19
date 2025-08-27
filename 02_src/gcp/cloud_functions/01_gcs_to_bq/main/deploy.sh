@@ -1,19 +1,19 @@
-#v0_3
+#v0_4
 
 #INPUT VARIABLES
-FUNCTION_NAME="gcs-to-bq-v03"
+FUNCTION_NAME="gcs-to-bq"
 RUNTIME="python310"
 REGION="europe-west1"
-PROJECT_ID="covid19-1-463112"
+PROJECT_ID="covid19-dbt-analytics-2"
 SOURCE_DIR="."
 TRIGGER_EVENT="google.storage.object.finalize"
-TRIGGER_RESOURCE="covid19-gcs-to-bq-cloud-function-bucket-1"
+TRIGGER_RESOURCE="covid19_gcs_to_bq2" #GCS bucket ID
 ENTRY_POINT="gcs_to_bq"
 MEMORY="512MiB"
 TIMEOUT="60s"
 GCP_PROJECT_ID="$PROJECT_ID"
-BQ_DATASET="dataset_2_covid19_our_world"
-BQ_LOCATION="eu"
+BQ_DATASET="dev_covid19_raw"
+BQ_LOCATION="eu" #multiregion
 
 #ECHO
 echo "Déploiement de la Cloud Function : $FUNCTION_NAME"

@@ -4,7 +4,7 @@ covid19_analytics:
     dev:
       type: bigquery
       method: oauth
-      project: covid19-dbt-analytics-1
+      project: covid19-dbt-analytics-2
       dataset: dev
       threads: 4
       location: EU

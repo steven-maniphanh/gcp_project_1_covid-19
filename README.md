@@ -2,7 +2,7 @@
 
 ## About Project
 
-The goal of this project is to make a Data Analysis of Covid-19 data from 2020 to 2025.
+The goal of this project is to make a Data Analysis of Covid-19 data from 2020 to 2024.
 This project will be based on data from different sources.
 The ouput will be different KPIs on Covid-19 including : Geo-Maps, Charts, ...
 
